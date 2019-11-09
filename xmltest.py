@@ -2,39 +2,66 @@ import xml.etree.ElementTree as ET
 import re
 import os
 
-UserId = ['101556262', '57797254', '21937982', '6536286','14457130']
-N = len(UserId)
+twId = []
+grId = []
+GRAccounts = str(os.getcwd())+'/'+ "UserAccounts.txt"
+xmlsrc = str(os.getcwd())+"/UserRawData/RawGRData/"
+bookDB = str(os.getcwd())+'/BookData/BookDatabase.txt'
+
+DB = {}
+maxi = 0
+with open(bookDB) as fp:
+	b = fp.readline().strip()
+	val = fp.readline().strip()
+	if(b not in DB):
+		DB[b] = val
+	if(maxi<int(val)):
+		maxi = int(val)        
+	while True:
+		b = fp.readline().strip()
+		val = fp.readline().strip()
+		if(b==""):
+			break	
+		if(b not in DB):
+			DB[b] = val
+		if(maxi<int(val)):
+			maxi = int(val)   
+
+print((DB))
+with open(GRAccounts) as fp:
+   line = fp.readline().strip()
+   temp = line.split(" ")
+   twId.append(temp[0])
+   grId.append(temp[1])
+   while line:
+       line = fp.readline().strip()
+       if(line == ""):
+       	break
+       temp = line.split(" ")
+       twId.append(temp[0])
+       grId.append(temp[1])
+
+addDB = open(bookDB,'a+')
+N = len(grId)
 
 for user in range(N):
 
-	path = str(os.getcwd())+"/UserBookData/"+UserId[user]
-	metadata = str(os.getcwd())+"/UserBookData/"+UserId[user]+"/BookMetaData"
-	descdata = str(os.getcwd())+"/UserBookData/"+UserId[user]+"/BookDescData"
-	ratingdata = str(os.getcwd())+"/UserBookData/"+UserId[user]+"/BookRatingData"
-	datedata = str(os.getcwd())+"/UserBookData/"+UserId[user]+"/BookDateData"
-	
-	if not os.path.exists(path):
+	path = str(os.getcwd())+"/UserData/"+twId[user]
+	if( not os.path.exists(path)):
 		os.mkdir(path)
-	if not os.path.exists(metadata):
-		os.mkdir(metadata)
-	if not os.path.exists(descdata):
-		os.mkdir(descdata)
-	if not os.path.exists(ratingdata):
-		os.mkdir(ratingdata)
-	if not os.path.exists(datedata):
-		os.mkdir(datedata)
+	
 
 	TAG_RE = re.compile(r'<[^>]+>')
 
 	def remove_tags(text):
 	    return TAG_RE.sub('', text)
 
-
-	tree = ET.parse('bla1.xml')
+	fname = xmlsrc+twId[user]+"_"+grId[user]+".xml"
+	print(fname)
+	tree = ET.parse(fname)
 	root = tree.getroot()
 
-	print(root.tag)
-	print(root.attrib)
+	
 
 	read_books = []
 	i = 0
@@ -47,7 +74,8 @@ for user in range(N):
 					if gchild.tag == 'id':
 						temp.append(gchild.text)
 					elif gchild.tag == 'title':
-						temp.append(gchild.text)
+						txt = gchild.text.split(" (")
+						temp.append(txt[0])
 					elif gchild.tag == 'average_rating':
 						temp.append(gchild.text)
 					elif gchild.tag == 'description':
@@ -67,32 +95,44 @@ for user in range(N):
 		read_books.append(temp)
 
 	print(len(read_books))
-	
+	c = 0
 	for book in read_books:
 		#print(book)
-		f1 = metadata+'/' + book[0]+".txt"
-		f2 = descdata+'/'+ book[0]+".txt"
-		f3 = ratingdata+'/' + book[0]+".txt"
-		f4 = datedata+'/' + book[0]+".txt"
-
-		writer1 = open(f1, "a+")
-		writer2 = open(f2, "w")
-		writer3 = open(f3,"w")
-		writer4 = open(f4, "w")
-
 		meta = book[1]+" by "+book[4]+'\n'+"Average Rating: " + book[2]
 		desc = remove_tags(book[3])
 		rating = book[5]
 		date = book[6]
+		key = book[1]+" by "+book[4]
+		
+		if(key not in DB):
+			c +=1
+			print(key)
+			maxi +=1
+			DB[key] = maxi
+			
+			
+			
+			metadata = str(os.getcwd())+"/BookData/BookMetaData/Book"+str(DB[key])+".txt"
+			descdata = str(os.getcwd())+"/BookData/BookDescData/Book"+str(DB[key])+".txt"
+			
+			
+			writer1 = open(metadata, "w")
+			writer2 = open(descdata, "w")
+			
+			addDB.write(key+'\n')
+			addDB.write(str(DB[key])+'\n')
 
-		writer1.write(meta)
-		writer2.write(desc)
-		writer3.write(rating)
-		writer4.write(date)
-	break	
+			writer1.write(meta)
+			writer2.write(desc)
+			
+		data = path+"/BookRatingData.txt"
+		writer3 = open(data,'a+')
+		writer3.write(str(DB[key])+" "+rating+" "+date+'\n')
+	print("new book added: "+str(c)+ "for user "+twId[user])
 
 
 
+print(len(DB))
 '''
 print(bookId)
 print(title)

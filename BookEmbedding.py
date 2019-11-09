@@ -84,9 +84,9 @@ def preprocess(data):
     data = remove_apostrophe(data)
     data = remove_stop_words(data)
     data = convert_numbers(data)
-    data = stemming(data)
+  # data = stemming(data)
     data = remove_punctuation(data)
-    data = stemming(data) #needed again as we need to stem the words
+   #data = stemming(data) #needed again as we need to stem the words
     data = remove_punctuation(data) #needed again as num2word is giving few hypens and commas fourty-one
     data = remove_stop_words(data) #needed again as num2word is giving stop words 101 - one hundred and one
    # print("Data preprocessing done.")
@@ -123,9 +123,11 @@ valid = 0
 for filename in filelist:	
 	f = open(filename, 'r')
 	temp = f.read().strip()
-	print("Now processing file:" +filename)
+	#print("Now processing file:" +filename)
 	temp = preprocess(temp)
 	if(temp == ""):
+		print(filename)
+		os.remove(filename)
 		valid = valid + 1
 		continue
 	dataset.append(temp)
@@ -133,8 +135,7 @@ for filename in filelist:
 	valid = valid +1 
 
 print(len(ValidBookIds))
-	
-#print(dataset)
+
 
 N = len(dataset)
 processed_text= []
@@ -151,6 +152,7 @@ for i in dataset[:N]:
         mini = len(i)
         minix = filename
     processed_text.append(word_tokenize(i))
+
 
 #print(processed_text[0])
 print(maxi)

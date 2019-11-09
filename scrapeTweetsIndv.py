@@ -40,6 +40,11 @@ print(account_list)
 print(csv_list)
 
 for i in range(len(account_list)):
+	x = csv_list[i]+".csv"
+	print(x)
+	if(os.path.isfile(x)==True):
+		print("Already done")
+		continue
 	f = open('%s.csv' % (csv_list[i]), 'w')
 	w = csv.writer(f)
 
@@ -56,7 +61,7 @@ for i in range(len(account_list)):
 	print("friends_count: " + str(item.friends_count))
 	print("followers_count: " + str(item.followers_count))
 	  
-	
+	w.writerow(['', str(item.description),''])
 	tweet_count = 0
 	for tweet in Cursor(auth_api.user_timeline, id=target).items():
 		hashtags = []
@@ -72,4 +77,4 @@ for i in range(len(account_list)):
 		w.writerow([tweet.created_at, tweet.text.replace('\n',' '), hashtags])
 
 	    
-print("All done. Processed " + str(tweet_count) + " tweets.")
+#print("All done. Processed " + str(tweet_count) + " tweets.")

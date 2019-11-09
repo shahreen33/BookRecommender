@@ -28,6 +28,9 @@ print(csv_list)
 for i in range(len(account_list)):
 	fname = csv_list[i]+".csv"
 	outputfile = str(os.getcwd())+'/UserData/'+account_list[i]+".txt"
+	if(os.path.isfile(outputfile)==True):
+		print("Already Processed")
+		continue
 	f = open(outputfile,'a+')
 
 	with open(fname) as csv_file:

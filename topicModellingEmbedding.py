@@ -84,10 +84,10 @@ def preprocess(data):
     data = remove_apostrophe(data)
     data = remove_stop_words(data)
     data = convert_numbers(data)
-    data = stemming(data)
+   # data = stemming(data)
     data = remove_punctuation(data)
     data = convert_numbers(data)
-    data = stemming(data) #needed again as we need to stem the words
+   # data = stemming(data) #needed again as we need to stem the words
     data = remove_punctuation(data) #needed again as num2word is giving few hypens and commas fourty-one
     data = remove_stop_words(data) #needed again as num2word is giving stop words 101 - one hundred and one
     print("Data preprocessing done.")
@@ -107,20 +107,25 @@ directory = str(os.getcwd())+'/'+folder_name+'/'
 
 print(directory)
 filelist = []
+accountlist = []
 for filename in os.listdir(directory):
-    if filename.endswith(".txt"): 
+    if filename.endswith(".txt"):
+        url = filename[:-4]
+        accountlist.append(url)
         filelist.append(os.path.join(directory, filename))
         continue
     else:
         continue
 dataset = []
+print(accountlist)
 
+c = 0
 for filename in filelist:	
 	f = open(filename, 'r')
 	temp = f.read().strip()
 	temp = preprocess(temp)
 	dataset.append(temp)
-
+	
 #print(dataset)
 
 N = len(dataset)
@@ -129,7 +134,7 @@ count = 0
 for i in dataset[:N]:
     count = count+1
     print("Working on dataset : %d..." %(count)) 
-    processed_text.append(word_tokenize(str(preprocess(i))))
+    processed_text.append(word_tokenize(str(i)))
 
 DF = {}
 fx = open("data2.txt", 'a+')
@@ -182,39 +187,35 @@ for i in range(N):
         
         tf_idf[doc, token] = tf*idf
         tf_idf_list[doc].append(( token, tf_idf[doc, token]))
-        if(token == "vine"):
-                print(str(tf)+" "+str(df))
-                print(str(idf))
-                print(tf_idf[(doc,token)])
-
+      
 
     doc += 1
 
-print(tf_idf[(1,"vine")])
+word2vecModel = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True)
+wordVectors = word2vecModel.wv
+dimension = word2vecModel.vector_size	
+zeroVector = [0] * dimension
+topicVectors = []
 
 #print(tf_idf_list)
 tf_idf_sorted = []
 topicWord = 10
 topic = []
 for i in range(N):
+	taken = 0
 	tf_idf_sorted.append([])
 	topic.append([])
 	tf_idf_sorted[i] = sorted(tf_idf_list[i], key=lambda tup: tup[1], reverse = True)
-	for j in range(topicWord):
-		topic[i].append(tf_idf_sorted[i][j][0])
+	for j in range(len(tf_idf_sorted[i])):
+		if(taken == topicWord):
+			break
+		if(tf_idf_sorted[i][j][0] in wordVectors):
+			topic[i].append(tf_idf_sorted[i][j][0])
+			taken = taken + 1
 		
 		
-	
-
-
-#print(topic)
-
-word2vecModel = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True, limit=100000)
-wordVectors = word2vecModel.wv
-dimension = word2vecModel.vector_size	
-zeroVector = [0] * dimension
-topicVectors = []
-
+print(topic)
+		
 for i in range(N):
 	topicVectors.append([])
 	for j in range(topicWord):
@@ -234,6 +235,10 @@ for i in range(N):
 		summ = 0
 		for k in range(topicWord):
 			summ = summ + topicVectors[i][k][j]
-		userProfile[i].append(summ/topicWord)
+		avg = summ/topicWord
+		userProfile[i].append(avg)
+	
+	fileName =str(os.getcwd())+"/UserData/UserProfiles/"+accountlist[i]+".txt"	
+	with open(fileName, "wb") as fp:   #Pickling
+		pickle.dump(userProfile[i], fp)
 
-print(userProfile)
