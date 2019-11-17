@@ -1,0 +1,1 @@
+{'about': 'Retired, Avid reader, follow NYTimes list of best books, like to select an author and read multiple books by that author', 'age': '74', 'gender': None, 'location': 'Windham, CT', 'interests': None}

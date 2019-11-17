@@ -1,0 +1,1 @@
+{'description': 'The only complete guide to great day hiking trails at popular state and national parks, as well as family-friendly hiking tips. #dayhikingtrails', 'location': ''}

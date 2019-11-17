@@ -1,0 +1,1 @@
+{'about': 'Erin is a Southern girl born and raised in Northwest Florida. When not hard at work on her next novel, you can usually find her curled up with a good book. On October 14, 2013 her debut novel, Goddess of Legend was released by Evernight Publishing.', 'age': '31', 'gender': None, 'location': None, 'interests': 'reading, writing, cartoons'}

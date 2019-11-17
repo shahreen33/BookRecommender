@@ -1,0 +1,1 @@
+{'description': 'Writer, reader, former reporter, editor, & news director, book blogger, mom, sports enthusiast, space alien. Card carrying nerd. Dues paid.', 'location': 'United States'}

@@ -1,0 +1,1 @@
+{'description': 'Student. Aspiring Writer. Reader. Book Blogger. Inquiries: cuppa.critiques@gmail.com.', 'location': 'Chicago, IL'}

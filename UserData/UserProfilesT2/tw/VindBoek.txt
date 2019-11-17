@@ -1,0 +1,1 @@
+{'description': 'Literaire boekenblog van @marciazwan. Ik lees graag literatuur, poëzie en non-fictie over oa. sterke vrouwen, de multiculturele samenleving en psychologie.', 'location': 'Gent, België'}

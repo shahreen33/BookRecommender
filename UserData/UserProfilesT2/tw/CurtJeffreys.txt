@@ -1,0 +1,1 @@
+{'description': 'Scribbler of weird and twisted tales. My short story collection, Walking the Edge, is available on Amazon at http://t.co/T05I1CWRCo', 'location': 'Arvada, CO'}

@@ -1,0 +1,1 @@
+{'description': 'Authors are the rock stars in my world. I am a high school librarian, book blogger, and part time bookseller at Barnes & Noble. Hufflepuff (And I wannabe Buffy)', 'location': 'Gladstone, MO'}

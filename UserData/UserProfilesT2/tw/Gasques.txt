@@ -1,0 +1,1 @@
+{'description': 'Jornalista e escritor, diretor de redação de Autoesporte. Apaixonado por leituras e montanhas. Se possível, os dois juntos.', 'location': 'São Paulo'}

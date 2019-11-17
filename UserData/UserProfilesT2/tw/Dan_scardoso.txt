@@ -1,0 +1,1 @@
+{'description': 'Portuguese university professor, and researcher on sexualities, youngsters, polyamory, and communication sciences.\r\nSee: http://t.co/AvmMESmZRs', 'location': 'Portugal'}

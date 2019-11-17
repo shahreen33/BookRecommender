@@ -1,0 +1,1 @@
+{'description': 'Cognitive map maker @Prabros. Diagram chasing canonical maps of reality with philosophy of the porch. Experiments that almost look like work.', 'location': 'On this spinning rock'}

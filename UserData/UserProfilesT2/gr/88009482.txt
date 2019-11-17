@@ -1,0 +1,1 @@
+{'about': "I'm a book blogger who celebrates and helps Own Voices authors through book promotions, sensitivity reading, proofreading, and social media marketing.", 'age': None, 'gender': None, 'location': 'Manila, D9, Philippines', 'interests': 'digital marketing, Philippine folklore'}

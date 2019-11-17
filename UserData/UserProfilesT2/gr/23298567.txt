@@ -1,0 +1,1 @@
+{'about': '<b>Ratings:</b><br />***** Either perfect or transcendent(al). Read it now.<br />**** Very good to great. Read it next.<br />*** Either good or half genius, half shit. Read it.<br />** Mediocre to OK. Skim it.<br />* Bad to poor. Skip it.', 'age': '27', 'gender': 'Male', 'location': 'Italy', 'interests': None}

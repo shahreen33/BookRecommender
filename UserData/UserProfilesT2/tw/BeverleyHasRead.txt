@@ -1,0 +1,1 @@
+{'description': "Reader and reviewer of books. The milk goes in last and there's an e before the y. Geordie #bookblogger. 📧 beverleyhasread@gmail.com", 'location': 'Newcastle Upon Tyne, England'}

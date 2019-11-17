@@ -1,0 +1,1 @@
+{'description': 'adtech & adfraud specialist. curious about cybersecurity. moving into deep learning. will do more in 2019', 'location': 'Warsaw, Poland'}

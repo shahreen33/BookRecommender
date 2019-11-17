@@ -1,0 +1,1 @@
+{'description': 'Father, Husband, Runner, Educational Leader, Leadership Developer, Avid Reader, School Psychologist, Photographer, Web Developer', 'location': 'Spokane, WA'}

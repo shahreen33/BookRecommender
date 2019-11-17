@@ -1,0 +1,1 @@
+{'about': '<a href="https://twitter.com/sebassms" rel="nofollow">@sebassms</a><br /><br />', 'age': None, 'gender': 'Male', 'location': None, 'interests': 'books, movies, tv shows, music'}

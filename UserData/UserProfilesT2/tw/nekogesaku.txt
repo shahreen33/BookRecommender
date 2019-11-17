@@ -1,0 +1,1 @@
+{'description': 'テクニカル・ゴースト・ライターです。\nあと、0と1との間に神様はいます。\nmobile photographer', 'location': 'Japan'}

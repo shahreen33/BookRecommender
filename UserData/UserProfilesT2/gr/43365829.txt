@@ -1,0 +1,1 @@
+{'about': "I'm tough on ratings. I have very few 5 star books - National Velvet, Watership Down, Pride and Prejudice, Lord of the Rings, Demon-Haunted World are just a few of the few.<br /><br />I read almost exclusively nonfiction. Fiction on a whim.", 'age': None, 'gender': None, 'location': 'Harrisburg, PA', 'interests': 'paranormal, anomalies, natural sciences, zoology'}

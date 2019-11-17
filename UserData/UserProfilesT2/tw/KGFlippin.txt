@@ -1,0 +1,1 @@
+{'description': 'Software tester, tantrika, magician, deacon, priest, once and future chillout DJ, cleaner of data, editor of words, picker at nits', 'location': 'Oakland, CA'}

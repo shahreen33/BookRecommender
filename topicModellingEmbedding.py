@@ -102,7 +102,7 @@ def doc_freq(word):
 
 
 alpha = 0.3
-folder_name = "UserData"
+folder_name = "UserData/withGR"
 directory = str(os.getcwd())+'/'+folder_name+'/'
 
 print(directory)
@@ -238,7 +238,7 @@ for i in range(N):
 		avg = summ/topicWord
 		userProfile[i].append(avg)
 	
-	fileName =str(os.getcwd())+"/UserData/UserProfiles/"+accountlist[i]+".txt"	
+	fileName =str(os.getcwd())+"/UserData/UserProfilesGR/"+accountlist[i]+".txt"	
 	with open(fileName, "wb") as fp:   #Pickling
 		pickle.dump(userProfile[i], fp)
 

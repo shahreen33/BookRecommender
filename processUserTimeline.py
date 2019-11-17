@@ -7,8 +7,9 @@ csv_list = []
 
 with open(twitterAccounts) as fp:
    line = fp.readline().strip()
-   account_list.append(line)
-   line = str(os.getcwd())+'/UserRawData/'+line
+   temp = line.split(" ")
+   account_list.append(temp[0])
+   line = str(os.getcwd())+'/UserRawData/'+temp[0]+'_withGR'
    cnt = 1
    csv_list.append(line)
    while line:
@@ -16,8 +17,9 @@ with open(twitterAccounts) as fp:
        line = fp.readline().strip()
        if(line == ""):
        	break
-       account_list.append(line)
-       line = str(os.getcwd())+'/UserRawData/'+line
+       temp = line.split(" ")
+       account_list.append(temp[0])
+       line = str(os.getcwd())+'/UserRawData/'+temp[0]+'_withGR'
        csv_list.append(line)
        cnt += 1
 
@@ -27,7 +29,7 @@ print(csv_list)
 
 for i in range(len(account_list)):
 	fname = csv_list[i]+".csv"
-	outputfile = str(os.getcwd())+'/UserData/'+account_list[i]+".txt"
+	outputfile = str(os.getcwd())+'/UserData/withGR/'+account_list[i]+".txt"
 	if(os.path.isfile(outputfile)==True):
 		print("Already Processed")
 		continue

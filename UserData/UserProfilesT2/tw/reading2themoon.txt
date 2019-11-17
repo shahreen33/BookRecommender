@@ -1,0 +1,1 @@
+{'description': 'sometime blogger, writer, mom and geek.', 'location': 'Calgary'}

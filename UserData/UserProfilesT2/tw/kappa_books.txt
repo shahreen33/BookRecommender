@@ -1,0 +1,1 @@
+{'description': "I blog about books! Hopefully, I'll get to blogging about writing! Super queer. They/Them\n\nIcon from Picrew@adriotes\n\nContact: kappabooksbusiness@gmail.com", 'location': ''}

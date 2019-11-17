@@ -1,0 +1,1 @@
+{'about': "I love to write and read fantasy books. When I'm not reading or writing I'm usually watching reruns of Gilmore Girls, Friends, and/or The Office. You can also find my blogging at Chasm of Books or on twitter. ", 'age': None, 'gender': None, 'location': None, 'interests': 'Reading, writing, blogger, piano'}

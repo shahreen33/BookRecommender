@@ -1,0 +1,1 @@
+{'description': '“All Daenerys wanted back was the big house with the red door, the lemon tree outside her window, the childhood she had never known..”♀', 'location': 'Velaris, City of Starlight'}

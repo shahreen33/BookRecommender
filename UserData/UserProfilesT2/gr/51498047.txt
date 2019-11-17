@@ -1,0 +1,1 @@
+{'about': "My Goodreads Rating System:<br />5 Star: AMAZING!!!!<br />4 Star: So Good!<br />3 Star: I liked it<br />2 Star: It's Alright<br />1 Star: Not my cup of tea", 'age': None, 'gender': None, 'location': None, 'interests': 'Reading and hanging out with my dog. '}

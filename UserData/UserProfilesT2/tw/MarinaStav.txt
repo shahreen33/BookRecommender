@@ -1,0 +1,1 @@
+{'description': 'Audio Assistant @bonnierbooks_uk, SFF author, occasional translator. My tweets, my views. She/her', 'location': 'London, UK'}

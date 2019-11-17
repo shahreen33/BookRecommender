@@ -1,0 +1,1 @@
+{'about': '“Nick Dunne took my pride and my dignity and my hope and my money. He took and took from me until I no longer existed. That’s murder.” - Gone Girl', 'age': '24', 'gender': 'Female', 'location': 'Rio De Janeiro, 21, Brazil', 'interests': None}

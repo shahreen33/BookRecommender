@@ -1,0 +1,1 @@
+{'description': "Author, blogger and avid reader. I have spent my life being told about everything I can't do and endeavour to continuously prove people wrong.", 'location': 'Albany, Western Australia'}

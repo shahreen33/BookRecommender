@@ -1,0 +1,1 @@
+{'description': 'I love to cook. I love my life. I strive to learn. Currently focusing on food, HR stuff & business analysis + misc! All opinions are my own.', 'location': 'Oconomowoc, WI'}

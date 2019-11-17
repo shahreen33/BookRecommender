@@ -1,0 +1,1 @@
+{'description': 'East Coast transplant dedicated to shoes, books, theater, writing, conservation, travel, Outlander, CBJ hockey & raising her coolness factor!', 'location': 'Ohio'}

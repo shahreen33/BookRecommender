@@ -1,0 +1,1 @@
+{'about': '• Creative Writing MA student at Cardiff University <br />• Mentored by Lee Weatherly<br />• Published by Parthian Books &amp; Saved by the Page<br />• Chasing Dreams &amp; Following Stars', 'age': '23', 'gender': None, 'location': 'Shrewsbury , The United Kingdom', 'interests': 'Flowers, Fairytales, Constellations &amp; Poetry.'}

@@ -1,0 +1,1 @@
+{'about': 'Book blogger over at <a target="_blank" href="https://thewritinggarnet.WordPress.com" rel="nofollow">https://thewritinggarnet.WordPress.com</a> and an aspiring writer/author. Follow me on Twitter @kaishajayneh Instagram @thewritinggarnet', 'age': '29', 'gender': None, 'location': 'The United Kingdom', 'interests': None}

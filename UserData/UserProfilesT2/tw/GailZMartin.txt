@@ -1,0 +1,1 @@
+{'description': 'I write epic & urban fantasy & steampunk. Scourge, Spells Salt & Steel, Chronicles Of The Necromancer, Ascendant Kingdoms, Deadly Curiosities, Iron & Blood', 'location': 'Charlotte, NC'}

@@ -1,0 +1,1 @@
+{'description': 'Blog literario. ¡Entrada todos los martes y sábados! “Soy lectora. No porque no tengo vida, sino porque escogí tener muchas”. ❤', 'location': 'Argentina'}

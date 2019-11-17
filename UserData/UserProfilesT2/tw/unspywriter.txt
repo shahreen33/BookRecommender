@@ -1,0 +1,1 @@
+{'description': 'Award-winning author of authentic, historical espionage with a hint of romance and a strong female protagonist.', 'location': 'Staunton, VA'}

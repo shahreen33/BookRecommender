@@ -1,0 +1,1 @@
+{'description': 'Associate Professor studying the molecular genetics of obesity', 'location': 'Blacksburg, VA'}

@@ -1,0 +1,1 @@
+{'description': 'Lover of storytelling. Frontend engineer @geckoboard. Bookworm, D&D player, writer, amateur painter, gamer, and long-time nerd. She/her/dragon🐲🌈', 'location': 'London, England'}

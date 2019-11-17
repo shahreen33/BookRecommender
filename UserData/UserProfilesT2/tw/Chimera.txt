@@ -1,0 +1,1 @@
+{'description': 'You have enemies? Good. That means you have stood up for something, sometime in your life. (Winston Churchill)', 'location': '45.626891,9.327178'}

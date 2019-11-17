@@ -1,0 +1,1 @@
+{'about': 'Sci-fi geek, WoW gamer, gadget queen, gardener, tree hugger, foodie, wants to travel the world with her wife. Co-host of Garden Grlz and CtrlAltWoW podcasts.', 'age': '54', 'gender': None, 'location': 'Framingham, MA', 'interests': 'World of Warcraft, podcasting, gardening, camping'}

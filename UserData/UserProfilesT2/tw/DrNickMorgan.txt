@@ -1,0 +1,1 @@
+{'description': 'Communications Coach and Theorist, Acclaimed Author, Keynote Speaker, HBR & Forbes Blogger.', 'location': 'Boston, MA'}

@@ -1,0 +1,1 @@
+{'description': "I'm Ava, an #indieauthor who writes sexy stories of the science fiction kind. I follow writers and adore the #writingcommunity. Oh and I love my cats. 😺\U0001f6f8", 'location': 'UK'}

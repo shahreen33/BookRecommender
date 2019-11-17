@@ -1,0 +1,1 @@
+{'about': 'I love reading as a way to escape everyday life. With books I can have adventures everyday.<br /><br />Favorite quote<br />"Just when the caterpillar thought the world was ending, it became a butterfly."', 'age': None, 'gender': None, 'location': 'Calgary, AB, Canada', 'interests': 'reading, organic and GF cooking, TV and running'}

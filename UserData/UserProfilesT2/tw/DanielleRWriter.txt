@@ -1,0 +1,1 @@
+{'description': 'A freelance writer and veghead who loves rain, books, writing, running, pole dancing, beer, angry music, and cats. New book reviews every Wednesday!', 'location': 'Hong Kong'}

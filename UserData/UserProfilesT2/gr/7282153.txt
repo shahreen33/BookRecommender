@@ -1,0 +1,1 @@
+{'about': "🌸Katie's Book Nook<br />🌸Ravenclaw<br />🌸ENTJ<br />🌸Booktuber<br />🌸Cornell '17 x2", 'age': '24', 'gender': None, 'location': 'Cambridge, MA', 'interests': 'Biomedical Engineering, Powerlifting, Reading, Singing'}

@@ -1,0 +1,1 @@
+{'description': 'Mystery author, avid reader, cat parent, Chicago Cubs fan, music lover, 1980s fangirl, loves film photography with my vintage Nikon FM', 'location': 'Kenosha, WI'}

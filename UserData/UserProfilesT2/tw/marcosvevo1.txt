@@ -1,0 +1,1 @@
+{'description': 'Ciclosofo. Biblionauta. Canoista anticonformista. Decrescente per scelta e per necessità. Dimmi cosa leggi e ti dirò chi sei.', 'location': 'Trieste, Friuli-Venezia Giulia'}

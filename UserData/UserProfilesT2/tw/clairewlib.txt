@@ -1,0 +1,1 @@
+{'description': 'Librarian, part-time artist, and lover of books, especially those of the comic persuasion. Opinions are my own.', 'location': 'Owensville, IN'}

@@ -1,0 +1,1 @@
+{'about': 'Native Michigander. Love reading, music, movies, and all things #Detroit. Quite to the left. Twitter: @MarcintheOC<br />', 'age': '49', 'gender': 'Male', 'location': 'Laguna Hills, CA', 'interests': 'fiction, LGBT, history, horror, biographies'}

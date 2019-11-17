@@ -1,0 +1,1 @@
+{'description': 'Eternal optimist. Author of the Olivia Hart & the Gifted Program and (After)Life Lessons book series. Left half my heart in NY. And I love cats.', 'location': 'San Francisco, CA'}

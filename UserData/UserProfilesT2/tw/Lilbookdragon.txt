@@ -1,0 +1,1 @@
+{'description': 'Book Reviewer 📚| Language lover | Tea drinker ☕️ | Sci-Fi & Fantasy fan \U0001f6f8| Journal collector 🖋 | Coca-Cola collector | Amateur musician 🎻', 'location': 'Lansing, MI'}

@@ -1,0 +1,1 @@
+{'about': "What can I say about me... I am a pretty laid back person, I tend to go with the flow ^_^ I don't get hang-up or things or let things get to me. I am pretty friendly.. maybe a bit quiet, but that changes once I get comfortable ", 'age': None, 'gender': None, 'location': 'The United States', 'interests': 'music, comics, art, movies, theater'}

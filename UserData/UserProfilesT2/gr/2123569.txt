@@ -1,0 +1,1 @@
+{'about': 'I am a teacher, writer and explorer (land ho!)<br />I am also part of the National Writing Project network of teachers and writers, which is a great combination when you think about it.<br />', 'age': None, 'gender': None, 'location': None, 'interests': 'Writing, reading, music'}

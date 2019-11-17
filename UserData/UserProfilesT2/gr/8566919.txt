@@ -1,0 +1,1 @@
+{'about': 'You can find me on <a href="http://www.twitter.com/bright_star88" rel="nofollow">twitter</a>, too!', 'age': None, 'gender': None, 'location': 'Turin, Italy', 'interests': 'Literature, cinema, music, fashion, art, history, tv series, sports.'}

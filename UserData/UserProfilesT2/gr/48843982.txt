@@ -1,0 +1,1 @@
+{'about': 'adoring (cat) mother 😻 • wannabe author ✍🏻 • aspiring dragon 🐉 • avid reader 📚 • YA Room co-host ✨', 'age': None, 'gender': None, 'location': 'Perth, 08, Australia', 'interests': 'Reading, Writing, Violin, Mythology'}

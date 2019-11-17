@@ -1,0 +1,1 @@
+{'about': 'Director de Money Adventure (PE, VC), autor, conferenciante, orientador y consultor familiar.<br />Fundador del Centro de Formación e Información Directiva. <br />Católico, esposo, padre y amigo.', 'age': None, 'gender': None, 'location': 'Querétaro, Qro, Mexico', 'interests': 'Familia, teología, antropología, filosofía, empresa, innovación, jazz y ópera'}

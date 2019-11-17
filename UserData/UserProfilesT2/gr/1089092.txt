@@ -1,0 +1,1 @@
+{'about': 'Pompous smartass. Proud father. Inconsistent blogger. Self-styled writer. Avid reader. Book kisser. Passionate lover. Industrial music evangelist. Dumb loyalist. Top-notch timewaster. Football philosopher. Tolstoy apostle. Lucky bastard. Ping-pong spin doctor. Hopeless romantic', 'age': '42', 'gender': None, 'location': 'Jakarta, Indonesia', 'interests': None}

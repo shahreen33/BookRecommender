@@ -1,0 +1,1 @@
+{'description': "Obsessive booklover, compulsive bookbuyer.\nAll things books... I'm sure you get the drift. 🤓", 'location': 'New Delhi, India'}

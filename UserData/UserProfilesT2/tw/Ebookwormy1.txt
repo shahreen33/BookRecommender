@@ -1,0 +1,1 @@
+{'description': 'Reading advocacy for all ages! Reviews. Literature. Cross-Culture. Hist/Biog. Passionate about Jesus, homeschooling, adoption and all things booksy and wordsy.', 'location': 'Chicago, IL'}

@@ -1,0 +1,1 @@
+{'description': 'Cowgirl, rancher, best-selling author of the Texas Rodeo series. Walk with me behind the chutes and into the real life of a cowboy.', 'location': 'Montana'}

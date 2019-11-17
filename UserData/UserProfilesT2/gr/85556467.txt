@@ -1,0 +1,1 @@
+{'about': "Author of Lies And Revelations. Released on 15th August 2018<br />Hungary For Adventure. 2015 Debut novel.<br />Press Attention. 2017<br />Children's book. Caterpillar Cat 2019<br />Architect, designer, writer.", 'age': None, 'gender': None, 'location': 'Cornwall, The United Kingdom', 'interests': 'Writing, reading, photography, architecture, design, art'}

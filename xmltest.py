@@ -44,6 +44,7 @@ with open(GRAccounts) as fp:
 addDB = open(bookDB,'a+')
 N = len(grId)
 
+
 for user in range(N):
 
 	path = str(os.getcwd())+"/UserData/"+twId[user]

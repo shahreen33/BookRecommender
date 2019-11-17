@@ -1,0 +1,1 @@
+{'about': 'Student, parent, wife and writer living in the woods in far northern California. <br />', 'age': '46', 'gender': None, 'location': 'Mount Shasta, CA', 'interests': 'rocks, wool, silver, trees, mountains, oceans, travel, love, magic, medicine, writing, parenting'}

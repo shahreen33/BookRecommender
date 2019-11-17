@@ -1,0 +1,1 @@
+{'about': 'I just finished studying in London at University College London and received my MA in European History. I live in South Jersey and am pursuing my certification in teaching.', 'age': '35', 'gender': None, 'location': 'The United States', 'interests': 'reading, music, television, writing, history, baseball'}

@@ -1,0 +1,1 @@
+{'about': 'Marketer, copywriter, book lover, novice rower, food enjoyer, gif enthusiast, Anglophile. President of the Oxford comma fan club. And my most fulfilling, rewarding, and important role of all: mother to my two beautiful cats.', 'age': None, 'gender': None, 'location': None, 'interests': 'Rowing, Kate Middleton, Twitter, Haribo.'}

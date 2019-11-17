@@ -1,0 +1,1 @@
+{'description': "Welcome to Simon & Schuster's official Twitter account! Follow us for conversation on the best in books, including literary news, recommended reads, and more!", 'location': 'New York, NY'}

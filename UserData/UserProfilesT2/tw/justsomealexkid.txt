@@ -1,0 +1,1 @@
+{'description': '@bookgig editor/blogger/twitterer. Book scoffer. Tea and biscuit addict. Hufflepuff. Ed Sheeran trash. Eternal emo punk.', 'location': 'London, England'}

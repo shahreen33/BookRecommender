@@ -1,0 +1,1 @@
+{'description': 'Freelance translator and interpreter CS / EN / ES. Books, football, work, life. Disclaimer: May contain feminism.', 'location': 'Prague'}

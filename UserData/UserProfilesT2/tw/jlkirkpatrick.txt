@@ -1,0 +1,1 @@
+{'description': 'Professor Emeritus of International Business and Marketing, California State Polytechnic University, Pomona (aka Cal Poly Pomona)', 'location': 'Upland, California'}

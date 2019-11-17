@@ -1,0 +1,1 @@
+{'description': 'Living in service for others. We are put here to do just that so that is what I am doing.', 'location': 'Westland, MI'}

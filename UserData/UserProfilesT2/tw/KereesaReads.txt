@@ -1,0 +1,1 @@
+{'description': 'I read things. Mostly novels. Also available on Goodreads*.\r\n\r\n*Snarky Comments not accessible in all areas. Standard fees apply.', 'location': ''}

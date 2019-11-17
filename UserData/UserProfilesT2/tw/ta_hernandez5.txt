@@ -1,0 +1,1 @@
+{'description': 'Speculative fiction author, digital artist, and graphic designer. Gamer, clinical social worker, mom of two littles.\nShe/her', 'location': 'Utah, USA'}

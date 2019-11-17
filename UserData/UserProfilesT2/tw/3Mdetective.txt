@@ -1,0 +1,1 @@
+{'description': 'Thomas Burns is the author of the Natalie McMasters detective stories.\nFollow me on BookBub at https://t.co/SgW6qL6vEq', 'location': 'North Carolina, USA'}

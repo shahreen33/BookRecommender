@@ -1,0 +1,1 @@
+{'description': "Mental Health Coach and societal gadfly. I'm always looking for what I believe just isn't so. Loving life, even when it doesn't make sense.", 'location': 'Seattle, WA'}

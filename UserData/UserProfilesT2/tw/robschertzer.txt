@@ -1,0 +1,1 @@
+{'description': "Glaucoma specialist, EMR and tech guy, host 'Talking About Glaucoma' podcast", 'location': 'iPhone: 49.265376,-123.214316'}

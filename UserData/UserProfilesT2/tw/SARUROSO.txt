@@ -1,0 +1,1 @@
+{'description': 'Apasionada de la lectura, amante de la buena comida, cinefila de corazón, atípica y amarga.', 'location': 'Hermosillo'}

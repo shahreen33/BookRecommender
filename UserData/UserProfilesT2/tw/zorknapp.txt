@@ -1,0 +1,1 @@
+{'description': 'Nerd. I\'m a \'both/and\' guy, rather than \'either/or\'. Hosts Tabletop Genesis. Called a "delightful weirdo" by @hodgman\n"My battery is low, and it\'s getting dark"', 'location': 'Jersey City, NJ'}

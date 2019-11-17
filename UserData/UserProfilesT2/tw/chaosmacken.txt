@@ -1,0 +1,1 @@
+{'description': "Excelsior! // I'm just a lost girl, not ready to be found. // Adam Parrish, soulmate // TAMQUAM ALTER IDEM // Say something in Latin.", 'location': 'Cabeswater{take me to glasgow}'}

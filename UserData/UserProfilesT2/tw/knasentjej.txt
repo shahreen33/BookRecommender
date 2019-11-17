@@ -1,0 +1,1 @@
+{'description': 'Språknörd som älskar att läsa och dricka te./Language nerd who loves to read and drink tea.', 'location': 'Somewhere in Sweden'}

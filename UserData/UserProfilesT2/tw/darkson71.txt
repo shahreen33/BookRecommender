@@ -1,0 +1,1 @@
+{'description': 'Nerd, geek and not rich enough. Fancy a nice battered sausage & chips.', 'location': 'Andover, Hampshire'}

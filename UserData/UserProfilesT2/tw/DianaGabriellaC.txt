@@ -1,0 +1,1 @@
+{'description': 'Popcorn sommelier 🍿. Art historian & Curator. Avid reader, watercolor enthusiast. Master degree in sarcasm and acid humor.\nI lived in Norway, once. 🇸🇯', 'location': 'Mexico'}

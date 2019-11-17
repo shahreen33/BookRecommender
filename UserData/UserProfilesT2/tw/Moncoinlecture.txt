@@ -1,0 +1,1 @@
+{'description': "Lectrice, blogueuse livres depuis 2007, booktubeuse, orthophoniste, Whovian, j'aime la pâte d'amande, le thé, le flamenco, le rosé et les superhéros.", 'location': ''}

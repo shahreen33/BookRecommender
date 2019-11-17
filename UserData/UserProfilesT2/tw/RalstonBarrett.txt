@@ -1,0 +1,1 @@
+{'description': 'Dad, perpetual learner, publicist, writer, producer.', 'location': 'Jamaica'}

@@ -1,0 +1,1 @@
+{'description': 'book club addict. food fanatic. working mom. snarkaholic.', 'location': 'Boston, MA'}

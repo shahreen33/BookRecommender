@@ -1,0 +1,1 @@
+{'description': 'Experiencing the world with students through engagement in reading, viewing and listening to informational sources', 'location': 'Chico, CA'}

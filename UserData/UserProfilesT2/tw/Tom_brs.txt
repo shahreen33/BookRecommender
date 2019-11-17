@@ -1,0 +1,1 @@
+{'description': 'Gamer. Book fan. Science fiction and fantasy fan. Wishing to return to New Zealand, in the meantime exploring the historical parts of England.', 'location': 'Bristol, England'}

@@ -1,0 +1,1 @@
+{'description': 'CELTA/DELTA trainer, teacher educator / co-author: Activities For Task-Based Learning (Delta) / occasional songwriter', 'location': 'Strasbourg, France'}

@@ -1,0 +1,1 @@
+{'description': "I'm a freelance writer, share a Brooklyn apartment with a roommate and four cats, knit, read, make beaded jewelry, draw, & love walking around the city.", 'location': 'Brooklyn, NY'}

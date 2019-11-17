@@ -1,0 +1,1 @@
+{'description': '"Elegance is refusal." -Coco Chanel', 'location': 'Greeneville, Tennessee'}

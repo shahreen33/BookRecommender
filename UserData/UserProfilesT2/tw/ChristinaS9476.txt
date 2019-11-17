@@ -1,0 +1,1 @@
+{'description': "I'm a wifey, mother of a toddler, aspiring writer, liberal hippie feminist, and thinker of deep thoughts.", 'location': 'Bowling Green, KY'}

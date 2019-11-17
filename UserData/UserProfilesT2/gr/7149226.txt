@@ -1,0 +1,1 @@
+{'about': 'I am a huge Stephen King fan. I collect his books and comic books. I am on Library Thing and I post regularly to Facebook and Twitter. I also like to review books on Library thing and Good reads.', 'age': None, 'gender': None, 'location': None, 'interests': 'comic collecting, book collecting.'}

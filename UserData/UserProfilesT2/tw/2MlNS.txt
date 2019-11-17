@@ -1,0 +1,1 @@
+{'description': '샤이니 💎 9.7.13 / 8.4.19 / 8.6.19', 'location': 'cr: furyborn'}

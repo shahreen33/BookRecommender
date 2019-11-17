@@ -1,0 +1,1 @@
+{'description': "we are all connected to each other and to the planet we inhabit. let's do our best to be kind and really enjoy the life we're given", 'location': 'Baltimore, MD'}

@@ -1,0 +1,1 @@
+{'description': 'Rachael. 26, UK. Book lover and blogger. Formerly @elementaread :)', 'location': 'Suffolk, UK'}

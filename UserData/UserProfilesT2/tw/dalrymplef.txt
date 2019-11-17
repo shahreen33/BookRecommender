@@ -1,0 +1,1 @@
+{'description': 'Lives in Huntsville, AL, retired, loves to travel, enjoys riding bikes, avid reader. #notmypresident #resist', 'location': 'Alabama, USA'}

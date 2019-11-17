@@ -1,0 +1,1 @@
+{'about': 'You can find me reading, yelling at my football team, or getting Lego-crazy with my boyfriend. Addicted to pizza and watching Friends or wrestling constantly.', 'age': '28', 'gender': None, 'location': None, 'interests': 'Books, football, wrestling, coffee, Lego, slurpees, pizza.'}

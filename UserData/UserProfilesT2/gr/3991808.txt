@@ -1,0 +1,1 @@
+{'about': 'I love to read anything sci-fantasy and ocassionally mystery/thriller.I always enjoy to read from up and coming authors so if you have any books you would like me to review message me.They must be the above categories.', 'age': '35', 'gender': None, 'location': 'Harare, 04, Zimbabwe', 'interests': 'I like reading science fiction books'}

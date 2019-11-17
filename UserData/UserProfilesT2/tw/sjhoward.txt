@@ -1,0 +1,1 @@
+{'description': '#HealthProtection doctor working to protect Teessiders from infectious, biological, chemical & radiological threats. Tweeting in a personal capacity.', 'location': 'Newcastle upon Tyne, UK'}

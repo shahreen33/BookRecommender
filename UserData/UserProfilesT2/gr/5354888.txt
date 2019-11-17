@@ -1,0 +1,1 @@
+{'about': "YA &amp; NA writer. Author of BEYOND THE RED (Sky Pony Press, Spring '16). Insatiable reader. Entangled Assistant Editor. Rep'd by Louise Fury of The Bent Agency.", 'age': None, 'gender': None, 'location': None, 'interests': 'Writing, reading, writing, reading, writing, reading and Photoshop.'}

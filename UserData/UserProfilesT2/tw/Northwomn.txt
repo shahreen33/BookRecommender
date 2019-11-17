@@ -1,0 +1,1 @@
+{'description': "I'm addicted to Sons of Anarchy with Charlie Hunnam. I chain read, love Eric Northman, ride a Harley and I'm a Norwegian who moved from MN to NC.", 'location': 'NC, USA'}

@@ -1,0 +1,1 @@
+{'description': "I'm a Royal Marine & Police veteran who writes military science fiction and fantasy.  And I make things up . . . all the time.", 'location': 'Kos Greece'}

@@ -1,0 +1,1 @@
+{'about': "i know people say The Great Gatsby is the best book of all time but hear me out..... it's the best book of all time", 'age': None, 'gender': 'Female', 'location': 'Auckland, New Zealand', 'interests': 'sisterhood, hugh grant, the arts '}

@@ -1,0 +1,1 @@
+{'description': 'All the things about being an expat in London, mental health, body image and more. I speak croissant and beans on toast. 🇨🇵🇬🇧', 'location': 'London, England'}

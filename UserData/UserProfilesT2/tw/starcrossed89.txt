@@ -1,0 +1,1 @@
+{'description': 'All things books: Reviews, Covers and News. #bookblogger  I love to read chicklit, crime, fantasy, and YA.', 'location': 'Ipswich'}

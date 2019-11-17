@@ -1,0 +1,1 @@
+{'about': 'writer. copyeditor. semi-pro music critic. breakfast cook extraordinaire. NBA junkie. celtics/red sox fan. book freak, rap geek, practitioner of literary crime (novel in progress, 1st draft done). BK/NJ raised, boston situated.', 'age': '32', 'gender': None, 'location': 'The United States', 'interests': 'writing, breakfast, crime, burritos, NBA basketball'}

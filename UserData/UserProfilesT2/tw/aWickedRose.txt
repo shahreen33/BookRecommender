@@ -1,0 +1,1 @@
+{'description': "I'm loud and sarcastic. I have a kid. I do crafty stuff for fun and sometimes money. Say hi. I don't bite.", 'location': 'East Coast'}

@@ -1,0 +1,1 @@
+{'description': 'Literary Critic, Philosopher of Art, Book Reviewer', 'location': 'Philadelphia,Pennsylvania, USA'}

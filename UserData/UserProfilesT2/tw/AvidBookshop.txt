@@ -1,0 +1,1 @@
+{'description': 'Fiercely independent bookshops in Athens, GA. Visit our website to buy books (we ship nationwide & do *PREORDERS*) and to get info, events, & hours!', 'location': 'Athens, GA'}

@@ -1,0 +1,1 @@
+{'description': 'Bibliomaniac, horror fan, caffeine fiend, cat butler, and film lover. “A reader lives a thousand lives before he dies. The man who never reads lives only one.”', 'location': 'Connecticut, USA'}

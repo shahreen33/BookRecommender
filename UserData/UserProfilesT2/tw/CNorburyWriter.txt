@@ -1,0 +1,1 @@
+{'description': 'Mystery-Suspense-Thriller author of STRAIGHT RIVER and CASTLE DANGER (award winner). Aspiring polymath. Addicted golfer. Optimistic Libertarian.', 'location': 'Minnesota'}

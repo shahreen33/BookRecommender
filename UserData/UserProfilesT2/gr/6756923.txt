@@ -1,0 +1,1 @@
+{'about': "One of those crazy girls who is overly addictive to books. I'm weird around books and tends to read them abnormally fast. And I'm a hopeful romantic who is a firm believer of Happily Ever Afters. ♥", 'age': None, 'gender': None, 'location': 'Philippines', 'interests': 'Books (duh?), Music and Cupcakes'}

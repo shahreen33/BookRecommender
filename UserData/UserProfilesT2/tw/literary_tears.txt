@@ -1,0 +1,1 @@
+{'description': '"Greed is your god, Kaz." He almost laughed at that. "No, Inej. Greed bows to me. It is my servant and my lever."', 'location': 'ketterdam'}

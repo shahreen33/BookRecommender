@@ -1,0 +1,1 @@
+{'about': "Help, I don't have any more free time.<br />(University Life)<br />By the way, I'm a mushroom compared to my colleagues and I'm proud of it.<br />", 'age': '18', 'gender': 'Female', 'location': 'Évora, Portugal', 'interests': 'Cats, books, jigsaw puzzles, writing, art.'}

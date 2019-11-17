@@ -1,0 +1,1 @@
+{'about': 'Freelance book editor. I like smutty novels, knitting shawls, and tattoos. Sometimes I say bad words. 🖤', 'age': '35', 'gender': 'Female', 'location': None, 'interests': 'knitting, tattoos, owls, bulldogs, historical romance, crochet, mid-century antiques'}

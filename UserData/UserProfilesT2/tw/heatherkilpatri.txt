@@ -1,0 +1,1 @@
+{'description': 'Books and coffee and dogs, oh my! Future New Yorker. 54% Sith/46% Jedi. Ravenclaw. Cancer slayer. Detroit baseball fan. Former ballerina. KTBSPA #metoo', 'location': 'In a NY state of mind in MI.'}

@@ -1,0 +1,1 @@
+{'description': 'Star Wars Fanboy, Comics Devotee, Absolute Geek, Coffeeholic, Constant Reader and Chicago sports fan. Always behind on watching, reading and listening.', 'location': 'Albuquerque, NM'}

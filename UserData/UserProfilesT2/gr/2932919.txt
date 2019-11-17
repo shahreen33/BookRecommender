@@ -1,0 +1,1 @@
+{'about': 'Writer of fiction, plays, humor, blog, memoir.<br /><br />Video maker.<br /><br />Theater director.<br /><br />Actor, voice over professional.', 'age': None, 'gender': None, 'location': 'Brussels, 05, Belgium', 'interests': 'Words, images, performance'}

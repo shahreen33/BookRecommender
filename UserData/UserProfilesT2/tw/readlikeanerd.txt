@@ -1,0 +1,1 @@
+{'description': 'Children’s Book Buyer 📚 fond of reading and climbing mountains', 'location': 'Lancaster, England'}

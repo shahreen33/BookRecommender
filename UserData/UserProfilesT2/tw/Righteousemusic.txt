@@ -1,0 +1,1 @@
+{'description': 'investor - Business Consultant. Follow for inspirational tweets.', 'location': 'Kingston NY'}

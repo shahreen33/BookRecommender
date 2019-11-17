@@ -1,0 +1,1 @@
+{'description': 'Academic. Writer. Reader of books and admirer of songs. Arty layabout. Books Editor for @theaureview', 'location': 'United Kingdom'}

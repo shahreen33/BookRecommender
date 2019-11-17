@@ -1,0 +1,1 @@
+{'about': 'If I could read all day, I would. But, I have to work. I spend my days promoting and sharing my love of reading with elementary students in the suburbs of Chicago. Love being a blogger, elementary librarian, and overall lover of books.<br />', 'age': '34', 'gender': None, 'location': 'Naperville, IL', 'interests': 'Reading, Writing, Computer Games, Hubby'}

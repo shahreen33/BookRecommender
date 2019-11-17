@@ -1,0 +1,1 @@
+{'description': 'Photographer, Computer Guru, Book Lover, Numismatist, Political Junkie,\nChief of Staff #25; 2 Skeptical Chaps spy agency', 'location': 'TheDarkestTimeline USA'}

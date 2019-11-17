@@ -1,0 +1,1 @@
+{'description': 'Blogger with great taste in bad books. My snark is worse than my bite. Preppy millennial hipster trash. All my opinions are my own. (She/her)', 'location': ''}

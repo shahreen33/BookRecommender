@@ -1,0 +1,1 @@
+{'about': '“Oh, I’m a human, and my breathing tube is next to my eating tube. Oh, and look, my arms end in stupid little sticks.”\xa0', 'age': '27', 'gender': 'Male', 'location': 'Iran', 'interests': 'فلسفه, اساطیر, داستان نویسی, اخترشناسی'}

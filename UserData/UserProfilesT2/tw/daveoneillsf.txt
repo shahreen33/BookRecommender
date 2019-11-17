@@ -1,0 +1,1 @@
+{'description': 'Indie SF Author. Seattle. Dog person. Recovered engineer. Tech person(ish). Writer of space operas/parodys with a side of political snark. Recovering Brit...', 'location': 'Seattle, WA'}

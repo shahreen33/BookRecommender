@@ -1,0 +1,1 @@
+{'description': 'En bokälskare med 3 barn och 1 karl.', 'location': 'Finspång, Sverige'}

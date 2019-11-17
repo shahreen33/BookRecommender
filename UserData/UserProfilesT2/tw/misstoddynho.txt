@@ -1,0 +1,1 @@
+{'description': 'ainda não sabe distinguir direita e esquerda em momentos de pressão', 'location': 'Fábrica da Nestlé'}

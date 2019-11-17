@@ -1,0 +1,1 @@
+{'about': 'Fantasy is my spiritual home but I run a queer book club and a feminist book club, which determines a lot of my reading. So many books, so little time.', 'age': None, 'gender': None, 'location': 'The United Kingdom', 'interests': 'fantasy, science, history, languages, knowledge, geekery, knitting'}

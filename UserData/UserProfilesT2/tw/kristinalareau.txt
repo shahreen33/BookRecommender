@@ -1,0 +1,1 @@
+{'description': "Purple-haired, cat-owning, book-wielding, petticoat-wearing, gin-drinking, liberal-minded, tattooed, Steampunk Children's Librarian at Hogwarts. she/her", 'location': 'Kent, CT'}

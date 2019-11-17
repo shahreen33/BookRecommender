@@ -1,0 +1,1 @@
+{'description': 'Lover of all things concerning romance. I read, review and write. Come join me as I explore the world of books!', 'location': 'Sevierville, TN'}

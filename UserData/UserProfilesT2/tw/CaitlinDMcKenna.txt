@@ -1,0 +1,1 @@
+{'description': 'Science fiction writer and editor, videogame scholar, stealth blogger. I spend an inordinate amount of time thinking about aliens.', 'location': 'Vancouver, British Columbia'}

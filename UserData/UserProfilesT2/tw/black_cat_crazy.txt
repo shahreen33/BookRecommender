@@ -1,0 +1,1 @@
+{'description': 'Just a lady interested in many things, like Doctor Who, science-y things, books and felines among other things.', 'location': 'Parkers Cove, Newfoundland and'}

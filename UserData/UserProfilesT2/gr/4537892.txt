@@ -1,0 +1,1 @@
+{'about': "I am a literary aggressive go-getter. For those of you who prefer NOT to address me as 'miss bitch' or some other colorful title (though I don't take offense particularly), please feel free to call me Anne. <br />", 'age': None, 'gender': None, 'location': 'Salem, OR', 'interests': 'Reading, Blogging, Writing, Travel, and Photography.'}

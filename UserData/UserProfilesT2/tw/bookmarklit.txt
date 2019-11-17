@@ -1,0 +1,1 @@
+{'description': 'I read books, yell at the Panthers, and eat pizza. I also do Lego things and watch wrestling with my fiance. Finn Balor is bae. I love Friends more than you.', 'location': 'Connecticut, USA'}

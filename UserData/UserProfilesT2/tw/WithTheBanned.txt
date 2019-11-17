@@ -1,0 +1,1 @@
+{'description': "Let me 'splain...no, there is too much. Let me sum up: Librarian, Slytherin, Mother of cats, defender of Hyrule. Current Queen, future Goddess of Death.", 'location': 'Sevenwaters'}

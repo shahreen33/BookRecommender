@@ -1,0 +1,1 @@
+{'about': "Fierce Reads is the young adult arm of the Macmillan Children's Publishing Group.", 'age': None, 'gender': None, 'location': 'New York, NY', 'interests': 'books, kittens, puppies, books, the internet, books, did we mention books?'}

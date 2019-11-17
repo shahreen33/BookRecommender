@@ -1,0 +1,1 @@
+{'about': "Purple-haired, cat-owning, book-wielding, petticoat-wearing, gin-drinking, feminist-thinking, tattooed, Steampunk Gryffindor Children's Librarian. (She/her)", 'age': '35', 'gender': None, 'location': 'Kent, CT', 'interests': "Steampunk, Harry Potter, YA Dystopias, Children's Lit, Library Science"}

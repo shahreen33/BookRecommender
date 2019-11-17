@@ -1,0 +1,1 @@
+{'description': 'Lover of yoga, books, food, wine, good friends and adventure :)', 'location': 'Halifax, Nova Scotia'}

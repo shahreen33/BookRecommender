@@ -1,0 +1,1 @@
+{'description': 'I am a writer who shares chick lit and other genres.   Who loves to visit authors!  Root for my Saint Louis Cardinals!', 'location': 'Atlanta Georgia'}

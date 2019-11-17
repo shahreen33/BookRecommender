@@ -1,0 +1,1 @@
+{'description': 'A fat activist, with a geeky approach to all things, including, but not limited to: her work, clothes, books and music x', 'location': 'South Shields, UK'}

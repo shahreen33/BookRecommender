@@ -1,0 +1,1 @@
+{'description': 'I talk about books to my camera on regular intervals. Sometimes people watch the results.', 'location': 'Australia'}

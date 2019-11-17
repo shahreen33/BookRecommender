@@ -1,0 +1,1 @@
+{'description': "Fan de science-fiction féministe. A écrit un mémoire sur Françoise d'Eaubonne. Végan, queer, pacifiste et libraire @librairiefemmtl !", 'location': 'Montréal, Québec'}

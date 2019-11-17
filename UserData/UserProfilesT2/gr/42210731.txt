@@ -1,0 +1,1 @@
+{'about': '<i>"Be yourself; everyone else is already taken." (Oscar Wilde)</i>', 'age': '58', 'gender': 'Male', 'location': 'Milan, Italy', 'interests': 'photography, music, reading'}

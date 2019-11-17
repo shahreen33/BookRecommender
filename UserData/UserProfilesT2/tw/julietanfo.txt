@@ -1,0 +1,1 @@
+{'description': "I read books, I'm a beta reader&reviewer\nSOS&ASH Series/Devil's Night/The 5 Syndicates/Commander in Briefs Series", 'location': 'Buenos Aires, Argentina'}

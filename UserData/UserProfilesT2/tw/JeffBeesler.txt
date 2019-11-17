@@ -1,0 +1,1 @@
+{'description': 'Explore. Imagine. Reflect. Short-hand way of me saying I write sci-fi, fantasy, and horror. Also a fan of the Oxford comma.', 'location': 'Bremerton, WA'}

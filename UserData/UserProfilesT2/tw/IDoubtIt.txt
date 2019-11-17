@@ -1,0 +1,1 @@
+{'description': 'Spooky Geologist. Strange Claims Adjuster. Author of Scientifical Americans: The Culture of Amateur Paranormal Researchers.', 'location': 'U.S.'}

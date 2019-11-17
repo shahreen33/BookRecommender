@@ -1,0 +1,1 @@
+{'about': 'I run a BookTube channel where I talk about all things books and reading. I read mostly science fiction and fantasy, but dip into other genres as well. I also run a book club on twitter and YouTube that is focused on reading books with mental illness representation. ', 'age': '27', 'gender': None, 'location': 'Greenville, SC', 'interests': None}

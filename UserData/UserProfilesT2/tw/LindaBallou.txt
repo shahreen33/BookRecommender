@@ -1,0 +1,1 @@
+{'description': 'Travel Writer and author of 3 books just publised Lost Angel in Paradise. Available in Itunes, Amazon and www.lostangeladventures. com', 'location': 'Los Angeles'}

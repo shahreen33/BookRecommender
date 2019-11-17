@@ -1,0 +1,1 @@
+{'description': '23. University student. I blog about books and other ramblings. 📖: Brighton Rock by Graham Greene | ✉️: bobzswale@gmail.com', 'location': 'Manchester, England'}

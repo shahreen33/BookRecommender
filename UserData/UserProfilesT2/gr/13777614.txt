@@ -1,0 +1,1 @@
+{'about': None, 'age': None, 'gender': 'Female', 'location': 'Warsaw, Poland', 'interests': 'cybersecurity, cyberpunk, punk, startups, tech, neurology, neuroscience, product management'}

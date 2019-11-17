@@ -1,0 +1,1 @@
+{'about': "I've been writing for pleasure since my teens and love sharing my work with other people. I love crime and mystery fiction and most of my work (even the cat stories) have elements of crime in them. <br />", 'age': '46', 'gender': None, 'location': 'Brighton, The United Kingdom', 'interests': 'Reading, writing, gadgets, movies, watches'}

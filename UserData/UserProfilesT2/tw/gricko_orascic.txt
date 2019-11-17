@@ -1,0 +1,1 @@
+{'description': 'Ravenclaw Pride. Plavo, ljubicasto, zeleno. INFP ♏', 'location': 'Novi Sad'}

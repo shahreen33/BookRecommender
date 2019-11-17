@@ -1,0 +1,1 @@
+{'description': 'Book reviewer at Fantasy Book Review. Host of the UNDER A PILE OF BOOKS podcast. Geek into fantasy, fountain pens, Dungeons & Dragons, and dead languages.', 'location': 'Quarryville, PA'}

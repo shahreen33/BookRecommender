@@ -1,0 +1,1 @@
+{'description': "We love kids books. Home to a growing number of amazing imprints and authors. We can't wait to introduce you to a fantastic book.", 'location': 'New York, NY'}

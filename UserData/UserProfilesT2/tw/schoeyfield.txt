@@ -1,0 +1,1 @@
+{'description': 'Lead of #UX Development @WhereByUs. I make 💀 Stoic Designer (@DesignStoic) and 🎙 Metric (@MetricPodcast). I run 👓 @LibUX_Community. I do #researchOps.', 'location': 'Ft. Lauderdale, FL'}

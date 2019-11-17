@@ -1,0 +1,1 @@
+{'description': 'Author. Professional ass kicker. Optimist.', 'location': 'Nashville, TN & Lots of other places'}

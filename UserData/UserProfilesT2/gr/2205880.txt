@@ -1,0 +1,1 @@
+{'about': 'Long time Knitter and Crocheter, Blogger, Avid Reader, BookTuber, Lover of Beauty and Skincare Products, Korean Drama Addict. Please feel free to follow me on Instagram, Twitter, and Facebook @disis19 also!', 'age': None, 'gender': None, 'location': 'The United States', 'interests': 'Korean Dramas, Knitting, Crochet, Music'}

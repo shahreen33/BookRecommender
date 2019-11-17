@@ -1,0 +1,1 @@
+{'about': "Rating Guide:<br /><br />1 Star - Hated it/Didn't finish<br />2 Star - Bleh/It was OK<br />3 Star - Nice/I like<br />4 Star - Lovable <br />5 Star (Rare) - In love/All time faves ", 'age': '22', 'gender': 'Female', 'location': 'Derby, H9, The United Kingdom', 'interests': 'Books, Movies, Music, History and all things Disney'}

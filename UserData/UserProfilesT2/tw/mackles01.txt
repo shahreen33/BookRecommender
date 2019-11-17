@@ -1,0 +1,1 @@
+{'description': 'Software Engineer, OU student, ex-HER specialist, @chippfolk social media, avid reader who enjoys knitting & gardening . These are my personal views', 'location': 'Wiltshire'}

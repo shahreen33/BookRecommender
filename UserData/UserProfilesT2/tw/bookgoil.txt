@@ -1,0 +1,1 @@
+{'description': "I'm an elementary school librarian in the suburbs of Chicago as well as a book blogger and lifetime reader. I read mainly YA & MG books and love graphic novels.", 'location': 'IL, USA'}

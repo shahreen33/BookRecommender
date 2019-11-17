@@ -1,0 +1,1 @@
+{'about': 'Writer- poet, fiction writer, journalist, editor', 'age': '43', 'gender': None, 'location': 'Canada', 'interests': 'books, writing, movies, classic film, the outdoors, the prairies, travelling, asia, moving around, yoga, dance, apples, dogs, sustainable development'}

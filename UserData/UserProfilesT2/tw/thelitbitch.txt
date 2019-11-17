@@ -1,0 +1,1 @@
+{'description': 'Literary aggressive go-getter. Blogging book reviews since 2009, INTJ #bookstagram', 'location': 'Oregon'}

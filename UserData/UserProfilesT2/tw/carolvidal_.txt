@@ -1,0 +1,1 @@
+{'description': 'Carioca que mora em Salvador. Escritora que ama cozinhar (palavras e comidas). Newsletter: https://t.co/xYbIG3QjQ8', 'location': 'Salvador - BA'}

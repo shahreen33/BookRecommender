@@ -1,0 +1,1 @@
+{'description': 'a YouTuber, a @MvslimInspires writer and self proclaimed mental health advocate', 'location': 'Cairo,Egypt'}

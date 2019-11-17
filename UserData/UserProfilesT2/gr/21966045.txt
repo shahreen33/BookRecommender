@@ -1,0 +1,1 @@
+{'about': 'An Indian boy lost in a book somewhere.', 'age': None, 'gender': None, 'location': 'New Delhi, 07, India', 'interests': 'History, Anime, Sports, Far-East'}

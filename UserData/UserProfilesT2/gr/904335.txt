@@ -1,0 +1,1 @@
+{'about': 'After six years of university study, I am now able to read poetry with confidence. <br />I am also able to translate from Icelandic to English, which is possibly a slightly more useful skill.', 'age': '31', 'gender': None, 'location': 'Reykjavík, 105, Iceland', 'interests': 'Iceland, Norse Mythology, Icelandic Sagas, the 19th Century, History in general'}

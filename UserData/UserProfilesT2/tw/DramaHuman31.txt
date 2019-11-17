@@ -1,0 +1,1 @@
+{'description': "I like books, Bioware, HP, Slytherin, Star Wars, LOTR, Dr Who, & more. I'm here to dazzle you with lacklustre book reviews #BookBlogger #TheCaffeinatedReader", 'location': 'Scotland, United Kingdom'}

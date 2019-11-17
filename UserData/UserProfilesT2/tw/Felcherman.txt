@@ -1,0 +1,1 @@
+{'description': 'I love reading nature and travel books. I have a blog where I leave my reviews and other weird stuff.  Always happy to receive book recommendations', 'location': 'Basingstoke'}

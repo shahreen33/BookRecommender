@@ -1,0 +1,1 @@
+{'description': 'A BookTuber who reads lots of classics, nonfiction, poetry, and occasionally literary fiction. My channel is called Totally Pretentious, because, you know...', 'location': 'Ames, IA'}

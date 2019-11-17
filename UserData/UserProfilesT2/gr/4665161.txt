@@ -1,0 +1,1 @@
+{'about': 'Hey, I’m bobby 👋🏼 I’m a student and a book blogger (well, I attempt to be!)<br />Feel free to add me as a friend!', 'age': '23', 'gender': None, 'location': 'The United Kingdom', 'interests': None}

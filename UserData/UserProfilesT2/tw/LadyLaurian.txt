@@ -1,0 +1,1 @@
+{'description': 'PhD. in User Experience, mom of three, and troublemaker. Saving the world one interface and one packed lunch at a time.', 'location': 'Blacksburg, Virginia'}

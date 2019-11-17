@@ -1,0 +1,1 @@
+{'description': "Jill of all trades. Total cynic; don't ask if you don't want to know. Hater of injustice. Campaigner for better grammar use. Eternal student.", 'location': 'England'}
