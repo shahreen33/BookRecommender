@@ -1,0 +1,2 @@
+ISP: The Interface Segregation Principle by Robert C. Martin
+Average Rating: 4.00

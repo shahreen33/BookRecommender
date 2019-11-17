@@ -1,0 +1,3542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='311248553' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="44" total="44">
+    <review>
+  <id>3030220599</id>
+    <book>
+  <id type="integer">17884311</id>
+  <isbn>0007466722</isbn>
+  <isbn13>9780007466726</isbn13>
+  <text_reviews_count type="integer">15</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.lg7Cj6EKkOSgDSv-aYSIAQ</uri>
+  <title>The Selection (The Selection, #1)</title>
+  <title_without_series>The Selection</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367764199l/17884311._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367764199l/17884311._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17884311-the-selection</link>
+  <num_pages>327</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>HarperCollinsChildren'sBooks</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>759048</ratings_count>
+  <description>Thirty-five beautiful girls. Thirty-five beautiful rivals...&lt;br /&gt;&lt;br /&gt;It's the chance of a lifetime and 17-year-old America Singer should feel lucky. She has been chosen for The Selection, a reality TV lottery in which the special few compete for gorgeous Prince Maxon's love.&lt;br /&gt;&lt;br /&gt;Swept up in a world of elaborate gowns, glittering jewels and decadent feasts, America is living a new and glamorous life. And the prince takes a special interest in her, much to the outrage of the others.&lt;br /&gt;&lt;br /&gt;Rivalry within The Selection is fierce and not all of the girls are prepared to play by the rules. But what they don't know is that America has a secret -- one which could throw the whole competition... and change her life forever.</description>
+<authors>
+<author>
+<id>2987125</id>
+<name>Kiera Cass</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1318605410p5/2987125.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1318605410p2/2987125.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2987125.Kiera_Cass]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>2012256</ratings_count>
+<text_reviews_count>145634</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>15413183</id>
+  <uri>kca://work/amzn1.gr.work.v1.ajG2PTxgclK61DaBpizOvg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='335086595' name='ebook' review_shelf_id='2678520158' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Oct 29 22:17:36 -0700 2019</started_at>
+  <read_at>Sun Nov 03 22:04:26 -0800 2019</read_at>
+  <date_added>Tue Oct 29 22:17:35 -0700 2019</date_added>
+  <date_updated>Mon Nov 04 03:47:54 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b> Ratings: 8 out of 10 (objectively), 10 out of 10 (for enjoyment) </b><br /><br />I really did not expect to enjoy this much more than what i expected. All i want is just a very light read from essays and exams to happen very soon but oh my god.<br /><br />This fast paced plot is literally, what i can say, it's...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3030220599]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3030220599]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2988619099</id>
+    <book>
+  <id type="integer">17302499</id>
+  <isbn>1476741263</isbn>
+  <isbn13>9781476741260</isbn13>
+  <text_reviews_count type="integer">39</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.5xwVq-9H3BhkPWS0w_CQqA</uri>
+  <title>Wallbanger (Cocktail, #1)</title>
+  <title_without_series>Wallbanger</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406814447l/17302499._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406814447l/17302499._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17302499-wallbanger</link>
+  <num_pages>320</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Gallery Books</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.07</average_rating>
+  <ratings_count>161398</ratings_count>
+  <description>A bestselling hot, hilarious eBook by USA TODAY indie author Alice Clayton, the freshest voice to hit publishing in years. “An instant classic…highly recommended!” (New York Times and USA TODAY bestselling author Jennifer Probst).&lt;br /&gt;&lt;br /&gt;Caroline Reynolds has a fantastic new apartment in San Francisco, a Kitchen Aid mixer to die for, and no O (and we’re not talking Oprah here, folks). She has a flourishing design career, an office overlooking the bay, a killer zucchini bread recipe, and no O. She has Clive (the best cat ever), great friends, a great rack, and no O. Adding insult to O-less, she also has an oversexed neighbor with the loudest late-night wallbanging she’s ever heard. Every moan, spank, and—was that a meow?—punctuates the fact that not only is she losing sleep, she still has—yep, you guessed it—no O. Enter Simon Parker. When the wallbanging threatens to literally bounce her out of bed, Caroline, clad in sexual frustration and a pink baby-doll nightie, confronts her heard-but-never-seen neighbor. Their late-night hallway encounter has…well…mixed results. Because with walls this thin, the tension’s gonna be thick. A delicious mix of silly and steamy, this is an irresistible tale of exasperation at first sight.</description>
+<authors>
+<author>
+<id>3379564</id>
+<name>Alice Clayton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1349906514p5/3379564.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1349906514p2/3379564.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3379564.Alice_Clayton]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>327112</ratings_count>
+<text_reviews_count>27250</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>21607771</id>
+  <uri>kca://work/amzn1.gr.work.v1.2-e-TTw9SRuk0kg2EXJWgA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='335086595' name='ebook' review_shelf_id='2637103140' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Sep 24 02:46:14 -0700 2019</started_at>
+  <read_at>Wed Sep 25 18:56:34 -0700 2019</read_at>
+  <date_added>Tue Sep 24 02:46:14 -0700 2019</date_added>
+  <date_updated>Thu Sep 26 02:38:32 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[TW: graphic sex, dirty talking, cursing<br /><br /><b>Ratings: 9.5 / 10 (for enjoyment) i'm going for to the ratings of 8 / 10 (if i'm being objective)</b><br /><br />I read this randomly out of nowhere in ebook form because idk...i want easy reading, enjoying a guilty pleasure book<br /><br />i did not expect to like this bo.../></b>Ratings:]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2988619099]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2988619099]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2983940768</id>
+    <book>
+  <id type="integer">899492</id>
+  <isbn>0871917726</isbn>
+  <isbn13>9780871917720</isbn13>
+  <text_reviews_count type="integer">966</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.pqj_M5fVKPeuxX8iFzdZ7w</uri>
+  <title>The Tell-Tale Heart</title>
+  <title_without_series>The Tell-Tale Heart</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534247939l/899492._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534247939l/899492._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/899492.The_Tell_Tale_Heart</link>
+  <num_pages>54</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Books of Wonder</publisher>
+  <publication_day/>
+  <publication_year>1998</publication_year>
+  <publication_month/>
+  <average_rating>4.23</average_rating>
+  <ratings_count>50518</ratings_count>
+  <description>A murderer is convinced that the loud beating of his victim's heart will give him away to the police.</description>
+<authors>
+<author>
+<id>4624490</id>
+<name>Edgar Allan Poe</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1454522972p5/4624490.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1454522972p2/4624490.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4624490.Edgar_Allan_Poe]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>1200555</ratings_count>
+<text_reviews_count>30658</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+<work>  <id>19034527</id>
+  <uri>kca://work/amzn1.gr.work.v1.LzETYzxb5_-wYN44dtHfqQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='332931176' name='for-uni' review_shelf_id='2630111243' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Sep 20 02:06:48 -0700 2019</date_added>
+  <date_updated>Mon Sep 23 04:39:14 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Ratings: 7 out of 10 (Objectively)<br /><br />(will talk about this after i have discussion on this during english literature lecture lmao)]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2983940768]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2983940768]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2976698729</id>
+    <book>
+  <id type="integer">36481352</id>
+  <isbn>0008180067</isbn>
+  <isbn13>9780008180065</isbn13>
+  <text_reviews_count type="integer">155</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.fq7xU2HW4Z3Y4h7Pz-bDcw</uri>
+  <title>Godsgrave (The Nevernight Chronicle, #2)</title>
+  <title_without_series>Godsgrave</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532862531l/36481352._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532862531l/36481352._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/36481352-godsgrave</link>
+  <num_pages>455</num_pages>
+  <format>Paperback</format>
+  <edition_information>UK Edition</edition_information>
+  <publisher>Harper Collins</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.58</average_rating>
+  <ratings_count>18431</ratings_count>
+  <description>Mia Corvere has found her place among the Blades of Our Lady of Blessed Murder, but many in the Red Church hierarchy think she's far from earned it. Plying her bloody trade in a backwater of the Republic, she's no closer to ending the men who destroyed her familia; in fact, she's told directly that Consul Scaeva is off limits. But after a deadly confrontation with an old enemy, Mia's suspicions about the Red Church's true motives begin to grow.</description>
+<authors>
+<author>
+<id>4735144</id>
+<name>Jay Kristoff</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1310187120p5/4735144.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1310187120p2/4735144.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4735144.Jay_Kristoff]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>272839</ratings_count>
+<text_reviews_count>61367</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>42805837</id>
+  <uri>kca://work/amzn1.gr.work.v1.dspJ9KOOvY2M1HFEr9EhQA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2622784927' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='326132034' name='10-out-of-10-books' review_shelf_id='2665364336' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Oct 11 07:27:11 -0700 2019</started_at>
+  <read_at>Sat Oct 19 10:03:37 -0700 2019</read_at>
+  <date_added>Sat Sep 14 01:30:39 -0700 2019</date_added>
+  <date_updated>Sun Oct 20 17:05:42 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b> TW: graphic sex, violent &amp; gore, lots of cursing, couple of scenes that made you queasy to imagine </b><br /><br /><b> Ratings: 10 out of 10 </b><br /><br />This is bringing me to emotional roller-coaster but mostly i felt confused, betrayed, shocked, surprised that i cannot say this is better or the same level of 'oh this bo...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2976698729]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2976698729]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2912909015</id>
+    <book>
+  <id type="integer">7363</id>
+  <isbn>0060734760</isbn>
+  <isbn13>9780060734763</isbn13>
+  <text_reviews_count type="integer">27</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.MVb8CiSe2oSrwasDhVI-HQ</uri>
+  <title>Midnight in the Garden of Good and Evie</title>
+  <title_without_series>Midnight in the Garden of Good and Evie</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7363.Midnight_in_the_Garden_of_Good_and_Evie</link>
+  <num_pages>384</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Avon</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>235</ratings_count>
+  <description>Join a murder hunt where conflict and sexual tension is the name of the game...&lt;br /&gt;&lt;br /&gt;Thomas Heyworth was a wealthy, internationally renowned mystery writer, a colourful character whose opinions and outspoken behaviour got him in a lot of hot water in his lifetime. Because of the enemies he's accumulated over the years, Heyworth stipulated in his will detailed plans for an amateur investigation to take place in the event of his death. When Heyworth is found dead in his own library, Evie Randall, Heyworth's possible illegitimate daughter who has lived on the Heyworth estate ever since her mother, Heyworth's former housekeeper died, becomes the primary suspect.&lt;br /&gt;&lt;br /&gt;Seattle detective Max Galloway is sent to find out the truth and is unwittingly drawn to Evie. But the real murderer is closing in and is determined to eliminate anything or anyone standing in the way of collecting millions. Suddenly Max and Evie are in a race to solve the crime before the game ends for them both.</description>
+<authors>
+<author>
+<id>4954</id>
+<name>Marianne Stillings</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1219260128p5/4954.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1219260128p2/4954.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4954.Marianne_Stillings]]></link>
+<average_rating>3.71</average_rating>
+<ratings_count>1625</ratings_count>
+<text_reviews_count>159</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>10486</id>
+  <uri>kca://work/amzn1.gr.work.v1.zhytt6XWfSBBPycEOxrBvA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jul 27 05:54:21 -0700 2019</date_added>
+  <date_updated>Sat Jul 27 05:54:21 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2912909015]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2912909015]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2854084869</id>
+    <book>
+  <id type="integer">42598918</id>
+  <isbn>150988887X</isbn>
+  <isbn13>9781509888870</isbn13>
+  <text_reviews_count type="integer">46</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Qu34HTzIczA633gFJVbOjw</uri>
+  <title>Archenemies (Renegades, #2)</title>
+  <title_without_series>Archenemies</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541001872l/42598918._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541001872l/42598918._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/42598918-archenemies</link>
+  <num_pages>474</num_pages>
+  <format>Paperback</format>
+  <edition_information>UK</edition_information>
+  <publisher>Macmillan Children's Books</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.32</average_rating>
+  <ratings_count>18897</ratings_count>
+  <description>Part thriller, part superhero fantasy, here is the fiercely awaited sequel to the New York Times-bestselling Renegades by Marissa Meyer, author of the Lunar Chronicles.&lt;br /&gt;&lt;br /&gt;Are Nova and Adrian each other’s worst nightmare?&lt;br /&gt;&lt;br /&gt;In Renegades, Nova and Adrian (aka Insomnia and Sketch) fought the battle of their lives against the Anarchist known as the Detonator. It was a short-lived victory.&lt;br /&gt;&lt;br /&gt;The Anarchists still have a secret weapon, one that Nova believes will protect her. The Renegades also have a strategy for overpowering the Anarchists, but both Nova and Adrian understand that it could mean the end of Gatlon City – and the world – as they know it.</description>
+<authors>
+<author>
+<id>4684322</id>
+<name>Marissa Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1558121336p5/4684322.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1558121336p2/4684322.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4684322.Marissa_Meyer]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>1660889</ratings_count>
+<text_reviews_count>183537</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>56802959</id>
+  <uri>kca://work/amzn1.gr.work.v1.8qnpUFr1lERoNP5MbNCszw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>4</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2561700362' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jun 11 02:09:35 -0700 2019</started_at>
+  <read_at>Sun Jul 28 21:41:54 -0700 2019</read_at>
+  <date_added>Tue Jun 11 02:09:34 -0700 2019</date_added>
+  <date_updated>Tue Oct 29 03:07:19 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b>Ratings: 7 out of 10.</b><br /><br />*sighs* how do i put my thoughts on this?<br /><br />one sentence i could describe this? A bit disappointing as i have a major reading slump for one big reason (actually there are two).<br /><br />One big reason why is because i can really feel the plot is slowing down...</b>]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2854084869]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2854084869]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2852785362</id>
+    <book>
+  <id type="integer">44140764</id>
+  <isbn>1473227968</isbn>
+  <isbn13>9781473227965</isbn13>
+  <text_reviews_count type="integer">109</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.X52-EP_IpP9KTJZb2rqYUA</uri>
+  <title>Ninth House (Alex Stern, #1)</title>
+  <title_without_series>Ninth House</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555347767l/44140764._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555347767l/44140764._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/44140764-ninth-house</link>
+  <num_pages>448</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.22</average_rating>
+  <ratings_count>14488</ratings_count>
+  <description>&lt;b&gt;The mesmerizing adult debut from #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author Leigh Bardugo&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Galaxy “Alex” Stern is the most unlikely member of Yale’s freshman class. Raised in the Los Angeles hinterlands by a hippie mom, Alex dropped out of school early and into a world of shady drug dealer boyfriends, dead-end jobs, and much, much worse. By age twenty, in fact, she is the sole survivor of a horrific, unsolved multiple homicide. Some might say she’s thrown her life away. But at her hospital bed, Alex is offered a second chance: to attend one of the world’s most elite universities on a full ride. What’s the catch, and why her?&lt;br /&gt;&lt;br /&gt;Still searching for answers to this herself, Alex arrives in New Haven tasked by her mysterious benefactors with monitoring the activities of Yale’s secret societies. These eight windowless “tombs” are well-known to be haunts of the future rich and powerful, from high-ranking politicos to Wall Street and Hollywood’s biggest players. But their occult activities are revealed to be more sinister and more extraordinary than any paranoid imagination might conceive.</description>
+<authors>
+<author>
+<id>4575289</id>
+<name>Leigh Bardugo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1534446099p5/4575289.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1534446099p2/4575289.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4575289.Leigh_Bardugo]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>1028181</ratings_count>
+<text_reviews_count>141407</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>53348200</id>
+  <uri>kca://work/amzn1.gr.work.v1.FHVY1J2dovnleCXNfTKjGg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2664425677' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Oct 20 08:46:52 -0700 2019</started_at>
+  <read_at>Sat Oct 26 05:54:27 -0700 2019</read_at>
+  <date_added>Mon Jun 10 00:39:06 -0700 2019</date_added>
+  <date_updated>Sun Oct 27 18:18:12 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b> TW: statutory rape, the use of date rape drug, graphic violence, gore, overdose, drowning, death, suicide, self-harm, excessive usage of drugs, forced consumption on human waste </b><br /><br /><b> Ratings: 8 out of 10. (i realise that there is a lot improvement on this book after thinking even deeper) </b><br /><br />Before i am...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2852785362]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2852785362]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2817059976</id>
+    <book>
+  <id type="integer">16088359</id>
+  <isbn>1442445947</isbn>
+  <isbn13>9781442445949</isbn13>
+  <text_reviews_count type="integer">113</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6_8ut8oDwabqmGpKzquwnQ</uri>
+  <title>Keeper of the Lost Cities</title>
+  <title_without_series>Keeper of the Lost Cities</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367831259l/16088359._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367831259l/16088359._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16088359-keeper-of-the-lost-cities</link>
+  <num_pages>488</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Aladdin</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.46</average_rating>
+  <ratings_count>20847</ratings_count>
+  <description>&lt;b&gt;A &lt;i&gt;New York Times&lt;/i&gt; bestselling series&lt;/b&gt;&lt;br /&gt;&lt;b&gt;A &lt;i&gt;USA TODAY&lt;/i&gt; bestselling series&lt;/b&gt;&lt;br /&gt;&lt;b&gt;A California Young Reader Medal–winning series&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;In this riveting series opener, a telepathic girl must figure out why she is the key to her brand-new world before the wrong person finds the answer first.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Twelve-year-old Sophie has never quite fit into her life. She’s skipped multiple grades and doesn’t really connect with the older kids at school, but she’s not comfortable with her family, either. The reason? Sophie’s a Telepath, someone who can read minds. No one knows her secret—at least, that’s what she thinks…&lt;br /&gt;&lt;br /&gt;But the day Sophie meets Fitz, a mysterious (and adorable) boy, she learns she’s not alone. He’s a Telepath too, and it turns out the reason she has never felt at home is that, well…she isn’t. Fitz opens Sophie’s eyes to a shocking truth, and she is forced to leave behind her family for a new life in a place that is vastly different from what she has ever known.&lt;br /&gt;&lt;br /&gt;But Sophie still has secrets, and they’re buried deep in her memory for good reason: The answers are dangerous and in high-demand. What is her true identity, and why was she hidden among humans? The truth could mean life or death—and time is running out.</description>
+<authors>
+<author>
+<id>5265998</id>
+<name>Shannon Messenger</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353026719p5/5265998.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353026719p2/5265998.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5265998.Shannon_Messenger]]></link>
+<average_rating>4.49</average_rating>
+<ratings_count>93577</ratings_count>
+<text_reviews_count>9806</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>17993650</id>
+  <uri>kca://work/amzn1.gr.work.v1.F02Wsk-Qs-nUPUHRI6ajxA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>removed</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2556639336' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jul 18 18:18:32 -0700 2019</started_at>
+  <read_at>Thu Jul 25 04:44:17 -0700 2019</read_at>
+  <date_added>Sat May 11 03:59:34 -0700 2019</date_added>
+  <date_updated>Fri Jul 26 03:45:34 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b>Ratings: 8.5 out of 10 (i'm still debating whether i should give a full 10/10 or not)<br /><br />UPDATE: after much thinking, i think 8.5 is better than full 10/10. </b><br /><br />[spoilers removed]]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2817059976]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2817059976]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2813942262</id>
+    <book>
+  <id type="integer">16541084</id>
+  <isbn nil="true"/>
+  <isbn13>9789675067556</isbn13>
+  <text_reviews_count type="integer">18</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.mQ9karyRRYBz48-_MCazIg</uri>
+  <title>Lelaki Versi Dia</title>
+  <title_without_series>Lelaki Versi Dia</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355383503l/16541084._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355383503l/16541084._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16541084-lelaki-versi-dia</link>
+  <num_pages>415</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Penerbitan Kaki Novel Sdn Bhd</publisher>
+  <publication_day/>
+  <publication_year>2013</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.74</average_rating>
+  <ratings_count>171</ratings_count>
+  <description>“Dia yang kusut, dia serabut, dia yang membuat hatiku terpaut....”&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Sinopsis:-&lt;br /&gt;&lt;br /&gt;Lelaki itu hilang ingatan semasa berada di luar negara dan menjadi anak muda yang liar.&lt;br /&gt;&lt;br /&gt;Sebagai seorang ibu, Zita terpaksa menipu Wan Aakif dengan menyatakan bahawa anaknya itu telah pun bertunang untuk membawa Wan Aakif pulang ke tanah air.&lt;br /&gt;&lt;br /&gt;“I dengar kita dah bertunang dekat enam tahun. For sure dalam masa terdekat ni kita kena kahwin.”&lt;br /&gt;&lt;br /&gt;“What?! Are you kidding?”&lt;br /&gt;&lt;br /&gt;Penolakan demi penolakan daripada Arwin Raisha sedangkan Wan Aakif benar-benar jatuh cinta membuat Wan Aakif nekad untuk kembali mengingati kisah silamnya. Adakah kisah silam itu mampu menyatukan mereka? Dan adakah Arwin Raisha masih tegar untuk tidak mempeduli Wan Aakif sedangkan dari dulu hati wanitanya sering menyeru nama lelaki itu? Lelaki versi dia, membuat Arwin Raisha pening kepala.&lt;br /&gt;&lt;br /&gt;“Wan, kalau awak nak saya anggap awak sebagai tunang saya, awak nak saya jatuh cinta pada awak, awak janji. Lepas awak dapat balik ingatan awak, awak janji tak tinggalkan saya. &lt;br /&gt;Boleh tak?” ~ Arwin Raisha.</description>
+<authors>
+<author>
+<id>6722861</id>
+<name>Aireen Aryana</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6722861.Aireen_Aryana]]></link>
+<average_rating>3.66</average_rating>
+<ratings_count>246</ratings_count>
+<text_reviews_count>34</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>22741681</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZjDB47fFDdrmsrkEIbeXWQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='314443271' name='borrowed-from-library' review_shelf_id='2460072432' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2698134784' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu May 09 00:00:00 -0700 2019</started_at>
+  <read_at>Tue May 14 23:13:07 -0700 2019</read_at>
+  <date_added>Wed May 08 10:16:44 -0700 2019</date_added>
+  <date_updated>Fri Nov 15 23:17:24 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      ratings: 6.5 out of 10
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2813942262]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2813942262]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2809751606</id>
+    <book>
+  <id type="integer">40024139</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2777</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.iDS0-D2baUC2J-nMNa77rA</uri>
+  <title>Serpent &amp; Dove (Serpent &amp; Dove, #1)</title>
+  <title_without_series>Serpent &amp; Dove</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549476128l/40024139._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549476128l/40024139._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40024139-serpent-dove</link>
+  <num_pages>513</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperTeen</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>12654</ratings_count>
+  <description>&lt;b&gt;Bound as one to love, honor, or burn.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Two years ago, Louise le Blanc fled her coven and took shelter in the city of Cesarine, forsaking all magic and living off whatever she could steal. There, witches like Lou are hunted. They are feared. And they are burned.&lt;br /&gt;&lt;br /&gt;Sworn to the Church as a Chasseur, Reid Diggory has lived his life by one principle: &lt;i&gt;thou shalt not suffer a witch to live.&lt;/i&gt; His path was never meant to cross with Lou's, but a wicked stunt forces them into an impossible union—holy matrimony.&lt;br /&gt;&lt;br /&gt;The war between witches and Church is an ancient one, and Lou's most dangerous enemies bring a fate worse than fire. Unable to ignore her growing feelings, yet powerless to change what she is, a choice must be made.&lt;br /&gt;&lt;br /&gt;And love makes fools of us all.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;This is a previously published edition of ISBN 9780062878021. An alternate cover edition can be found &lt;a href="https://www.goodreads.com/book/show/48004753-serpent-dove" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;</description>
+<authors>
+<author>
+<id>17999118</id>
+<name>Shelby Mahurin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1525367708p5/17999118.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1525367708p2/17999118.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17999118.Shelby_Mahurin]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>12679</ratings_count>
+<text_reviews_count>3202</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>61991324</id>
+  <uri>kca://work/amzn1.gr.work.v1.ogPEi8OWp28tjJTXRLdTkA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>5</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2648465050' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Oct 05 09:11:31 -0700 2019</started_at>
+  <read_at>Fri Oct 11 05:01:40 -0700 2019</read_at>
+  <date_added>Sat May 04 20:49:25 -0700 2019</date_added>
+  <date_updated>Fri Oct 11 05:01:40 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b> Ratings: 7 out of 10 </b><br /><br />The reason why i'm interested reading this book is not because of the surrounding hype, I was actually intrigued the mention of a witch and a witch hunter. While i was reading this, i came across reviews and people who think that this is not deserve the hype as it is problem...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2809751606]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2809751606]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2807636938</id>
+    <book>
+  <id type="integer">35529904</id>
+  <isbn>125004443X</isbn>
+  <isbn13>9781250044433</isbn13>
+  <text_reviews_count type="integer">763</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.NGc1ruRDKNS8ba3udRuhlQ</uri>
+  <title>Siege and Storm (Shadow and Bone, #2)</title>
+  <title_without_series>Siege and Storm</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498657823l/35529904._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498657823l/35529904._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35529904-siege-and-storm</link>
+  <num_pages>432</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Square Fish</publisher>
+  <publication_day/>
+  <publication_year>2017</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>148687</ratings_count>
+  <description>&lt;i&gt;Alternative cover edition of &lt;a href="https://www.goodreads.com/book/show/18525661.ISBN13__9781250044433" title="ISBN13: 9781250044433" rel="nofollow"&gt;ISBN13: 9781250044433&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Darkness never dies.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Hunted across the True Sea, haunted by the lives she took on the Fold, Alina must try to make a life with Mal in an unfamiliar land. She finds starting new is not easy while keeping her identity as the Sun Summoner a secret. She can’t outrun her past or her destiny for long.&lt;br /&gt;&lt;br /&gt;The Darkling has emerged from the Shadow Fold with a terrifying new power and a dangerous plan that will test the very boundaries of the natural world. With the help of a notorious privateer, Alina returns to the country she abandoned, determined to fight the forces gathering against Ravka. But as her power grows, Alina slips deeper into the Darkling’s game of forbidden magic, and farther away from Mal. Somehow, she will have to choose between her country, her power, and the love she always thought would guide her--or risk losing everything to the oncoming storm.</description>
+<authors>
+<author>
+<id>4575289</id>
+<name>Leigh Bardugo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1534446099p5/4575289.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1534446099p2/4575289.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4575289.Leigh_Bardugo]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>1028181</ratings_count>
+<text_reviews_count>141407</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>19699752</id>
+  <uri>kca://work/amzn1.gr.work.v1.nu_99yywUFp5fp__1mTX0g</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2567273353' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Oct 09 01:35:02 -0700 2019</started_at>
+  <read_at>Wed Nov 06 08:39:53 -0800 2019</read_at>
+  <date_added>Fri May 03 03:11:30 -0700 2019</date_added>
+  <date_updated>Wed Nov 13 17:25:59 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[(thanks to my friend from twitter for a half buddy-read despite us being busy with uni on that time)<br /><br /><b> Ratings: 4 out of 10. </b><br /><br />I suffered reading this book. Literally falls under 'middle book' syndrome, all i can get was just interaction with other characters, Alina being worried about some.../></b>]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2807636938]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2807636938]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2799441693</id>
+    <book>
+  <id type="integer">34503674</id>
+  <isbn>0008179980</isbn>
+  <isbn13>9780008179984</isbn13>
+  <text_reviews_count type="integer">433</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Zjx4d7peTAfuqujcNQuM0Q</uri>
+  <title>Nevernight (The Nevernight Chronicle, #1)</title>
+  <title_without_series>Nevernight</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532862451l/34503674._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532862451l/34503674._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34503674-nevernight</link>
+  <num_pages>463</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Harper Collins</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.31</average_rating>
+  <ratings_count>33646</ratings_count>
+  <description>From New York Times bestselling author, Jay Kristoff, comes a dangerous new fantasy world and a heroine edged in darkness.&lt;br /&gt;&lt;br /&gt;WINNER OF THE THE AUREALIS AWARD FOR BEST FANTASY NOVEL&lt;br /&gt;&lt;br /&gt;Mia Corvere is only ten years old when she is given her first lesson in death.&lt;br /&gt;Destined to destroy empires, the child raised in shadows made a promise on the day she lost everything: to avenge herself on those that shattered her world.&lt;br /&gt;But the chance to strike against such powerful enemies will be fleeting, and Mia must become a weapon without equal. Before she seeks vengeance, she must seek training among the infamous assassins of the Red Church of Itreya.&lt;br /&gt;Inside the Church's halls, Mia must prove herself against the deadliest of opponents and survive the tutelage of murderers, liars and daemons at the heart of a murder cult.&lt;br /&gt;The Church is no ordinary school. But Mia is no ordinary student.&lt;br /&gt;The Red Church is no ordinary school, but Mia is no ordinary student.&lt;br /&gt;The shadows love her.&lt;br /&gt;And they drink her fear.</description>
+<authors>
+<author>
+<id>4735144</id>
+<name>Jay Kristoff</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1310187120p5/4735144.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1310187120p2/4735144.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4735144.Jay_Kristoff]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>272839</ratings_count>
+<text_reviews_count>61367</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>42805826</id>
+  <uri>kca://work/amzn1.gr.work.v1.lSjSf2r-G6D1advk_kunEg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>4</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2622786411' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='326132034' name='10-out-of-10-books' review_shelf_id='2648225263' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Sep 20 07:56:20 -0700 2019</started_at>
+  <read_at>Sat Oct 05 11:39:38 -0700 2019</read_at>
+  <date_added>Thu Apr 25 23:58:40 -0700 2019</date_added>
+  <date_updated>Sat Oct 05 08:36:08 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b> TW// graphic scenes of gore, sex and blood throughout with a lot of cursing </b><br /><br /><b> Ratings: 10 out of 10 (more like 100/10) </b><br /><br />If you want a book the describes my sadistic side of me that you wouldn't expect or exist within me, well this is my answer.<br /><br />Here's the thing: I HAVE SO MUCH PRAISES O...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2799441693]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2799441693]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2797587427</id>
+    <book>
+  <id type="integer">36445279</id>
+  <isbn>1509876448</isbn>
+  <isbn13>9781509876440</isbn13>
+  <text_reviews_count type="integer">41</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.TZ9JJHrjiPnMjxP4ghMtUA</uri>
+  <title>Renegades (Renegades, #1)</title>
+  <title_without_series>Renegades</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508496573l/36445279._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508496573l/36445279._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/36445279-renegades</link>
+  <num_pages>576</num_pages>
+  <format></format>
+  <edition_information>UK Edition</edition_information>
+  <publisher>Macmillan Children's Books</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.16</average_rating>
+  <ratings_count>41772</ratings_count>
+  <description>&lt;i&gt;Secret Identities. Extraordinary Powers. She wants vengeance. He wants justice.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;The Renegades are a syndicate of prodigies — humans with extraordinary abilities — who emerged from the ruins of a crumbled society and established peace and order where chaos reigned. As champions of justice, they remain a symbol of hope and courage to everyone... except the villains they once overthrew.&lt;br /&gt;&lt;br /&gt;Nova has a reason to hate the Renegades, and she is on a mission for vengeance. As she gets closer to her target, she meets Adrian, a Renegade boy who believes in justice — and in Nova. But Nova's allegiance is to a villain who has the power to end them both.</description>
+<authors>
+<author>
+<id>4684322</id>
+<name>Marissa Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1558121336p5/4684322.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1558121336p2/4684322.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4684322.Marissa_Meyer]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>1660889</ratings_count>
+<text_reviews_count>183537</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>48526305</id>
+  <uri>kca://work/amzn1.gr.work.v1.xmDBb5-hJIcAqJOUaGYJ5g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548411943' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='326132034' name='10-out-of-10-books' review_shelf_id='2557898313' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for>superhero lovers</recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jun 01 21:25:21 -0700 2019</started_at>
+  <read_at>Tue Jun 11 03:00:45 -0700 2019</read_at>
+  <date_added>Wed Apr 24 09:25:31 -0700 2019</date_added>
+  <date_updated>Fri Jul 26 04:01:09 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Ratings: 10 out 10.<br /><br />From explaining the politics to tackling the idea of heroism to the true reality of having superpowers creates a grey area where there is no in between, making it harder to support which side (superheroes or villains) is the one we're siding with as this author real...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2797587427]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2797587427]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2796065962</id>
+    <book>
+  <id type="integer">3168250</id>
+  <isbn>0385736002</isbn>
+  <isbn13>9780385736008</isbn13>
+  <text_reviews_count type="integer">397</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.-Hwv7sL1mbgWkyAfZxs_Xw</uri>
+  <title>The Alchemyst (The Secrets of the Immortal Nicholas Flamel #1)</title>
+  <title_without_series>The Alchemyst</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3168250-the-alchemyst</link>
+  <num_pages>369</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Trade Paperback Edition</edition_information>
+  <publisher>Ember</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>130313</ratings_count>
+  <description>Read the first book in the &lt;i&gt;New York Times&lt;/i&gt; bestselling The Secrets of the Immortal Nicholas Flamel series, perfect for fans of &lt;i&gt;The Maze Runner&lt;/i&gt; and Percy Jackson and the Olympians.&lt;br /&gt;&lt;br /&gt;He holds the secret that can end the world.&lt;br /&gt;&lt;br /&gt;The truth: Nicholas Flamel was born in Paris on September 28, 1330. Nearly 700 years later, he is acknowledged as the greatest Alchemyst of his day. It is said that he discovered the secret of eternal life.&lt;br /&gt;&lt;br /&gt;The records show that he died in 1418.&lt;br /&gt;&lt;br /&gt;But his tomb is empty.&lt;br /&gt;&lt;br /&gt;The legend: Nicholas Flamel lives. But only because he has been making the elixir of life for centuries. The secret of eternal life is hidden within the book he protects—the Book of Abraham the Mage. It's the most powerful book that has ever existed. In the wrong hands, it will destroy the world. That's exactly what Dr. John Dee plans to do when he steals it. Humankind won't know what's happening until it's too late. And if the prophecy is right, Sophie and Josh Newman are the only ones with the power to save the world as we know it.&lt;br /&gt;&lt;br /&gt;Sometimes legends are true.&lt;br /&gt;&lt;br /&gt;And Sophie and Josh Newman are about to find themselves in the middle of the greatest legend of all time.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;
+  &lt;br /&gt;
+&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Praise for The Secrets of the Immortal Nicholas Flamel series:&lt;/b&gt;&lt;i&gt;
+  &lt;br /&gt;
+&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Alchemyst&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;[&lt;b&gt;STAR&lt;/b&gt;] “[A] A riveting fantasy…While there is plenty here to send readers rushing to their encyclopedias…those who read the book at face value will simply be caught up in the enthralling story. A fabulous read.”—&lt;b&gt;&lt;i&gt;School Library Journal&lt;/i&gt;, Starred&lt;/b&gt;&lt;br /&gt;  &lt;br /&gt;&lt;i&gt;The Magician&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;[&lt;b&gt;STAR&lt;/b&gt;] “Readers will be swept up by a plot that moves smartly along, leaving a wide trailer of destruction and well-timed revelations.”—&lt;b&gt;&lt;i&gt;Kirkus Reveiws&lt;/i&gt;, Starred&lt;/b&gt;&lt;br /&gt;  &lt;br /&gt;&lt;i&gt;The Sorceress&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;“Master yarnspinner that he is, Scott expertly cranks up the suspense while keeping his now-large cast in quick motion….This page –turner promises plenty of action to come.”—&lt;b&gt;
+  &lt;i&gt;Kirkus Reviews&lt;/i&gt;
+&lt;/b&gt;&lt;br /&gt;  &lt;br /&gt;&lt;i&gt;The Necromancer&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;“Unrelenting forward momentum….This book will thrill fans.”—&lt;b&gt;
+  &lt;i&gt;School Library Journal&lt;/i&gt;
+&lt;/b&gt;</description>
+<authors>
+<author>
+<id>27100</id>
+<name>Michael Scott</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1243251417p5/27100.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1243251417p2/27100.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/27100.Michael_Scott]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>455440</ratings_count>
+<text_reviews_count>21137</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>3354660</id>
+  <uri>kca://work/amzn1.gr.work.v1.TkQdxHN50r6UPv6EH4sCVg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>8</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>removed</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514116441' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2552508127' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Aug 05 04:54:31 -0700 2019</started_at>
+  <read_at>Sat Aug 10 07:16:24 -0700 2019</read_at>
+  <date_added>Tue Apr 23 01:51:57 -0700 2019</date_added>
+  <date_updated>Sat Aug 10 18:10:49 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b> Ratings: 9.5 out of 10 </b><br /><br />[spoilers removed]]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2796065962]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2796065962]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2794816858</id>
+    <book>
+  <id type="integer">37378443</id>
+  <isbn>1406379247</isbn>
+  <isbn13>9781406379242</isbn13>
+  <text_reviews_count type="integer">350</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.D1rXJnL5F0Bp3C9pN0OlAg</uri>
+  <title>Scythe (Arc of a Scythe, #1)</title>
+  <title_without_series>Scythe</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512984509l/37378443._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512984509l/37378443._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/37378443-scythe</link>
+  <num_pages>447</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Walker Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.36</average_rating>
+  <ratings_count>83336</ratings_count>
+  <description>A dark, gripping and witty thriller in which the only thing humanity has control over is death. &lt;br /&gt;&lt;br /&gt;In a world where disease, war and crime have been eliminated, the only way to die is to be randomly killed ("gleaned") by professional scythes. Citra and Rowan are teenagers who have been selected to be scythes' apprentices, and despite wanting nothing to do with the vocation, they must learn the art of killing and understand the necessity of what they do.&lt;br /&gt;&lt;br /&gt;Only one of them will be chosen as a scythe's apprentice and as Citra and Rowan come up against a terrifyingly corrupt Scythedom, it becomes clear that the winning apprentice's first task will be to glean the loser.</description>
+<authors>
+<author>
+<id>19564</id>
+<name>Neal Shusterman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1246977170p5/19564.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1246977170p2/19564.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/19564.Neal_Shusterman]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>553566</ratings_count>
+<text_reviews_count>70982</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>49179216</id>
+  <uri>kca://work/amzn1.gr.work.v1.5n8t82DJpsluB4PsN0tTRA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>removed</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548412006' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='326132034' name='10-out-of-10-books' review_shelf_id='2557898338' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jun 18 05:49:24 -0700 2019</started_at>
+  <read_at>Wed Jul 17 10:06:07 -0700 2019</read_at>
+  <date_added>Mon Apr 22 01:32:44 -0700 2019</date_added>
+  <date_updated>Tue Jul 30 03:07:26 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Ratings: 10 out of 10<br /><br />TW//murder, death, suicide, blood<br /><br />[spoilers removed]]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2794816858]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2794816858]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2794009940</id>
+    <book>
+  <id type="integer">40691730</id>
+  <isbn>1510105247</isbn>
+  <isbn13>9781510105249</isbn13>
+  <text_reviews_count type="integer">183</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.cC-10JTToqecAm-yL4WMbQ</uri>
+  <title>Shadow and Bone (GrishaVerse, #1)</title>
+  <title_without_series>Shadow and Bone</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530519636l/40691730._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530519636l/40691730._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40691730-shadow-and-bone</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Orion Children's Books</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>239779</ratings_count>
+  <description>Soldier. Summoner. Saint. Orphaned and expendable, Alina Starkov is a soldier who knows she may not survive her first trek across the Shadow Fold - a swath of unnatural darkness crawling with monsters. But when her regiment is attacked, Alina unleashes dormant magic not even she knew she possessed.&lt;br /&gt;&lt;br /&gt;Now Alina will enter a lavish world of royalty and intrigue as she trains with the Grisha, her country's magical military elite - and falls under the spell of their notorious leader, the Darkling. He believes Alina can summon a force capable of destroying the Shadow Fold and reuniting their war-ravaged country, but only if she can master her untamed gift.&lt;br /&gt;&lt;br /&gt;As the threat to the kingdom mounts and Alina unlocks the secrets of her past, she will make a dangerous discovery that could threaten all she loves and the very future of a nation.&lt;br /&gt;&lt;br /&gt;Welcome to Ravka . . . a world of science and superstition where nothing is what it seems.</description>
+<authors>
+<author>
+<id>4575289</id>
+<name>Leigh Bardugo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1534446099p5/4575289.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1534446099p2/4575289.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4575289.Leigh_Bardugo]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>1028181</ratings_count>
+<text_reviews_count>141407</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>15093325</id>
+  <uri>kca://work/amzn1.gr.work.v1.TR0mgw3URdUMDpJGzU2Qjw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548419990' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Sep 30 15:34:11 -0700 2019</started_at>
+  <read_at>Tue Oct 08 04:50:38 -0700 2019</read_at>
+  <date_added>Sun Apr 21 09:20:11 -0700 2019</date_added>
+  <date_updated>Tue Oct 08 04:50:38 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b> Ratings: 6 out of 10 </b><br /><br />This is the first ever book i've buddyread with a friend of mine on twitter and we have fun talking about this. The reason why i want to pick this series is because i want to know all about grishaverse as I enjoy six of crows duology so much and finding answers on why people...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2794009940]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2794009940]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2794009206</id>
+    <book>
+  <id type="integer">35116827</id>
+  <isbn>1780622317</isbn>
+  <isbn13>9781780622316</isbn13>
+  <text_reviews_count type="integer">199</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.mzxwpcFl644EokCQng77Lg</uri>
+  <title>Crooked Kingdom (Six of Crows, #2)</title>
+  <title_without_series>Crooked Kingdom</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494535105l/35116827._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494535105l/35116827._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35116827-crooked-kingdom</link>
+  <num_pages>546</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Orion Children's Books</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.61</average_rating>
+  <ratings_count>137282</ratings_count>
+  <description>▶&lt;i&gt;
+  &lt;a href="https://www.goodreads.com/book/show/39293773-crooked-kingdom" rel="nofollow"&gt;ACE #1&lt;/a&gt;
+&lt;/i&gt;&lt;br /&gt;▶&lt;i&gt;
+  &lt;a href="https://www.goodreads.com/book/show/40674640-crooked-kingdom" rel="nofollow"&gt;ACE #2&lt;/a&gt;
+&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;When you can't beat the odds, change the game.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Kaz Brekker and his crew have just pulled off a heist so daring even they didn't think they'd survive. But instead of divvying up a fat reward, they're right back to fighting for their lives. Double-crossed and badly weakened, the crew is low on resources, allies, and hope. As powerful forces from around the world descend on Ketterdam to root out the secrets of the dangerous drug known as &lt;i&gt;jurda parem&lt;/i&gt;, old rivals and new enemies emerge to challenge Kaz's cunning and test the team's fragile loyalties. A war will be waged on the city's dark and twisting streets―a battle for revenge and redemption that will decide the fate of the Grisha world.</description>
+<authors>
+<author>
+<id>4575289</id>
+<name>Leigh Bardugo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1534446099p5/4575289.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1534446099p2/4575289.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4575289.Leigh_Bardugo]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>1028181</ratings_count>
+<text_reviews_count>141407</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>42090179</id>
+  <uri>kca://work/amzn1.gr.work.v1.7F34z_V85HFI67nxUAwOmQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548419952' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='326132034' name='10-out-of-10-books' review_shelf_id='2647919542' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jul 28 20:54:51 -0700 2019</started_at>
+  <read_at>Fri Oct 04 11:07:45 -0700 2019</read_at>
+  <date_added>Sun Apr 21 09:19:19 -0700 2019</date_added>
+  <date_updated>Fri Oct 04 19:27:59 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b> Ratings: 10 out of 10 </b><br /><br />This is so much better from the first one as it is literally completing every arc from the characters, the story, the problems arises from the first one and finishing it with an immense amount of satisfaction in the end. And let's not forget there are surprises along the wa...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2794009206]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2794009206]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2794006981</id>
+    <book>
+  <id type="integer">40674626</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">15</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ofmVgb-lVSsGNkykDN6S5Q</uri>
+  <title>Six of Crows (Six of Crows, #1)</title>
+  <title_without_series>Six of Crows</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547045766l/40674626._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1547045766l/40674626._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40674626-six-of-crows</link>
+  <num_pages>494</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Orion Children's Books</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.46</average_rating>
+  <ratings_count>222833</ratings_count>
+  <description>Ketterdam: a bustling hub of international trade where anything can be had for the right price–and no one knows that better than criminal prodigy Kaz Brekker. Kaz is offered a chance at a deadly heist that could make him rich beyond his wildest dreams. But he can’t pull it off alone…&lt;br /&gt;&lt;br /&gt;&lt;i&gt;A convict with a thirst for revenge.&lt;br /&gt;&lt;br /&gt;A sharpshooter who can’t walk away from a wager.&lt;br /&gt;&lt;br /&gt;A runaway with a privileged past.&lt;br /&gt;&lt;br /&gt;A spy known as the Wraith.&lt;br /&gt;&lt;br /&gt;A Heartrender using her magic to survive the slums.&lt;br /&gt;&lt;br /&gt;A thief with a gift for unlikely escapes.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Six dangerous outcasts. One impossible heist. Kaz’s crew is the only thing that might stand between the world and destruction—if they don’t kill each other first.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Alternate Cover Edition for ISBN-13 &lt;a href="https://www.goodreads.com/book/show/29975820-six-of-crows" rel="nofollow"&gt;978-1780622286&lt;/a&gt;.&lt;/i&gt;</description>
+<authors>
+<author>
+<id>4575289</id>
+<name>Leigh Bardugo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1534446099p5/4575289.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1534446099p2/4575289.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4575289.Leigh_Bardugo]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>1028181</ratings_count>
+<text_reviews_count>141407</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>42077459</id>
+  <uri>kca://work/amzn1.gr.work.v1.LwRAfKf6dcBlbXYivcaaFg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548412051' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun May 19 00:00:00 -0700 2019</started_at>
+  <read_at>Sun Jun 02 00:00:00 -0700 2019</read_at>
+  <date_added>Sun Apr 21 09:16:43 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:02:41 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[ratings: 9.5 out of 10.<br /><br />i would rate this 10/10 or 5 stars but the only reason i lowered to 9.5 (or 4.5 stars) is because i was confused with the terminologies and words that existed in that book since this is the second series from grishaverse series.<br /><br />and it was partially m...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2794006981]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2794006981]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2793742951</id>
+    <book>
+  <id type="integer">28449207</id>
+  <isbn>0316341681</isbn>
+  <isbn13>9780316341684</isbn13>
+  <text_reviews_count type="integer">8845</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tnj6WeBOnuf8wtqLUXuSgw</uri>
+  <title>Strange the Dreamer (Strange the Dreamer, #1)</title>
+  <title_without_series>Strange the Dreamer</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519915549l/28449207._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519915549l/28449207._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28449207-strange-the-dreamer</link>
+  <num_pages>536</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.33</average_rating>
+  <ratings_count>63827</ratings_count>
+  <description>&lt;b&gt;The dream chooses the dreamer, not the other way around—&lt;/b&gt;and Lazlo Strange, war orphan and junior librarian, has always feared that his dream chose poorly. Since he was five years old he’s been obsessed with the mythic lost city of Weep, but it would take someone bolder than he to cross half the world in search of it. Then a stunning opportunity presents itself, in the person of a hero called the Godslayer and a band of legendary warriors, and he has to seize his chance or lose his dream forever.&lt;br /&gt;&lt;br /&gt;What happened in Weep two hundred years ago to cut it off from the rest of the world? What exactly did the Godslayer slay that went by the name of &lt;i&gt;god&lt;/i&gt;? And what is the mysterious problem he now seeks help in solving?&lt;br /&gt;&lt;br /&gt;The answers await in Weep, but so do more mysteries—including the blue-skinned goddess who appears in Lazlo’s dreams. How did he dream her before he knew she existed? And if all the gods are dead, why does she seem so real?&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Welcome to Weep.&lt;/i&gt;</description>
+<authors>
+<author>
+<id>324620</id>
+<name>Laini Taylor</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1224474224p5/324620.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1224474224p2/324620.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/324620.Laini_Taylor]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>659710</ratings_count>
+<text_reviews_count>83490</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>48158509</id>
+  <uri>kca://work/amzn1.gr.work.v1.Yhcboo5-UQklhEFahF2WsQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>removed</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2577787402' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='326132034' name='10-out-of-10-books' review_shelf_id='2617525783' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Aug 10 04:36:52 -0700 2019</started_at>
+  <read_at>Sun Sep 08 06:38:49 -0700 2019</read_at>
+  <date_added>Sun Apr 21 03:15:17 -0700 2019</date_added>
+  <date_updated>Mon Sep 09 17:20:31 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b> Ratings: 10 out of 10 </b><br /><br />[spoilers removed]]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2793742951]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2793742951]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779416736</id>
+    <book>
+  <id type="integer">10818853</id>
+  <isbn>1612130291</isbn>
+  <isbn13>9781612130293</isbn13>
+  <text_reviews_count type="integer">68444</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.io4j4oTWOrRgwov3N0d0KQ</uri>
+  <title>Fifty Shades of Grey (Fifty Shades, #1)</title>
+  <title_without_series>Fifty Shades of Grey</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385207843l/10818853._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385207843l/10818853._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10818853-fifty-shades-of-grey</link>
+  <num_pages>356</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.67</average_rating>
+  <ratings_count>1718486</ratings_count>
+  <description>When literature student Anastasia Steele goes to interview young entrepreneur Christian Grey, she encounters a man who is beautiful, brilliant, and intimidating. The unworldly, innocent Ana is startled to realize she wants this man and, despite his enigmatic reserve, finds she is desperate to get close to him. Unable to resist Ana’s quiet beauty, wit, and independent spirit, Grey admits he wants her, too—but on his own terms.&lt;br /&gt; &lt;br /&gt;Shocked yet thrilled by Grey’s singular erotic tastes, Ana hesitates. For all the trappings of success—his multinational businesses, his vast wealth, his loving family—Grey is a man tormented by demons and consumed by the need to control. When the couple embarks on a daring, passionately physical affair, Ana discovers Christian Grey’s secrets and explores her own dark desires.&lt;br /&gt;&lt;br /&gt;Erotic, amusing, and deeply moving, the Fifty Shades Trilogy is a tale that will obsess you, possess you, and stay with you forever.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;This book is intended for mature audiences.&lt;/b&gt;</description>
+<authors>
+<author>
+<id>4725841</id>
+<name>E.L. James</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1549477398p5/4725841.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1549477398p2/4725841.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4725841.E_L_James]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>3380239</ratings_count>
+<text_reviews_count>155692</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>15732562</id>
+  <uri>kca://work/amzn1.gr.work.v1.O_qFmqZYBqGQFb4ExyyyCw</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Apr 08 10:26:14 -0700 2019</date_added>
+  <date_updated>Wed Apr 24 09:24:40 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Ratings: 1 out of 10<br /><br />....this book is making me mad the more i think about it every time, especially the writing]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779416736]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779416736]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779403825</id>
+    <book>
+  <id type="integer">22844208</id>
+  <isbn>1408855712</isbn>
+  <isbn13>9781408855713</isbn13>
+  <text_reviews_count type="integer">918</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VRe3fvqzPYPSMrrQKuVY9g</uri>
+  <title>Harry Potter and the Deathly Hallows (Harry Potter, #7)</title>
+  <title_without_series>Harry Potter and the Deathly Hallows</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432278568l/22844208._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432278568l/22844208._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22844208-harry-potter-and-the-deathly-hallows</link>
+  <num_pages>620</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bloomsbury Childrens</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.61</average_rating>
+  <ratings_count>2529757</ratings_count>
+  <description>"Give me Harry Potter," said Voldemort's voice, "and none shall be harmed. Give me Harry Potter, and I shall leave the school untouched. Give me Harry Potter, and you will be rewarded."&lt;br /&gt;&lt;br /&gt;As he climbs into the sidecar of Hagrid's motorbike and takes to the skies, leaving Privet Drive for the last time, Harry Potter knows that Lord Voldemort and the Death Eaters are not far behind. The protective charm that has kept Harry safe until now is broken, but he cannot keep hiding. The Dark Lord is breathing fear into everything Harry loves, and to stop him Harry will have to find and destroy the remaining Horcruxes. The final battle must begin - Harry must stand and face his enemy...</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936672</ratings_count>
+<text_reviews_count>550496</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>2963218</id>
+  <uri>kca://work/amzn1.gr.work.v1.Adr1zpcHTPWrbOovOdZhlA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548412106' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='326132034' name='10-out-of-10-books' review_shelf_id='2557898388' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed May 08 00:00:00 -0700 2019</started_at>
+  <read_at>Sat May 18 07:50:41 -0700 2019</read_at>
+  <date_added>Mon Apr 08 10:12:53 -0700 2019</date_added>
+  <date_updated>Fri Jul 26 04:01:18 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[ratings: ofc it is 10 out of 10<br /><br />from a person who never read the book series as a kid and also watch the movie franchise (except one which i don't remember AT ALL) BUT throughout my journey reading the series from the philosopher's stone to the deathly hallows with so many emotional ro...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779403825]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779403825]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779403783</id>
+    <book>
+  <id type="integer">22844202</id>
+  <isbn>1408855704</isbn>
+  <isbn13>9781408855706</isbn13>
+  <text_reviews_count type="integer">851</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ldEpqzvQJrnP2ecn7le9Cw</uri>
+  <title>Harry Potter and the Half-Blood Prince (Harry Potter, #6)</title>
+  <title_without_series>Harry Potter and the Half-Blood Prince</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432278905l/22844202._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432278905l/22844202._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22844202-harry-potter-and-the-half-blood-prince</link>
+  <num_pages>542</num_pages>
+  <format>Paperback</format>
+  <edition_information>UK Edition</edition_information>
+  <publisher>Bloomsbury</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.56</average_rating>
+  <ratings_count>2172048</ratings_count>
+  <description>When Dumbledore arrives at Privet Drive one summer night to collect Harry Potter, his wand hand is blackened and shrivelled, but he does not reveal why. Secrets and suspicion are spreading through the wizarding world, and Hogwarts itself is not safe. Harry is convinced that Malfoy bears the Dark Mark: there is a Death Eater amongst them. Harry will need powerful magic and true friends as he explores Voldemort’s darkest secrets, and Dumbledore prepares him to face his destiny ...&lt;br /&gt;&lt;br /&gt;Source: harrypotter.bloomsbury.com</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936672</ratings_count>
+<text_reviews_count>550496</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>41335427</id>
+  <uri>kca://work/amzn1.gr.work.v1.txipecnIYua0HbI4GhIAkA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548412173' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='326132034' name='10-out-of-10-books' review_shelf_id='2557898434' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri May 03 00:00:00 -0700 2019</started_at>
+  <read_at>Wed May 08 00:00:00 -0700 2019</read_at>
+  <date_added>Mon Apr 08 10:12:51 -0700 2019</date_added>
+  <date_updated>Fri Jul 26 04:01:23 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      ratings: 10 out of 10
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779403783]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779403783]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779403618</id>
+    <book>
+  <id type="integer">2</id>
+  <isbn>0439358078</isbn>
+  <isbn13>9780439358071</isbn13>
+  <text_reviews_count type="integer">28427</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.uGB1cTbG_Dm5BpjL_i7pqw</uri>
+  <title>Harry Potter and the Order of the Phoenix (Harry Potter, #5)</title>
+  <title_without_series>Harry Potter and the Order of the Phoenix</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546910265l/2._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546910265l/2._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix</link>
+  <num_pages>870</num_pages>
+  <format>Paperback</format>
+  <edition_information>US Edition</edition_information>
+  <publisher>Scholastic Inc.</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.49</average_rating>
+  <ratings_count>2226608</ratings_count>
+  <description>There is a door at the end of a silent corridor. And it’s haunting Harry Pottter’s dreams. Why else would he be waking in the middle of the night, screaming in terror?&lt;br /&gt;&lt;br /&gt;Harry has a lot on his mind for this, his fifth year at Hogwarts: a Defense Against the Dark Arts teacher with a personality like poisoned honey; a big surprise on the Gryffindor Quidditch team; and the looming terror of the Ordinary Wizarding Level exams. But all these things pale next to the growing threat of He-Who-Must-Not-Be-Named---a threat that neither the magical government nor the authorities at Hogwarts can stop.&lt;br /&gt;&lt;br /&gt;As the grasp of darkness tightens, Harry must discover the true depth and strength of his friends, the importance of boundless loyalty, and the shocking price of unbearable sacrifice.&lt;br /&gt;&lt;br /&gt;His fate depends on them all.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936672</ratings_count>
+<text_reviews_count>550496</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>2809203</id>
+  <uri>kca://work/amzn1.gr.work.v1.QBlq2dw4tPMZSuXhlMeXww</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548412532' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='326132034' name='10-out-of-10-books' review_shelf_id='2557898477' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Mar 01 00:00:00 -0800 2019</read_at>
+  <date_added>Mon Apr 08 10:12:41 -0700 2019</date_added>
+  <date_updated>Fri Jul 26 04:01:27 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779403618]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779403618]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779403497</id>
+    <book>
+  <id type="integer">6</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">30565</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Qtinlqa0DGyf_iLtfFVrCQ</uri>
+  <title>Harry Potter and the Goblet of Fire (Harry Potter, #4)</title>
+  <title_without_series>Harry Potter and the Goblet of Fire</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554006152l/6._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554006152l/6._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire</link>
+  <num_pages>734</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Scholastic Trade Paperback Edition</edition_information>
+  <publisher>Scholastic</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.55</average_rating>
+  <ratings_count>2281792</ratings_count>
+  <description>Harry Potter is midway through his training as a wizard and his coming of age. Harry wants to get away from the pernicious Dursleys and go to the International Quidditch Cup. He wants to find out about the mysterious event that's supposed to take place at Hogwarts this year, an event involving two other rival schools of magic, and a competition that hasn't happened for a hundred years. He wants to be a normal, fourteen-year-old wizard. But unfortunately for Harry Potter, he's not normal - even by wizarding standards. And in his case, different can be deadly. --back cover</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936672</ratings_count>
+<text_reviews_count>550496</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>3046572</id>
+  <uri>kca://work/amzn1.gr.work.v1.USb5ObBtcLXUuC3i9aoelA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548412556' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='326132034' name='10-out-of-10-books' review_shelf_id='2557898510' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jan 01 00:00:00 -0800 2019</read_at>
+  <date_added>Mon Apr 08 10:12:34 -0700 2019</date_added>
+  <date_updated>Fri Jul 26 04:01:30 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779403497]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779403497]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779403390</id>
+    <book>
+  <id type="integer">15881</id>
+  <isbn>0439064864</isbn>
+  <isbn13>9780439064866</isbn13>
+  <text_reviews_count type="integer">33623</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KlY-hIN06yK2_7Y8_mQVig</uri>
+  <title>Harry Potter and the Chamber of Secrets (Harry Potter, #2)</title>
+  <title_without_series>Harry Potter and the Chamber of Secrets</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474169725l/15881._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474169725l/15881._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets</link>
+  <num_pages>341</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First American Edition</edition_information>
+  <publisher>Arthur A. Levine Books / Scholastic Inc.</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.41</average_rating>
+  <ratings_count>2395458</ratings_count>
+  <description>The Dursleys were so mean and hideous that summer that all Harry Potter wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he's packing his bags, Harry receives a warning from a strange, impish creature named Dobby who says that if Harry Potter returns to Hogwarts, disaster will strike&lt;br /&gt;&lt;br /&gt;And strike it does. For in Harry's second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor, Gilderoy Lockhart, a spirit named Moaning Myrtle who haunts the girls' bathroom, and the unwanted attentions of Ron Weasley's younger sister, Ginny.&lt;br /&gt;&lt;br /&gt;But each of these seem minor annoyances when the real trouble begins, and someone -- or something -- starts turning Hogwarts students to stone. Could it be Draco Malfoy, a more poisonous rival than ever? Could it possibly be Hagrid, whose mysterious past is finally told? Or could it be the one everyone at Hogwarts most suspects . . . Harry Potter himself?&lt;br /&gt;&lt;br /&gt;--jacket description</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936672</ratings_count>
+<text_reviews_count>550496</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>6231171</id>
+  <uri>kca://work/amzn1.gr.work.v1.PjwTgn-_w5b0mY40RgNxdw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548412590' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='326132034' name='10-out-of-10-books' review_shelf_id='2557898536' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Dec 01 00:00:00 -0800 2018</read_at>
+  <date_added>Mon Apr 08 10:12:27 -0700 2019</date_added>
+  <date_updated>Fri Jul 26 04:01:32 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779403390]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779403390]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779403279</id>
+    <book>
+  <id type="integer">5</id>
+  <isbn>043965548X</isbn>
+  <isbn13>9780439655484</isbn13>
+  <text_reviews_count type="integer">35259</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.om7j-Dd6wInrhO7TVy51Ow</uri>
+  <title>Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)</title>
+  <title_without_series>Harry Potter and the Prisoner of Azkaban</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499277281l/5._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499277281l/5._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban</link>
+  <num_pages>435</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic Inc.</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.56</average_rating>
+  <ratings_count>2438525</ratings_count>
+  <description>Harry Potter's third year at Hogwarts is full of new dangers. A convicted murderer, Sirius Black, has broken out of Azkaban prison, and it seems he's after Harry. Now Hogwarts is being patrolled by the dementors, the Azkaban guards who are hunting Sirius. But Harry can't imagine that Sirius or, for that matter, the evil Lord Voldemort could be more frightening than the dementors themselves, who have the terrible power to fill anyone they come across with aching loneliness and despair. Meanwhile, life continues as usual at Hogwarts. A top-of-the-line broom takes Harry's success at Quidditch, the sport of the Wizarding world, to new heights. A cute fourth-year student catches his eye. And he becomes close with the new Defense of the Dark Arts teacher, who was a childhood friend of his father. Yet despite the relative safety of life at Hogwarts and the best efforts of the dementors, the threat of Sirius Black grows ever closer. But if Harry has learned anything from his education in wizardry, it is that things are often not what they seem. Tragic revelations, heartwarming surprises, and high-stakes magical adventures await the boy wizard in this funny and poignant third installment of the beloved series.&lt;br /&gt;--scholastic.com</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936672</ratings_count>
+<text_reviews_count>550496</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>2402163</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZkLfli5sQE5ax3qSa7235Q</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548412634' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='326132034' name='10-out-of-10-books' review_shelf_id='2557898561' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Dec 01 00:00:00 -0800 2018</read_at>
+  <date_added>Mon Apr 08 10:12:20 -0700 2019</date_added>
+  <date_updated>Fri Jul 26 04:01:35 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779403279]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779403279]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779403123</id>
+    <book>
+  <id type="integer">3</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">72244</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tJT_00n8UPpvWa-zWHEAXg</uri>
+  <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone</link>
+  <num_pages>322</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Inc</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>6201046</ratings_count>
+  <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936672</ratings_count>
+<text_reviews_count>550496</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>4640799</id>
+  <uri>kca://work/amzn1.gr.work.v1.TbpxJa2CwiSSz_9W2FruoA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548412683' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='326132034' name='10-out-of-10-books' review_shelf_id='2557898603' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Dec 01 00:00:00 -0800 2018</read_at>
+  <date_added>Mon Apr 08 10:12:10 -0700 2019</date_added>
+  <date_updated>Fri Jul 26 04:01:40 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779403123]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779403123]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779401882</id>
+    <book>
+  <id type="integer">26031279</id>
+  <isbn>1484732782</isbn>
+  <isbn13>9781484732786</isbn13>
+  <text_reviews_count type="integer">445</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2R5jIYyy7xT7qRi39Eh0PQ</uri>
+  <title>Demigods &amp; Magicians: Percy and Annabeth Meet the Kanes</title>
+  <title_without_series>Demigods &amp; Magicians: Percy and Annabeth Meet the Kanes</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533071578l/26031279._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533071578l/26031279._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26031279-demigods-magicians</link>
+  <num_pages>224</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Disney-Hyperion</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.35</average_rating>
+  <ratings_count>8474</ratings_count>
+  <description>Magic, monsters, and mayhem abound when Percy Jackson and Annabeth Chase meet Carter and Sadie Kane for the first time. Weird creatures are appearing in unexpected places, and the demigods and magicians have to team up to take them down. As they battle with Celestial Bronze and glowing hieroglyphs, the four heroes find that they have a lot in common--and more power than they ever thought possible. But will their combined forces be enough to foil an ancient enemy who is mixing Greek and Egyptian incantations for an evil purpose? Rick Riordan wields his usual storytelling magic in this adrenaline-fueled adventure.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>45957573</id>
+  <uri>kca://work/amzn1.gr.work.v1.kFAHroPSLiy6yE961AcSEA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514131784' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548412779' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Mar 01 00:00:00 -0800 2019</read_at>
+  <date_added>Mon Apr 08 10:10:51 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:03:30 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779401882]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779401882]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779399627</id>
+    <book>
+  <id type="integer">34879217</id>
+  <isbn>0141342560</isbn>
+  <isbn13>9780141342566</isbn13>
+  <text_reviews_count type="integer">18</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.PjhU7CGJeHr1UCNU2yFfaA</uri>
+  <title>Magnus Chase and the Hammer of Thor (Book 2)</title>
+  <title_without_series>Magnus Chase and the Hammer of Thor</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499965502l/34879217._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499965502l/34879217._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34879217-magnus-chase-and-the-hammer-of-thor</link>
+  <num_pages>457</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Puffin</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.35</average_rating>
+  <ratings_count>56653</ratings_count>
+  <description>Thor's hammer is missing &lt;i&gt;again&lt;/i&gt;. The thunder god has a disturbing habit of misplacing his weapon - the mightiest force in the Nine Worlds. But this time the hammer isn't just lost, it has fallen into enemy hands. If Magnus Chase and his friends can't retrieve the hammer quickly, the mortal worlds will be defenseless against an onslaught of giants. Ragnarok will begin. The Nine Worlds will burn. Unfortunately, the only person who can broker a deal for the hammer's return is the gods' worst enemy, Loki - and the price he wants is &lt;i&gt;very&lt;/i&gt; high.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>46919813</id>
+  <uri>kca://work/amzn1.gr.work.v1.CPSf2ntWGxGClrcSvoJHIg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>removed</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514130526' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2567273817' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jul 25 05:16:06 -0700 2019</started_at>
+  <read_at>Mon Aug 05 04:35:19 -0700 2019</read_at>
+  <date_added>Mon Apr 08 10:08:40 -0700 2019</date_added>
+  <date_updated>Mon Aug 05 04:35:19 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<b>ratings: 9.5 out of 10</b><br /><br />[spoilers removed]<br />]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779399627]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779399627]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779399561</id>
+    <book>
+  <id type="integer">26252859</id>
+  <isbn>148473274X</isbn>
+  <isbn13>9781484732748</isbn13>
+  <text_reviews_count type="integer">8137</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.t8NFzNKJKhmFgOGHKhYNjg</uri>
+  <title>The Hidden Oracle (The Trials of Apollo, #1)</title>
+  <title_without_series>The Hidden Oracle</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449765273l/26252859._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449765273l/26252859._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26252859-the-hidden-oracle</link>
+  <num_pages>375</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Disney-Hyperion</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.26</average_rating>
+  <ratings_count>87351</ratings_count>
+  <description>How do you punish an immortal?&lt;br /&gt;&lt;br /&gt;By making him human.&lt;br /&gt;&lt;br /&gt;After angering his father Zeus, the god Apollo is cast down from Olympus. Weak and disorientated, he lands in New York City as a regular teenage boy. Now, without his godly powers, the four-thousand-year-old deity must learn to survive in the modern world until he can somehow find a way to regain Zeus's favour.&lt;br /&gt;&lt;br /&gt;But Apollo has many enemies—gods, monsters and mortals who would love to see the former Olympian permanently destroyed. Apollo needs help, and he can think of only one place to go... an enclave of modern demigods known as Camp Half-Blood.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>46249638</id>
+  <uri>kca://work/amzn1.gr.work.v1.tJMQ2g3eAl7pjiJrV_Y4fw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514130430' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548412812' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Apr 16 00:00:00 -0700 2019</read_at>
+  <date_added>Mon Apr 08 10:08:36 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:03:33 -0700 2019</date_updated>
+  <read_count>2</read_count>
+  <body>
+      Rating: 7 out of 10.
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779399561]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779399561]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779399484</id>
+    <book>
+  <id type="integer">15724396</id>
+  <isbn>1423160916</isbn>
+  <isbn13>9781423160915</isbn13>
+  <text_reviews_count type="integer">9814</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.eu5Vlu_UZKa1tda1spD2zA</uri>
+  <title>The Sword of Summer (Magnus Chase and the Gods of Asgard, #1)</title>
+  <title_without_series>The Sword of Summer</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434701340l/15724396._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434701340l/15724396._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15724396-the-sword-of-summer</link>
+  <num_pages>499</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Disney-Hyperion Books</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>130509</ratings_count>
+  <description>Magnus Chase has seen his share of trouble. Ever since that terrible night two years ago when his mother told him to run, he has lived alone on the streets of Boston, surviving by his wits, staying one step ahead of the police and the truant officers.&lt;br /&gt;&lt;br /&gt;One day, Magnus learns that someone else is trying to track him down—his uncle Randolph, a man his mother had always warned him about. When Magnus tries to outmaneuver his uncle, he falls right into his clutches. Randolph starts rambling about Norse history and Magnus's birthright: a weapon that has been lost for thousands of years.&lt;br /&gt;&lt;br /&gt;The more Randolph talks, the more puzzle pieces fall into place. Stories about the gods of Asgard, wolves, and Doomsday bubble up from Magnus's memory. But he doesn't have time to consider it all before a fire giant attacks the city, forcing him to choose between his own safety and the lives of hundreds of innocents. . . .&lt;br /&gt;&lt;br /&gt;Sometimes, the only way to start a new life is to die.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>21400019</id>
+  <uri>kca://work/amzn1.gr.work.v1.Lp8OX53MF0NUSBWh7pEH5Q</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514130384' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548412863' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Apr 13 00:00:00 -0700 2019</read_at>
+  <date_added>Mon Apr 08 10:08:31 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:03:36 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      Rating: 9 out of 10.
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779399484]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779399484]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779399019</id>
+    <book>
+  <id type="integer">12893742</id>
+  <isbn>1423140575</isbn>
+  <isbn13>9781423140573</isbn13>
+  <text_reviews_count type="integer">4305</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.njDrv-9qKGw8UV8LeoRNHg</uri>
+  <title>The Serpent's Shadow (The Kane Chronicles, #3)</title>
+  <title_without_series>The Serpent's Shadow</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366227982l/12893742._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366227982l/12893742._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12893742-the-serpent-s-shadow</link>
+  <num_pages>406</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Hyperion Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>109050</ratings_count>
+  <description>He's b-a-a-ack! Despite their best efforts, Carter and Sadie Kane can't seem to keep Apophis, the chaos snake, down. Now Apophis is threatening to plunge the world into eternal darkness, and the Kanes are faced with the impossible task of having to destroy him once and for all. Unfortunately, the magicians of the House of Life are on the brink of civil war, the gods are divided, and the young initiates of Brooklyn House stand almost alone against the forces of chaos. The Kanes' only hope is an ancient spell that might turn the serpent's own shadow into a weapon, but the magic has been lost for a millennia. To find the answer they need, the Kanes must rely on the murderous ghost of a powerful magician who might be able to lead them to the serpent's shadow . . . or might lead them to their deaths in the depths of the underworld. Nothing less than the mortal world is at stake when the Kane family fulfills its destiny in this thrilling conclusion to the Kane Chronicles.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>16416771</id>
+  <uri>kca://work/amzn1.gr.work.v1.sOnsz7qZrMta4StIACTQzQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514130336' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548412932' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Apr 01 00:00:00 -0700 2019</read_at>
+  <date_added>Mon Apr 08 10:08:03 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:03:41 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779399019]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779399019]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779398815</id>
+    <book>
+  <id type="integer">9067850</id>
+  <isbn>1423140567</isbn>
+  <isbn13>9781423140566</isbn13>
+  <text_reviews_count type="integer">4974</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.bxBq97VXNmznYIrfNMV5Yg</uri>
+  <title>The Throne of Fire (The Kane Chronicles, #2)</title>
+  <title_without_series>The Throne of Fire</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366227973l/9067850._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366227973l/9067850._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9067850-the-throne-of-fire</link>
+  <num_pages>452</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Hyperion Books for Children</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>145702</ratings_count>
+  <description>Ever since the gods of Ancient Egypt were unleashed in the modern world, Carter Kane and his sister Sadie have been in trouble. As descendants of the House of Life, the Kanes have some powers at their command, but the devious gods haven't given them much time to master their skills at Brooklyn House, which has become a training ground for young magicians. &lt;br /&gt;&lt;br /&gt;And now their most threatening enemy yet - the chaos snake Apophis - is rising. If they don't prevent him from breaking free in a few days' time, the world will come to an end. In other words, it's a typical week for the Kane family. &lt;br /&gt;&lt;br /&gt;To have any chance of battling the Forces of Chaos, the Kanes must revive the sun god Ra. But that would be a feat more powerful than any magician has ever accomplished. &lt;br /&gt;&lt;br /&gt;First they have to search the world for the three sections of the Book of Ra, then they have to learn how to chant its spells. Oh, and did we mention that no one knows where Ra is exactly? &lt;br /&gt;&lt;br /&gt;Narrated in two different wisecracking voices, featuring a large cast of new and unforgettable characters, and with adventures spanning the globe, this second installment in the Kane Chronicles is nothing short of a thrill ride.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>13945952</id>
+  <uri>kca://work/amzn1.gr.work.v1.h1gZzVss7opCW_ml6r6Tnw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514130290' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548412969' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Apr 01 00:00:00 -0700 2019</read_at>
+  <date_added>Mon Apr 08 10:07:52 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:03:43 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779398815]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779398815]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779398601</id>
+    <book>
+  <id type="integer">18705209</id>
+  <isbn>1484724917</isbn>
+  <isbn13>9781423146735</isbn13>
+  <text_reviews_count type="integer">12310</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.AcNLqMd7f5AFraFgJN_q7Q</uri>
+  <title>The Blood of Olympus (The Heroes of Olympus, #5)</title>
+  <title_without_series>The Blood of Olympus</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201441l/18705209._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201441l/18705209._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18705209-the-blood-of-olympus</link>
+  <num_pages>516</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Disney-Hyperion Books</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.42</average_rating>
+  <ratings_count>171914</ratings_count>
+  <description>&lt;b&gt;Nico had warned them.&lt;/b&gt; Going through the House of Hades would stir the demigods' worst memories. Their ghosts would become restless. Nico may actually &lt;i&gt;become&lt;/i&gt; a ghost if he has to shadow-travel with Reyna and Coach Hedge one more time. But that might be better than the alternative: allowing someone else to die, as Hades foretold.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Jason's ghost is his mother,&lt;/b&gt; who abandoned him when he was little. He may not know how he is going to prove himself as a leader, but he does know that he will not break promises like she did. He will complete his line of the prophecy: &lt;i&gt;To storm or fire the world must fall.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Reyna fears the ghosts of her ancestors,&lt;/b&gt; who radiate anger. But she can't allow them to distract her from getting the Athena Parthenos to Camp Half-Blood before war breaks out between the Romans and Greeks. Will she have enough strength to succeed, especially with a deadly hunter on her trail?&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Leo fears that his plan won't work,&lt;/b&gt; that his friends might interfere. But there is no other way. All of them know that one of the Seven has to die in order to defeat Gaea, the Earth Mother.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Piper must learn to give herself over to fear.&lt;/b&gt; Only then will she be able to do her part at the end: utter a single word.&lt;br /&gt;&lt;br /&gt;Heroes, gods, and monsters all have a role to play in the climactic fulfillment of the prophecy in &lt;i&gt;The Blood of Olympus&lt;/i&gt;, the electrifying finale of the best-selling Heroes of Olympus series.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>17115101</id>
+  <uri>kca://work/amzn1.gr.work.v1.b8pHL1NXyICVUcVEUh2omQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514127518' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548413001' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Mar 01 00:00:00 -0800 2019</read_at>
+  <date_added>Mon Apr 08 10:07:42 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:03:45 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779398601]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779398601]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779398429</id>
+    <book>
+  <id type="integer">12127810</id>
+  <isbn>1423146727</isbn>
+  <isbn13>9781423146728</isbn13>
+  <text_reviews_count type="integer">12150</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.zRa9iBfnoCtq1avnixbuZw</uri>
+  <title>The House of Hades (The Heroes of Olympus, #4)</title>
+  <title_without_series>The House of Hades</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201430l/12127810._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201430l/12127810._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12127810-the-house-of-hades</link>
+  <num_pages>597</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Disney-Hyperion Books</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.55</average_rating>
+  <ratings_count>228550</ratings_count>
+  <description>&lt;b&gt;Hazel stands at a crossroads.&lt;/b&gt; She and the remaining crew of the &lt;i&gt;Argo II&lt;/i&gt; could return home with the Athena Parthenos statue and try to stop Camp Half-Blood and Camp Jupiter from going to war. Or they could continue their quest to find the House of Hades, where they might be able to open the Doors of Death, rescue their friends Percy and Annabeth from Tartarus, and prevent monsters from being reincarnated in the mortal world. Whichever road they decide to take, they have to hurry, because time is running out. Gaea, the bloodthirsty Earth Mother, has set the date of August 1 for her rise to power.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Annabeth and Percy are overwhelmed.&lt;/b&gt; How will the two of them make it through Tartarus? Starving, thirsty, and in pain, they are barely able to stumble on in the dark and poisonous landscape that holds new horrors at every turn. They have no way of locating the Doors of Death. Even if they did, a legion of Gaea's strongest monsters guards the Doors on the Tartarus side. Annabeth and Percy can't exactly launch a frontal assault.&lt;br /&gt;&lt;br /&gt;Despite the terrible odds, Hazel, Annabeth, Percy, and the other demigods of the prophecy know that there is only one choice: to attempt the impossible. Not just for themselves, but for everyone they love. Even though love can be the riskiest choice of all.&lt;br /&gt;&lt;br /&gt;Join the demigods as they face their biggest challenges yet in &lt;i&gt;The House of Hades&lt;/i&gt;, the hair-raising penultimate book in the best-selling Heroes of Olympus series.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>21539506</id>
+  <uri>kca://work/amzn1.gr.work.v1.RPqh-3kkYUB8Lav5H4okIA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514127489' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548413049' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Mar 01 00:00:00 -0800 2019</read_at>
+  <date_added>Mon Apr 08 10:07:31 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:03:48 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779398429]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779398429]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779398242</id>
+    <book>
+  <id type="integer">7090447</id>
+  <isbn>1423113381</isbn>
+  <isbn13>9781423113386</isbn13>
+  <text_reviews_count type="integer">10930</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.1r1x1-ID-XFrk8ofUo2slw</uri>
+  <title>The Red Pyramid (The Kane Chronicles, #1)</title>
+  <title_without_series>The Red Pyramid</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366227978l/7090447._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366227978l/7090447._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7090447-the-red-pyramid</link>
+  <num_pages>516</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Disney-Hyperion</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>288267</ratings_count>
+  <description>Since his mother's death six years ago, Carter Kane has been living out of a suitcase, traveling the globe with his father, the brilliant Egyptologist, Dr. Julius Kane. But while Carter's been homeschooled, his younger sister, Sadie, has been living with their grandparents in London. Sadie has just what Carter wants—school friends and a chance at a "normal" life. But Carter has just what Sadie longs for—time with their father. After six years of living apart, the siblings have almost nothing in common. Until now.&lt;br /&gt;&lt;br /&gt;On Christmas Eve, Sadie and Carter are reunited when their father brings them to the British Museum, with a promise that he's going to "make things right." But all does not go according to plan: Carter and Sadie watch as Julius summons a mysterious figure, who quickly banishes their father and causes a fiery explosion.&lt;br /&gt;&lt;br /&gt;Soon Carter and Sadie discover that the gods of Ancient Egypt are waking, and the worst of them—Set—has a frightening scheme. To save their father, they must embark on a dangerous journey—a quest that brings them ever closer to the truth about their family and its links to the House of Life, a secret order that has existed since the time of the pharaohs.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>7346572</id>
+  <uri>kca://work/amzn1.gr.work.v1.pOAYJpTUzBiXR5d_JBnVUw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514130246' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548413097' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Apr 01 00:00:00 -0700 2019</read_at>
+  <date_added>Mon Apr 08 10:07:20 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:03:51 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779398242]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779398242]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779398080</id>
+    <book>
+  <id type="integer">9520360</id>
+  <isbn>1423140591</isbn>
+  <isbn13>9781423140597</isbn13>
+  <text_reviews_count type="integer">12554</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.x6tgCdc3-PCSB1XK1dPqJQ</uri>
+  <title>The Son of Neptune (The Heroes of Olympus, #2)</title>
+  <title_without_series>The Son of Neptune</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201114l/9520360._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201114l/9520360._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9520360-the-son-of-neptune</link>
+  <num_pages>521</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Disney-Hyperion Books</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.44</average_rating>
+  <ratings_count>375262</ratings_count>
+  <description>&lt;b&gt;Percy is confused.&lt;/b&gt; When he awoke from his long sleep, he didn't know much more than his name. His brain fuzz is lingering, even after the wolf Lupa told him he is a demigod and trained him to fight with the pen/sword in his pocket. Somehow Percy manages to make it to a camp for half-bloods, despite the fact that he has to keep killing monsters along the way. But the camp doesn't ring any bells with him. The only thing he can recall from his past is another name: &lt;i&gt;Annabeth&lt;/i&gt;. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Hazel is supposed to be dead.&lt;/b&gt; When she lived before, she didn't do a very good job of it. Sure, she was an obedient daughter, even when her mother was possessed by greed. But that was the problem—when the Voice took over her mother and commanded Hazel to use her "gift" for an evil purpose, Hazel couldn't say no. Now because of her mistake, the future of the world is at risk. Hazel wishes she could ride away from it all on the stallion that appears in her dreams. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Frank is a klutz.&lt;/b&gt; His grandmother says he is descended from heroes and can be anything he wants to be, but he doesn't see it. He doesn't even know who his father is. He keeps hoping Apollo will claim him, because the only thing he is good at is archery—although not good enough to win camp war games. His bulky physique makes him feel like an ox, especially in front of Hazel, his closest friend at camp. He trusts her completely—enough to share the secret he holds close to his heart. &lt;br /&gt;&lt;br /&gt;Beginning at the "other" camp for half-bloods and extending as far as the land beyond the gods, this breathtaking second installment of the Heroes of Olympus series introduces new demigods, revives fearsome monsters, and features other remarkable creatures, all destined to play a part in the Prophesy of Seven.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>14406312</id>
+  <uri>kca://work/amzn1.gr.work.v1.4YWNrh2iWFdeAA1RzU0Svg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514127451' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548413154' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Mar 01 00:00:00 -0800 2019</read_at>
+  <date_added>Mon Apr 08 10:07:11 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:03:54 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779398080]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779398080]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779397950</id>
+    <book>
+  <id type="integer">12127750</id>
+  <isbn>1423140605</isbn>
+  <isbn13>9781423140603</isbn13>
+  <text_reviews_count type="integer">13538</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.SqPd5QaDC_Uxk6METb4QPQ</uri>
+  <title>The Mark of Athena (The Heroes of Olympus, #3)</title>
+  <title_without_series>The Mark of Athena</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201354l/12127750._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201354l/12127750._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12127750-the-mark-of-athena</link>
+  <num_pages>586</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Disney-Hyperion Books</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.45</average_rating>
+  <ratings_count>406903</ratings_count>
+  <description>&lt;b&gt;Annabeth is terrified.&lt;/b&gt; Just when she's about to be reunited with Percy—after six months of being apart, thanks to Hera—it looks like Camp Jupiter is preparing for war. As Annabeth and her friends Jason, Piper, and Leo fly in on the &lt;i&gt;Argo II&lt;/i&gt;, she can't blame the Roman demigods for thinking the ship is a Greek weapon. With its steaming bronze dragon figurehead, Leo's fantastical creation doesn't appear friendly. Annabeth hopes that the sight of their praetor Jason on deck will reassure the Romans that the visitors from Camp Half-Blood are coming in peace.&lt;br /&gt;&lt;br /&gt;And that's only one of her worries. In her pocket, Annabeth carries a gift from her mother that came with an unnerving command: &lt;i&gt;Follow the Mark of Athena. Avenge me.&lt;/i&gt; Annabeth already feels weighed down by the prophecy that will send seven demigods on a quest to find—and close—the Doors of Death. What more does Athena want from her?&lt;br /&gt;&lt;br /&gt;Annabeth's biggest fear, though, is that Percy might have changed. What if he's now attached to Roman ways? Does he still need his old friends? As the daughter of the goddess of war and wisdom, Annabeth knows she was born to be a leader—but never again does she want to be without Seaweed Brain by her side&lt;br /&gt;&lt;br /&gt;Narrated by four different demigods, &lt;i&gt;The Mark of Athena&lt;/i&gt; is an unforgettable journey across land and sea to Rome, where important discoveries, surprising sacrifices, and unspeakable horrors await. Climb aboard the &lt;i&gt;Argo II&lt;/i&gt;, if you dare. . . .</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>17115055</id>
+  <uri>kca://work/amzn1.gr.work.v1.MM2tNHB_EheGlsdE5VS_Hg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514127467' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548413189' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Mar 01 00:00:00 -0800 2019</read_at>
+  <date_added>Mon Apr 08 10:07:02 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:03:57 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779397950]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779397950]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779397777</id>
+    <book>
+  <id type="integer">4556058</id>
+  <isbn>1423101472</isbn>
+  <isbn13>9781423101475</isbn13>
+  <text_reviews_count type="integer">5509</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.TMShoUokLTOyMWYnmUkDHQ</uri>
+  <title>The Last Olympian (Percy Jackson and the Olympians, #5)</title>
+  <title_without_series>The Last Olympian</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519022209l/4556058._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519022209l/4556058._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4556058-the-last-olympian</link>
+  <num_pages>381</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Disney-Hyperion Books</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.51</average_rating>
+  <ratings_count>594325</ratings_count>
+  <description>All year the half-bloods have been preparing for battle against the Titans, knowing the odds of victory are grim. Kronos's army is stronger than ever, and with every god and half-blood he recruits, the evil Titan's power only grows. While the Olympians struggle to contain the rampaging monster Typhon, Kronos begins his advance on New York City, where Mount Olympus stands virtually unguarded. Now it's up to Percy Jackson and an army of young demigods to stop the Lord of Time. &lt;br /&gt;&lt;br /&gt;In this momentous final book in the &lt;i&gt;New York Times&lt;/i&gt; best-selling Percy Jackson and the Olympians series, the long-awaited prophecy surrounding Percy's sixteenth birthday unfolds. And as the battle for Western civilization rages on the streets of Manhattan, Percy faces a terrifying suspicion that he may be fighting against his own fate.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>4551489</id>
+  <uri>kca://work/amzn1.gr.work.v1.5kAgBI_Pa_dqdcBDsTGq6g</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514130074' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548413244' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Feb 01 00:00:00 -0800 2019</read_at>
+  <date_added>Mon Apr 08 10:06:50 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:04:00 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779397777]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779397777]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779397650</id>
+    <book>
+  <id type="integer">561456</id>
+  <isbn>0141382899</isbn>
+  <isbn13>9780141382890</isbn13>
+  <text_reviews_count type="integer">13783</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.k1MRfXW3t-Cdzb98w_skAA</uri>
+  <title>The Titan's Curse (Percy Jackson and the Olympians, #3)</title>
+  <title_without_series>The Titan's Curse</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361038385l/561456._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361038385l/561456._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/561456.The_Titan_s_Curse</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Puffin Books</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.35</average_rating>
+  <ratings_count>608376</ratings_count>
+  <description>It's not everyday you find yourself in combat with a half-lion, half-human.&lt;br /&gt;&lt;br /&gt;But when you're the son of a Greek god, it happens. And now my friend Annabeth is missing, a goddess is in chains and only five half-blood heroes can join the quest to defeat the doomsday monster.&lt;br /&gt;&lt;br /&gt;Oh, and guess what? The Oracle has predicted that not all of us will survive...</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2936530</id>
+  <uri>kca://work/amzn1.gr.work.v1.2qF07yNuZz2SYXcilMhHcg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514130141' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548413265' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Feb 01 00:00:00 -0800 2019</read_at>
+  <date_added>Mon Apr 08 10:06:42 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:04:02 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779397650]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779397650]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779397480</id>
+    <book>
+  <id type="integer">7736182</id>
+  <isbn>142311339X</isbn>
+  <isbn13>9781423113393</isbn13>
+  <text_reviews_count type="integer">9418</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.YAECiakdpCwZtl1f-Ow-0g</uri>
+  <title>The Lost Hero (The Heroes of Olympus, #1)</title>
+  <title_without_series>The Lost Hero</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201003l/7736182._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1464201003l/7736182._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7736182-the-lost-hero</link>
+  <num_pages>557</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Disney-Hyperion Books</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.35</average_rating>
+  <ratings_count>563525</ratings_count>
+  <description>&lt;b&gt;Jason has a problem&lt;/b&gt;.&lt;br /&gt;He doesn’t remember anything before waking up in a bus full of kids on a field trip. Apparently he has a girlfriend named Piper, and a best friend named Leo. They’re all students at a boarding school for “bad kids.” What did Jason do to end up here? And where is here, exactly?&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Piper has a secret&lt;/b&gt;.&lt;br /&gt;Her father has been missing for three days, ever since she had that terrifying nightmare about his being in trouble. Piper doesn’t understand her dream, or why her boyfriend suddenly doesn’t recognize her. When a freak storm hits during the school trip, unleashing strange creatures and whisking her, Jason, and Leo away to someplace called Camp Half-Blood, she has a feeling she’s going to find out.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Leo has a way with tools&lt;/b&gt;.&lt;br /&gt;When he sees his cabin at Camp Half-Blood, filled with power tools and machine parts, he feels right at home. But there’s weird stuff, too—like the curse everyone keeps talking about, and some camper who's gone missing. Weirdest of all, his bunkmates insist that each of them—including Leo—is related to a &lt;i&gt;god&lt;/i&gt;. Does this have anything to do with Jason's amnesia, or the fact that Leo keeps seeing ghosts?</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>10107891</id>
+  <uri>kca://work/amzn1.gr.work.v1.sO6XXLrhc5INVJInzwlvzw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514127430' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548413297' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Mar 01 00:00:00 -0800 2019</read_at>
+  <date_added>Mon Apr 08 10:06:32 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:04:04 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779397480]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779397480]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779397286</id>
+    <book>
+  <id type="integer">2120932</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">13618</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.MhiFhCuwMWn6FEUOGmgAqQ</uri>
+  <title>The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)</title>
+  <title_without_series>The Battle of the Labyrinth</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518607478l/2120932._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518607478l/2120932._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2120932.The_Battle_of_the_Labyrinth</link>
+  <num_pages>361</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Hyperion Books for Children</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.39</average_rating>
+  <ratings_count>661710</ratings_count>
+  <description>Percy Jackson isn't expecting freshman orientation to be any fun. But when a mysterious mortal acquaintance appears at his potential new school, followed by demon cheerleaders, things quickly move from bad to worse.&lt;br /&gt;&lt;br /&gt;In this fourth installment of the blockbuster series, time is running out as war between the Olympians and the evil Titan lord Kronos draws near. Even the safe haven of Camp Half-Blood grows more vulnerable by the minute as Kronos's army prepares to invade its once impenetrable borders. To stop the invasion, Percy and his demigod friends must set out on a quest through the Labyrinth - a sprawling underground world with stunning surprises at every turn.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>2377629</id>
+  <uri>kca://work/amzn1.gr.work.v1.crQxkWK-Tmfeq9S-xiczlw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514129902' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548413350' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jan 01 00:00:00 -0800 2019</read_at>
+  <date_added>Mon Apr 08 10:06:20 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:04:07 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779397286]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779397286]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779395825</id>
+    <book>
+  <id type="integer">28186</id>
+  <isbn>0786856866</isbn>
+  <isbn13>9780786856862</isbn13>
+  <text_reviews_count type="integer">19393</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.g1Qw-oBqWHllXhFuKuJDTA</uri>
+  <title>The Sea of Monsters (Percy Jackson and the Olympians, #2)</title>
+  <title_without_series>The Sea of Monsters</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400602661l/28186._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400602661l/28186._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28186.The_Sea_of_Monsters</link>
+  <num_pages>279</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Hyperion Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>662886</ratings_count>
+  <description>The heroic son of Poseidon makes an action-packed comeback in the second must-read installment of Rick Riordan's amazing young readers series. Starring Percy Jackson, a "half blood" whose mother is human and whose father is the God of the Sea, Riordan's series combines cliffhanger adventure and Greek mythology lessons that results in true page-turners that get better with each installment.&lt;br /&gt;&lt;br /&gt;In this episode, The Sea of Monsters, Percy sets out to retrieve the Golden Fleece before his summer camp is destroyed, surpassing the first book's drama and setting the stage for more thrills to come.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>43554</id>
+  <uri>kca://work/amzn1.gr.work.v1.AeBPlPHl0Iv8HsAJpHXv8g</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514129963' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548413389' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jan 01 00:00:00 -0800 2019</read_at>
+  <date_added>Mon Apr 08 10:04:44 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:04:10 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779395825]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779395825]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779395648</id>
+    <book>
+  <id type="integer">28187</id>
+  <isbn>0786838655</isbn>
+  <isbn13>9780786838653</isbn13>
+  <text_reviews_count type="integer">46970</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VkZ-AJ7r-kvKlozLuH-A2A</uri>
+  <title>The Lightning Thief (Percy Jackson and the Olympians, #1)</title>
+  <title_without_series>The Lightning Thief</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400602609l/28187._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400602609l/28187._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28187.The_Lightning_Thief</link>
+  <num_pages>377</num_pages>
+  <format>Paperback</format>
+  <edition_information>First edition</edition_information>
+  <publisher>Disney Hyperion Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>1767986</ratings_count>
+  <description>&lt;i&gt;Alternate cover for this ISBN can be found &lt;a href="https://www.goodreads.com/book/show/22456224-the-lightning-thief" rel="nofollow"&gt;here&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Percy Jackson is a good kid, but he can't seem to focus on his schoolwork or control his temper. And lately, being away at boarding school is only getting worse - Percy could have sworn his pre-algebra teacher turned into a monster and tried to kill him. When Percy's mom finds out, she knows it's time that he knew the truth about where he came from, and that he go to the one place he'll be safe. She sends Percy to Camp Half Blood, a summer camp for demigods (on Long Island), where he learns that the father he never knew is Poseidon, God of the Sea. Soon a mystery unfolds and together with his friends—one a satyr and the other the demigod daughter of Athena - Percy sets out on a quest across the United States to reach the gates of the Underworld (located in a recording studio in Hollywood) and prevent a catastrophic war between the gods.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569263</ratings_count>
+<text_reviews_count>301442</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>3346751</id>
+  <uri>kca://work/amzn1.gr.work.v1.89M8wKxHYXLxhlvPJai0tw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="311248553" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='321062437' name='mythology' review_shelf_id='2514129846' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='324954087' name='owned-physical' review_shelf_id='2548413419' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Apr 08 10:04:35 -0700 2019</date_added>
+  <date_updated>Thu Jul 18 21:04:12 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779395648]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779395648]]></link>
+    <owned>1</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

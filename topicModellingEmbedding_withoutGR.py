@@ -133,11 +133,11 @@ processed_text= []
 count = 0
 for i in dataset[:N]:
     count = count+1
-    print("Working on dataset : %d..." %(count)) 
+    print("Working on dataset : %d..." %(count-1)) 
     processed_text.append(word_tokenize(str(i)))
 
 DF = {}
-fx = open("data2.txt", 'a+')
+
 for i in range(N):
     tokens = processed_text[i]
     a = 0
@@ -191,7 +191,7 @@ for i in range(N):
 
     doc += 1
 
-word2vecModel = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True)
+word2vecModel = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True, limit = 10000)
 wordVectors = word2vecModel.wv
 dimension = word2vecModel.vector_size	
 zeroVector = [0] * dimension
@@ -218,7 +218,7 @@ print(topic)
 		
 for i in range(N):
 	topicVectors.append([])
-	for j in range(topicWord):
+	for j in range(len(topic[i])):
 		word = topic[i][j]
 		if word in wordVectors:
 			topicVectors[i].append(wordVectors[word])
@@ -233,7 +233,7 @@ for i in range(N):
 	userProfile.append([])
 	for j in range(dimension):
 		summ = 0
-		for k in range(topicWord):
+		for k in range(len(topicVectors[i])):
 			summ = summ + topicVectors[i][k][j]
 		avg = summ/topicWord
 		userProfile[i].append(avg)

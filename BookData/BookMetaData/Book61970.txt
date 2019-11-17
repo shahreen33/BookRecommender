@@ -1,0 +1,2 @@
+A Style-Based Generator Architecture for Generative Adversarial Networks by Tero Karras
+Average Rating: 3.00

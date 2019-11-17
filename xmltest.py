@@ -47,7 +47,7 @@ N = len(grId)
 
 for user in range(N):
 
-	path = str(os.getcwd())+"/UserData/"+twId[user]
+	path = str(os.getcwd())+"/UserData/BookRatingData/"+twId[user]
 	if( not os.path.exists(path)):
 		os.mkdir(path)
 	
@@ -92,7 +92,7 @@ for user in range(N):
 					temp.append(child.text)
 			elif child.tag == 'date_added':
 					temp.append(child.text)
-			
+		
 		read_books.append(temp)
 
 	print(len(read_books))

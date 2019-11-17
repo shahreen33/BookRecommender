@@ -90,7 +90,7 @@ def preprocess(data):
    # data = stemming(data) #needed again as we need to stem the words
     data = remove_punctuation(data) #needed again as num2word is giving few hypens and commas fourty-one
     data = remove_stop_words(data) #needed again as num2word is giving stop words 101 - one hundred and one
-    print("Data preprocessing done.")
+   # print("Data preprocessing done.")
     return data
 def doc_freq(word):
     c = 0
@@ -133,7 +133,7 @@ processed_text= []
 count = 0
 for i in dataset[:N]:
     count = count+1
-    print("Working on dataset : %d..." %(count)) 
+    print("Working on dataset : %d..." %(count-1)) 
     processed_text.append(word_tokenize(str(i)))
 
 DF = {}
@@ -191,7 +191,7 @@ for i in range(N):
 
     doc += 1
 
-word2vecModel = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True)
+word2vecModel = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True, limit = 10000)
 wordVectors = word2vecModel.wv
 dimension = word2vecModel.vector_size	
 zeroVector = [0] * dimension
@@ -215,10 +215,11 @@ for i in range(N):
 		
 		
 print(topic)
+p
 		
 for i in range(N):
 	topicVectors.append([])
-	for j in range(topicWord):
+	for j in range(len(topic[i])):
 		word = topic[i][j]
 		if word in wordVectors:
 			topicVectors[i].append(wordVectors[word])
@@ -233,12 +234,12 @@ for i in range(N):
 	userProfile.append([])
 	for j in range(dimension):
 		summ = 0
-		for k in range(topicWord):
+		for k in range(len(topicVectors[i])):
 			summ = summ + topicVectors[i][k][j]
 		avg = summ/topicWord
 		userProfile[i].append(avg)
 	
-	fileName =str(os.getcwd())+"/UserData/UserProfilesGR/"+accountlist[i]+".txt"	
+	fileName =str(os.getcwd())+"/UserData/UserProfiles_withGR/"+accountlist[i]+".txt"	
 	with open(fileName, "wb") as fp:   #Pickling
 		pickle.dump(userProfile[i], fp)
 

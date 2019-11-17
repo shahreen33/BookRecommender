@@ -1,0 +1,4131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='67715656' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="54" total="54">
+    <review>
+  <id>2945168055</id>
+    <book>
+  <id type="integer">35535432</id>
+  <isbn>1784704776</isbn>
+  <isbn13>9781784704773</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.MratwqsX_ivBi40HurhNng</uri>
+  <title>A Necessary Evil (Sam Wyndham, #2)</title>
+  <title_without_series>A Necessary Evil</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514950814l/35535432._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514950814l/35535432._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35535432-a-necessary-evil</link>
+  <num_pages>384</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>1779</ratings_count>
+  <description>&lt;b&gt;NOW FEATURED ON ITV'S ZOE BALL BOOK CLUB 2018&lt;/b&gt;&lt;br /&gt;LONGLISTED FOR THE 2018 CWA GOLD, STEEL AND HISTORICAL DAGGERS&lt;br /&gt;SHORTLISTED FOR THE 2018 WILBUR SMITH ADVENTURE WRITING PRIZE&lt;br /&gt;&lt;br /&gt;&lt;b&gt;India, 1920. Captain Sam Wyndham and Sergeant Banerjee of Calcutta Police must investigate the dramatic assassination of a Maharaja's son...&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Sam Wyndham is visiting the kingdom of Sambalpore, home to diamond mines and the beautiful Palace of the Sun.&lt;br /&gt;&lt;br /&gt;But when the Maharaja’s eldest son is assassinated, Wyndham realises that the realm is riven with conflict. Prince Adhir was unpopular with religious groups, while his brother – now in line to the throne – appears to be a feckless playboy.&lt;br /&gt;&lt;br /&gt;As Wyndham and Sergeant ‘Surrender-not’ Banerjee endeavour to unravel the mystery, they become entangled in a dangerous world. They must find the murderer, before the murderer finds them.&lt;br /&gt;&lt;br /&gt;Praise for the Sam Wyndham series:&lt;br /&gt;&lt;br /&gt;&lt;b&gt;‘An exceptional historical crime novel’&lt;/b&gt;&lt;br /&gt; C.J. SANSOM&lt;br /&gt;&lt;br /&gt;&lt;b&gt;‘A thought-provoking rollercoaster’&lt;/b&gt;&lt;br /&gt; IAN RANKIN&lt;br /&gt;&lt;br /&gt;‘Confirms Abir Mukherjee as &lt;b&gt;a rising star of historical crime fiction&lt;/b&gt;’&lt;br /&gt;&lt;i&gt;The Times&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;‘Cracking… &lt;b&gt;A journey into the dark underbelly of the British Raj&lt;/b&gt;’&lt;br /&gt;&lt;i&gt;Daily Express&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;If you enjoyed &lt;i&gt;A Necessary Evil&lt;/i&gt;, pre-order the third Sam Wyndham mystery, &lt;i&gt;Smoke and Ashes&lt;/i&gt;, now.&lt;/b&gt;</description>
+<authors>
+<author>
+<id>14417102</id>
+<name>Abir  Mukherjee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1554576346p5/14417102.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1554576346p2/14417102.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14417102.Abir_Mukherjee]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>6667</ratings_count>
+<text_reviews_count>1141</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>52118176</id>
+  <uri>kca://work/amzn1.gr.work.v1.wTKeZ8OV2MZbdUUJaX8U9w</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Aug 20 10:44:37 -0700 2019</started_at>
+  <read_at>Sun Sep 22 12:16:43 -0700 2019</read_at>
+  <date_added>Tue Aug 20 10:44:36 -0700 2019</date_added>
+  <date_updated>Sun Sep 22 12:16:43 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2945168055]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2945168055]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2572122962</id>
+    <book>
+  <id type="integer">807047</id>
+  <isbn>0312352190</isbn>
+  <isbn13>9780312352196</isbn13>
+  <text_reviews_count type="integer">104</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.gJdg4F7PzLYo68oF2vhEMA</uri>
+  <title>Apathy and Other Small Victories</title>
+  <title_without_series>Apathy and Other Small Victories</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/807047.Apathy_and_Other_Small_Victories</link>
+  <num_pages>231</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Griffin</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>9532</ratings_count>
+  <description>The only thing Shane cares about is leaving. Usually on a Greyhound bus, right before his life falls apart again. Just like he planned. But this time it's complicated: there's a sadistic corporate climber who thinks she's his girlfriend, a rent-subsidized affair with his landlord's wife, and the bizarrely appealing deaf assistant to Shane's cosmically unstable dentist. When one of the women is murdered, and Shane is the only suspect who doesn't care enough to act like he didn't do it, the question becomes just how he'll clear the good name he never had and doesn't particularly want: his own.</description>
+<authors>
+<author>
+<id>55824</id>
+<name>Paul Neilan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1362254461p5/55824.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1362254461p2/55824.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/55824.Paul_Neilan]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>9532</ratings_count>
+<text_reviews_count>763</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>93582</id>
+  <uri>kca://work/amzn1.gr.work.v1.J04ICxc-2mwLeyd4YLOZNw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Dec 20 02:52:57 -0800 2018</started_at>
+  <read_at>Sat Jun 08 02:31:13 -0700 2019</read_at>
+  <date_added>Wed Oct 24 09:01:38 -0700 2018</date_added>
+  <date_updated>Sat Jun 08 02:31:13 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2572122962]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2572122962]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2572122152</id>
+    <book>
+  <id type="integer">41079078</id>
+  <isbn>1786702622</isbn>
+  <isbn13>9781786702623</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.T5RGcOXYROBGVElHHDo9eQ</uri>
+  <title>Serial Killers</title>
+  <title_without_series>Serial Killers</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41079078-serial-killers</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.70</average_rating>
+  <ratings_count>43</ratings_count>
+  <description>Why does someone become a serial killer, murdering not once, but over and over again, in a planned and methodical way? How does murder become such a cold and calculated act? Ted Bundy, Ian Brady and Myra Hindley, Fred and Rosemary West, all are portrayed here, along with the lives and crimes of over 100 others, all revealed with precision and insight.</description>
+<authors>
+<author>
+<id>7064712</id>
+<name>Igloo Books</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7064712.Igloo_Books]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>3907</ratings_count>
+<text_reviews_count>262</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>12565462</id>
+  <uri>kca://work/amzn1.gr.work.v1.-TaG24CwkCzewgfwLK8chg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Oct 25 07:04:00 -0700 2018</started_at>
+  <read_at>Thu Dec 20 02:50:15 -0800 2018</read_at>
+  <date_added>Wed Oct 24 09:00:36 -0700 2018</date_added>
+  <date_updated>Thu Dec 20 02:50:15 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2572122152]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2572122152]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2331445270</id>
+    <book>
+  <id type="integer">25870749</id>
+  <isbn>0143424467</isbn>
+  <isbn13>9780143424468</isbn13>
+  <text_reviews_count type="integer">937</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.fGUyNqMgezOYffReFAzYiw</uri>
+  <title>Mrs Funnybones</title>
+  <title_without_series>Mrs Funnybones</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438770897l/25870749._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438770897l/25870749._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25870749-mrs-funnybones</link>
+  <num_pages>235</num_pages>
+  <format>Paperback</format>
+  <edition_information>First, paperback</edition_information>
+  <publisher>Penguin Books India</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.51</average_rating>
+  <ratings_count>13505</ratings_count>
+  <description>Good morning, it’s 6 a.m. and I am wide awake because the man of the house has decided that he needs to perform a series of complex manoeuvres that involve him balancing on his left elbow. When I fell asleep last night, there was a baby lying next to me. Her smelly diaper is still wedged on my head but aside from this rather damp clue, I can't seem to find her anywhere. I could ask my mother-in-law if she has seen the baby, but she may just tell me that I need to fast on alternate Mondays, and God will deliver the baby back to me . . . Full of wit and delicious observations, Mrs Funnybones captures the life of the modern Indian woman—a woman who organizes dinner each evening, even as she goes to work all day, who runs her own life but has to listen to her Mummyji, who worries about her weight and the state of the country. Based on Twinkle Khanna’s super-hit column, Mrs Funnybones marks the debut of one of our funniest, most original voices.</description>
+<authors>
+<author>
+<id>14152511</id>
+<name>Twinkle Khanna</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14152511.Twinkle_Khanna]]></link>
+<average_rating>3.43</average_rating>
+<ratings_count>18587</ratings_count>
+<text_reviews_count>2065</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>45744351</id>
+  <uri>kca://work/amzn1.gr.work.v1.LETCJsW8qyFMsVLdv0UARg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 19 23:57:06 -0700 2018</started_at>
+  <read_at>Wed Mar 21 07:21:40 -0700 2018</read_at>
+  <date_added>Sun Mar 18 07:45:01 -0700 2018</date_added>
+  <date_updated>Wed Mar 21 07:21:40 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2331445270]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2331445270]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2276630914</id>
+    <book>
+  <id type="integer">479121</id>
+  <isbn>0465046088</isbn>
+  <isbn13>9780465046089</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UOp1ciNCHkYfO4YF1Q5tAw</uri>
+  <title>Psychoanalysis And Feminism: A Radical Reassessment Of Freudian Psychoanalysis</title>
+  <title_without_series>Psychoanalysis And Feminism: A Radical Reassessment Of Freudian Psychoanalysis</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/479121.Psychoanalysis_And_Feminism</link>
+  <num_pages>496</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Basic Books</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>121</ratings_count>
+  <description>In 1974, at the height of the women's movement, Juliet Mitchell shocked her fellow feminists by challenging the entrenched belief that Freud was the enemy. She argued that a rejection of psychoanalysis as bourgeois and patriarchal was fatal for feminism. However it may have been used, she pointed out, psychoanalysis is not a recommendation &lt;i&gt;for&lt;/i&gt; a patriarchal society, but rather an analysis &lt;i&gt;of&lt;/i&gt; one. "If we are interested in understanding and challenging the oppression of women," she says, "we cannot afford to neglect psychoanalysis." In an introduction written specially for this reissue, Mitchell reflects on the changing relationship between these two major influences on twentieth-century thought. Original and provocative, &lt;i&gt;Psychoanalysis and Feminism&lt;/i&gt; remains an essential component of the feminist canon.</description>
+<authors>
+<author>
+<id>231050</id>
+<name>Juliet Mitchell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1457064317p5/231050.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1457064317p2/231050.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/231050.Juliet_Mitchell]]></link>
+<average_rating>3.69</average_rating>
+<ratings_count>432</ratings_count>
+<text_reviews_count>28</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>467539</id>
+  <uri>kca://work/amzn1.gr.work.v1.2NDCXKl91Tedcaw2lbuPaQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jan 29 07:40:51 -0800 2018</date_added>
+  <date_updated>Mon Jan 29 07:40:51 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2276630914]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2276630914]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2158510752</id>
+    <book>
+  <id type="integer">34947549</id>
+  <isbn>0751570575</isbn>
+  <isbn13>9780751570571</isbn13>
+  <text_reviews_count type="integer">279</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6QSI9hRxwqygOOb2HtHVgw</uri>
+  <title>Rhett &amp; Link's Book of Mythicality: A Field Guide to Curiosity, Creativity, and Tomfoolery</title>
+  <title_without_series>Rhett &amp; Link's Book of Mythicality: A Field Guide to Curiosity, Creativity, and Tomfoolery</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34947549-rhett-link-s-book-of-mythicality</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.34</average_rating>
+  <ratings_count>2538</ratings_count>
+  <description>“Internetainers” Rhett &amp;amp; Link met in first grade when their teacher made them miss recess for writing profanity on their desks, and they have been best friends ever since. Today, their daily YouTube talk show, Good Mythical Morning, is the most-watched daily talk show on the Internet, and nearly 12 million subscribers tune in to see the guys broadcast brainy trivia, wild experiments, and hilarious banter (not to mention the occasional cereal bath). Now the award-winning comedians are finally bringing their “Mythical” world to the printed page in their first book.&lt;br /&gt;&lt;br /&gt;A hilarious blend of autobiography, trivia, and advice, &lt;i&gt;Rhett &amp;amp; Link's Book of Mythicality: A Field Guide to Curiosity, Creativity, and Tomfoolery&lt;/i&gt; will offer twenty ways to add “Mythicality” to your life, including:&lt;br /&gt;&lt;br /&gt;Eat Something That Scares You&lt;br /&gt;Make a Bold Hair Choice&lt;br /&gt;Invent Something Ridiculous&lt;br /&gt;Say “I Love You” Like It's Never Been Said&lt;br /&gt;Speak at Your Own Funeral&lt;br /&gt;&lt;br /&gt;The goal of these offbeat prompts? To learn new things, laugh more often, and earn a few grown-up merit badges along the way. Heartfelt and completely original, this book will be the perfect gift for anyone looking for a fresh dose of humor and fun.</description>
+<authors>
+<author>
+<id>16448164</id>
+<name>Rhett McLaughlin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1573159094p5/16448164.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1573159094p2/16448164.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16448164.Rhett_McLaughlin]]></link>
+<average_rating>4.34</average_rating>
+<ratings_count>3391</ratings_count>
+<text_reviews_count>508</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>55345226</id>
+  <uri>kca://work/amzn1.gr.work.v1.dLLSJkxZQVkwVs8KeFBFHw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Oct 20 00:00:00 -0700 2017</started_at>
+  <read_at>Wed Oct 25 06:05:51 -0700 2017</read_at>
+  <date_added>Thu Oct 19 23:34:21 -0700 2017</date_added>
+  <date_updated>Wed Oct 25 06:05:51 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[5 Stars is an understatement! I have fallen in love with this book and how it made me laugh and also get me thinking about so many things. Just as I got started with this book it came to an end and I never wanted it to end! It was so beautifully written! I love them and GMM and I’m glad they’ve b...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2158510752]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2158510752]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2067980302</id>
+    <book>
+  <id type="integer">29363093</id>
+  <isbn>1784189898</isbn>
+  <isbn13>9781784189891</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.p21MSvs_6oXyUx9uVJ40LA</uri>
+  <title>MH370: The Secret Files: The Truth Behind the Greatest Aviation Mystery of All Time</title>
+  <title_without_series>MH370: The Secret Files: The Truth Behind the Greatest Aviation Mystery of All Time</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461082086l/29363093._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461082086l/29363093._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29363093-mh370</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>John Blake</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.67</average_rating>
+  <ratings_count>36</ratings_count>
+  <description>On March 8, 2014, Malaysia Airlines Flight 370 took off from Kuala Lumpur International Airport bound for Beijing. Less than an hour after take-off, somewhere over the South China Sea, the plane simply vanished. One eyewitness saw a burning object crash into the sea. But confusing radar signals trace tracked an aircraft taking an erratic course across the Malaysian peninsula, then on to the Andaman Sea. Did it crash there? Or did it fly on to land safely in disputed lands of Central Asia, or the top secret CIA "black site" on Diego Garcia? Two years later, the Australians are still search—at the cost of billions—and have found nothing. Was the search in such a remote place part of a cover-up to distract the world’s attention because the US Navy had, in fact, shot the plane down? The answer must be out there. Or, perhaps, hidden within the pages of the secret files.</description>
+<authors>
+<author>
+<id>27179</id>
+<name>Nigel Cawthorne</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1337747992p5/27179.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1337747992p2/27179.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/27179.Nigel_Cawthorne]]></link>
+<average_rating>3.50</average_rating>
+<ratings_count>7772</ratings_count>
+<text_reviews_count>920</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>49608453</id>
+  <uri>kca://work/amzn1.gr.work.v1.AdnPQKmMsCOvqPw7-b0iQw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Sep 27 00:00:00 -0700 2017</started_at>
+  <read_at>Thu Dec 07 07:35:14 -0800 2017</read_at>
+  <date_added>Fri Jul 21 20:51:55 -0700 2017</date_added>
+  <date_updated>Thu Dec 07 07:35:14 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I found this to be so emotional and I cannot fathom what the relatives of the victims had to go through. And god forbid if the theory of those passengers became victims of politics is true, I’m going to be so mad ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2067980302]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2067980302]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1974807649</id>
+    <book>
+  <id type="integer">13409307</id>
+  <isbn>9381626382</isbn>
+  <isbn13>9789381626382</isbn13>
+  <text_reviews_count type="integer">98</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oK6uK1i4w1ZrdypnB-a8-w</uri>
+  <title>The Mine</title>
+  <title_without_series>The Mine</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327843056l/13409307._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327843056l/13409307._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13409307-the-mine</link>
+  <num_pages>282</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Westland</publisher>
+  <publication_day/>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.32</average_rating>
+  <ratings_count>610</ratings_count>
+  <description>At a secret mining facility somewhere in the deserts of Rajasthan, an ancient place of worship, with disturbing carvings on its dome, is discovered buried deep inside the earth. Soon the miners find themselves in the grip of terrifying waking nightmares. One tries to mutilate himself. Worse follows.&lt;br /&gt;&lt;br /&gt;Five experts are called in to investigate these strange occurrences. Sucked into a nightmare deep underground, they embark on a perilous journey; a journey that will change them forever, bringing them face-to-face with the most shattering truth of them all...&lt;br /&gt;&lt;br /&gt;The greatest evil lies deep inside.</description>
+<authors>
+<author>
+<id>3412570</id>
+<name>Arnab Ray</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1355304909p5/3412570.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1355304909p2/3412570.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3412570.Arnab_Ray]]></link>
+<average_rating>3.46</average_rating>
+<ratings_count>1584</ratings_count>
+<text_reviews_count>310</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>18642943</id>
+  <uri>kca://work/amzn1.gr.work.v1.1uYIkNwk5sTObkKlFytplQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Apr 18 00:00:00 -0700 2017</started_at>
+  <read_at>Fri Apr 21 08:20:21 -0700 2017</read_at>
+  <date_added>Mon Apr 17 22:22:34 -0700 2017</date_added>
+  <date_updated>Fri Apr 21 08:20:21 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Trying to gather myself after reading this book. Part of me is telling me that I may suffer from psychological trauma. Brilliantly written! ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1974807649]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1974807649]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1912206620</id>
+    <book>
+  <id type="integer">13138955</id>
+  <isbn>0385343213</isbn>
+  <isbn13>9780385343213</isbn13>
+  <text_reviews_count type="integer">1023</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.BWexBr0kw96zxZ2P0Qj8bA</uri>
+  <title>Friends Forever</title>
+  <title_without_series>Friends Forever</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578216l/13138955._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578216l/13138955._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13138955-friends-forever</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Delacorte Press</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.63</average_rating>
+  <ratings_count>9910</ratings_count>
+  <description>&lt;b&gt;&lt;i&gt;NEW YORK TIMES&lt;/i&gt; BESTSELLER&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Five children meet on the first day of kindergarten. In the years that follow, they become friends and more than friends. Together, they will find strength, meet challenges, face life’s adventures, endure loss, face stark realities, and open their hearts. In this moving novel, #1 &lt;i&gt;New York Times&lt;/i&gt; bestselling author Danielle Steel traces their unforgettable journey—full of tests and trials—as three boys and two girls discover the vital bonds that will last a lifetime.&lt;br /&gt;  &lt;br /&gt;&lt;b&gt;FRIENDS FOREVER&lt;/b&gt;&lt;br /&gt;&lt;b&gt; &lt;/b&gt;&lt;br /&gt; Gabby, Billy, Izzie, Andy, and Sean—each bursting with their own personality, strikingly different looks and talents, in sports, science, and the arts. Each drawn by the magical spark of connection that happens to the young. At the exclusive Atwood School, on a bright September day, starting in kindergarten they become an inseparable group known to outsiders as the Big Five. In this rarefied world, five families grow closer, and five children bloom beside one another, unaware of the storms gathering around them.&lt;br /&gt;  &lt;br /&gt; As they turn from grade-schoolers to teenagers, seemingly perfect lives are buffeted by unraveling families, unfortunate missteps, and losses and victories great and small. And, one by one, they turn back to the Big Five to regain their footing and their steady course. But as they emerge from Atwood and enter the college years, the way forward is neither safe nor clear. As their lives separate and diverge, the challenges and risks become greater, the losses sharper, and the right paths harder to choose, in a journey of friendship, survival, and love.&lt;br /&gt;  &lt;br /&gt; In what may be her most intricate and emotionally powerful novel yet, Danielle Steel tells a heart-wrenching, ultimately triumphant story that spans decades, weaves together a vivid cast of characters, and captures the challenges we face in life—sometimes, if we’re lucky, with a friend forever by our side.</description>
+<authors>
+<author>
+<id>14255</id>
+<name>Danielle Steel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1340133722p5/14255.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1340133722p2/14255.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14255.Danielle_Steel]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>805861</ratings_count>
+<text_reviews_count>43181</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>18315946</id>
+  <uri>kca://work/amzn1.gr.work.v1.96seIZPfaGJIHGzA9TuwXg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Dec 09 00:00:00 -0800 2017</started_at>
+  <read_at>Tue Dec 12 05:02:12 -0800 2017</read_at>
+  <date_added>Mon Feb 13 07:55:38 -0800 2017</date_added>
+  <date_updated>Tue Dec 12 05:02:12 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[What a grim book. Loved the ending though! ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1912206620]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1912206620]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1910911823</id>
+    <book>
+  <id type="integer">31227076</id>
+  <isbn>0735220956</isbn>
+  <isbn13>9780735220959</isbn13>
+  <text_reviews_count type="integer">2085</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xKiRf-GuTj_WpV-l2W2JYA</uri>
+  <title>My Husband's Wife</title>
+  <title_without_series>My Husband's Wife</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471284547l/31227076._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471284547l/31227076._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/31227076-my-husband-s-wife</link>
+  <num_pages>373</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Pamela Dorman Books</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.55</average_rating>
+  <ratings_count>28722</ratings_count>
+  <description>When young lawyer Lily marries Ed, she’s determined to make a fresh start and leave the secrets of the past behind. But then she takes on her first murder case and meets Joe, a convicted murderer to whom Lily is strangely drawn—and for whom she will soon be willing to risk almost anything.&lt;br /&gt;&lt;br /&gt;But Lily is not the only one with secrets. Her next-door neighbor Carla may be only nine, but she has already learned that secrets are powerful things. That they can get her whatever she wants.&lt;br /&gt;&lt;br /&gt;When Lily finds Carla on her doorstep twelve years later, a chain of events is set in motion that can end only one way.</description>
+<authors>
+<author>
+<id>15241064</id>
+<name>Jane  Corry</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1485797349p5/15241064.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1485797349p2/15241064.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15241064.Jane_Corry]]></link>
+<average_rating>3.62</average_rating>
+<ratings_count>39175</ratings_count>
+<text_reviews_count>4280</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>45514375</id>
+  <uri>kca://work/amzn1.gr.work.v1.t81Yms3O3xEnHQP12VLpbA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jul 22 00:00:00 -0700 2017</started_at>
+  <read_at>Wed Sep 27 05:39:40 -0700 2017</read_at>
+  <date_added>Sun Feb 12 02:34:55 -0800 2017</date_added>
+  <date_updated>Wed Sep 27 05:39:40 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[5 stars is actually still underrated! The book started off slow and then suddenly you're reading one twist after another, not giving you time to breathe at all. Also, the epilogue was by far the best one I've read- gave me the closure I was wanting and needing! I LOVE THIS BOOK! ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1910911823]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1910911823]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1906608894</id>
+    <book>
+  <id type="integer">32283133</id>
+  <isbn>0385514239</isbn>
+  <isbn13>9780385514231</isbn13>
+  <text_reviews_count type="integer">14063</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.EKzfSvaL2HflCxXDwEJVjA</uri>
+  <title>Origin (Robert Langdon, #5)</title>
+  <title_without_series>Origin</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507308545l/32283133._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507308545l/32283133._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32283133-origin</link>
+  <num_pages>461</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Doubleday Books</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>214339</ratings_count>
+  <description>Robert Langdon, Harvard professor of symbology and religious iconology, arrives at the ultramodern Guggenheim Museum in Bilbao to attend a major announcement—the unveiling of a discovery that “will change the face of science forever.” The evening’s host is Edmond Kirsch, a forty-year-old billionaire and futurist whose dazzling high-tech inventions and audacious predictions have made him a renowned global figure. Kirsch, who was one of Langdon’s first students at Harvard two decades earlier, is about to reveal an astonishing breakthrough . . . one that will answer two of the fundamental questions of human existence.&lt;p&gt;As the event begins, Langdon and several hundred guests find themselves captivated by an utterly original presentation, which Langdon realizes will be far more controversial than he ever imagined. But the meticulously orchestrated evening suddenly erupts into chaos, and Kirsch’s precious discovery teeters on the brink of being lost forever. Reeling and facing an imminent threat, Langdon is forced into a desperate bid to escape Bilbao. With him is Ambra Vidal, the elegant museum director who worked with Kirsch to stage the provocative event. Together they flee to Barcelona on a perilous quest to locate a cryptic password that will unlock Kirsch’s secret.&lt;/p&gt;&lt;p&gt;Navigating the dark corridors of hidden history and extreme religion, Langdon and Vidal must evade a tormented enemy whose all-knowing power seems to emanate from Spain’s Royal Palace itself... and who will stop at nothing to silence Edmond Kirsch. On a trail marked by modern art and enigmatic symbols, Langdon and Vidal uncover clues that ultimately bring them face-to-face with Kirsch’s shocking discovery... and the breathtaking truth that has long eluded us.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>6441313</ratings_count>
+<text_reviews_count>175007</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>52935032</id>
+  <uri>kca://work/amzn1.gr.work.v1.vWkDCg-hnt_kNH1wX90e7w</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Dec 12 00:00:00 -0800 2017</started_at>
+  <read_at>Sat Mar 17 02:45:01 -0700 2018</read_at>
+  <date_added>Wed Feb 08 00:57:37 -0800 2017</date_added>
+  <date_updated>Sat Mar 17 02:45:01 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[It has the most beautiful ending a reader could imagine. ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1906608894]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1906608894]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1834243878</id>
+    <book>
+  <id type="integer">22535533</id>
+  <isbn>0062377183</isbn>
+  <isbn13>9780062377180</isbn13>
+  <text_reviews_count type="integer">1814</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2u4zX7AutunWzfef170Nbw</uri>
+  <title>Moriarty (Sherlock Holmes, #2)</title>
+  <title_without_series>Moriarty</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404412525l/22535533._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404412525l/22535533._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22535533-moriarty</link>
+  <num_pages>285</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.77</average_rating>
+  <ratings_count>17533</ratings_count>
+  <description>Internationally bestselling author Anthony Horowitz's nail-biting new novel plunges us back into the dark and complex world of Detective Sherlock Holmes and Professor James Moriarty—dubbed "the Napoleon of crime"—in the aftermath of their fateful struggle at the Reichenbach Falls.&lt;br /&gt;&lt;br /&gt;Days after Holmes and Moriarty disappear into the waterfall's churning depths, Frederick Chase, a senior investigator at New York's infamous Pinkerton Detective Agency, arrives in Switzerland. Chase brings with him a dire warning: Moriarty's death has left a convenient vacancy in London's criminal underworld. There is no shortage of candidates to take his place—including one particularly fiendish criminal mastermind.&lt;br /&gt;&lt;br /&gt;Chase is assisted by Inspector Athelney Jones, a Scotland Yard detective and devoted student of Holmes's methods of deduction, whom Conan Doyle introduced in &lt;em&gt;The Sign of Four&lt;/em&gt;. The two men join forces and fight their way through the sinuous streets of Victorian London—from the elegant squares of Mayfair to the shadowy wharfs and alleyways of the Docks—in pursuit of this sinister figure, a man much feared but seldom seen, who is determined to stake his claim as Moriarty's successor.&lt;br /&gt;&lt;br /&gt;Riveting and deeply atmospheric, &lt;em&gt;Moriarty&lt;/em&gt; is the first Sherlock Holmes novel sanctioned by the author's estate since Horowitz's &lt;em&gt;House of Silk&lt;/em&gt;. This tale of murder and menace breathes life into Holmes's fascinating world, again proving that once you have eliminated the impossible, whatever remains, however im- probable, must be the truth.</description>
+<authors>
+<author>
+<id>32590</id>
+<name>Anthony Horowitz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301176549p5/32590.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301176549p2/32590.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/32590.Anthony_Horowitz]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>679198</ratings_count>
+<text_reviews_count>42086</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>41241463</id>
+  <uri>kca://work/amzn1.gr.work.v1.qr6EUZbqqEtukQO67YA3sg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed May 03 00:00:00 -0700 2017</started_at>
+  <read_at>Fri Jul 07 06:09:59 -0700 2017</read_at>
+  <date_added>Thu Dec 08 23:29:29 -0800 2016</date_added>
+  <date_updated>Fri Jul 07 06:09:59 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Slow paced, nevertheless, worth it. ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1834243878]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1834243878]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1834243187</id>
+    <book>
+  <id type="integer">26510</id>
+  <isbn>0440243459</isbn>
+  <isbn13>9780440243458</isbn13>
+  <text_reviews_count type="integer">117</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.waDAPHFRJCwfxPTgcQBW8A</uri>
+  <title>Bittersweet</title>
+  <title_without_series>Bittersweet</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26510.Bittersweet</link>
+  <num_pages>464</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Dell</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.72</average_rating>
+  <ratings_count>4361</ratings_count>
+  <description>In &lt;b&gt;Bittersweet&lt;/b&gt;, Danielle Steel has written a novel for our times, a story of choices and new beginnings.&lt;br /&gt;&lt;br /&gt;India Taylor lived in a world of manicured lawns and neatly maintained calendars: a merry-go-round of Little League, piano lessons, and Cape Cod summer vacations. With four wonderful children, India believed in commitment and sacrifice, just as she believed in Doug, the man she married 17 years before. For India, this was the promise she made, the life she had chosen--not the award-winning career as a photojournalist she once had. It was a choice she had never truly regretted. Until she begins to regret it with all her heart.&lt;br /&gt;&lt;br /&gt;India couldn't pinpoint the exact moment. Perhaps it was the last time her agent called, begging her to take an assignment Doug insisted she turn down. Or perhaps it was when Doug told her he thought of her as a companion and someone to take care of their kids, and not much more. At that moment, the price of the sacrifices she'd made began to seem high.&lt;br /&gt;&lt;br /&gt;And then, she met Paul Ward. A Wall Street tycoon married to a bestselling author, Paul lived life on his own terms, traveling the world on his own yacht. India hadn't planned to become Paul's friend. Anything more was unthinkable. Yet talking to Paul was so easy. India could share her dreams with him, and offer comfort when Paul suffers a heartbreak of his own. And while Paul urges India to reclaim her career, Doug is adamantly against it, determined to keep her tied to the home. But with Paul's encouragement, India slowly, painfully, begins to break free, and find herself again.&lt;br /&gt;&lt;br /&gt;Rediscovering her creativity and her courage, India uses Paul like a beacon on the horizon, sharing intimate phone conversations with a man half a world away, a man who never stops reminding her of all that is possible for her. India is changing, and nothing in her life will ever be the same again. Not her marriage. Not her friendship with Paul. And when India is presented with an irresistible opportunity, she makes a heart-wrenching decision, leaving a safe, familiar place-and the people she loves there-to move into the terror of the unknown.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Bittersweet&lt;/b&gt; is her story, a story of freedom, of having dreams and making choices to find them. With unerring insight, Danielle Steel has created a moving portrait of a woman who dares to embark on a new adventure and the man who helps her get there. Her painful, exhilarating journey inspires us all.</description>
+<authors>
+<author>
+<id>14255</id>
+<name>Danielle Steel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1340133722p5/14255.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1340133722p2/14255.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14255.Danielle_Steel]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>805861</ratings_count>
+<text_reviews_count>43181</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>1460856</id>
+  <uri>kca://work/amzn1.gr.work.v1.6JqvYgI_gm0zXn-bQAjULw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Dec 08 23:27:09 -0800 2016</started_at>
+  <read_at>Sun Dec 25 12:01:02 -0800 2016</read_at>
+  <date_added>Thu Dec 08 23:27:06 -0800 2016</date_added>
+  <date_updated>Sun Dec 25 12:01:02 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1834243187]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1834243187]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1834242087</id>
+    <book>
+  <id type="integer">16319</id>
+  <isbn>157912626X</isbn>
+  <isbn13>9781579126261</isbn13>
+  <text_reviews_count type="integer">1600</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.mEWtJbkXCXN-D17qF_fmZg</uri>
+  <title>The Body in the Library (Miss Marple, #3)</title>
+  <title_without_series>The Body in the Library</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16319.The_Body_in_the_Library</link>
+  <num_pages>191</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Agatha Christie Collection</edition_information>
+  <publisher>Black Dog &amp; Leventhal Publishers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>56541</ratings_count>
+  <description>Colonel Bantry has found the strangled body of an exotic blonde bombshell lying on his library hearth - and the neighbors are beginning to talk! When Miss Marple takes an interest, though, things begin to move along nicely, and its all far more convoluted - and sordid - than the genteel Bantrys could have imagined.&lt;br /&gt;&lt;br /&gt;A curmudgeonly financier, his self-absorbed adult children, a couple of pragmatic and clever hotel workers, tons of money and influence, a wild local lad, some smitten girls, the film business, mix into a classic Christie plot filled with twists, turns, and double-backs galore. Plus the glorious settings of A Great House, a fancy Hotel, and an excessively genteel little village, and let's not forget Miss Marple...</description>
+<authors>
+<author>
+<id>123715</id>
+<name>Agatha Christie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p5/123715.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p2/123715.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>3475369</ratings_count>
+<text_reviews_count>176980</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>3038784</id>
+  <uri>kca://work/amzn1.gr.work.v1.FlKI7OaeRlf14g-1W0lmsw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Feb 19 00:00:00 -0800 2017</started_at>
+  <read_at>Sun Apr 16 00:00:00 -0700 2017</read_at>
+  <date_added>Thu Dec 08 23:23:54 -0800 2016</date_added>
+  <date_updated>Fri Apr 14 23:27:24 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Not once in my lifetime have I ever wanted to know the name of a murderer so badly.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1834242087]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1834242087]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1834241565</id>
+    <book>
+  <id type="integer">310226</id>
+  <isbn>0007154909</isbn>
+  <isbn13>9780007154906</isbn13>
+  <text_reviews_count type="integer">368</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.nBtn2UmS2BAqnyAOoPbyXQ</uri>
+  <title>Destination Unknown</title>
+  <title_without_series>Destination Unknown</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396229126l/310226._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396229126l/310226._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/310226.Destination_Unknown</link>
+  <num_pages>248</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollins Publishers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.66</average_rating>
+  <ratings_count>8462</ratings_count>
+  <description>&lt;strong&gt;In Agatha Christie’s gripping international thriller &lt;em&gt;Destination Unknown&lt;/em&gt;, a woman at the end of her rope chooses a more exciting way to die when she embarks upon an almost certain suicide mission to find a missing scientist.&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;When a number of leading scientists disappear without a trace, concern grows within the international intelligence community. And the one woman who appears to hold the key to the mystery is dying from injuries sustained in a plane crash.&lt;br /&gt;&lt;br /&gt;Meanwhile, in a Casablanca hotel room, Hilary Craven prepares to take her own life. But her suicide attempt is about to be interrupted by a man who will offer her an altogether more thrilling way to die. . . .</description>
+<authors>
+<author>
+<id>123715</id>
+<name>Agatha Christie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p5/123715.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p2/123715.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>3475369</ratings_count>
+<text_reviews_count>176980</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>2984305</id>
+  <uri>kca://work/amzn1.gr.work.v1.WY7RfVmpaZbaOVbrazjyCg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Dec 08 23:22:04 -0800 2016</date_added>
+  <date_updated>Thu Dec 08 23:22:05 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1834241565]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1834241565]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1730710688</id>
+    <book>
+  <id type="integer">30848112</id>
+  <isbn>9351434230</isbn>
+  <isbn13>9789351434238</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.WjpYsxBmpMDWuflsky87uw</uri>
+  <title>Criminal Psychology</title>
+  <title_without_series>Criminal Psychology</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30848112-criminal-psychology</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.00</average_rating>
+  <ratings_count>3</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>7785551</id>
+<name>Navin Kumar</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7785551.Navin_Kumar]]></link>
+<average_rating>3.33</average_rating>
+<ratings_count>6</ratings_count>
+<text_reviews_count>0</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>51452877</id>
+  <uri>kca://work/amzn1.gr.work.v1.sGbggQZTwL6T1S9kDVOxFQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Aug 17 00:05:54 -0700 2016</started_at>
+  <read_at>Sun Dec 25 12:01:14 -0800 2016</read_at>
+  <date_added>Wed Aug 17 00:05:54 -0700 2016</date_added>
+  <date_updated>Sun Dec 25 12:01:14 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1730710688]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1730710688]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1673783821</id>
+    <book>
+  <id type="integer">16029970</id>
+  <isbn>0615670199</isbn>
+  <isbn13>9780615670195</isbn13>
+  <text_reviews_count type="integer">52</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.n6fNs8LkpJSZazB8iPMIjQ</uri>
+  <title>Chameleon On A Kaleidoscope</title>
+  <title_without_series>Chameleon On A Kaleidoscope</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353239645l/16029970._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353239645l/16029970._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16029970-chameleon-on-a-kaleidoscope</link>
+  <num_pages>172</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>V Publishing</publisher>
+  <publication_day/>
+  <publication_year>2012</publication_year>
+  <publication_month/>
+  <average_rating>3.68</average_rating>
+  <ratings_count>610</ratings_count>
+  <description>Welcome to the age of Anti-Social Media.&lt;br /&gt;Exchanging alcoholism for sex-addiction the controversial&lt;br /&gt;writer of underground cult classic DIARY OF AN OXYGEN THIEF &lt;br /&gt;retools his advertising skills to seduce women online. It's a pursuit&lt;br /&gt;that quickly becomes an obsession often requiring even more&lt;br /&gt;creativity than his award-winning ad campaigns, but don't worry&lt;br /&gt;there are plenty of breaks. For commercials. Dazzling, daunting&lt;br /&gt;and darkly hilarious CHAMELEON ON A KALEIDOSCOPE is a &lt;br /&gt;spectacular indictment of modern media and our increasing &lt;br /&gt;reliance on it.</description>
+<authors>
+<author>
+<id>5158478</id>
+<name>Anonymous</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5158478.Anonymous]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>1277562</ratings_count>
+<text_reviews_count>69158</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>21799552</id>
+  <uri>kca://work/amzn1.gr.work.v1.ROhWWzMDEXiNd04Nl6b2uA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 18 00:00:00 -0700 2018</started_at>
+  <read_at>Thu Mar 29 00:00:00 -0700 2018</read_at>
+  <date_added>Sun Jun 19 23:38:45 -0700 2016</date_added>
+  <date_updated>Sun Apr 22 08:59:32 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[A wonderful sequel to Diary of An Oxygen Thief!!! ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1673783821]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1673783821]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663483183</id>
+    <book>
+  <id type="integer">22557272</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">86070</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.8xbEiScVn9d9UANlz0UZhA</uri>
+  <title>The Girl on the Train</title>
+  <title_without_series>The Girl on the Train</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573581494l/22557272._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573581494l/22557272._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22557272-the-girl-on-the-train</link>
+  <num_pages>323</num_pages>
+  <format>Hardcover</format>
+  <edition_information>International Edition</edition_information>
+  <publisher>Riverhead Books</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>1805643</ratings_count>
+  <description>&lt;i&gt;Alternate cover edition of ISBN 9781594633669&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Rachel catches the same commuter train every morning. She knows it will wait at the same signal each time, overlooking a row of back gardens. She’s even started to feel like she knows the people who live in one of the houses. “Jess and Jason,” she calls them. Their life—as she sees it—is perfect. If only Rachel could be that happy. And then she sees something shocking. It’s only a minute until the train moves on, but it’s enough. Now everything’s changed. Now Rachel has a chance to become a part of the lives she’s only watched from afar. Now they’ll see; she’s much more than just the girl on the train...</description>
+<authors>
+<author>
+<id>1063732</id>
+<name>Paula Hawkins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1492111911p5/1063732.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1492111911p2/1063732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1063732.Paula_Hawkins]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>2036423</ratings_count>
+<text_reviews_count>127356</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>41107568</id>
+  <uri>kca://work/amzn1.gr.work.v1.GjL7YgZs2NatKKFsPPzikQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jul 09 00:00:00 -0700 2017</started_at>
+  <read_at>Sun Jul 09 08:54:40 -0700 2017</read_at>
+  <date_added>Thu Jun 09 02:15:27 -0700 2016</date_added>
+  <date_updated>Sun Jul 09 08:54:40 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Sat for hours, turning pages &amp; gripping onto every word! Left me a bit speechless now! ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663483183]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663483183]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663482248</id>
+    <book>
+  <id type="integer">49041</id>
+  <isbn>0316160199</isbn>
+  <isbn13>9780316160193</isbn13>
+  <text_reviews_count type="integer">41797</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.g1Os7AXGqAOo89211CQ8sQ</uri>
+  <title>New Moon (Twilight, #2)</title>
+  <title_without_series>New Moon</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039440l/49041._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039440l/49041._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/49041.New_Moon</link>
+  <num_pages>563</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.53</average_rating>
+  <ratings_count>1325630</ratings_count>
+  <description>&lt;i&gt;There is an alternate cover edition for this ISBN13 &lt;a href="https://www.goodreads.com/book/show/22857914" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt; &lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;i&gt;I knew we were both in mortal danger. Still, in that instant, I felt &lt;/i&gt;well&lt;i&gt;. Whole. I could feel my heart racing in my chest, the blood pulsing hot and fast through my veins again. My lungs filled deep with the sweet scent that came off his skin. It was like there had never been any hole in my chest. I was perfect - not healed, but as if there had never been a wound in the first place. &lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;For Bella Swan, there is one thing more important than life itself: Edward Cullen. But being in love with a vampire is even more dangerous than Bella could ever have imagined. Edward has already rescued Bella from the clutches of one evil vampire, but now, as their daring relationship threatens all that is near and dear to them, they realize their troubles may be just beginning...</description>
+<authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>9910422</ratings_count>
+<text_reviews_count>308745</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>3203964</id>
+  <uri>kca://work/amzn1.gr.work.v1.1fzgJvmQrkvntdirmyYMoA</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 02:12:50 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 02:12:56 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663482248]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663482248]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663481566</id>
+    <book>
+  <id type="integer">125536</id>
+  <isbn>0439568374</isbn>
+  <isbn13>9780439568371</isbn13>
+  <text_reviews_count type="integer">171</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.AH_HSKo8lzPc6kA18rrz2w</uri>
+  <title>It Came from Beneath the Sink! (Goosebumps, #30)</title>
+  <title_without_series>It Came from Beneath the Sink!</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328867791l/125536._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328867791l/125536._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/125536.It_Came_from_Beneath_the_Sink_</link>
+  <num_pages>112</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.54</average_rating>
+  <ratings_count>6589</ratings_count>
+  <description>Kat and her brother have just moved to a great new house. It would be perfect, if only their dog, Killer, would cheer up and stop growling at something under the kitchen sink. They soon discover that the dog has sniffed out something awful, something that could ruin their lives forever.</description>
+<authors>
+<author>
+<id>13730</id>
+<name>R.L. Stine</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1194380070p5/13730.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1194380070p2/13730.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13730.R_L_Stine]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>771913</ratings_count>
+<text_reviews_count>38778</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>120901</id>
+  <uri>kca://work/amzn1.gr.work.v1.lz1pNwSRlzJf7_lPLqWz0A</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 02:11:08 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 02:13:11 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663481566]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663481566]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663480695</id>
+    <book>
+  <id type="integer">308540</id>
+  <isbn>0439568331</isbn>
+  <isbn13>9780439568333</isbn13>
+  <text_reviews_count type="integer">592</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xPq4Q1y1AX7UeyduZu4KtQ</uri>
+  <title>The Haunted Mask (Goosebumps, #11)</title>
+  <title_without_series>The Haunted Mask</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328867787l/308540._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328867787l/308540._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/308540.The_Haunted_Mask</link>
+  <num_pages>144</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>17541</ratings_count>
+  <description>Face to Face with a Nightmare...&lt;br /&gt;&lt;br /&gt;How ugly is Carly Beth's Halloween mask? It's so ugly that it almost scared her little brother to death. So terrifying that even her friends are totally freaked out by it. It's the best Halloween mask ever. It's everything Carly Beth hoped it would be. And more. Maybe too much more. Because Halloween is almost over. And Carly Beth is still wearing that special mask...</description>
+<authors>
+<author>
+<id>13730</id>
+<name>R.L. Stine</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1194380070p5/13730.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1194380070p2/13730.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13730.R_L_Stine]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>771913</ratings_count>
+<text_reviews_count>38778</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>299495</id>
+  <uri>kca://work/amzn1.gr.work.v1.H5XoT5OGfd0XQ6G0zTT6wQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 02:08:40 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 02:08:43 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663480695]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663480695]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663480242</id>
+    <book>
+  <id type="integer">8957</id>
+  <isbn nil="true"/>
+  <isbn13>9780316905732</isbn13>
+  <text_reviews_count type="integer">712</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Ff_RqF7ae4lvYxn8bHO8Tg</uri>
+  <title>Tunnels of Blood (Cirque du Freak #3)</title>
+  <title_without_series>Tunnels of Blood</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8957.Tunnels_of_Blood</link>
+  <num_pages>240</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Little, Brown Young Readers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>31758</ratings_count>
+  <description>Darren, the vampire's assistant, gets a taste of the city when he leaves the Cirque Du Freak with Evra the snake-boy and Mr. Crepsley. When corpses are discovered--corpses drained of blood-- Darren and Evra are compelled to hunt down whatever foul creature is committing such horrendous acts. Meanwhile, beneath the streets, evil stalks Darren and Evra, and all clues point to Mr. Crepsley. Can they escape, or are they doomed to perish in the tunnels of blood?&lt;br /&gt;</description>
+<authors>
+<author>
+<id>5816</id>
+<name>Darren Shan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1305767857p5/5816.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1305767857p2/5816.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5816.Darren_Shan]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>515398</ratings_count>
+<text_reviews_count>21210</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>11852</id>
+  <uri>kca://work/amzn1.gr.work.v1.I_5hBKLmhinSlS-Mk13D1w</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 02:07:10 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 02:13:30 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663480242]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663480242]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663479999</id>
+    <book>
+  <id type="integer">41865</id>
+  <isbn>0316015849</isbn>
+  <isbn13>9780316015844</isbn13>
+  <text_reviews_count type="integer">93596</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.v0ZqZFRkizei9mByA-3BpA</uri>
+  <title>Twilight (Twilight, #1)</title>
+  <title_without_series>Twilight</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039443l/41865._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039443l/41865._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41865.Twilight</link>
+  <num_pages>501</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.59</average_rating>
+  <ratings_count>4533450</ratings_count>
+  <description>About three things I was absolutely positive.&lt;br /&gt;&lt;br /&gt;First, Edward was a vampire.&lt;br /&gt;&lt;br /&gt;Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.&lt;br /&gt;&lt;br /&gt;And third, I was unconditionally and irrevocably in love with him.&lt;br /&gt;&lt;br /&gt;Deeply seductive and extraordinarily suspenseful, Twilight is a love story with bite.</description>
+<authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>9910422</ratings_count>
+<text_reviews_count>308745</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>3212258</id>
+  <uri>kca://work/amzn1.gr.work.v1.f8lFp92oAIBHtSmSo4txRg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 02:06:25 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 02:12:35 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663479999]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663479999]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663479593</id>
+    <book>
+  <id type="integer">4921</id>
+  <isbn>0140621334</isbn>
+  <isbn13>9780140621334</isbn13>
+  <text_reviews_count type="integer">2733</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.J70Dfu3Aw1kGECKV0pTKTg</uri>
+  <title>Three Men in a Boat (Three Men, #1)</title>
+  <title_without_series>Three Men in a Boat</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392791656l/4921._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392791656l/4921._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4921.Three_Men_in_a_Boat</link>
+  <num_pages>185</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>Penguin Popular Classics</edition_information>
+  <publisher>Penguin Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>50128</ratings_count>
+  <description>A comic masterpiece that has never been out of print since it was first published in 1889, Jerome K. Jerome's &lt;i&gt;Three Men in a Boat&lt;/i&gt; includes an introduction and notes by Jeremy Lewis in Penguin Classics.&lt;br /&gt;&lt;br /&gt;Martyrs to hypochondria and general seediness, J. and his friends George and Harris decide that a jaunt up the Thames would suit them to a 'T'. But when they set off, they can hardly predict the troubles that lie ahead with tow-ropes, unreliable weather forecasts and tins of pineapple chunks - not to mention the devastation left in the wake of J.'s small fox-terrier Montmorency. &lt;i&gt;Three Men in a Boat&lt;/i&gt; was an instant success when it appeared in 1889, and, with its benign escapism, authorial discursions and wonderful evocation of the late-Victorian 'clerking classes', it hilariously captured the spirit of its age.&lt;br /&gt;&lt;br /&gt;In his introduction, Jeremy Lewis examines Jerome K. Jerome's life and times, and the changing world of Victorian England he depicts - from the rise of a new mass-culture of tabloids and bestselling novels to crazes for daytripping and bicycling.</description>
+<authors>
+<author>
+<id>3352</id>
+<name>Jerome K. Jerome</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1335971515p5/3352.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1335971515p2/3352.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3352.Jerome_K_Jerome]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>66251</ratings_count>
+<text_reviews_count>5428</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+<work>  <id>4476508</id>
+  <uri>kca://work/amzn1.gr.work.v1.szaTM5NYWxg9BavwT2rtOA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 02:05:19 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 02:05:22 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663479593]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663479593]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663478731</id>
+    <book>
+  <id type="integer">29383313</id>
+  <isbn>9380658184</isbn>
+  <isbn13>9789380658186</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jtVMno84trT5e0-jTZkRQQ</uri>
+  <title>Chicken Soup For The Soul: Teacher Tales</title>
+  <title_without_series>Chicken Soup For The Soul: Teacher Tales</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29383313-chicken-soup-for-the-soul</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>127</ratings_count>
+  <description>You won't be able to put down these stories about new and experienced teachers, tough kids and sweet kids, funny and embarrassing moments, amazing connections and relationships, and all the ups and downs of being a teacher today. Read about: accidentally showing topless dancers in an educa- tional video about Paris making students "rent" their seats to teach them real-world budgeting rescuing an injured child on a field trip and then being surrounded by state troopers as a suspected pedophile helping a second grade student write letters to her soldier father and watching their tearful reunion giving an award for academic achievement to a student who is headed for prison hitting a 9-year-old bike rider and years later having him in class making up math raps for inner city students and 94 more great stories! About The Author: Jack Canfield and Mark Victor Hansen, #1 New York Times bestselling co-authors, are professional speakers who have dedicated their lives to enhancing the personal and professional development of others. They are co-authors of several New York Times bestsellers, including Chicken Soup for the Soul, Chicken Soup for the Woman's Soul and Chicken Soup for the Teenage Soul.</description>
+<authors>
+<author>
+<id>35476</id>
+<name>Jack Canfield</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245543249p5/35476.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245543249p2/35476.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/35476.Jack_Canfield]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>173193</ratings_count>
+<text_reviews_count>9430</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>6820582</id>
+  <uri>kca://work/amzn1.gr.work.v1.ro3wdH7rE8n-dmDnjHYCHQ</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 02:03:17 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 02:03:46 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663478731]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663478731]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663478061</id>
+    <book>
+  <id type="integer">11870085</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">136505</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6rIwidkUTORGkQo3jY4dcg</uri>
+  <title>The Fault in Our Stars</title>
+  <title_without_series>The Fault in Our Stars</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360206420l/11870085._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360206420l/11870085._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars</link>
+  <num_pages>313</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>3143713</ratings_count>
+  <description>Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.&lt;br /&gt;&lt;br /&gt;Insightful, bold, irreverent, and raw, The Fault in Our Stars is award-winning author John Green's most ambitious and heartbreaking work yet, brilliantly exploring the funny, thrilling, and tragic business of being alive and in love.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>6074004</ratings_count>
+<text_reviews_count>335669</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>16827462</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZWeA15QphzWjRB87CLg-TA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 02:01:32 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 02:01:35 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663478061]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663478061]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663476749</id>
+    <book>
+  <id type="integer">816151</id>
+  <isbn>0007121040</isbn>
+  <isbn13>9780007121045</isbn13>
+  <text_reviews_count type="integer">39</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.fc--zE1IqvSZzoZf-o1TSw</uri>
+  <title>Miss Marple's Final Cases (Miss Marple, #14)</title>
+  <title_without_series>Miss Marple's Final Cases</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396227525l/816151._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396227525l/816151._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/816151.Miss_Marple_s_Final_Cases</link>
+  <num_pages>240</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day/>
+  <publication_year>2002</publication_year>
+  <publication_month/>
+  <average_rating>3.80</average_rating>
+  <ratings_count>5974</ratings_count>
+  <description>A collection of Miss Marple mysteries, plus some bonus short stories...First, the mystery man in the church with a bullet-wound...then, the riddle of a dead man's buried treasure...the curious conduct oif a caretaker after a fatal riding accident...the corpse and a tape-measure...the girl framed for theft...and the suspect accused of stabbing his wife with a dagger. Six gripping cases with one thing in common - the astonishing deductive powers of Miss Marple. Also includes two non-Marple mysteries, 'The Dressmaker's Doll' and 'In a Glass Darkly'.</description>
+<authors>
+<author>
+<id>123715</id>
+<name>Agatha Christie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p5/123715.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p2/123715.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>3475369</ratings_count>
+<text_reviews_count>176980</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>1073143</id>
+  <uri>kca://work/amzn1.gr.work.v1.nfOKpuzCTZDjkNlv2pZjoA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:57:54 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 02:03:17 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663476749]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663476749]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663475813</id>
+    <book>
+  <id type="integer">1848444</id>
+  <isbn>0582416396</isbn>
+  <isbn13>9780582416390</isbn13>
+  <text_reviews_count type="integer">633</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.SikvbKDNSbD5OMNAfgUk3w</uri>
+  <title>A Scandal in Bohemia (The Adventures of Sherlock Holmes, #1)</title>
+  <title_without_series>A Scandal in Bohemia</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1848444.A_Scandal_in_Bohemia</link>
+  <num_pages>85</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Addison Wesley Publishing Company</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>72872</ratings_count>
+  <description>Holmes is hired by the King of Bohemia to recover blackmail evidence, held by the woman whom the king once promised to marry, but who he abandoned for a woman of noble birth.</description>
+<authors>
+<author>
+<id>752721</id>
+<name>Ronald Holt</name>
+<role>Adapter</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/752721.Ronald_Holt]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>72777</ratings_count>
+<text_reviews_count>643</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>2766104</id>
+  <uri>kca://work/amzn1.gr.work.v1.AQ9hQ9k14_vz0oATEFChLQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:54:55 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 05:48:33 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663475813]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663475813]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663474469</id>
+    <book>
+  <id type="integer">5344</id>
+  <isbn>0321107217</isbn>
+  <isbn13>9780321107213</isbn13>
+  <text_reviews_count type="integer">1652</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.fJvLy5Zb6Eo8C6gEB2Q8aw</uri>
+  <title>Hard Times</title>
+  <title_without_series>Hard Times</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5344.Hard_Times</link>
+  <num_pages>353</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Pearson Longman</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.52</average_rating>
+  <ratings_count>49930</ratings_count>
+  <description>"My satire is against those who see figures and averages, and nothing else," proclaimed Charles Dickens in explaining the theme of this classic novel. Published in 1854, the story concerns one Thomas Gradgrind, a "fanatic of the demonstrable fact," who raises his children, Tom and Louisa, in a stifling and arid atmosphere of grim practicality.&lt;br /&gt;&lt;br /&gt;Without a moral compass to guide them, the children sink into lives of desperation and despair, played out against the grim background of Coketown, a wretched community shadowed by an industrial behemoth. Louisa falls into a loveless marriage with Josiah Bouderby, a vulgar banker, while the unscrupulous Tom, totally lacking in principle, becomes a thief who frames an innocent man for his crime. Witnessing the degradation and downfall of his children, Gradgrind realizes that his own misguided principles have ruined their lives.&lt;br /&gt;&lt;br /&gt;Considered Dickens' harshest indictment of mid-19th-century industrial practices and their dehumanizing effects, this novel offers a fascinating tapestry of Victorian life, filled with the richness of detail, brilliant characterization, and passionate social concern that typify the novelist's finest creations.&lt;br /&gt;&lt;br /&gt;Of Dickens' work, the eminent Victorian critic John Ruskin had this to say: "He is entirely right in his main drift and purpose in every book he has written; and all of them, but especially Hard Times, should be studied with close and earnest care by persons interested in social questions."</description>
+<authors>
+<author>
+<id>239579</id>
+<name>Charles Dickens</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1387078070p5/239579.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1387078070p2/239579.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/239579.Charles_Dickens]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>2909131</ratings_count>
+<text_reviews_count>84321</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>6751955</id>
+  <uri>kca://work/amzn1.gr.work.v1.DwnY1SZckgiQ86mNWdIDxA</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:50:47 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:53:06 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663474469]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663474469]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663474427</id>
+    <book>
+  <id type="integer">18254</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4881</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Y7vDORa-6pQT15dy1IICQQ</uri>
+  <title>Oliver Twist</title>
+  <title_without_series>Oliver Twist</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868529l/18254._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868529l/18254._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18254.Oliver_Twist</link>
+  <num_pages>608</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Classics</edition_information>
+  <publisher>Penguin Books</publisher>
+  <publication_day/>
+  <publication_year>2003</publication_year>
+  <publication_month/>
+  <average_rating>3.86</average_rating>
+  <ratings_count>293392</ratings_count>
+  <description>A gripping portrayal of London's dark criminal underbelly, published in Penguin Classics with an introduction by Philip Horne.&lt;br /&gt;&lt;br /&gt;The story of Oliver Twist - orphaned, and set upon by evil and adversity from his first breath - shocked readers when it was published. After running away from the workhouse and pompous beadle Mr Bumble, Oliver finds himself lured into a den of thieves peopled by vivid and memorable characters - the Artful Dodger, vicious burglar Bill Sikes, his dog Bull's Eye, and prostitute Nancy, all watched over by cunning master-thief Fagin. Combining elements of Gothic Romance, the Newgate Novel and popular melodrama, Dickens created an entirely new kind of fiction, scathing in its indictment of a cruel society, and pervaded by an unforgettable sense of threat and mystery.&lt;br /&gt;&lt;br /&gt;This Penguin Classics edition of Oliver Twist is the first critical edition to faithfully reproduce the text as its earliest readers would have encountered it from its serialisation in Bentley's Miscellany, and includes an introduction by Philip Horne, a glossary of Victorian thieves' slang, a chronology of Dickens's life, a map of contemporary London and all of George Cruikshank's original illustrations.&lt;br /&gt;&lt;br /&gt;For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators.</description>
+<authors>
+<author>
+<id>239579</id>
+<name>Charles Dickens</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1387078070p5/239579.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1387078070p2/239579.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/239579.Charles_Dickens]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>2909131</ratings_count>
+<text_reviews_count>84321</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>3057979</id>
+  <uri>kca://work/amzn1.gr.work.v1.sixc1ZMORJ7HOiVxewbj8Q</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:50:37 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:53:22 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663474427]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663474427]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663474220</id>
+    <book>
+  <id type="integer">58696</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4207</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hlbdBIE-36Op8t-eFBPLmw</uri>
+  <title>David Copperfield</title>
+  <title_without_series>David Copperfield</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461452762l/58696._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461452762l/58696._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/58696.David_Copperfield</link>
+  <num_pages>882</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin</publisher>
+  <publication_day/>
+  <publication_year>2004</publication_year>
+  <publication_month/>
+  <average_rating>3.98</average_rating>
+  <ratings_count>186659</ratings_count>
+  <description>David Copperfield is the story of a young man's adventures on his journey from an unhappy and impoverished childhood to the discovery of his vocation as a successful novelist. Among the gloriously vivid cast of characters he encounters are his tyrannical stepfather, Mr Murdstone; his brilliant, but ultimately unworthy school-friend James Steerforth; his formidable aunt, Betsey Trotwood; the eternally humble, yet treacherous Uriah Heep; frivolous, enchanting Dora Spenlow; and the magnificently impecunious Wilkins Micawber, one of literature's great comic creations. In David Copperfield - the novel he described as his 'favourite child' - Dickens drew revealingly on his own experiences to create one of the most exuberant and enduringly popular works, filled with tragedy and comedy in equal measure. This edition uses the text of the first volume publication of 1850, and includes updated suggestions for further reading, original illustrations by 'Phiz', a revised chronology and expanded notes. In his new introduction, Jeremy Tambling discusses the novel's autobiographical elements, and its central themes of memory and identity.</description>
+<authors>
+<author>
+<id>239579</id>
+<name>Charles Dickens</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1387078070p5/239579.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1387078070p2/239579.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/239579.Charles_Dickens]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>2909131</ratings_count>
+<text_reviews_count>84321</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>4711940</id>
+  <uri>kca://work/amzn1.gr.work.v1.xBwsFgPOpmAJHB60Vz6Sqw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:50:00 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:53:35 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663474220]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663474220]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663473695</id>
+    <book>
+  <id type="integer">30283244</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.GL7dgKqB00Bn7rDT80i5wQ</uri>
+  <title>Diary of an Oxygen Thief</title>
+  <title_without_series>Diary of an Oxygen Thief</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30283244-diary-of-an-oxygen-thief</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.25</average_rating>
+  <ratings_count>14687</ratings_count>
+  <description>Hurt people hurt people.&lt;br /&gt;&lt;br /&gt;Say there was a novel in which Holden Caulfield was an alcoholic and Lolita was a photographer’s assistant and, somehow, they met in Bright Lights, Big City. He’s blinded by love. She by ambition. Diary of an Oxygen Thief is an honest, hilarious, and heartrending novel, but above all, a very realistic account of what we do to each other and what we allow to have done to us.</description>
+<authors>
+<author>
+<id>5158478</id>
+<name>Anonymous</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5158478.Anonymous]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>1277562</ratings_count>
+<text_reviews_count>69158</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>1554249</id>
+  <uri>kca://work/amzn1.gr.work.v1.vK0jcIihwwd8MqIIUwh0TA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:48:26 -0700 2016</date_added>
+  <date_updated>Tue Aug 02 12:29:57 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663473695]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663473695]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663471078</id>
+    <book>
+  <id type="integer">821611</id>
+  <isbn>0553213873</isbn>
+  <isbn13>9780553213874</isbn13>
+  <text_reviews_count type="integer">1635</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._7-XZKnw6VTAkXf2nDay5Q</uri>
+  <title>The Story of My Life</title>
+  <title_without_series>The Story of My Life</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320429331l/821611._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320429331l/821611._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/821611.The_Story_of_My_Life</link>
+  <num_pages>240</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bantam Classics</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1990</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>122827</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>7275</id>
+<name>Helen Keller</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1266096039p5/7275.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1266096039p2/7275.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7275.Helen_Keller]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>127761</ratings_count>
+<text_reviews_count>3075</text_reviews_count>
+</author>
+</authors>
+  <published>1990</published>
+<work>  <id>1602613</id>
+  <uri>kca://work/amzn1.gr.work.v1.iic4nsglUD5hH9DYh5P2qw</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:41:23 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:53:42 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663471078]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663471078]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663470809</id>
+    <book>
+  <id type="integer">1516328</id>
+  <isbn>0757306306</isbn>
+  <isbn13>9780757306303</isbn13>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xliolC_LW079FSTRupDj5A</uri>
+  <title>Chicken Soup for the Chocolate Lover's Soul: Indulging Our Sweetest Moments</title>
+  <title_without_series>Chicken Soup for the Chocolate Lover's Soul: Indulging Our Sweetest Moments</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1516328.Chicken_Soup_for_the_Chocolate_Lover_s_Soul</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>89</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>35476</id>
+<name>Jack Canfield</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245543249p5/35476.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245543249p2/35476.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/35476.Jack_Canfield]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>173193</ratings_count>
+<text_reviews_count>9430</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>1508052</id>
+  <uri>kca://work/amzn1.gr.work.v1.dtAKNOs-MR1dzLbuJMTg6Q</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:40:45 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:53:28 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663470809]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663470809]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663469495</id>
+    <book>
+  <id type="integer">28671039</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">462</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jwz8RB6k6x5svLapjZaeMg</uri>
+  <title>Holding Up the Universe</title>
+  <title_without_series>Holding Up the Universe</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462468499l/28671039._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462468499l/28671039._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28671039-holding-up-the-universe</link>
+  <num_pages>400</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Knopf Books for Young Readers</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>52147</ratings_count>
+  <description>&lt;b&gt;From the author of the &lt;i&gt;New York Times&lt;/i&gt; bestseller &lt;i&gt;All the Bright Places&lt;/i&gt; comes a heart-wrenching story about what it means to see someone—and love someone—for who they truly are.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Everyone thinks they know Libby Strout, the girl once dubbed “America’s Fattest Teen.” But no one’s taken the time to look past her weight to get to know who she really is. Following her mom’s death, she’s been picking up the pieces in the privacy of her home, dealing with her heartbroken father and her own grief. Now, Libby’s ready: for high school, for new friends, for love, and for EVERY POSSIBILITY LIFE HAS TO OFFER. In that moment, I know the part I want to play here at MVB High. I want to be the girl who can do anything. &lt;br /&gt;&lt;br /&gt;Everyone thinks they know Jack Masselin, too. Yes, he’s got swagger, but he’s also mastered the impossible art of giving people what they want, of fitting in. What no one knows is that Jack has a newly acquired secret: he can’t recognize faces. Even his own brothers are strangers to him. He’s the guy who can re-engineer and rebuild anything in new and bad-ass ways, but he can’t understand what’s going on with the inner workings of his brain. So he tells himself to play it cool: Be charming. Be hilarious. Don’t get too close to anyone. &lt;br /&gt;&lt;br /&gt;Until he meets Libby. When the two get tangled up in a cruel high school game—which lands them in group counseling and community service—Libby and Jack are both pissed, and then surprised. Because the more time they spend together, the less alone they feel. . . . Because sometimes when you meet someone, it changes the world, theirs and yours.&lt;br /&gt;&lt;br /&gt;Jennifer Niven delivers another poignant, exhilarating love story about finding that person who sees you for who you are—and seeing them right back.</description>
+<authors>
+<author>
+<id>45592</id>
+<name>Jennifer Niven</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1332194516p5/45592.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1332194516p2/45592.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/45592.Jennifer_Niven]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>297113</ratings_count>
+<text_reviews_count>36703</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>48860979</id>
+  <uri>kca://work/amzn1.gr.work.v1.sNkC131TkBdjs6wKZJARKQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue May 16 00:00:00 -0700 2017</started_at>
+  <read_at>Fri May 19 11:55:07 -0700 2017</read_at>
+  <date_added>Thu Jun 09 01:37:11 -0700 2016</date_added>
+  <date_updated>Fri May 19 11:55:07 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[5 stars is an understatement! Honestly, I didn't want the book to come to an end. I LOVED IT. This one will definitely have a very special place in my heart!! ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663469495]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663469495]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663468438</id>
+    <book>
+  <id type="integer">18460392</id>
+  <isbn>0385755880</isbn>
+  <isbn13>9780385755887</isbn13>
+  <text_reviews_count type="integer">24083</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FSPjRCvMtQrny9gO06q1lg</uri>
+  <title>All the Bright Places</title>
+  <title_without_series>All the Bright Places</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404331702l/18460392._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404331702l/18460392._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18460392-all-the-bright-places</link>
+  <num_pages>378</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Knopf</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>234136</ratings_count>
+  <description>&lt;b&gt;&lt;i&gt;The Fault in Our Stars&lt;/i&gt; meets &lt;i&gt;Eleanor and Park&lt;/i&gt; in this exhilarating and heart-wrenching love story about a girl who learns to live from a boy who intends to die.&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;Soon to be a major motion picture starring Elle Fanning!&lt;/b&gt;&lt;br /&gt;&lt;b&gt; &lt;/b&gt;&lt;br /&gt;&lt;b&gt;Theodore Finch&lt;/b&gt; is fascinated by death, and he constantly thinks of ways he might kill himself. But each time, something good, no matter how small, stops him.&lt;br /&gt; &lt;br /&gt;&lt;b&gt;Violet Markey&lt;/b&gt; lives for the future, counting the days until graduation, when she can escape her Indiana town and her aching grief in the wake of her sister’s recent death.&lt;br /&gt; &lt;br /&gt;When Finch and Violet meet on the ledge of the bell tower at school, it’s unclear who saves whom. And when they pair up on a project to discover the “natural wonders” of their state, both Finch and Violet make more important discoveries: It’s only with Violet that Finch can be himself—a weird, funny, live-out-loud guy who’s not such a freak after all. And it’s only with Finch that Violet can forget to count away the days and start living them. But as Violet’s world grows, Finch’s begins to shrink.&lt;br /&gt; &lt;br /&gt;This is an intense, gripping novel perfect for fans of Jay Asher, Rainbow Rowell, John Green, Gayle Forman, and Jenny Downham from a talented new voice in YA, Jennifer Niven.</description>
+<authors>
+<author>
+<id>45592</id>
+<name>Jennifer Niven</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1332194516p5/45592.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1332194516p2/45592.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/45592.Jennifer_Niven]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>297113</ratings_count>
+<text_reviews_count>36703</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>26113532</id>
+  <uri>kca://work/amzn1.gr.work.v1.Lba71mV0tHm2BFB8alu-eg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:34:28 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:34:32 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663468438]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663468438]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663468203</id>
+    <book>
+  <id type="integer">33507</id>
+  <isbn>076072850X</isbn>
+  <isbn13>9780760728505</isbn13>
+  <text_reviews_count type="integer">3013</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4B2EZDjG7q5HjJaQmfBNnA</uri>
+  <title>Twenty Thousand Leagues Under the Sea (Extraordinary Voyages, #6)</title>
+  <title_without_series>Twenty Thousand Leagues Under the Sea</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494979127l/33507._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494979127l/33507._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/33507.Twenty_Thousand_Leagues_Under_the_Sea</link>
+  <num_pages>394</num_pages>
+  <format></format>
+  <edition_information>Extraordinary Voyages, #6</edition_information>
+  <publisher>Barnes &amp; Noble</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.88</average_rating>
+  <ratings_count>178027</ratings_count>
+  <description>When an unidentified “monster” threatens international shipping, French oceanographer Pierre Aronnax and his unflappable assistant Conseil join an expedition organized by the US Navy to hunt down and destroy the menace. After months of fruitless searching, they finally grapple with their quarry, but Aronnax, Conseil, and the brash Canadian harpooner Ned Land are thrown overboard in the attack, only to find that the “monster” is actually a futuristic submarine, the Nautilus, commanded by a shadowy, mystical, preternaturally imposing man who calls himself Captain Nemo. Thus begins a journey of 20,000 leagues—nearly 50,000 miles—that will take Captain Nemo, his crew, and these three adventurers on a journey of discovery through undersea forests, coral graveyards, miles-deep trenches, and even the sunken ruins of Atlantis. Jules Verne’s novel of undersea exploration has been captivating readers ever since its first publication in 1870, and Frederick Paul Walter’s reader-friendly, scientifically meticulous translation of this visionary science fiction classic is complete and unabridged down to the smallest substantive detail.</description>
+<authors>
+<author>
+<id>696805</id>
+<name>Jules Verne</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322911579p5/696805.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322911579p2/696805.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/696805.Jules_Verne]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>688035</ratings_count>
+<text_reviews_count>25196</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>1112418</id>
+  <uri>kca://work/amzn1.gr.work.v1.AwqTDRxMIokHbVMPREJz5w</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jan 04 03:10:50 -0800 2017</started_at>
+  <read_at>Sat Feb 18 10:00:47 -0800 2017</read_at>
+  <date_added>Thu Jun 09 01:33:48 -0700 2016</date_added>
+  <date_updated>Sat Feb 18 10:00:47 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>1</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663468203]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663468203]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663468051</id>
+    <book>
+  <id type="integer">54479</id>
+  <isbn>014044906X</isbn>
+  <isbn13>9780140449068</isbn13>
+  <text_reviews_count type="integer">3290</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Bb6RwJEDnTq7AMOnC_PtWA</uri>
+  <title>Around the World in Eighty Days (Extraordinary Voyages, #11)</title>
+  <title_without_series>Around the World in Eighty Days</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308815551l/54479._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308815551l/54479._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/54479.Around_the_World_in_Eighty_Days</link>
+  <num_pages>252</num_pages>
+  <format>Paperback</format>
+  <edition_information>Extraordinary Voyages #11</edition_information>
+  <publisher>Penguin Books</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>168757</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>696805</id>
+<name>Jules Verne</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322911579p5/696805.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322911579p2/696805.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/696805.Jules_Verne]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>688035</ratings_count>
+<text_reviews_count>25196</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>4537271</id>
+  <uri>kca://work/amzn1.gr.work.v1.S2XH-w33J_fqdyg-kKAhBQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:33:23 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:33:27 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663468051]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663468051]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663466723</id>
+    <book>
+  <id type="integer">16366</id>
+  <isbn>0007151675</isbn>
+  <isbn13>9780007151677</isbn13>
+  <text_reviews_count type="integer">1236</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.T6B4Zvtw8x52zARnss6Neg</uri>
+  <title>Endless Night</title>
+  <title_without_series>Endless Night</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329520805l/16366._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329520805l/16366._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16366.Endless_Night</link>
+  <num_pages>303</num_pages>
+  <format>Paperback</format>
+  <edition_information>Agatha Christie Collection</edition_information>
+  <publisher>Harper</publisher>
+  <publication_day/>
+  <publication_year>2007</publication_year>
+  <publication_month/>
+  <average_rating>3.77</average_rating>
+  <ratings_count>17311</ratings_count>
+  <description>When penniless Michael Rogers discovers the beautiful house at Gypsy’s Acre and then meets the heiress Ellie, it seems that all his dreams have come true at once. But he ignores an old woman’s warning of an ancient curse, and evil begins to stir in paradise. As Michael soon learns: Gypsy’s Acre is the place where fatal “accidents” happen.</description>
+<authors>
+<author>
+<id>123715</id>
+<name>Agatha Christie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p5/123715.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p2/123715.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>3475369</ratings_count>
+<text_reviews_count>176980</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>1331617</id>
+  <uri>kca://work/amzn1.gr.work.v1.MKak0fBLvyon4Vn5dIOh2g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:30:00 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:53:14 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663466723]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663466723]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663466632</id>
+    <book>
+  <id type="integer">212622</id>
+  <isbn>0007136854</isbn>
+  <isbn13>9780007136858</isbn13>
+  <text_reviews_count type="integer">575</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.9WujQpWt3HzF_xFc2ZdL9A</uri>
+  <title>Sparkling Cyanide  (Colonel Race, #4)</title>
+  <title_without_series>Sparkling Cyanide</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407930593l/212622._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407930593l/212622._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/212622.Sparkling_Cyanide</link>
+  <num_pages>336</num_pages>
+  <format>Paperback</format>
+  <edition_information>Agatha Christie Signature Edition</edition_information>
+  <publisher>HarperCollins</publisher>
+  <publication_day/>
+  <publication_year>2002</publication_year>
+  <publication_month/>
+  <average_rating>3.87</average_rating>
+  <ratings_count>16914</ratings_count>
+  <description>Six people reunite to remember beautiful Rosemary Barton, who died nearly a year before. The loving sister, the long-suffering husband, the devoted secretary, the lovers, the betrayed wife - none of them can forget Rosemary. &lt;br /&gt;&lt;br /&gt;But did one of them murder her? &lt;br /&gt;&lt;br /&gt;Titled in America &lt;i&gt;Remembered Death&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;Narrated by Hugh Fraser</description>
+<authors>
+<author>
+<id>123715</id>
+<name>Agatha Christie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p5/123715.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p2/123715.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>3475369</ratings_count>
+<text_reviews_count>176980</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>2179061</id>
+  <uri>kca://work/amzn1.gr.work.v1.VZ0RyFabARzNR1OG4iM9UQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:29:45 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:29:49 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663466632]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663466632]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663466078</id>
+    <book>
+  <id type="integer">209194</id>
+  <isbn>0007151667</isbn>
+  <isbn13>9780007151660</isbn13>
+  <text_reviews_count type="integer">1034</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.TLqfALNzZWKLSPq4QiQYXg</uri>
+  <title>The Man in the Brown Suit (Colonel Race, #1)</title>
+  <title_without_series>The Man in the Brown Suit</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390018729l/209194._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390018729l/209194._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/209194.The_Man_in_the_Brown_Suit</link>
+  <num_pages>381</num_pages>
+  <format>Paperback</format>
+  <edition_information>Agatha Christie Collection</edition_information>
+  <publisher>HarperCollinspublishers</publisher>
+  <publication_day/>
+  <publication_year>2002</publication_year>
+  <publication_month/>
+  <average_rating>3.96</average_rating>
+  <ratings_count>72870</ratings_count>
+  <description>Newly-orphaned Anne Beddingfield came to London expecting excitement. She didn't expect to find it on the platform of Hyde Park Corner tube station. When a fellow passenger pitches onto the rails and is electrocuted, the 'doctor' on the scene seems intent on searching the victim rather than examining him . . . &lt;br /&gt;&lt;br /&gt;Armed with a single clue, Anne finds herself struggling to unmask a faceless killer known only as 'The Colonel' - while 'The Colonel' struggles to eliminate her . . .</description>
+<authors>
+<author>
+<id>123715</id>
+<name>Agatha Christie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p5/123715.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p2/123715.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>3475369</ratings_count>
+<text_reviews_count>176980</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>995869</id>
+  <uri>kca://work/amzn1.gr.work.v1.b4RA2DHVaBSOClvgrYRGIQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jul 23 22:34:47 -0700 2016</started_at>
+  <read_at>Mon Dec 19 09:13:56 -0800 2016</read_at>
+  <date_added>Thu Jun 09 01:28:16 -0700 2016</date_added>
+  <date_updated>Mon Dec 19 09:13:56 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663466078]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663466078]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663465826</id>
+    <book>
+  <id type="integer">16299</id>
+  <isbn>0312330871</isbn>
+  <isbn13>9780312330873</isbn13>
+  <text_reviews_count type="integer">17941</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.B3ScjZoNWl2tWncHpYuZXQ</uri>
+  <title>And Then There Were None</title>
+  <title_without_series>And Then There Were None</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391120695l/16299._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391120695l/16299._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16299.And_Then_There_Were_None</link>
+  <num_pages>264</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>St. Martin's Press</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>681766</ratings_count>
+  <description>First, there were ten—a curious assortment of strangers summoned as weekend guests to a private island off the coast of Devon. Their host, an eccentric millionaire unknown to all of them, is nowhere to be found. All that the guests have in common is a wicked past they're unwilling to reveal—and a secret that will seal their fate. For each has been marked for murder. One by one they fall prey. Before the weekend is out, there will be none. And only the dead are above suspicion.</description>
+<authors>
+<author>
+<id>123715</id>
+<name>Agatha Christie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p5/123715.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p2/123715.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>3475369</ratings_count>
+<text_reviews_count>176980</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>3038872</id>
+  <uri>kca://work/amzn1.gr.work.v1.hWShtivcYkXeCixPrSSLqA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Apr 16 00:00:00 -0700 2017</started_at>
+  <read_at>Mon Apr 17 06:07:37 -0700 2017</read_at>
+  <date_added>Thu Jun 09 01:27:44 -0700 2016</date_added>
+  <date_updated>Mon Apr 17 06:07:37 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Took just a day to finish reading the book. Wanted to hold the book dearly while reaching the end and at the same time wanted to FLING it across the room]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663465826]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663465826]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663465389</id>
+    <book>
+  <id type="integer">18045891</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">13113</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.HIDUdJOnLVGuLsKjNncuxw</uri>
+  <title>Sharp Objects</title>
+  <title_without_series>Sharp Objects</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475695315l/18045891._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475695315l/18045891._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18045891-sharp-objects</link>
+  <num_pages>254</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Broadway Paperbacks</publisher>
+  <publication_day/>
+  <publication_year>2006</publication_year>
+  <publication_month/>
+  <average_rating>3.96</average_rating>
+  <ratings_count>562317</ratings_count>
+  <description>&lt;i&gt;Librarian's Note: this is an alternate cover edition - ISBN 10: 0307341550 (ISBN 13: 9780307341556)&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Fresh from a brief stay at a psych hospital, reporter Camille Preaker faces a troubling assignment: she must return to her tiny hometown to cover the murders of two preteen girls. For years, Camille has hardly spoken to her neurotic, hypochondriac mother or to the half-sister she barely knows: a beautiful thirteen-year-old with an eerie grip on the town. Now, installed in her old bedroom in her family's Victorian mansion, Camille finds herself identifying with the young victims—a bit too strongly. Dogged by her own demons, she must unravel the psychological puzzle of her own past if she wants to get the story—and survive this homecoming.</description>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p5/2383.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p2/2383.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>3348678</ratings_count>
+<text_reviews_count>226129</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>3801</id>
+  <uri>kca://work/amzn1.gr.work.v1.15vJ5P9_AgO2fiAYgmPrVQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jun 09 01:26:36 -0700 2016</started_at>
+  <read_at>Sat Jul 09 03:26:21 -0700 2016</read_at>
+  <date_added>Thu Jun 09 01:26:36 -0700 2016</date_added>
+  <date_updated>Sat Jul 09 03:26:21 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663465389]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663465389]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663465239</id>
+    <book>
+  <id type="integer">19288043</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">26495</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hMn5n6jrUjkoQowRb4-yqw</uri>
+  <title>Gone Girl</title>
+  <title_without_series>Gone Girl</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19288043-gone-girl</link>
+  <num_pages>415</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Broadway Books</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>2058684</ratings_count>
+  <description>Marriage can be a real killer.&lt;br /&gt;&lt;br /&gt;On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne’s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick’s clever and beautiful wife disappears from their rented McMansion on the Mississippi River. Husband-of-the-Year Nick isn’t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife’s head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge. Under mounting pressure from the police and the media—as well as Amy’s fiercely doting parents—the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he’s definitely bitter—but is he really a killer?&lt;br /&gt;&lt;br /&gt;As the cops close in, every couple in town is soon wondering how well they know the one that they love. With his twin sister, Margo, at his side, Nick stands by his innocence. Trouble is, if Nick didn’t do it, where is that beautiful wife? And what was in that silvery gift box hidden in the back of her bedroom closet?&lt;br /&gt;&lt;br /&gt;With her razor-sharp writing and trademark psychological insight, Gillian Flynn delivers a fast-paced, devilishly dark, and ingeniously plotted thriller that confirms her status as one of the hottest writers around.&lt;br /&gt;&lt;br /&gt;One of the most critically acclaimed suspense writers of our time, New York Times bestseller Gillian Flynn takes that statement to its darkest place in this unputdownable masterpiece about a marriage gone terribly, terribly wrong. The Chicago Tribune proclaimed that her work “draws you in and keeps you reading with the force of a pure but nasty addiction.” Gone Girl’s toxic mix of sharp-edged wit and deliciously chilling prose creates a nerve-fraying thriller that confounds you at every turn.&lt;br /&gt;&lt;br /&gt;Source: gillian-flynn.com</description>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p5/2383.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p2/2383.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>3348678</ratings_count>
+<text_reviews_count>226129</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>13306276</id>
+  <uri>kca://work/amzn1.gr.work.v1.t8-NZJ8l4PHhZRkiKjYdtg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:26:16 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:26:16 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663465239]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663465239]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663464481</id>
+    <book>
+  <id type="integer">17212231</id>
+  <isbn>0385537859</isbn>
+  <isbn13>9780385537858</isbn13>
+  <text_reviews_count type="integer">30574</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FeTZw8EixOcSnm2yR2c0SQ</uri>
+  <title>Inferno (Robert Langdon, #4)</title>
+  <title_without_series>Inferno</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070896l/17212231._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070896l/17212231._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17212231-inferno</link>
+  <num_pages>463</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Doubleday</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>430120</ratings_count>
+  <description>Harvard professor of symbology Robert Langdon awakens in an Italian hospital, disoriented and with no recollection of the past thirty-six hours, including the origin of the macabre object hidden in his belongings. With a relentless female assassin trailing them through Florence, he and his resourceful doctor, Sienna Brooks, are forced to flee. Embarking on a harrowing journey, they must unravel a series of codes, which are the work of a brilliant scientist whose obsession with the end of the world is matched only by his passion for one of the most influential masterpieces ever written, Dante Alighieri's The Inferno. &lt;br /&gt; &lt;br /&gt;Dan Brown has raised the bar yet again, combining classical Italian art, history, and literature with cutting-edge science in this sumptuously entertaining thriller.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>6441313</ratings_count>
+<text_reviews_count>175007</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>23841765</id>
+  <uri>kca://work/amzn1.gr.work.v1.cjetcSMxsfNf4pQC2OTpVA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:24:13 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:24:15 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663464481]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663464481]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663464423</id>
+    <book>
+  <id type="integer">11125</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">6661</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.aWCntC8Efc7h6nIhuqpMgA</uri>
+  <title>Digital Fortress</title>
+  <title_without_series>Digital Fortress</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360095966l/11125._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360095966l/11125._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11125.Digital_Fortress</link>
+  <num_pages>510</num_pages>
+  <format>Paperback</format>
+  <edition_information>UK edition</edition_information>
+  <publisher>Corgi books</publisher>
+  <publication_day/>
+  <publication_year>2004</publication_year>
+  <publication_month/>
+  <average_rating>3.64</average_rating>
+  <ratings_count>524532</ratings_count>
+  <description>When the National Security Agency's invincible code-breaking machine encounters a mysterious code it cannot break, the agency calls its head cryptographer, Susan Fletcher, a brilliant and beautiful mathematician. What she uncovers sends shock waves through the corridors of power. The NSA is being held hostage... not by guns or bombs, but by a code so ingeniously complex that if released it would cripple U.S. intelligence.&lt;br /&gt;&lt;br /&gt;Caught in an accelerating tempest of secrecy and lies, Susan Fletcher battles to save the agency she believes in. Betrayed on all sides, she finds herself fighting not only for her country but for her life, and in the end, for the life of the man she loves.&lt;br /&gt;&lt;br /&gt;(back cover)</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>6441313</ratings_count>
+<text_reviews_count>175007</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>40195</id>
+  <uri>kca://work/amzn1.gr.work.v1.vUAZ_d3GhdFOASKILzPuOg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:24:03 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:24:06 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663464423]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663464423]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663464371</id>
+    <book>
+  <id type="integer">6411961</id>
+  <isbn>0385504225</isbn>
+  <isbn13>9780385504225</isbn13>
+  <text_reviews_count type="integer">22716</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.OsWTI6-zT2LkjZFsbh5eVg</uri>
+  <title>The Lost Symbol (Robert Langdon, #3)</title>
+  <title_without_series>The Lost Symbol</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070883l/6411961._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070883l/6411961._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6411961-the-lost-symbol</link>
+  <num_pages>509</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Doubleday</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.70</average_rating>
+  <ratings_count>482618</ratings_count>
+  <description>&lt;b&gt;WHAT IS LOST...&lt;br /&gt;WILL BE FOUND&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In this stunning follow-up to the global phenomenon &lt;i&gt;The Da Vinci Code&lt;/i&gt;, Dan Brown demonstrates once again why he is the world's most popular thriller writer. &lt;i&gt;The Lost Symbol&lt;/i&gt; is a masterstroke of storytelling - a deadly race through a real-world labyrinth of codes, secrets, and unseen truths...all under the watchful eye of Brown's most terrifying villain to date. Set within the hidden chambers, tunnels, and temples of Washington, DC., &lt;i&gt;The Lost Symbol&lt;/i&gt; accelerates through a startling landscape toward an unthinkable finale.&lt;br /&gt;&lt;br /&gt;As the story opens, Harvard symbologist Robert Langdon is summoned unexpectedly to deliver an evening lecture in the U.S. Capitol Building. Within minutes of his arrival, however, the night takes a bizarre turn. A disturbing object - artfully encoded with five symbols - is discovered in the Capitol Building. Langdon recognizes the object as an ancient invitation...one meant to usher its recipient into a long-lost world of esoteric wisdom.&lt;br /&gt;&lt;br /&gt;When Langdon's beloved mentor, Peter Solomon - a prominent Mason and philanthropist - is brutally kidnapped, Langdon realizes his only hope of saving Peter is to accept this mystical invitation and follow wherever it leads him. Langdon is instantly into a clandestine world of Masonic secrets, hidden history, and never-before-seen locations - all of which seem to be dragging him toward a single, inconceivable truth.&lt;br /&gt;&lt;br /&gt;As the world discovered in &lt;i&gt;The Da Vinci Code&lt;/i&gt; and &lt;i&gt;Angels &amp;amp; Demons&lt;/i&gt;, Dan Brown's novels are brilliant tapestries of veiled histories, arcane symbols, and enigmatic codes. In this new novel, he again challenges readers with an intelligent, lightning-paced story that offers surprises at every turn. &lt;i&gt;The Lost Symbol&lt;/i&gt; is exactly what Brown's fans have been waiting for...his most thrilling novel yet.&lt;br /&gt;(jacket)</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>6441313</ratings_count>
+<text_reviews_count>175007</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>6600281</id>
+  <uri>kca://work/amzn1.gr.work.v1.HuxwR5mdJSpJ049s_x2wVg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:23:53 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:23:54 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663464371]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663464371]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663464292</id>
+    <book>
+  <id type="integer">976</id>
+  <isbn>0671027387</isbn>
+  <isbn13>9780671027384</isbn13>
+  <text_reviews_count type="integer">7002</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.j5kJ7UrYmS79DfSfItaY9w</uri>
+  <title>Deception Point</title>
+  <title_without_series>Deception Point</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551277487l/976._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551277487l/976._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/976.Deception_Point</link>
+  <num_pages>556</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>US / CAN Edition</edition_information>
+  <publisher>Pocket Books</publisher>
+  <publication_day/>
+  <publication_year>2002</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.70</average_rating>
+  <ratings_count>555880</ratings_count>
+  <description>A shocking scientific discovery. &lt;br /&gt;A conspiracy of staggering brilliance. &lt;br /&gt;A thriller unlike any you've ever read....&lt;br /&gt;&lt;br /&gt;When a NASA satellite discovers an astonishingly rare object buried deep in the Arctic ice, the floundering space agency proclaims a much-needed victory -- a victory with profound implications for NASA policy and the impending presidential election. To verify the authenticity of the find, the White House calls upon the skills of intelligence analyst Rachel Sexton. Accompanied by a team of experts, including the charismatic scholar Michael Tolland, Rachel travels to the Arctic and uncovers the unthinkable: evidence of scientific trickery -- a bold deception that threatens to plunge the world into controversy. But before she can warn the President, Rachel and Michael are ambushed by a deadly team of assassins. Fleeing for their lives across a desolate and lethal landscape, their only hope for survival is to discover who is behind this masterful plot. The truth, they will learn, is the most shocking deception of all.&lt;br /&gt;(back cover)</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>6441313</ratings_count>
+<text_reviews_count>175007</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>3135896</id>
+  <uri>kca://work/amzn1.gr.work.v1.3vN6l6ewQHaP7nG8A5xB0g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:23:41 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:23:44 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663464292]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663464292]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663464245</id>
+    <book>
+  <id type="integer">968</id>
+  <isbn>0307277674</isbn>
+  <isbn13>9780307277671</isbn13>
+  <text_reviews_count type="integer">35526</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.nhnX9HpwccmQGvIPRirV6g</uri>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <title_without_series>The Da Vinci Code</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551244853l/968._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551244853l/968._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/968.The_Da_Vinci_Code</link>
+  <num_pages>489</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>1759788</ratings_count>
+  <description>&lt;b&gt;An ingenious code hidden in the works of Leonardo da Vinci.&lt;br /&gt;&lt;br /&gt;A desperate race through the cathedrals and castles of Europe.&lt;br /&gt;&lt;br /&gt;An astonishing truth concealed for centuries . . . unveiled at last.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;br /&gt;&lt;br /&gt;Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>6441313</ratings_count>
+<text_reviews_count>175007</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>2982101</id>
+  <uri>kca://work/amzn1.gr.work.v1.7AXG9mr2e7wBr03DdCwgMQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:23:31 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:23:34 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663464245]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663464245]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1663464157</id>
+    <book>
+  <id type="integer">960</id>
+  <isbn>1416524797</isbn>
+  <isbn13>9781416524793</isbn13>
+  <text_reviews_count type="integer">21091</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.aj0GB9Rl93tP-2U9xrEdTw</uri>
+  <title>Angels &amp; Demons (Robert Langdon, #1)</title>
+  <title_without_series>Angels &amp; Demons</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558711679l/960._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558711679l/960._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/960.Angels_Demons</link>
+  <num_pages>736</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>Pocket Books Premium Edition (US/CAN)</edition_information>
+  <publisher>Pocket Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>2444561</ratings_count>
+  <description>World-renowned Harvard symbologist Robert Langdon is summoned to a Swiss research facility to analyze a cryptic symbol seared into the chest of a murdered physicist. What he discovers is unimaginable: a deadly vendetta against the Catholic Church by a centuries-old underground organization -- the Illuminati. In a desperate race to save the Vatican from a powerful time bomb, Langdon joins forces in Rome with the beautiful and mysterious scientist Vittoria Vetra. Together they embark on a frantic hunt through sealed crypts, dangerous catacombs, and deserted cathedrals, and into the depths of the most secretive vault on earth...the long-forgotten Illuminati lair.&lt;br /&gt;(back cover)</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>6441313</ratings_count>
+<text_reviews_count>175007</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>3338963</id>
+  <uri>kca://work/amzn1.gr.work.v1.ocYeIPzLq_R9remL5iwsQw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 09 01:23:18 -0700 2016</date_added>
+  <date_updated>Thu Jun 09 01:23:18 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1663464157]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1663464157]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>632548314</id>
+    <book>
+  <id type="integer">17184</id>
+  <isbn>0451528522</isbn>
+  <isbn13>9780451528520</isbn13>
+  <text_reviews_count type="integer">3715</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.9rmb69iMnGUX3TWsMFwdIA</uri>
+  <title>The Invisible Man</title>
+  <title_without_series>The Invisible Man</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17184.The_Invisible_Man</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Signet Classics</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.64</average_rating>
+  <ratings_count>122431</ratings_count>
+  <description>This masterpiece of science fiction is the fascinating story of Griffin, a scientist who creates a serum to render himself invisible, and his descent into madness that follows.</description>
+<authors>
+<author>
+<id>880695</id>
+<name>H.G. Wells</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1547736853p5/880695.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1547736853p2/880695.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/880695.H_G_Wells]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>945909</ratings_count>
+<text_reviews_count>32531</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>1326579</id>
+  <uri>kca://work/amzn1.gr.work.v1.b99IKGyqD-xYkEEv9DA-ig</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jun 04 06:02:24 -0700 2013</started_at>
+  <read_at>Thu Jun 09 01:51:35 -0700 2016</read_at>
+  <date_added>Tue Jun 04 06:02:24 -0700 2013</date_added>
+  <date_updated>Thu Jun 09 01:51:35 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/632548314]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/632548314]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>632546091</id>
+    <book>
+  <id type="integer">11792612</id>
+  <isbn>0007444397</isbn>
+  <isbn13>9780007444397</isbn13>
+  <text_reviews_count type="integer">520</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.OQjVM9I4d7_Wr7UGNj6yYA</uri>
+  <title>Dare to Dream: Life as One Direction (100% Official)</title>
+  <title_without_series>Dare to Dream: Life as One Direction</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327150472l/11792612._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327150472l/11792612._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11792612-dare-to-dream</link>
+  <num_pages>288</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.60</average_rating>
+  <ratings_count>7211</ratings_count>
+  <description>Join the UK’s hottest new boyband on their rollercoaster ride to superstardom, with the follow-up to the Number 1 bestselling book One Direction: Forever Young: Our Official X Factor Story.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;In 2010 they were just five normal boys, who didn’t even know each other, dreaming of being up on stage, with fans screaming their names… so much has happened for One Direction since then!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Following their huge success on The X Factor, and the hysteria they caused wherever they went on The X Factor tour, One Direction are quickly becoming the UK’s biggest boyband, and the pop act that everyone wants to meet. And this is just the beginning…&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;After storming the UK charts in 2011, 2012 looks set to be the year One Direction go global!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Here, in their own official book, Harry, Niall, Zayn, Liam and Louis each tell the story of their amazing journeys in full – from teen hopefuls auditioning for The X Factor to pop superstars in the making, and now to living their dreams out. And the boys are so grateful to their fans for getting them there, they want to give you all an exclusive peek inside their world…&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Stunningly designed and jam packed full of exclusive unseen photos of the band on and off stage, plus private captured moments, the incredible story of One Direction’s rise to fame is a must-have for any true fan.</description>
+<authors>
+<author>
+<id>4659154</id>
+<name>One Direction</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1346296424p5/4659154.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1346296424p2/4659154.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4659154.One_Direction]]></link>
+<average_rating>4.65</average_rating>
+<ratings_count>23334</ratings_count>
+<text_reviews_count>1176</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>16745023</id>
+  <uri>kca://work/amzn1.gr.work.v1.TedKAp1LAi3ucAUYeh7rSw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jun 04 05:58:27 -0700 2013</date_added>
+  <date_updated>Tue Jun 04 05:58:39 -0700 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+      Read it!! I love it!!!!!
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/632546091]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/632546091]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>632545593</id>
+    <book>
+  <id type="integer">5328</id>
+  <isbn>1580495796</isbn>
+  <isbn13>9781580495790</isbn13>
+  <text_reviews_count type="integer">449</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UWofeIkbr4puus4hCf1MbA</uri>
+  <title>A Christmas Carol</title>
+  <title_without_series>A Christmas Carol</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390582820l/5328._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390582820l/5328._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5328.A_Christmas_Carol</link>
+  <num_pages>112</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Penguin Books </publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>542272</ratings_count>
+  <description>A Christmas Carol is a novella by English author Charles Dickens. It was first published by Chapman &amp;amp; Hall on 19 December 1843. Carol tells the story of a bitter old miser named Ebenezer Scrooge and his transformation resulting from a supernatural visit by the ghost of his former business partner Jacob Marley and the Ghosts of Christmases Past, Present and Yet to Come. The novella met with instant success and critical acclaim. The book was written and published in early Victorian era Britain, a period when there was strong nostalgia for old Christmas traditions together with the introduction of new customs, such as Christmas trees and greeting cards. Dickens' sources for the tale appear to be many and varied, but are, principally, the humiliating experiences of his childhood, his sympathy for the poor, and various Christmas stories and fairy tales.</description>
+<authors>
+<author>
+<id>239579</id>
+<name>Charles Dickens</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1387078070p5/239579.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1387078070p2/239579.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/239579.Charles_Dickens]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>2909131</ratings_count>
+<text_reviews_count>84321</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>3097440</id>
+  <uri>kca://work/amzn1.gr.work.v1.4hR7ceY9JxMgff-J3C_n8Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jun 04 05:57:34 -0700 2013</started_at>
+  <read_at>Thu Jun 09 01:51:44 -0700 2016</read_at>
+  <date_added>Tue Jun 04 05:57:34 -0700 2013</date_added>
+  <date_updated>Thu Jun 09 01:51:44 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/632545593]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/632545593]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>632544283</id>
+    <book>
+  <id type="integer">15820072</id>
+  <isbn>0062223186</isbn>
+  <isbn13>9780062223180</isbn13>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.BpgrisUAMmyJP4xFo5xG5g</uri>
+  <title>One Direction: A Year with One Direction</title>
+  <title_without_series>One Direction: A Year with One Direction</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138694l/15820072._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356138694l/15820072._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15820072-one-direction</link>
+  <num_pages>64</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.76</average_rating>
+  <ratings_count>2041</ratings_count>
+  <description>One Direction are the biggest band on the planet. Celebrate their story with this official guide crammed full of exclusive interviews and never-seen-before photos.</description>
+<authors>
+<author>
+<id>4659154</id>
+<name>One Direction</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1346296424p5/4659154.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1346296424p2/4659154.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4659154.One_Direction]]></link>
+<average_rating>4.65</average_rating>
+<ratings_count>23334</ratings_count>
+<text_reviews_count>1176</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>21549100</id>
+  <uri>kca://work/amzn1.gr.work.v1.Z7eeuQn2Shkmwe3M9lNnkQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="67715656" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jun 04 05:55:06 -0700 2013</date_added>
+  <date_updated>Thu Jun 09 01:51:56 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/632544283]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/632544283]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

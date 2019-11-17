@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='336797124' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="12" total="12">
+    <review>
+  <id>3031830708</id>
+    <book>
+  <id type="integer">17396126</id>
+  <isbn>1137289252</isbn>
+  <isbn13>9781137289254</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.J98pt14jAKg47XZ602Ys4A</uri>
+  <title>The Study Skills Handbook</title>
+  <title_without_series>The Study Skills Handbook</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17396126-the-study-skills-handbook</link>
+  <num_pages>432</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Red Globe Press</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.88</average_rating>
+  <ratings_count>399</ratings_count>
+  <description>If you are serious about succeeding on your course, The Study Skills Handbook is your essential companion. Based on over 20 years' experience of working with students, 1/2 million copy bestselling author Stella Cottrell helps you develop the skills you need to improve your grades, build your confidence and plan for the future you want. Her tried and trusted approach recognises that we each have a unique formula for success and that finding it is the key to reaching our potential. This book will help you to:&lt;br /&gt;&lt;br /&gt;- use your learning style and existing skills effectively &lt;br /&gt;- develop core study skills in time management, academic writing, critical thinking and more &lt;br /&gt;- discover how to make learning easier and faster &lt;br /&gt;- improve your grades and make study more enjoyable. &lt;br /&gt;&lt;br /&gt;Whether you are a school or college leaver, a mature student, or an international student embarking on university-level study in English for the first time, this handbook is your passport to success.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;</description>
+<authors>
+<author>
+<id>450232</id>
+<name>Stella Cottrell</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/450232.Stella_Cottrell]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>853</ratings_count>
+<text_reviews_count>53</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>1182382</id>
+  <uri>kca://work/amzn1.gr.work.v1.bbydTp-fRvvbAd7ANpR2jA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="336797124" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Oct 31 10:23:26 -0700 2019</date_added>
+  <date_updated>Thu Oct 31 10:23:27 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3031830708]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3031830708]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3026260649</id>
+    <book>
+  <id type="integer">28957268</id>
+  <isbn>1785780719</isbn>
+  <isbn13>9781785780714</isbn13>
+  <text_reviews_count type="integer">445</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.85H7Dtyo89q_kldInfYcWg</uri>
+  <title>Queer: A Graphic History</title>
+  <title_without_series>Queer: A Graphic History</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456189340l/28957268._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456189340l/28957268._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28957268-queer</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>2591</ratings_count>
+  <description>Activist-academic Meg-John Barker and cartoonist Julia Scheele illuminate the histories of queer thought and LGBTQ+ action in this groundbreaking non-fiction graphic novel.&lt;br /&gt;&lt;br /&gt;From identity politics and gender roles to privilege and exclusion, Queer explores how we came to view sex, gender and sexuality in the ways that we do; how these ideas get tangled up with our culture and our understanding of biology, psychology and sexology; and how these views have been disputed and challenged.&lt;br /&gt;&lt;br /&gt;Along the way we look at key landmarks which shift our perspective of what’s ‘normal’ – Alfred Kinsey’s view of sexuality as a spectrum, Judith Butler’s view of gendered behaviour as a performance, the play Wicked, or moments in Casino Royale when we’re invited to view James Bond with the kind of desiring gaze usually directed at female bodies in mainstream media. &lt;br /&gt;&lt;br /&gt;Presented in a brilliantly engaging and witty style, this is a unique portrait of the universe of queer thinking.</description>
+<authors>
+<author>
+<id>15260720</id>
+<name>Meg-John Barker</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1485160339p5/15260720.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1485160339p2/15260720.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15260720.Meg_John_Barker]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>3020</ratings_count>
+<text_reviews_count>567</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>49182973</id>
+  <uri>kca://work/amzn1.gr.work.v1.eV2iNvFRv7kD_rJ7lufJoA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="336797124" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Oct 26 15:49:11 -0700 2019</date_added>
+  <date_updated>Sat Oct 26 15:50:29 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3026260649]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3026260649]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3026206078</id>
+    <book>
+  <id type="integer">24874307</id>
+  <isbn>0141397411</isbn>
+  <isbn13>9780141397412</isbn13>
+  <text_reviews_count type="integer">278</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.RVrDc-y28KIa3dfYtdFsww</uri>
+  <title>The Yellow Wall-Paper</title>
+  <title_without_series>The Yellow Wall-Paper</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423753858l/24874307._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423753858l/24874307._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24874307-the-yellow-wall-paper</link>
+  <num_pages>55</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin </publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>2379</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>29527</id>
+<name>Charlotte Perkins Gilman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1238281005p5/29527.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1238281005p2/29527.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/29527.Charlotte_Perkins_Gilman]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>174206</ratings_count>
+<text_reviews_count>8206</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>71838193</id>
+  <uri>kca://work/amzn1.gr.work.v1.DPJ1E93kaLR0h97wLNx5Bw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="336797124" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Oct 26 14:45:54 -0700 2019</date_added>
+  <date_updated>Sat Oct 26 14:45:55 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3026206078]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3026206078]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3026206033</id>
+    <book>
+  <id type="integer">839560</id>
+  <isbn>3125378400</isbn>
+  <isbn13>9783125378407</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KaiAcv1uix9rryJLqd4xYg</uri>
+  <title>Slaughterhouse-Five.</title>
+  <title_without_series>Slaughterhouse-Five.</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/839560.Slaughterhouse_Five_</link>
+  <num_pages>134</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Klett</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.07</average_rating>
+  <ratings_count>1043622</ratings_count>
+  <description>Kurt Vonnegut's absurdist classic Slaughterhouse-Five introduces us to Billy Pilgrim, a man who becomes 'unstuck in time' after he is abducted by aliens from the planet Tralfamadore. In a plot-scrambling display of virtuosity, we follow Pilgrim simultaneously through all phases of his life, concentrating on his (and Vonnegut's) shattering experience as an American prisoner of war who witnesses the firebombing of Dresden. Slaughterhouse-Five is not only Vonnegut's most powerful book, it is also as important as any written since 1945. Like Catch-22, it fashions the author's experiences in the Second World War into an eloquent and deeply funny plea against butchery in the service of authority. Slaughterhouse-Five boasts the same imagination, humanity, and gleeful appreciation of the absurd found in Vonnegut's other works, but the book's basis in rock-hard, tragic fact gives it unique poignancy -- and humor.</description>
+<authors>
+<author>
+<id>2778055</id>
+<name>Kurt Vonnegut</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1433582280p5/2778055.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1433582280p2/2778055.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2778055.Kurt_Vonnegut]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>2314324</ratings_count>
+<text_reviews_count>74314</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+<work>  <id>1683562</id>
+  <uri>kca://work/amzn1.gr.work.v1.uo3EThst9_tVM3ViTvvfZQ</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="336797124" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Oct 26 14:45:51 -0700 2019</date_added>
+  <date_updated>Sat Oct 26 14:45:52 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3026206033]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3026206033]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3026205998</id>
+    <book>
+  <id type="integer">28440123</id>
+  <isbn>1847494862</isbn>
+  <isbn13>9781847494863</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.DrWGJjQD7OJmtmgMALiGZQ</uri>
+  <title>Treasure Island</title>
+  <title_without_series>Treasure Island</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468852716l/28440123._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468852716l/28440123._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28440123-treasure-island</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Alma Classics Ltd</publisher>
+  <publication_day/>
+  <publication_year>2015</publication_year>
+  <publication_month/>
+  <average_rating>3.83</average_rating>
+  <ratings_count>366406</ratings_count>
+  <description>One of the best-loved adventure stories ever written, Treas­ure Island's timeless tale of pirates, lost treasure maps, mutiny and derring-do has appealed to generations of readers ever since Robert Louis Stevenson penned it in 1881 with the claim: “If this don’t fetch the kids, why, they have gone rotten since my day.”&lt;br /&gt;&lt;br /&gt;But more than just a children’s classic, the novel is considered to be one of the greatest feats of storytelling in the English language, with characters such as the unforgettable Long John Silver becoming part of the cultural consciousness. Treasure Island is a coming-of-age story that will captivate both adults and children for as long as stories are told.</description>
+<authors>
+<author>
+<id>854076</id>
+<name>Robert Louis Stevenson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1192746024p5/854076.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1192746024p2/854076.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/854076.Robert_Louis_Stevenson]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>1004069</ratings_count>
+<text_reviews_count>31977</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>3077988</id>
+  <uri>kca://work/amzn1.gr.work.v1.jmdkybKCkfrZq5SG8p4pNg</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="336797124" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Oct 26 14:45:49 -0700 2019</date_added>
+  <date_updated>Sat Oct 26 14:45:50 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3026205998]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3026205998]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3026205914</id>
+    <book>
+  <id type="integer">13118378</id>
+  <isbn>0571239242</isbn>
+  <isbn13>9780571239245</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.QAClDFGeHx2x8hw5Zc9UqA</uri>
+  <title>The Devil's Mask</title>
+  <title_without_series>The Devil's Mask</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347639258l/13118378._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347639258l/13118378._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13118378-the-devil-s-mask</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Faber  Faber</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.21</average_rating>
+  <ratings_count>43</ratings_count>
+  <description>The Georgian terraces are rising. In the aftermath of the abolition of the slave trade, the port of Bristol is awash with the commercial gains of the Empire. But in the midst of all the grand building projects something is rotten at the heart of the city. The first victim is discovered. News of the mutilated body speeds quickly. And as further horrifically charred corpses are found, the new streets are gripped with a primal sense of fear. The city fathers decide to step in to suppress the rising panic. An innocent is drawn into the tangled net. A lowly legal clerk with a taste for coffee, Inigo Bright has been charged with investigating customs fees in the great port. Yet this routine investigation will drag him down in a net of violence and deception that puts not only his life but that of those closest to him in deadly danger...</description>
+<authors>
+<author>
+<id>737443</id>
+<name>Christopher Wakling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1243841042p5/737443.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1243841042p2/737443.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/737443.Christopher_Wakling]]></link>
+<average_rating>3.27</average_rating>
+<ratings_count>506</ratings_count>
+<text_reviews_count>103</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>15510676</id>
+  <uri>kca://work/amzn1.gr.work.v1.COVjbkVNTpgtAFwEMBPvTg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="336797124" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Oct 26 14:45:45 -0700 2019</date_added>
+  <date_updated>Sat Oct 26 14:45:45 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3026205914]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3026205914]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3026205848</id>
+    <book>
+  <id type="integer">324402</id>
+  <isbn>1860490948</isbn>
+  <isbn13>9781860490941</isbn13>
+  <text_reviews_count type="integer">20</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._P5QlU10HB9yWeoD4w6_7A</uri>
+  <title>Several Perceptions</title>
+  <title_without_series>Several Perceptions</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1289908434l/324402._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1289908434l/324402._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/324402.Several_Perceptions</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Little Brown and Company</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.61</average_rating>
+  <ratings_count>269</ratings_count>
+  <description>Joseph - a 22-year-old self-styled nihilist in search of meaning, found releasing a badger from a zoo, seducing his best friend's mother, dancing at a Dionysic revel and spending his days in a mortuary - is the anti-hero at the heart of this novel.</description>
+<authors>
+<author>
+<id>27500</id>
+<name>Angela Carter</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1397683766p5/27500.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1397683766p2/27500.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/27500.Angela_Carter]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>88249</ratings_count>
+<text_reviews_count>7019</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>2323175</id>
+  <uri>kca://work/amzn1.gr.work.v1.7I-8S0rOI8TAOSIfX8rwSw</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="336797124" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Oct 26 14:45:41 -0700 2019</date_added>
+  <date_updated>Sat Oct 26 14:45:41 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3026205848]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3026205848]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3026205536</id>
+    <book>
+  <id type="integer">18994669</id>
+  <isbn>1447257685</isbn>
+  <isbn13>9781447257684</isbn13>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.JvX1_tQ4ZFvMbybaqLEc_A</uri>
+  <title>Brand New Ancients</title>
+  <title_without_series>Brand New Ancients</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385524841l/18994669._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385524841l/18994669._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18994669-brand-new-ancients</link>
+  <num_pages>48</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Picador</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.19</average_rating>
+  <ratings_count>1564</ratings_count>
+  <description>&lt;i&gt;Brand New Ancients&lt;/i&gt; is the tale of two families and their intertwining lives, set against the background of the city and braided with classical myth. Here, Tempest shows how the old myths still live on in our everyday acts of violence, bravery, sacrifice and love – and that our lives make tales no less dramatic and powerful than those of the old gods.</description>
+<authors>
+<author>
+<id>6570292</id>
+<name>Kate Tempest</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1438482592p5/6570292.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1438482592p2/6570292.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6570292.Kate_Tempest]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>10114</ratings_count>
+<text_reviews_count>1250</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>26023486</id>
+  <uri>kca://work/amzn1.gr.work.v1.9AwRkbtxwoGYzvHiRBNZRw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="336797124" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='336810193' name='favorites' review_shelf_id='2673227003' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Oct 26 14:45:22 -0700 2019</date_added>
+  <date_updated>Sat Oct 26 14:45:26 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3026205536]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3026205536]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3005454358</id>
+    <book>
+  <id type="integer">24233708</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5865</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.yW7zUqT7lIzumJOOOowRCg</uri>
+  <title>An Absolutely Remarkable Thing (An Absolutely Remarkable Thing, #1)</title>
+  <title_without_series>An Absolutely Remarkable Thing</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520026196l/24233708._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520026196l/24233708._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24233708-an-absolutely-remarkable-thing</link>
+  <num_pages>352</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Dutton</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>42705</ratings_count>
+  <description>&lt;b&gt;In his much-anticipated debut novel, Hank Green--cocreator of Crash Course, Vlogbrothers, and SciShow--spins a sweeping, cinematic tale about a young woman who becomes an overnight celebrity before realizing she's part of something bigger, and stranger, than anyone could have possibly imagined.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The Carls just appeared. Coming home from work at three a.m., twenty-three-year-old April May stumbles across a giant sculpture. Delighted by its appearance and craftsmanship--like a ten-foot-tall Transformer wearing a suit of samurai armor--April and her friend Andy make a video with it, which Andy uploads to YouTube. The next day April wakes up to a viral video and a new life. News quickly spreads that there are Carls in dozens of cities around the world--everywhere from Beijing to Buenos Aires--and April, as their first documentarian, finds herself at the center of an intense international media spotlight.&lt;br /&gt;&lt;br /&gt;Now April has to deal with the pressure on her relationships, her identity, and her safety that this new position brings, all while being on the front lines of the quest to find out not just what the Carls are, but what they want from us.&lt;br /&gt;&lt;br /&gt;Compulsively entertaining and powerfully relevant, An Absolutely Remarkable Thing grapples with big themes, including how the social internet is changing fame, rhetoric, and radicalization; how our culture deals with fear and uncertainty; and how vilification and adoration spring from the same dehumanization that follows a life in the public eye.</description>
+<authors>
+<author>
+<id>7023543</id>
+<name>Hank Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1518200461p5/7023543.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1518200461p2/7023543.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7023543.Hank_Green]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>43069</ratings_count>
+<text_reviews_count>7944</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>43819954</id>
+  <uri>kca://work/amzn1.gr.work.v1.onlekIZoF9EmsASubN1FAQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="336797124" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='336810193' name='favorites' review_shelf_id='2652036621' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Oct 08 07:59:15 -0700 2019</date_added>
+  <date_updated>Tue Oct 08 08:00:43 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[“An Absolutely Remarkable Thing” by Hank Green has to be one of my favorite books of all time because of two very distinct memories – the first being reading it for a large majority of the time on the way to London to see “Hamilton: An American Musical” on my 19th birthday – and the second one is...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3005454358]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3005454358]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3005449977</id>
+    <book>
+  <id type="integer">1527854</id>
+  <isbn>1841958697</isbn>
+  <isbn13>9781841958699</isbn13>
+  <text_reviews_count type="integer">395</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.26uf27Z8hPcVDyqXPxhqYw</uri>
+  <title>Girl Meets Boy</title>
+  <title_without_series>Girl Meets Boy</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371062052l/1527854._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371062052l/1527854._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1527854.Girl_Meets_Boy</link>
+  <num_pages>161</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Canongate Myths</edition_information>
+  <publisher>Canongate Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>5101</ratings_count>
+  <description>Girl meets boy. It's a story as old as time. But what happens when an old story meets a brand new set of circumstances?&lt;br /&gt;&lt;br /&gt;Ali Smith's re-mix of Ovid's most joyful metamorphosis is a story about the kind of fluidity that can't be bottled and sold.&lt;br /&gt;&lt;br /&gt;It is about girls and boys, girls and girls, love and transformation, a story of puns and doubles, reversals and revelations.&lt;br /&gt;&lt;br /&gt;Funny and fresh, poetic and political, &lt;i&gt;Girl Meets Boy&lt;/i&gt; is a myth of metamorphosis for the modern world.</description>
+<authors>
+<author>
+<id>68992</id>
+<name>Ali Smith</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215657948p5/68992.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215657948p2/68992.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/68992.Ali_Smith]]></link>
+<average_rating>3.71</average_rating>
+<ratings_count>115468</ratings_count>
+<text_reviews_count>13174</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2554799</id>
+  <uri>kca://work/amzn1.gr.work.v1.L-TeB7dR5S_llKYE2Vnjgw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="336797124" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='336810193' name='favorites' review_shelf_id='2652034141' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Oct 08 07:54:18 -0700 2019</date_added>
+  <date_updated>Tue Oct 08 07:57:05 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[‘Girl Meets Boy‘ is a book I have never heard of until University (it was on my courses set reading list for the summer holidays). It is a retelling of classics – and what could be more classic than a book written in 8AD. For reference, it’s a retelling of the story of a poor family who cannot af...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3005449977]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3005449977]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3005440992</id>
+    <book>
+  <id type="integer">28783749</id>
+  <isbn>163353409X</isbn>
+  <isbn13>9781633534094</isbn13>
+  <text_reviews_count type="integer">155</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FABQk7iwtBy2ZxXSGiS-GQ</uri>
+  <title>The ABC's of LGBT+</title>
+  <title_without_series>The ABC's of LGBT+</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474732940l/28783749._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474732940l/28783749._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28783749-the-abc-s-of-lgbt</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.32</average_rating>
+  <ratings_count>1008</ratings_count>
+  <description>Hello and welcome to the ABC’s of LGBT. Ashley Mardell, one of the most trusted voices on YouTube presents a detailed look at all things LGBT+. Along with in-depth written definitions, personal anecdotes, helpful infographics, links to online videos, and more, Mardell aims to provide a friendly voice to a community looking for information.&lt;br /&gt;&lt;br /&gt;Beyond those searching for a label, this book is also for allies and LGBT+ people simply looking to pack in some extra knowledge! Knowledge is a critical part of acceptance, learning about new identities broadens our understanding of humanity, heightens our empathy, and allows us different, valuable perspectives. These words also provide greater precision when describing attractions and identities. There is never anything wrong with having and efficient, expansive vocabulary!</description>
+<authors>
+<author>
+<id>14921899</id>
+<name>Ashley Mardell</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14921899.Ashley_Mardell]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>1043</ratings_count>
+<text_reviews_count>167</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>48992364</id>
+  <uri>kca://work/amzn1.gr.work.v1.VVe0vjBTfumooz8dKCL0-g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="336797124" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='336810193' name='favorites' review_shelf_id='2652034530' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Oct 08 07:44:45 -0700 2019</date_added>
+  <date_updated>Tue Oct 08 07:57:29 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I’m so happy and proud that this book exists – I remember watching all of Ash’s ABCs of LGBT+ videos on YouTube when I was a questioning bean, so I remember watching the first LGBT+ video around 2015 / 2016 – and instantly falling in love with Ash’s personality and editing – so I felt that his pe...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3005440992]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3005440992]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3005379024</id>
+    <book>
+  <id type="integer">35167600</id>
+  <isbn>1783524715</isbn>
+  <isbn13>9781783524716</isbn13>
+  <text_reviews_count type="integer">15</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.lpDJXPlssJZj5SyEAl2New</uri>
+  <title>Trans Britain: Our Journey from the Shadows</title>
+  <title_without_series>Trans Britain: Our Journey from the Shadows</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502403677l/35167600._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1502403677l/35167600._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35167600-trans-britain</link>
+  <num_pages>372</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Unbound</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.28</average_rating>
+  <ratings_count>85</ratings_count>
+  <description>Over the last five years, transgender people have seemed to burst into the public eye: Time declared 2014 a ‘trans tipping point’, while American Vogue named 2015 ‘the year of trans visibility’. From our television screens to the ballot box, transgender people have suddenly become part of the zeitgeist.&lt;br /&gt;&lt;br /&gt;This apparently overnight emergence, though, is just the latest stage in a long and varied history. The renown of Paris Lees and Hari Nef has its roots in the efforts of those who struggled for equality before them, but were met with indifference – and often outright hostility – from mainstream society.&lt;br /&gt;&lt;br /&gt;Trans Britain chronicles this journey in the words of those who were there to witness a marginalised community grow into the visible phenomenon we recognise today: activists, film-makers, broadcasters, parents, an actress, a rock musician and a priest, among many others.&lt;br /&gt;&lt;br /&gt;Here is everything you always wanted to know about the background of the trans community, but never knew how to ask.</description>
+<authors>
+<author>
+<id>7920041</id>
+<name>Christine Burns</name>
+<role>Editor</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1512912118p5/7920041.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1512912118p2/7920041.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7920041.Christine_Burns]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>101</ratings_count>
+<text_reviews_count>22</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>56498475</id>
+  <uri>kca://work/amzn1.gr.work.v1.1T7m0eTNd4rf3P7oaWS0cQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="336797124" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Oct 08 06:37:44 -0700 2019</date_added>
+  <date_updated>Sun Oct 27 12:11:20 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3005379024]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3005379024]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

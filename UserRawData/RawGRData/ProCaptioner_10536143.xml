@@ -1,0 +1,2318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='34809476' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="30" total="30">
+    <review>
+  <id>3042725484</id>
+    <book>
+  <id type="integer">46367631</id>
+  <isbn>1799723321</isbn>
+  <isbn13>9781799723325</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v2.f94ec8a2-e010-4746-955d-3fc042d25b70</uri>
+  <title>Dovetail: A Novel of Love Everlasting</title>
+  <title_without_series>Dovetail: A Novel of Love Everlasting</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566914200l/46367631._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566914200l/46367631._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/46367631-dovetail</link>
+  <num_pages></num_pages>
+  <format>Audio CD</format>
+  <edition_information/>
+  <publisher>Brilliance Audio</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2020</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.76</average_rating>
+  <ratings_count>17</ratings_count>
+  <description>&lt;b&gt;From the bestselling author of &lt;i&gt;Hello Love&lt;/i&gt; comes a spellbinding new novel of enduring love, family secrets, and mysterious death.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Joe Arneson’s ordinary life is upended by troubling dreams of himself as a different man in another place and time. It isn’t until he visits his estranged grandmother, Pearl, in her Wisconsin hometown that a startling connection emerges.&lt;br /&gt;&lt;br /&gt;Drawn into his family’s past, Joe discovers secrets weighing on the old woman’s soul: the tragic death of her sister Alice a half century ago and its ripple effect on all who loved her. Digging into the events of that summer in 1916, Joe is convinced that his recurrent visions relate to Alice’s untimely passing and to the beloved man she meant to marry. With the help of Kathleen, a local woman Joe’s fallen for, the puzzles of the past start falling into place.&lt;br /&gt;&lt;br /&gt;As uncovered truths bring Joe and Kathleen closer together, they also reveal a new danger. For Joe’s dreams may be a warning—from one star-crossed couple to another.</description>
+<authors>
+<author>
+<id>2996650</id>
+<name>Karen McQuestion</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1432562807p5/2996650.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1432562807p2/2996650.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2996650.Karen_McQuestion]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>46494</ratings_count>
+<text_reviews_count>4427</text_reviews_count>
+</author>
+</authors>
+  <published>2020</published>
+<work>  <id>71397162</id>
+  <uri>kca://work/amzn1.gr.work.v1.tyJaGrCSEmd7Za4OfrbtHw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for><![CDATA[Lovers of Romance and Historical Fiction Novels]]></recommended_for>
+  <recommended_by><![CDATA[I am in an advance readers group. This book reassesses on March 10, 2020]]></recommended_by>
+  <started_at>Sat Nov 09 09:08:55 -0800 2019</started_at>
+  <read_at>Sat Nov 09 09:12:11 -0800 2019</read_at>
+  <date_added>Sat Nov 09 09:08:55 -0800 2019</date_added>
+  <date_updated>Sat Nov 09 09:12:11 -0800 2019</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[Dovetail by Karen McQuestion<br /><br />I loved this book! I am in an advanced readers group for this author and was provided an advance copy of Dovetail. <br />The timeline switches back and forth between 1916 and 1983. Joe Arneson is a young man in 1983. He is troubled by dreams that don’t really fee...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3042725484]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3042725484]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2995766842</id>
+    <book>
+  <id type="integer">45046808</id>
+  <isbn>1250087333</isbn>
+  <isbn13>9781250087331</isbn13>
+  <text_reviews_count type="integer">435</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oYRjuB98RbyU178w25Tbnw</uri>
+  <title>Big Lies in a Small Town</title>
+  <title_without_series>Big Lies in a Small Town</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561879570l/45046808._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1561879570l/45046808._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/45046808-big-lies-in-a-small-town</link>
+  <num_pages>400</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>St. Martin's Press</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2020</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.50</average_rating>
+  <ratings_count>623</ratings_count>
+  <description>North Carolina, 2018: Morgan Christopher's life has been derailed. Taking the fall for a crime she did not commit, she finds herself serving a three-year stint in the North Carolina Women's Correctional Center. Her dream of a career in art is put on hold—until a mysterious visitor makes her an offer that will see her released immediately. Her assignment: restore an old post office mural in a sleepy southern town. Morgan knows nothing about art restoration, but desperate to leave prison, she accepts. What she finds under the layers of grime is a painting that tells the story of madness, violence, and a conspiracy of small town secrets. &lt;br /&gt;&lt;br /&gt;North Carolina, 1940: Anna Dale, an artist from New Jersey, wins a national contest to paint a mural for the post office in Edenton, North Carolina. Alone in the world and desperate for work, she accepts. But what she doesn't expect is to find herself immersed in a town where prejudices run deep, where people are hiding secrets behind closed doors, and where the price of being different might just end in murder. &lt;br /&gt;&lt;br /&gt;What happened to Anna Dale? Are the clues hidden in the decrepit mural? Can Morgan overcome her own demons to discover what exists beneath the layers of lies?</description>
+<authors>
+<author>
+<id>93345</id>
+<name>Diane Chamberlain</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564952664p5/93345.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564952664p2/93345.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/93345.Diane_Chamberlain]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>365512</ratings_count>
+<text_reviews_count>34878</text_reviews_count>
+</author>
+</authors>
+  <published>2020</published>
+<work>  <id>69749711</id>
+  <uri>kca://work/amzn1.gr.work.v1.21ilpF6tqn1KhXjcw4bY2Q</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Sep 30 05:22:42 -0700 2019</date_added>
+  <date_updated>Mon Sep 30 05:22:42 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I loved Big Lies in a Small Town. Ms Chamberlain writes a lovely story of an art mural in a small town. Morgan is in trouble and asked to restore an art Mural that was intended to hang on the wall in a post office of a small town, The story switches back and forth between the original artist of t...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2995766842]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2995766842]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2979543455</id>
+    <book>
+  <id type="integer">47146036</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">105</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v2.cfd6741b-23b1-4b3d-94eb-e3d7f0e489fe</uri>
+  <title>Scarred: Trey and Autumn (Cliffside Bay Book 8)</title>
+  <title_without_series>Scarred: Trey and Autumn</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563554862l/47146036._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1563554862l/47146036._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/47146036-scarred</link>
+  <num_pages>280</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>4kids5cats Editions</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.72</average_rating>
+  <ratings_count>133</ratings_count>
+  <description>For Autumn Hickman, online dating has been an exercise in nothing more than coffee and failure. There simply isn’t a man on the planet who can compare to her best friend, Trey Wattson. And while Trey is everything Autumn has ever wanted in a partner, she knows the man who loves life’s most beautiful things could never cherish anything as scarred and mangled as her. &lt;br /&gt;&lt;br /&gt;Trey Wattson is in love with his best friend, but he can't seem to reach her. She’s guarded, and for good reason, but Trey doesn’t care. He knows Autumn’s soul, and it’s the most beautiful thing he’s ever seen. Desperate to claim Autumn’s heart for his own, Trey conspires with The Wolves to create a fake profile on the dating site Autumn frequents. But the more Autumn trusts Trey’s online persona, the more it becomes clear that Trey is gambling with the very thing he wants most of all.&lt;br /&gt;&lt;br /&gt;Return to Tess Thompson’s beloved Cliffside Bay and discover for yourself why true love is built on honesty and trust, and why best friends often make the very best life partners, in this anonymous online romance set in your favorite charming small town.</description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>72197938</id>
+  <uri>kca://work/amzn1.gr.work.v2.8fab1f28-5fb8-4828-97c2-7c4504139e73</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Sep 16 09:34:34 -0700 2019</started_at>
+  <read_at>Mon Sep 16 09:47:43 -0700 2019</read_at>
+  <date_added>Mon Sep 16 09:34:33 -0700 2019</date_added>
+  <date_updated>Mon Sep 16 09:47:43 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Another beautiful story from Tess Thompson. If you have ever had your heart shattered, you know how hard it is to learn to trust again. This is how it was for Trey and Autumn. Will they be able to overcome this big obstacle or will they remain in the friend zone.<br />Scarred is another story set...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2979543455]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2979543455]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2882541814</id>
+    <book>
+  <id type="integer">46663226</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">55</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v2.dc2f53cf-0eb0-4b66-a985-cc3b76f91f37</uri>
+  <title>Christmas Wedding (Cliffside Bay Series)</title>
+  <title_without_series>Christmas Wedding</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/46663226-christmas-wedding</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.78</average_rating>
+  <ratings_count>95</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>71681323</id>
+  <uri>kca://work/amzn1.gr.work.v1.p_ZYoi5WOn8dysSdLjx-4A</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jul 04 01:38:22 -0700 2019</started_at>
+  <read_at>Sat Jul 06 18:19:00 -0700 2019</read_at>
+  <date_added>Thu Jul 04 01:38:22 -0700 2019</date_added>
+  <date_updated>Wed Jul 10 15:06:10 -0700 2019</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[Christmas Wedding: Lisa and Rafael,<br />This short Christmas story was a great fix for my longing for the next Cliffside Bay book by Tess Thompson. The story is a follow up story for the last two books released. The books don’t have to be read in order, but this one, I would recommend reading af...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2882541814]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2882541814]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2874065811</id>
+    <book>
+  <id type="integer">45362995</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">103</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.JFvjlkBbRuodXP0PuS9RNQ</uri>
+  <title>Healed: Stone and Pepper (Cliffside Bay, #7)</title>
+  <title_without_series>Healed: Stone and Pepper</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/45362995-healed</link>
+  <num_pages>282</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>4kids5cats</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.65</average_rating>
+  <ratings_count>156</ratings_count>
+  <description>It's Cliffside Bay and beyond in this heartwarming enemies-to-lovers romantic adventure from USA Today bestselling author Tess Thompson. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Stone Hickman is the last of a dying breed. The former Marine believes in integrity, service to his country, a hard day's work, and taking care of his loved ones. When he meets the clever Pepper Griffin, their obvious attraction has him ready to count the stunning beauty among the people that he cares for. But Pepper doesn't share the instant connection. In fact, she wants nothing to do with him. And for honest, straightforward Stone, not knowing why only makes the rejection worse. &lt;br /&gt; &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Pepper Griffin is the epitome of scrappy. For years she's struggled to make acting her career without any help at all from her famous father. While she's still accepting meager roles with little screen time, her best friend has steadily risen to the height of fame. To make matters worse, that very same friend is happily in love, newly engaged, and wants poor Pepper, whose love life is as sad and pathetic as her last film role, to serve as her maid-of-honor while Pepper's enemy, Stone Hickman, is sure to be the groom's best man. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Though Pepper despises the best man, she loves the bride-to-be more. To keep the peace, Pepper willingly includes Stone in the wedding planning process. When the unlikely pair find themselves stranded in a snowstorm while searching for the perfect venue, they'll have to work together to survive the chill even if that means thawing Pepper's heart. &lt;br /&gt;</description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>70116379</id>
+  <uri>kca://work/amzn1.gr.work.v1.sLQDv6RpmTDl7e6hhFJmUw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 27 10:21:02 -0700 2019</date_added>
+  <date_updated>Thu Jun 27 10:22:28 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Healed: Stone and Pepper<br />I love all of Tess Thompson’s books but am especially fond of the Cliffside Bay series. If you read all of them, you are slowly introduced to new characters and you feel like you are apart of the beautiful beachside town. <br />With each new book release, it is like going...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2874065811]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2874065811]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2759041303</id>
+    <book>
+  <id type="integer">43904060</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">107</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.0OBTf8iES7PJidRazjOROg</uri>
+  <title>Missed: Rafael and Lisa (Cliffside Bay, #6)</title>
+  <title_without_series>Missed: Rafael and Lisa</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/43904060-missed</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.54</average_rating>
+  <ratings_count>174</ratings_count>
+  <description>Return to the beloved beach town of Cliffside Bay, where USA Today bestseller Tess Thompson spins another emotional, intriguing tale about overcoming adversity and finding strength in love in this standalone story about Lisa and Rafael. &lt;br /&gt; &lt;br /&gt;After years of struggling as a starving actor, Lisa Perry's dreams are finally coming true. Splitting her time between Los Angeles and Cliffside Bay, the young beauty has a successful television miniseries, her first movie role, and quality time with her best friends Maggie and Pepper. Everything is coming up roses until a single tragic moment changes Lisa forever. &lt;br /&gt; &lt;br /&gt;Haunted by unshakable memories and near-crippling anxiety, Lisa must face a publicity tour full of crowds and interviews in order to move her budding career forward. And with the help of Rafael Soto, the head of security for Brody and Kara Mullen, she finally begins to relax. Though the pair are as different as night and day, something about her temporary bodyguard soothes the young actress, and soon their relationship turns from professional to passionate. &lt;br /&gt; &lt;br /&gt;But what neither anticipates is that despite the obvious threats to a beautiful ingenue, it's actually her protector who stands in harm's way. Will Lisa and Rafael be able to face the danger awaiting him together, or are they destined to accept yet another tragedy they can't stop? &lt;br /&gt; &lt;br /&gt;USA Today bestselling author Tess Thompson welcomes you back to Cliffside Bay to explore the rich, heartwarming stories of the characters who brightened the original five novels in the series. Each book in the Cliffside Bay Series is intended to be read and enjoyed as a sweet standalone, but for maximum enjoyment read this binge-worthy series in order. &lt;br /&gt;</description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>68318192</id>
+  <uri>kca://work/amzn1.gr.work.v1.-c9hIFuZ2FR93vLTVYiDUg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 21 20:26:52 -0700 2019</started_at>
+  <read_at>Thu Mar 21 20:27:04 -0700 2019</read_at>
+  <date_added>Thu Mar 21 20:26:51 -0700 2019</date_added>
+  <date_updated>Thu Mar 21 20:27:51 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Missed: Rafael and Lisa<br />Cliffside Bay Series Book 6<br /><br />For me, reading book 6 in the Cliffside Bay series is like slipping into a cozy, well warn sweater. Tess Thompson does a great job of making the book readable as a stand alone, but if you read the other books in the series, you a...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2759041303]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2759041303]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2682721542</id>
+    <book>
+  <id type="integer">42623048</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">99</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.diIgLENezfgo68LGL8EQ1g</uri>
+  <title>Blue Ink (Blue Mountain #3)</title>
+  <title_without_series>Blue Ink</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/42623048-blue-ink</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.57</average_rating>
+  <ratings_count>201</ratings_count>
+  <description>Charlotte Wilde gives her heart to the wrong men. The last one left with her life savings and their nubile neighbor. Her first published cozy mystery is a flop. Her literary agent’s about to dump her. She has a serious case of writer’s block. And she’s dead broke. &lt;br /&gt; &lt;br /&gt;Which is how she finds herself in rural Idaho looking after her former boss's elderly mother-in-law. While Mrs. Lanigan recovers from her broken hip, Charlotte expects to have plenty of time to focus on her writing. What she gets instead are two very large distractions: the patient herself, and the patient's son Ardan Lanigan. &lt;br /&gt; &lt;br /&gt;As Charlotte dutifully sets out to help Mrs. Lanigan sort through a box of old letters, both women become consumed with the details written on every page. What seemed at first to be ordinary correspondence between Mrs. Lanigan's mother and an unknown man makes her question everything she thought she knew about the identity of her father. &lt;br /&gt; &lt;br /&gt;Then there’s Ardan. Intelligent, quiet, and bookishly handsome, Charlotte feels an immediate connection to him. Unfortunately, he’s made promises to someone else. Ones he cannot break. &lt;br /&gt; &lt;br /&gt;&lt;b&gt;In the third installment of the &lt;i&gt;Blue Mountain&lt;/i&gt; series, Tess Thompson reunites us with the Lanigan brothers, their cranky mother, and the feisty Heywood sisters. This story of forbidden love and hundred-year old mystery will keep you turning pages way past your bedtime.&lt;/b&gt;</description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>66345460</id>
+  <uri>kca://work/amzn1.gr.work.v1.sbGlgjYRDHXmPBf41sMORg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jan 15 00:00:00 -0800 2019</started_at>
+  <read_at>Sat Jan 19 00:00:00 -0800 2019</read_at>
+  <date_added>Sun Jan 20 19:15:41 -0800 2019</date_added>
+  <date_updated>Mon Jan 21 15:12:03 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[What a fun story to read! Blue Ink is the third in the Blue Mountain series. I have read both of the other books but it has been a long time. Ms. Thompson gave reminders throughout the book so readers can be reacquainted with the Characters from past books. While you can read this book as a stand...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2682721542]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2682721542]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2581490732</id>
+    <book>
+  <id type="integer">41837870</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">110</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6YSATByM59Zm87tba-cuTQ</uri>
+  <title>Tainted: Lance and Mary (Cliffside Bay #5)</title>
+  <title_without_series>Tainted: Lance and Mary</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41837870-tainted</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.67</average_rating>
+  <ratings_count>197</ratings_count>
+  <description>One career-ending mistake sends Lance Mullen home to Cliffside Bay in search of a fresh start. And in no time at all, home begins to feel like the place he was always meant to be. With his beautiful new beach house, his friends and family close by, and a profitable business to grow, life really is good. That is until his heart tries to wreck everything... again. &lt;br /&gt; &lt;br /&gt;After losing her mother, child and marriage, Mary Hansen has built a nearly impenetrable wall around her heart. She's convinced her dream job, a few growing friendships, and a never-ending stream of books to fill her evenings are enough for a contented if not all together joyous life. Though she's on guard not to get too close to anyone, one careless moment with Lance will shatter her prospects for an uncomplicated future. &lt;br /&gt; &lt;br /&gt;The fifth installment of The Cliffside Bay Series by bestselling author Tess Thompson follows the interwoven stories of five best friends, the beach community they love, and the women who captivate them. Prepare to get lost in a wave of small town charm, men you would love to take home to your mother, and smart, resilient heroines you wished lived next door. &lt;br /&gt;</description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>65310553</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZgMkzirz8_O8_YJZcVDw9w</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Nov 02 10:23:00 -0700 2018</started_at>
+  <read_at>Fri Nov 02 10:59:13 -0700 2018</read_at>
+  <date_added>Fri Nov 02 10:23:00 -0700 2018</date_added>
+  <date_updated>Fri Nov 02 10:59:13 -0700 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[Tainted, Lance and Marry Cliffside Bay book 5<br />We have met Mary and Lance in the past couple of Cliffside Bay books, but no worries if this is your first book to read from the series, Ms. Thompson makes sure the books stand alone.<br />The Characters are richly developed with flash backs from...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2581490732]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2581490732]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2539685321</id>
+    <book>
+  <id type="integer">40867855</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">117</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ffsRgzl7exxbNueJk3nEMw</uri>
+  <title>Marred: Kyle and Violet (Cliffside Bay, #4)</title>
+  <title_without_series>Marred: Kyle and Violet</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40867855-marred</link>
+  <num_pages>304</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>4kids5cat Editions</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.49</average_rating>
+  <ratings_count>384</ratings_count>
+  <description>&lt;b&gt;A playboy with a painful past finds help he never expected to need, in the most unlikely of places, in this standalone, opposites-attract romance from &lt;i&gt;USA Today&lt;/i&gt; bestselling author Tess Thompson.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Real estate developer Kyle Hicks only has time for three things: his latest project, his very best friends, and his next no-strings-attached tryst. Struggling single mother Violet Ellis is just as busy. Between her son, her failing business, and her historical preservation work, there’s never any time to catch her breath. &lt;br /&gt;&lt;br /&gt;While Kyle’s bringing progress to Cliffside Bay, Violet’s fighting to protect the small town’s increasingly rare charm. But for once they’ll find themselves on the very same team when a brand new project that neither of them anticipated arrives. &lt;br /&gt;&lt;br /&gt;As this unlikely pair quickly learns, working together will require trust and respect. And there just might be something else simmering under the surface of their once-acrimonious relationship -- something special that both of these former rivals are willing to fight for. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;i&gt;USA Today&lt;/i&gt; bestselling author Tess Thompson invites you into the world of &lt;i&gt;Cliffside Bay&lt;/i&gt; to meet a group of five best friends, the women they love, and the stories that bring each couple together. Each book in the &lt;i&gt;Cliffside Bay&lt;/i&gt; series is intended to be read and enjoyed as a sweet standalone, but for maximum enjoyment read this binge-worthy series in order.&lt;/b&gt;</description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>63663420</id>
+  <uri>kca://work/amzn1.gr.work.v1.hu0CSo4nYa8CRkRhogfEMQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Sep 23 09:53:55 -0700 2018</started_at>
+  <read_at>Sun Sep 23 10:01:37 -0700 2018</read_at>
+  <date_added>Sun Sep 23 09:53:54 -0700 2018</date_added>
+  <date_updated>Fri Nov 02 10:59:15 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Marred: Kyle and Violet <br />Cliffside Bay Series, Book 4<br /><br />Tess Thompson has done it again. 5 Stars for Marred, Kyle and Violet!<br />I love reading books from the Cliffside Bay series. Although this is book 4 in the series, you could pick up this book and not read any of the other books in...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2539685321]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2539685321]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2431213089</id>
+    <book>
+  <id type="integer">40126866</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">105</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.RUDt7fRgj63jfpghIZOhpQ</uri>
+  <title>Jaded: Zane and Honor (Cliffside Bay #3)</title>
+  <title_without_series>Jaded: Zane and Honor</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40126866-jaded</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.60</average_rating>
+  <ratings_count>237</ratings_count>
+  <description>Zane Shaw isn't the type to cower in a corner, until he meets Honor Sullivan. She's the most phenomenal woman he's ever met, but he's been burned before and so he's doomed to fall for her from a distance. If only his past hadn't left him so weary, perhaps he could be the man he was raised to be. &lt;br /&gt;&lt;br /&gt;Honor Sullivan has too much at stake to get distracted by a man. But Zane Shaw isn't just any man. He's smart, gorgeous, and a survivor like her. Which is why she knows, deep down, that he deserves someone better than her. Someone whole and undamaged. Yet she can't seem to contain the way he makes her feel. &lt;br /&gt;&lt;br /&gt;These two jaded souls with an instant connection just might find that true love is a joy best savored in the aftermath of life's hardships and pain.&lt;br /&gt;&lt;br /&gt;The third installment of The Cliffside Bay Series by bestselling author Tess Thompson follows the interwoven stories of five best friends, the beach community they love, and the women who captivate them. Prepare to get lost in a wave of small town charm, men you would love to take home to your mother, and smart, resilient heroines you wished lived next door.</description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>62234010</id>
+  <uri>kca://work/amzn1.gr.work.v1.yC5r6CceQIvvuBi7dAD7Ag</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='34810283' name='must-read' review_shelf_id='2077795938' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jun 21 11:24:06 -0700 2018</started_at>
+  <read_at>Thu Jun 21 11:28:39 -0700 2018</read_at>
+  <date_added>Thu Jun 21 11:24:05 -0700 2018</date_added>
+  <date_updated>Thu Jun 21 11:28:39 -0700 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[Jaded: Zane and Honor (Cliffside Bay Series Book 3)<br /><br />Jaded is the third book in Tess Thompson’s Cliffside Bay series. If you haven’t read the other two, no worries, she keeps you informed on what has gone on in previous books, but you will fall in love with the characters and want to go...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2431213089]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2431213089]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2398612769</id>
+    <book>
+  <id type="integer">39025589</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">148</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hqQO9A5wnqex_ce8atgrWw</uri>
+  <title>Deleted: Jackson and Maggie (Cliffside Bay, #2)</title>
+  <title_without_series>Deleted: Jackson and Maggie</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/39025589-deleted</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>672</ratings_count>
+  <description>Jackson Waller has loved Maggie Keene since they were six years old, but their dueling dreams ultimately tore them apart. First love—true love—wasn’t enough to overcome their individual desires to pursue dreams on opposite coasts. When Jackson learns of Maggie’s tragic death on her way to college on the east coast, his heartbreak, compounded by grief, renews his focus on his own future. He vows to do nothing but work toward his goal of becoming a doctor, and maybe enjoy the companionship of his new college buddies, The Dogs. &lt;br /&gt;&lt;br /&gt;Maggie Keene left Cliffside Bay with two things: a broken heart and her ambition. For twelve years she relentlessly pursues her dream of a musical theater career in New York City, but when she learns her father is dying, she returns home to find the truth about her family’s ugly past. There, she discovers two things that will change everything: one, the bitter old man has spread a wild rumor that she has been dead for over a decade; and two, Doctor Jackson Waller is also back in Cliffside Bay—with his brand-new fiancée.&lt;br /&gt;&lt;br /&gt;The second installment of The Cliffside Bay Series by bestselling author Tess Thompson follows the interwoven stories of five best friends, the beach community they love, and the women who captivate them. Prepare to get lost in a wave of small town charm, men you would love to take home to your mother, and smart, resilient heroines you wished lived next door.</description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>60588193</id>
+  <uri>kca://work/amzn1.gr.work.v1.KMRltthvhua5R5NlhL63mA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon May 21 12:56:37 -0700 2018</date_added>
+  <date_updated>Mon May 21 13:03:41 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I loved this book! Tess Thompson has delivered another descriptive masterpiece.<br />Jackson and Maggie were in love through childhood. Maggie left to pursue her dreams as a dancer after high school graduation. Jackson gave an ultimatum, one that broke both Maggie and Jackson's hearts so much tha...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2398612769]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2398612769]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295820493</id>
+    <book>
+  <id type="integer">37907876</id>
+  <isbn>0998583553</isbn>
+  <isbn13>9780998583556</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.CnkqALnMBiHOpYfh-i6KMQ</uri>
+  <title>Traded: Brody and Kara (Cliffside Bay Series, #1)</title>
+  <title_without_series>Traded: Brody and Kara</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518543344l/37907876._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518543344l/37907876._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/37907876-traded</link>
+  <num_pages>264</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>4kids5cats Editions</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>813</ratings_count>
+  <description>Brody Mullen is the best quarterback in the AFL, and his Super Bowl win only confirms what he's suspected his entire career: romantic entanglements are bad for his game. No women. No sex. No problems. But after hiring a beautiful nurse to care for his mother, his resolve begins to weaken.&lt;br /&gt;&lt;br /&gt;The small coastal town of Cliffside Bay, California seems like the perfect place to start over for Kara Eaton. Shielded by her new identity from the Witness Protection Program, she takes a job as a nurse and commits to never speaking of her past, lest she risk losing her life. The only problem? Falling for the handsome football player who hires her.&lt;br /&gt;&lt;br /&gt;The first installment of The Cliffside Bay Series by bestselling author Tess Thompson follows the interwoven stories of five best friends, the beach community they love, and the women who captivate them. Prepare to get lost in a wave of small town charm, men you want to take home to your mother, and smart, resilient heroines you wished lived next door.&lt;br /&gt;&lt;br /&gt; The Cliffside Bay Series will include multiple volumes of sweet romance, all of which may be read and enjoyed as standalones!</description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>59614852</id>
+  <uri>kca://work/amzn1.gr.work.v1.WTBBAx-aMnztx1cVWyWL_w</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Feb 14 08:24:51 -0800 2018</date_added>
+  <date_updated>Thu Feb 15 07:16:53 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I have read all of Tess Thompson's books and this is my favorite of this genre. Ms Thompson is really good at making three D characters and places.<br />Traded stars Brody, a Super Bowl winning quarter back, and Kara, a nurse practitioner who is placed in witness protection because her father is...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295820493]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295820493]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2207761070</id>
+    <book>
+  <id type="integer">35220735</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.REKiqRbNCylWF7bUP7-Ifw</uri>
+  <title>Summary: The Gifts of Imperfection: By Brene Brown</title>
+  <title_without_series>Summary: The Gifts of Imperfection: By Brene Brown</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35220735-summary</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>48</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>16824139</id>
+<name>Readtrepreneur Publishing</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16824139.Readtrepreneur_Publishing]]></link>
+<average_rating>4.44</average_rating>
+<ratings_count>2158</ratings_count>
+<text_reviews_count>111</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>56563440</id>
+  <uri>kca://work/amzn1.gr.work.v1.hUUx78e0X1Xb9ipgOgNAaw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Dec 07 20:20:27 -0800 2017</started_at>
+  <read_at>Tue May 15 16:14:38 -0700 2018</read_at>
+  <date_added>Thu Dec 07 20:20:27 -0800 2017</date_added>
+  <date_updated>Tue May 15 16:14:38 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2207761070]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2207761070]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2123771705</id>
+    <book>
+  <id type="integer">35923857</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">35</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.H2tn1JPv8OjPS8XweF1dLg</uri>
+  <title>Riverstorm (River Valley #5)</title>
+  <title_without_series>Riverstorm</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35923857-riverstorm</link>
+  <num_pages>230</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Tess Thompson</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.43</average_rating>
+  <ratings_count>504</ratings_count>
+  <description>&lt;i&gt;Alternate cover edition of ISBN 9780998583525&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;
+  &lt;i&gt;Two hard-headed attorneys will retrace the steps of their shared past and learn to embrace forgiveness and second chances in this small-town romance from USA Today bestselling author Tess Thompson.&lt;/i&gt;
+&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Los Angeles attorneys Grant Perry and Liz Teeny were once in love, until youth and circumstance tore them apart. Ten years later, they’re reunited while working on an important trial. He’s successful and handsome, but childhood demons haunt him. Liz, lonely and driven, has devoted her life to work.&lt;br /&gt;When unexpected personal events bring them to River Valley, they learn of family secrets that could change their lives forever. How will what they learn impact their lives? Will these secrets bring healing or more heartbreak? Is it too late for a second chance?&lt;br /&gt;&lt;br /&gt;The fifth installment in Tess Thompson’s beloved River Valley Series explores themes of family, home, and the way childhood trauma can follow you into adulthood. Witty banter, lovable characters and a sprinkle of mystery makes this an emotional page-turner.</description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>57457554</id>
+  <uri>kca://work/amzn1.gr.work.v1.Fg2XHbzytgglFzlT1H2B_g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Sep 14 08:52:41 -0700 2017</started_at>
+  <read_at>Thu Nov 16 19:22:04 -0800 2017</read_at>
+  <date_added>Thu Sep 14 08:52:40 -0700 2017</date_added>
+  <date_updated>Thu Nov 16 19:22:15 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[5 Stars for Riverstorm<br />I was given an advanced copy of Riverstorm by Tess Thompson in exchange for an honest review. This is the 5th book in the River Valley series. I thoroughly enjoyed getting lost in the story of a small Oregon town with the some new characters and some familiar ones.<br...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2123771705]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2123771705]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1911102393</id>
+    <book>
+  <id type="integer">24961531</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">681</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.NA1DtFsRITSASIwYqPSHdw</uri>
+  <title>The Color of Secrets</title>
+  <title_without_series>The Color of Secrets</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424234214l/24961531._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424234214l/24961531._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24961531-the-color-of-secrets</link>
+  <num_pages>399</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Lake Union Publishing</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.88</average_rating>
+  <ratings_count>11270</ratings_count>
+  <description>&lt;b&gt;Everyone has secrets, but some can change your life forever…&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In the midst of the Second World War, Eva receives the devastating news that her husband is missing and presumed dead. Neither wife nor widow, she lives in a numb state of limbo until, in the heat of an English summer, she meets Bill, a black American GI. Despite their vastly different backgrounds, neither can deny the love that overcomes them in the frantic weeks that follow, when every day could be their last.&lt;br /&gt;&lt;br /&gt;After Eva discovers she’s pregnant, Bill is shipped off to join the D-day fight, leaving her alone in a bigoted world. As her mixed-race daughter, Louisa, grows up, how far will Eva go to keep her safe and bury the past? And how far will Louisa go to uncover the truth?</description>
+<authors>
+<author>
+<id>765793</id>
+<name>Lindsay Ashford</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1366919434p5/765793.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1366919434p2/765793.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/765793.Lindsay_Ashford]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>15014</ratings_count>
+<text_reviews_count>1146</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>43062786</id>
+  <uri>kca://work/amzn1.gr.work.v1.Z_2NodxB1wwIKfxe0irPpA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Feb 12 07:41:46 -0800 2017</date_added>
+  <date_updated>Tue Feb 14 17:27:26 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1911102393]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1911102393]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1896631242</id>
+    <book>
+  <id type="integer">24874762</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">75</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.WOyKVFwOk-GnaxUn1d2PPQ</uri>
+  <title>The Gone Trilogy (Gone #1-3)</title>
+  <title_without_series>The Gone Trilogy</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24874762-the-gone-trilogy</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>606</ratings_count>
+  <description>The COMPLETE Gone trilogy ~ Available in ebook and paperback &lt;br /&gt;Over 125 reviews on the individual books. &lt;br /&gt; &lt;br /&gt;Macy Mercer only wants a little independence. Eager to prove herself grown up, she goes to a dark, secluded park. She’s supposed to meet the boy of her dreams who she met online. But the cute fifteen year old was a fantasy, his pictures fake. She finds herself face to face with Chester Woodran, a man capable of murder. &lt;br /&gt; &lt;br /&gt;Distraught over his own missing daughter, Chester insists that Macy replace his lost girl. He locks Macy up, withholds food, and roughs her up, demanding that she call him dad. Under duress from his constant threats and mind games, her hold on reality starts to slip. Clinging to her memories is the only way of holding onto her true identity, not believing that she is Chester’s daughter. Otherwise she may never see her family again. &lt;br /&gt; &lt;br /&gt;This trilogy will take you through all three books to the conclusion.</description>
+<authors>
+<author>
+<id>6591338</id>
+<name>Stacy Claflin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1465437945p5/6591338.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1465437945p2/6591338.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6591338.Stacy_Claflin]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>31174</ratings_count>
+<text_reviews_count>3540</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>44523165</id>
+  <uri>kca://work/amzn1.gr.work.v1.WahPBMUPcMf-RHkIRyGLYA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 29 21:11:08 -0800 2017</read_at>
+  <date_added>Sun Jan 29 21:11:08 -0800 2017</date_added>
+  <date_updated>Sun Jan 29 21:11:08 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1896631242]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1896631242]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1878992882</id>
+    <book>
+  <id type="integer">31820555</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">832</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Rph3fEsXGoPtYylnAelHEQ</uri>
+  <title>The Night Bird (Frost Easton, #1)</title>
+  <title_without_series>The Night Bird</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481918306l/31820555._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481918306l/31820555._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/31820555-the-night-bird</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>18684</ratings_count>
+  <description>Homicide detective Frost Easton doesn’t like coincidences. When a series of bizarre deaths rock San Francisco—as seemingly random women suffer violent psychotic breaks—Frost looks for a connection that leads him to psychiatrist Francesca Stein. Frankie’s controversial therapy helps people erase their most terrifying memories…and all the victims were her patients.&lt;br /&gt;&lt;br /&gt;As Frost and Frankie carry out their own investigations, the case becomes increasingly personal—and dangerous. Long-submerged secrets surface as someone called the Night Bird taunts the pair with cryptic messages pertaining to the deaths. Soon Frankie is forced to confront strange gaps in her own memory, and Frost faces a killer who knows the detective’s worst fears.&lt;br /&gt;&lt;br /&gt;As the body count rises and the Night Bird circles ever closer, a dedicated cop and a brilliant doctor race to solve the puzzle before a cunning killer claims another victim.</description>
+<authors>
+<author>
+<id>6939</id>
+<name>Brian Freeman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1555599499p5/6939.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1555599499p2/6939.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6939.Brian_Freeman]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>60229</ratings_count>
+<text_reviews_count>5807</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>51826345</id>
+  <uri>kca://work/amzn1.gr.work.v1.nQr4qzsWKCi3fsdHMl4mYA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jan 14 08:25:40 -0800 2017</read_at>
+  <date_added>Sat Jan 14 08:25:40 -0800 2017</date_added>
+  <date_updated>Sat Jan 14 08:25:40 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1878992882]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1878992882]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1846267509</id>
+    <book>
+  <id type="integer">33527285</id>
+  <isbn>0998357294</isbn>
+  <isbn13>9780998357294</isbn13>
+  <text_reviews_count type="integer">29</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.A7tcNukd3pxiU9LbfaCQew</uri>
+  <title>Miller's Secret</title>
+  <title_without_series>Miller's Secret</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482274896l/33527285._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482274896l/33527285._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/33527285-miller-s-secret</link>
+  <num_pages>340</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>4kids5cats Editions</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.51</average_rating>
+  <ratings_count>144</ratings_count>
+  <description>Obsession. Ambition. Betrayal.&lt;br /&gt;&lt;br /&gt;Left in an orphanage as a young child, Miller Dreeser vowed to someday live a life of wealth and prestige. He obtained that life, with no thought of the consequence to those he used as puppets on a string to get there. His acceptance into the world of the socially elite is not enough to conquer his internal demons, and that unquenchable ambition may cause him to lose it all.&lt;br /&gt;&lt;br /&gt;Surrounding him is a rich tapestry of characters—lives filled with love, heroics, and a yearning for more. His singular focus threatens them all. Will anyone survive Miller’s secret?&lt;br /&gt;&lt;br /&gt;Author Tess Thompson explores themes of power, deceit, and dangerous obsessions in this suspenseful, page-turning post World War II drama.</description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>54292784</id>
+  <uri>kca://work/amzn1.gr.work.v1.3xwOE2BGYVDbXrTk6I5Qtw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Dec 29 00:00:00 -0800 2016</started_at>
+  <read_at>Tue Jan 03 00:00:00 -0800 2017</read_at>
+  <date_added>Wed Dec 21 19:50:50 -0800 2016</date_added>
+  <date_updated>Fri Jan 06 08:23:31 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Another 5 Star Book from Tess Thompson. I was given an Advanced Copy for an honest review. I loved this book! The story is historical fiction set in a small town on the west coast. Miller is a child in an orphanage when the book starts. The story continues when he is and adult and out of the orph...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1846267509]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1846267509]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1805731150</id>
+    <book>
+  <id type="integer">32879613</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.JQQvN8HYqwEnHT5RAXag2A</uri>
+  <title>A River Valley Christmas: Tommy's Wish (The River Valley Series)</title>
+  <title_without_series>A River Valley Christmas: Tommy's Wish</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32879613-a-river-valley-christmas</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.53</average_rating>
+  <ratings_count>47</ratings_count>
+  <description>All Tommy and Lee want for Christmas is another baby, but with his infertility, it would take a miracle. However, in River Valley during Christmastime anything's possible. Join this cast of familiar River Valley heroes in a story of faith, friendship and love.</description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>53490977</id>
+  <uri>kca://work/amzn1.gr.work.v1.6AqoAPPYkjyfsCX84NztOg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Nov 07 08:30:57 -0800 2016</started_at>
+  <read_at>Wed Dec 21 08:38:02 -0800 2016</read_at>
+  <date_added>Mon Nov 07 08:30:57 -0800 2016</date_added>
+  <date_updated>Wed Dec 21 08:38:02 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1805731150]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1805731150]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>841715344</id>
+    <book>
+  <id type="integer">17929145</id>
+  <isbn>1620151464</isbn>
+  <isbn13>9781620151464</isbn13>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.w0EIwUamtt95pyuc6TjrkA</uri>
+  <title>Riverstar (River Valley, #3)</title>
+  <title_without_series>Riverstar</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368727891l/17929145._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368727891l/17929145._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17929145-riverstar</link>
+  <num_pages>242</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Booktrope</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.16</average_rating>
+  <ratings_count>328</ratings_count>
+  <description>&lt;b&gt;
+  &lt;i&gt;A sassy, troubled makeup artist deals with her demons to clear the name of the charming executive with whom she’s fallen in love in this small-town romantic mystery by USA Today bestselling author Tess Thompson. &lt;/i&gt;
+&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Bella Webber is reeling from the end of the most toxic relationship of her life. In an effort to regroup, she ventures to the small town of River Valley to work on a movie filming there. A chance encounter with a strikingly handsome business executive has her falling instantly and unexpectedly in love.&lt;br /&gt;&lt;br /&gt;But the object of Bella's affection soon finds himself at the center of a murder investigation, accused of the crime and under arrest. Convinced of his innocence and hopelessly in love, Bella bands together with friends to find the real killer, facing her biggest fear to ensure the truth is revealed.</description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>25130384</id>
+  <uri>kca://work/amzn1.gr.work.v1.RW3zXDO2UZrTILyVrVmC9Q</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Feb 01 20:23:41 -0800 2014</date_added>
+  <date_updated>Sat Feb 01 20:23:41 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/841715344]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/841715344]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>357176003</id>
+    <book>
+  <id type="integer">6148028</id>
+  <isbn>0439023491</isbn>
+  <isbn13>9780439023498</isbn13>
+  <text_reviews_count type="integer">83122</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.c5JlFHJrTIJY5yfmJN8b0w</uri>
+  <title>Catching Fire (The Hunger Games, #2)</title>
+  <title_without_series>Catching Fire</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358273780l/6148028._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358273780l/6148028._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6148028-catching-fire</link>
+  <num_pages>391</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>2247842</ratings_count>
+  <description>&lt;b&gt;Sparks are igniting.&lt;br /&gt;Flames are spreading.&lt;br /&gt;And the Capitol wants revenge.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Against all odds, Katniss has won the Hunger Games. She and fellow District 12 tribute Peeta Mellark are miraculously still alive. Katniss should be relieved, happy even. After all, she has returned to her family and her longtime friend, Gale. Yet nothing is the way Katniss wishes it to be. Gale holds her at an icy distance. Peeta has turned his back on her completely. And there are whispers of a rebellion against the Capitol - a rebellion that Katniss and Peeta may have helped create.&lt;br /&gt;&lt;br /&gt;Much to her shock, Katniss has fueled an unrest she's afraid she cannot stop. And what scares her even more is that she's not entirely convinced she should try. As time draws near for Katniss and Peeta to visit the districts on the Capitol's cruel Victory Tour, the stakes are higher than ever. If they can't prove, without a shadow of a doubt, that they are lost in their love for each other, the consequences will be horrifying.&lt;br /&gt;&lt;br /&gt;In &lt;i&gt;Catching Fire&lt;/i&gt;, the second novel in the Hunger Games trilogy, Suzanne Collins continues the story of Katniss Everdeen, testing her more than ever before...and surprising readers at every turn.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1530308375p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1530308375p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>10651486</ratings_count>
+<text_reviews_count>377122</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>6171458</id>
+  <uri>kca://work/amzn1.gr.work.v1.2o2efDDMSYr-E3ruRr1VcA</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 27 21:29:44 -0700 2012</date_added>
+  <date_updated>Wed Jun 27 21:29:44 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/357176003]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/357176003]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>357175846</id>
+    <book>
+  <id type="integer">7260188</id>
+  <isbn>0439023513</isbn>
+  <isbn13>9780439023511</isbn13>
+  <text_reviews_count type="integer">89327</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hFVPFpO-8DyF11Gy1k4d7A</uri>
+  <title>Mockingjay (The Hunger Games, #3)</title>
+  <title_without_series>Mockingjay</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358275419l/7260188._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358275419l/7260188._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7260188-mockingjay</link>
+  <num_pages>390</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>2114704</ratings_count>
+  <description>&lt;b&gt;My name is Katniss Everdeen.&lt;br /&gt;Why am I not dead?&lt;br /&gt;I should be dead.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Gale has escaped. Katniss's family is safe. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding.&lt;br /&gt;&lt;br /&gt;It is by design that Katniss was rescued from the arena in the cruel and haunting Quarter Quell, and it is by design that she has long been part of the revolution without knowing it. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Everyone, it seems, has had a hand in the carefully laid plans--except Katniss.&lt;br /&gt;&lt;br /&gt;The success of the rebellion hinges on Katniss's willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels' Mockingjay--no matter what the personal cost.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1530308375p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1530308375p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>10651486</ratings_count>
+<text_reviews_count>377122</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>8812783</id>
+  <uri>kca://work/amzn1.gr.work.v1.4IASwwiLmBwCmDcIe56XuQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 27 21:29:26 -0700 2012</date_added>
+  <date_updated>Wed Jun 27 21:29:26 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/357175846]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/357175846]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>357175376</id>
+    <book>
+  <id type="integer">2767052</id>
+  <isbn>0439023483</isbn>
+  <isbn13>9780439023481</isbn13>
+  <text_reviews_count type="integer">149161</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.YaoKZD8xVx72w5T1ZgR1YQ</uri>
+  <title>The Hunger Games (The Hunger Games, #1)</title>
+  <title_without_series>The Hunger Games</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447303603l/2767052._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447303603l/2767052._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2767052-the-hunger-games</link>
+  <num_pages>374</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.33</average_rating>
+  <ratings_count>5856049</ratings_count>
+  <description>Could you survive on your own, in the wild, with everyone out to make sure you don't live to see the morning?&lt;br /&gt;&lt;br /&gt;In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV. Sixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she is forced to represent her district in the Games. But Katniss has been close to dead before - and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weigh survival against humanity and life against love.&lt;br /&gt;&lt;br /&gt;New York Times bestselling author Suzanne Collins delivers equal parts suspense and philosophy, adventure and romance, in this searing novel set in a future with unsettling parallels to our present.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1530308375p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1530308375p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>10651486</ratings_count>
+<text_reviews_count>377122</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>2792775</id>
+  <uri>kca://work/amzn1.gr.work.v1.qDM8aVuWTQKRymQBUS02og</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 27 21:28:23 -0700 2012</date_added>
+  <date_updated>Wed Jun 27 21:28:23 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/357175376]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/357175376]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>357152275</id>
+    <book>
+  <id type="integer">9416</id>
+  <isbn>0440241413</isbn>
+  <isbn13>9780440241416</isbn13>
+  <text_reviews_count type="integer">9976</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.udoy918z2IFoQoTToI_SAA</uri>
+  <title>Confessions of a Shopaholic (Shopaholic, #1)</title>
+  <title_without_series>Confessions of a Shopaholic</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546503932l/9416._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546503932l/9416._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9416.Confessions_of_a_Shopaholic</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Dell Publishing Company</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.64</average_rating>
+  <ratings_count>608709</ratings_count>
+  <description>Becky Bloomwood has a fabulous flat in London’s trendiest neighborhood, a troupe of glamorous socialite friends, and a closet brimming with the season’s must-haves. The only trouble is, she can’t actually afford it—not any of it. Her job writing at Successful Saving magazine not only bores her to tears, it doesn’t pay much at all. And lately Becky’s been chased by dismal letters from the bank—letters with large red sums she can’t bear to read. She tries cutting back. But none of her efforts succeeds. Her only consolation is to buy herself something . . . just a little something.&lt;br /&gt; &lt;br /&gt;Finally a story arises that Becky actually cares about, and her front-page article catalyzes a chain of events that will transform her life—and the lives of those around her—forever.</description>
+<authors>
+<author>
+<id>6160</id>
+<name>Sophie Kinsella</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245821549p5/6160.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245821549p2/6160.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6160.Sophie_Kinsella]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>2540164</ratings_count>
+<text_reviews_count>106367</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>3237433</id>
+  <uri>kca://work/amzn1.gr.work.v1.I3Pq9eNFkod7NB4aFGY8Bg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 27 20:44:18 -0700 2012</date_added>
+  <date_updated>Wed Jun 27 20:54:48 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I have to admit, I was a little embarrassed to tell friends this is what I was reading, but I thoroughly enjoyed all of the books in this series. Sometimes you need a book that is shallow and just a fast entertaining read. <br />I found myself envious of Rebecca Bloomwood and all of the trouble she got...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/357152275]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/357152275]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>357107182</id>
+    <book>
+  <id type="integer">7131</id>
+  <isbn>037576030X</isbn>
+  <isbn13>9780375760303</isbn13>
+  <text_reviews_count type="integer">581</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.bhxvWpVovlurFWIyzr759Q</uri>
+  <title>The Count of Monte Cristo</title>
+  <title_without_series>The Count of Monte Cristo</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7131.The_Count_of_Monte_Cristo</link>
+  <num_pages>1462</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Modern Library</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>694780</ratings_count>
+  <description>Introduction by Lorenzo Carcaterra&lt;br /&gt; &lt;br /&gt;A popular bestseller since its publication in 1844, The Count of Monte Cristo is one of the great page-turning thrillers of all time. Set against the tumultuous years of the post-Napoleonic era, Alexandre Dumas’s grand historical romance recounts the swashbuckling adventures of Edmond Dantès, a dashing young sailor falsely accused of treason. The story of his long imprisonment, dramatic escape, and carefully wrought revenge offers up a vision of France that has become immortal. As Robert Louis Stevenson declared, “I do not believe there is another volume extant where you can breathe the same unmingled atmosphere of romance.”&lt;br /&gt; &lt;br /&gt;INCLUDES A MODERN LIBRARY READING GROUP GUIDE</description>
+<authors>
+<author>
+<id>4785</id>
+<name>Alexandre Dumas</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1279049943p5/4785.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1279049943p2/4785.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4785.Alexandre_Dumas]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>1146146</ratings_count>
+<text_reviews_count>32094</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>391568</id>
+  <uri>kca://work/amzn1.gr.work.v1.lP6QcblkGK0xzPw6svLP5w</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 27 19:31:52 -0700 2012</date_added>
+  <date_updated>Wed Jun 27 19:41:53 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[My daughter read this book for a school assignment and couldn't stop talking about how good it was. I finally decided I would force myself to read it. I must admit, I had several false starts. It was a little harder, deep read than I could concentrate on. I finally got a cliff note book online to...]]>
+  </body>
+
+  
+
+  <comments_count>2</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/357107182]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/357107182]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>357102641</id>
+    <book>
+  <id type="integer">4667024</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">74215</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KZ1nw4UTXluzx07ZxqL_3g</uri>
+  <title>The Help</title>
+  <title_without_series>The Help</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572940430l/4667024._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572940430l/4667024._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4667024-the-help</link>
+  <num_pages>451</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Amy Einhorn Books</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>1933761</ratings_count>
+  <description>Three ordinary women are about to take one extraordinary step.&lt;br /&gt;&lt;br /&gt;Twenty-two-year-old Skeeter has just returned home after graduating from Ole Miss. She may have a degree, but it is 1962, Mississippi, and her mother will not be happy till Skeeter has a ring on her finger. Skeeter would normally find solace with her beloved maid Constantine, the woman who raised her, but Constantine has disappeared and no one will tell Skeeter where she has gone.&lt;br /&gt;&lt;br /&gt;Aibileen is a black maid, a wise, regal woman raising her seventeenth white child. Something has shifted inside her after the loss of her own son, who died while his bosses looked the other way. She is devoted to the little girl she looks after, though she knows both their hearts may be broken.&lt;br /&gt;&lt;br /&gt;Minny, Aibileen's best friend, is short, fat, and perhaps the sassiest woman in Mississippi. She can cook like nobody's business, but she can't mind her tongue, so she's lost yet another job. Minny finally finds a position working for someone too new to town to know her reputation. But her new boss has secrets of her own.&lt;br /&gt;&lt;br /&gt;Seemingly as different from one another as can be, these women will nonetheless come together for a clandestine project that will put them all at risk. And why? Because they are suffocating within the lines that define their town and their times. And sometimes lines are made to be crossed.&lt;br /&gt;&lt;br /&gt;In pitch-perfect voices, Kathryn Stockett creates three extraordinary women whose determination to start a movement of their own forever changes a town, and the way women, mothers, daughters, caregivers, friends, view one another. A deeply moving novel filled with poignancy, humor, and hope, The Help is a timeless and universal story about the lines we abide by, and the ones we don't. &lt;br /&gt;(jacket flap)</description>
+<authors>
+<author>
+<id>1943477</id>
+<name>Kathryn Stockett</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1233458107p5/1943477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1233458107p2/1943477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1943477.Kathryn_Stockett]]></link>
+<average_rating>4.47</average_rating>
+<ratings_count>1933849</ratings_count>
+<text_reviews_count>82488</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>4717423</id>
+  <uri>kca://work/amzn1.gr.work.v1.TvJFy94D-1BFCR7FXFRS4Q</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 27 19:25:04 -0700 2012</date_added>
+  <date_updated>Wed Jun 27 19:25:04 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/357102641]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/357102641]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>357091702</id>
+    <book>
+  <id type="integer">7937843</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">38004</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.u3lhswX7mqQVt6HJJb3spg</uri>
+  <title>Room</title>
+  <title_without_series>Room</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554546259l/7937843._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554546259l/7937843._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7937843-room</link>
+  <num_pages>321</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.05</average_rating>
+  <ratings_count>657420</ratings_count>
+  <description>To five-year-old-Jack, Room is the world....&lt;br /&gt;&lt;br /&gt;Told in the inventive, funny, and poignant voice of Jack, Room is a celebration of resilience—and a powerful story of a mother and son whose love lets them survive the impossible.&lt;br /&gt;&lt;br /&gt;To five-year-old Jack, Room is the entire world. It is where he was born and grew up; it's where he lives with his Ma as they learn and read and eat and sleep and play. At night, his Ma shuts him safely in the wardrobe, where he is meant to be asleep when Old Nick visits. &lt;br /&gt;&lt;br /&gt;Room is home to Jack, but to Ma, it is the prison where Old Nick has held her captive for seven years. Through determination, ingenuity, and fierce motherly love, Ma has created a life for Jack. But she knows it's not enough ... not for her or for him. She devises a bold escape plan, one that relies on her young son's bravery and a lot of luck. What she does not realize is just how unprepared she is for the plan to actually work. &lt;br /&gt;&lt;br /&gt;Told entirely in the language of the energetic, pragmatic five-year-old Jack, Room is a celebration of resilience and the limitless bond between parent and child, a brilliantly executed novel about what it means to journey from one world to another.</description>
+<authors>
+<author>
+<id>23613</id>
+<name>Emma Donoghue</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1298686263p5/23613.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1298686263p2/23613.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/23613.Emma_Donoghue]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>794911</ratings_count>
+<text_reviews_count>63574</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>9585076</id>
+  <uri>kca://work/amzn1.gr.work.v1.tnL0TvsU8meq_wFsPWUF4g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 27 19:07:50 -0700 2012</date_added>
+  <date_updated>Wed Jun 27 19:15:30 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I loved this book and wished I had read it with a book club. There was so much I needed to discuss after I read it but I couldn't find anyone who had read it. <br />The story is told from the perspective of a 4 year old boy who has spent his whole life in a small room with no windows. He knows nothing...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/357091702]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/357091702]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>357082706</id>
+    <book>
+  <id type="integer">556602</id>
+  <isbn>0312370830</isbn>
+  <isbn13>9780312370831</isbn13>
+  <text_reviews_count type="integer">22847</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.SDQjHhfTK-B-ndYFwwll_Q</uri>
+  <title>Sarah's Key</title>
+  <title_without_series>Sarah's Key</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438863728l/556602._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438863728l/556602._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/556602.Sarah_s_Key</link>
+  <num_pages>294</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>St. Martins Press</publisher>
+  <publication_day/>
+  <publication_year>2007</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.16</average_rating>
+  <ratings_count>395951</ratings_count>
+  <description>Paris, July 1942: Ten-year-old Sarah is brutally arrested with her family in the Vel' d'Hiv' roundup, the most notorious act of French collaboration with the Nazis. but before the police come to take them, Sarah locks her younger brother, Michel, in their favorite hiding place, a cupboard in the family's apartment. She keeps the key, thinking that she will be back within a few hours.&lt;br /&gt;&lt;br /&gt;Paris, May 2002: On Vel' d'Hiv's sixtieth anniversary, Julia Jarmond, an American journalist, is asked by her Paris-based American magazine to write an article about this black day in France's past. Julia has lived in Paris for nearly twenty-five years, married a Frenchman, and she is shocked both by her ignorance about the event and the silence that still surrounds it. In the course of her investigation, she stumbles onto a trail of long-hidden family secrets that connects her to Sarah. Julia finds herself compelled to retrace the girl's ordeal, from the terrible days spent shut in at the Vel' d'Hiv' to the camps and beyond. As she probes into Sarah's past, she begins to question her own place in France and to reevaluate her marriage and her life.&lt;br /&gt;&lt;br /&gt;Writing about the fate of her country with a pitiless clarity, Tatiana de Rosnay offers us a brilliantly subtle, compelling portrait of France under occupation and reveals the taboos and denial surrounding this painful episode in French history.&lt;br /&gt;(front flap)</description>
+<authors>
+<author>
+<id>305400</id>
+<name>Tatiana de Rosnay</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1527229809p5/305400.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1527229809p2/305400.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/305400.Tatiana_de_Rosnay]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>447804</ratings_count>
+<text_reviews_count>36175</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2523229</id>
+  <uri>kca://work/amzn1.gr.work.v1.bDdHG4y93QEFV2csRzR43w</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 27 18:53:18 -0700 2012</date_added>
+  <date_updated>Wed Jun 27 18:53:18 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/357082706]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/357082706]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>357062302</id>
+    <book>
+  <id type="integer">6080822</id>
+  <isbn>0316043893</isbn>
+  <isbn13>9780316043892</isbn13>
+  <text_reviews_count type="integer">1994</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.f_kac5tOV_55xr2fpKhEhw</uri>
+  <title>The Castaways</title>
+  <title_without_series>The Castaways</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1289792088l/6080822._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1289792088l/6080822._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6080822-the-castaways</link>
+  <num_pages>359</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little Brown and Company</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.71</average_rating>
+  <ratings_count>29308</ratings_count>
+  <description>Greg and Tess MacAvoy are one of four prominent Nantucket couples who count each other as best friends. As pillars of their close-knit community, the MacAvoys, Kapenashes, Drakes, and Wheelers are important to their friends and neighbors, and especially to each other. But just before the beginning of another idyllic summer, Greg and Tess are killed when their boat capsizes during an anniversary sail. As the warm weather approaches and the island mourns their loss, nothing can prepare the MacAvoy's closest friends for what will be revealed. &lt;br /&gt;Once again, Hilderbrand masterfully weaves an intense tale of love and loyalty set against the backdrop of endless summer island life.</description>
+<authors>
+<author>
+<id>88301</id>
+<name>Elin Hilderbrand</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1365687944p5/88301.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1365687944p2/88301.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/88301.Elin_Hilderbrand]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>679849</ratings_count>
+<text_reviews_count>51874</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>6257526</id>
+  <uri>kca://work/amzn1.gr.work.v1.Cvx42LxvJtPDhRKq_oZg6g</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 27 18:25:32 -0700 2012</date_added>
+  <date_updated>Wed Jun 27 18:32:52 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<br /><br /> Fun easy read. Somewhat predictable, but not completely. It was the first book I have read from this author, and I am just starting a second one.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/357062302]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/357062302]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>357054585</id>
+    <book>
+  <id type="integer">11148022</id>
+  <isbn>1935961144</isbn>
+  <isbn13>9781935961147</isbn13>
+  <text_reviews_count type="integer">128</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.o5UK8roDis3UDDP85XkS9w</uri>
+  <title>Riversong (River Valley, #1)</title>
+  <title_without_series>Riversong</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11148022-riversong</link>
+  <num_pages>268</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Booktrope Editions</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.72</average_rating>
+  <ratings_count>3263</ratings_count>
+  <description>Author Tess Thompson assembles a colorful cast of endearing small-town characters and takes you on a journey that will make you believe in the possibilities of life - even in the face of overwhelming adversity and unimaginable grief. Lee Tucker is the kind of woman you find yourself rooting for long after the last page is read. When her husband commits suicide, he leaves her pregnant and one million dollars in debt to a loan shark. Out of options, she escapes to her deceased mother's dilapidated house located in a small Oregon town that, like her, is financially ruined, heartbroken and in desperate need of a fresh start. Lee's resilience leads to a plan for a destination restaurant named Riversong, to new chances for passion and love, and to danger from her dead husband's debt as her business blooms. A surprising mix of romance, humor, friendship, intrigue and gourmet food, Riversong entertains while reminding you of life's greatest gifts.</description>
+<authors>
+<author>
+<id>1677547</id>
+<name>Tess Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p5/1677547.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1482110230p2/1677547.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1677547.Tess_Thompson]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13737</ratings_count>
+<text_reviews_count>2365</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>15941566</id>
+  <uri>kca://work/amzn1.gr.work.v1.k_qjUWPCoRHrMlqCl0-7xA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="34809476" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 27 18:12:27 -0700 2012</date_added>
+  <date_updated>Mon Apr 21 11:30:37 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/357054585]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/357054585]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

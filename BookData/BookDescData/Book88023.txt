@@ -1,0 +1,1 @@
+Intended for junior/senior-level electricity and magnetism courses, this book features a treatment of the fundamentals of electromagnetic theory, providing a platform for the exploration of related applications (ac circuits, antennas, transmission lines, plasmas, and optics).

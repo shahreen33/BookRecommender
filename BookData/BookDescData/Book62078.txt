@@ -1,0 +1,1 @@
+Presents a comprehensive business-oriented approach to teaching assembly language programming on IBM and IBM-compatible computers, geared towards freshman and sophomores majoring in data processing or computer science. Rich in student aids including self-evaluation quizzes, chapter objectives, exercises, and chapter summaries.

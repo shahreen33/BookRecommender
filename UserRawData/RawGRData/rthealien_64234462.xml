@@ -1,0 +1,3466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='209798350' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="45" total="45">
+    <review>
+  <id>3042615859</id>
+    <book>
+  <id type="integer">48593129</id>
+  <isbn nil="true"/>
+  <isbn13>9788562559853</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v3.xm2-ZNRlGRl6-mo5</uri>
+  <title>O Tupi que Você Fala</title>
+  <title_without_series>O Tupi que Você Fala</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572207003l/48593129._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1572207003l/48593129._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/48593129-o-tupi-que-voc-fala</link>
+  <num_pages>32</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Globo Livros</publisher>
+  <publication_day/>
+  <publication_year>2018</publication_year>
+  <publication_month/>
+  <average_rating>4.25</average_rating>
+  <ratings_count>12</ratings_count>
+  <description>Tamanduá, guaraná, pipoca, jacaré, guri. Todos nós já falamos uma dessas palavras escritas aqui. &lt;br /&gt;&lt;br /&gt;Agora embarque nessa história sobre a cultura indígena e descubra o indiozinho que existe dentro de você.</description>
+<authors>
+<author>
+<id>5830594</id>
+<name>Cláudio Fragata</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5830594.Cl_udio_Fragata]]></link>
+<average_rating>4.29</average_rating>
+<ratings_count>17</ratings_count>
+<text_reviews_count>4</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>73794348</id>
+  <uri>kca://work/amzn1.gr.work.v2.0f115d05-f998-4a16-b800-4a2fd26d751e</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 09 07:16:22 -0800 2019</date_added>
+  <date_updated>Sat Nov 09 07:16:41 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3042615859]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3042615859]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3042614377</id>
+    <book>
+  <id type="integer">42843333</id>
+  <isbn>8577532976</isbn>
+  <isbn13>9788577532971</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4EFuUjyHfFWDr_QW400JxQ</uri>
+  <title>Leo e a baleia</title>
+  <title_without_series>Leo e a baleia</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/42843333-leo-e-a-baleia</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>1494</ratings_count>
+  <description>UMA EMOCIONANTE HISTORIA SOBRE AMIZADE.&lt;br /&gt;&lt;br /&gt; Leo e seu pai vivem em uma casa perto do mar. Todos os dias o pai de Leo sai cedo para trabalhar como pescador, e o menino passa o dia na companhia de seus gatinhos. Certa manha, apos uma forte tempestade, Leo encontra uma baleia na areia da praia e a leva para casa, pensando em ter uma companhia para ouvir suas historias (a baleia e otima ouvinte). Ele tenta manter a nova amiga em segredo, mas o plano nao dura muito tempo, porque seu pai a encontra escondida na banheira. O gesto de Leo muda a vida dos dois, que se unem para levar a baleia de volta para o mar. Mas a partir dai, a amizade entre pai e filho se fortalece.</description>
+<authors>
+<author>
+<id>2937001</id>
+<name>Benji Davies</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1403622948p5/2937001.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1403622948p2/2937001.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2937001.Benji_Davies]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>10639</ratings_count>
+<text_reviews_count>1855</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>23591261</id>
+  <uri>kca://work/amzn1.gr.work.v1.085LJ26NQbAUTIma-bJueg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 09 07:14:53 -0800 2019</date_added>
+  <date_updated>Sat Nov 09 07:15:39 -0800 2019</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3042614377]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3042614377]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2980527934</id>
+    <book>
+  <id type="integer">37050157</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">18</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FTtHvL80j33xQb4NhOkJLQ</uri>
+  <title>Guia Suno Dividendos: Aprenda a Selecionar Ações que Geram Renda</title>
+  <title_without_series>Guia Suno Dividendos: Aprenda a Selecionar Ações que Geram Renda</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512752533l/37050157._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512752533l/37050157._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/37050157-guia-suno-dividendos</link>
+  <num_pages>118</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Suno Research</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>185</ratings_count>
+  <description>O investimento em dividendos tem sido usado por investidores em todo o mundo para garantir uma aposentadoria segura e confortável.&lt;br /&gt;&lt;br /&gt;De bancários, e médicos ao feirante de Taubaté, milhões de pessoas no Brasil e no mundo já usaram e ainda usam a estratégia para construir verdadeiras fortunas na bolsa.&lt;br /&gt;&lt;br /&gt;Nesse livro iremos abordar como você também pode fazer isso.&lt;br /&gt;&lt;br /&gt;Explicaremos os principais conceitos por trás do invesitmento em dividendos, as técnicas usadas por grandes nomes domo Décio Bazin e Luiz Barsi, além de conhecimentos práticos para que você possa investir em dividendos.&lt;br /&gt;&lt;br /&gt;Derrubaremos mitos, explicaremos como evitar riscos e o mais importante, a filosofia por trás do conceito da Carteira Previdênciaria, descrita por Luiz Barsi em seu trabalho "Faça Fortuna com Ações" na década de 80 e que ainda hoje, é uma das melhores formas para o pequeno investidor pessoa física, atingir sua independência financeira.</description>
+<authors>
+<author>
+<id>17445452</id>
+<name>Tiago Guitián dos Reis</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17445452.Tiago_Guiti_n_dos_Reis]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>185</ratings_count>
+<text_reviews_count>18</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>58883486</id>
+  <uri>kca://work/amzn1.gr.work.v1._IsC6TYqKlYF0AbCaISDpg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Sep 17 04:58:52 -0700 2019</started_at>
+  <read_at>Fri Sep 20 05:15:10 -0700 2019</read_at>
+  <date_added>Tue Sep 17 04:58:51 -0700 2019</date_added>
+  <date_updated>Fri Sep 20 05:15:10 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Uma introdução aos investimentos para quem quer conseguir renda recorrente através da renda variável.<br />Alguns exemplos mostrados como sucesso estão datados e podem ter deixado investidores na mão, mas funcionam para entender o ponto que o livro quer mostrar.<br /><br />Nota: Consegui o livro...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2980527934]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2980527934]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2978251297</id>
+    <book>
+  <id type="integer">48064793</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v2.4ee3f437-6e34-408f-8f85-77695def0ed8</uri>
+  <title>Da minha janela</title>
+  <title_without_series>Da minha janela</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/48064793-da-minha-janela</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Companhia das Letrinhas</publisher>
+  <publication_day/>
+  <publication_year>2019</publication_year>
+  <publication_month/>
+  <average_rating>3.00</average_rating>
+  <ratings_count>2</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>6257093</id>
+<name>Otavio Junior</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6257093.Otavio_Junior]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>21</ratings_count>
+<text_reviews_count>4</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>73264184</id>
+  <uri>kca://work/amzn1.gr.work.v2.2fb4d244-53d8-4954-a496-a555fa17f6b0</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Sep 15 10:05:52 -0700 2019</date_added>
+  <date_updated>Sun Sep 15 10:08:46 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2978251297]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2978251297]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2975661045</id>
+    <book>
+  <id type="integer">17989704</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.T4N4aqunRYwvSNXj6CIfNA</uri>
+  <title>A Vida Como Ela É...</title>
+  <title_without_series>A Vida Como Ela É...</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454421204l/17989704._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454421204l/17989704._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17989704-a-vida-como-ela</link>
+  <num_pages>498</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Nova Fronteira</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>813</ratings_count>
+  <description>Em 1950, quando começou a publicar diariamente a coluna “A vida como ela é...” no periódico Última Hora, Nelson Rodrigues já havia passado pela redação dos jornais A Manhã, Crítica, Jornal dos Sports e O Globo. Também já havia deixado sua marca na história do teatro nacional, com a revolucionária montagem de Vestido de noiva, no Theatro Municipal do Rio de Janeiro, em 1943.&lt;br /&gt;&lt;br /&gt;Encomendada por Samuel Wainer para seu jornal, a coluna estreou em 12 de junho de 1951 e tornou-se um grande sucesso em poucas semanas. Seus contos recriam alguns dos temas caros ao escritor: a fidelidade, o ciúme, a dualidade entre amor e sexo e a distância moral entre as antigas famílias do subúrbio do Rio de Janeiro e a nascente população de classe média e alta de Copacabana e arredores.&lt;br /&gt;&lt;br /&gt;Em 1961, “A vida como ela é...” deixou as páginas do Última Hora e passou a ser publicada no Diário da Noite, de Assis Chateaubriand, no qual Nelson permaneceu por um curto período antes de retornar a O Globo, em 1962, dessa vez assinando a seção de esportes.&lt;br /&gt;&lt;br /&gt;Ainda em 1961, Nelson Rodrigues fez a seleção dos cem melhores contos de “A vida como ela é...”, incluindo textos que ficaram célebres, como “A dama do lotação” e “A coroa de orquídeas”, entre outros. Em comemoração ao centenário do autor, a editora Nova Fronteira inaugura a reedição de sua obra em prosa justamente por este que é um de seus títulos mais conhecidos.</description>
+<authors>
+<author>
+<id>52349</id>
+<name>Nelson Rodrigues</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1256667717p5/52349.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1256667717p2/52349.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/52349.Nelson_Rodrigues]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>5649</ratings_count>
+<text_reviews_count>214</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>894744</id>
+  <uri>kca://work/amzn1.gr.work.v1.A30-MCyap8Ts6h1PGoXSig</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Sep 13 04:04:33 -0700 2019</started_at>
+  <read_at>Fri Sep 13 04:07:51 -0700 2019</read_at>
+  <date_added>Fri Sep 13 04:04:32 -0700 2019</date_added>
+  <date_updated>Fri Sep 13 04:07:51 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2975661045]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2975661045]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2922460488</id>
+    <book>
+  <id type="integer">17972938</id>
+  <isbn>8501402214</isbn>
+  <isbn13>9788501402219</isbn13>
+  <text_reviews_count type="integer">26</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.RP0AoMqyUARKkUtZb4YNqA</uri>
+  <title>O Projeto Rosie</title>
+  <title_without_series>O Projeto Rosie</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369343272l/17972938._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369343272l/17972938._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17972938-o-projeto-rosie</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Record</publisher>
+  <publication_day/>
+  <publication_year>2013</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>398701</ratings_count>
+  <description>Perto de completar 40 anos, o peculiar professor de genética Don Tillman havia desistido do amor. Para acompanhar sua rotina severamente cronometrada, com esquema de refeições padronizadas, um cronograma para a execução de cada compromisso (inclusive para a prática de exercícios físicos antes de dormir) e lidar com sua falta de habilidade social, só mesmo a mulher perfeita. E ele já sabe como encontrá-la. Ou pelo menos acha que sabe. Ele desenvolve o projeto Esposa Perfeita, um questionário meticuloso que irá ajudá-lo a selecionar candidatas adequadas a seu estilo de vida. Mas quando Don conhece a jovem Rosie ele descobre que nem tudo na vida pode ser programado... e que o amor pode, de repente, vir a seu encontro.</description>
+<authors>
+<author>
+<id>1895943</id>
+<name>Graeme Simsion</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1436999377p5/1895943.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1436999377p2/1895943.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1895943.Graeme_Simsion]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>522526</ratings_count>
+<text_reviews_count>51181</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>22084678</id>
+  <uri>kca://work/amzn1.gr.work.v1.x-F0Y4iDSr-iot91lJlaIw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Aug 03 08:07:09 -0700 2019</started_at>
+  <read_at>Fri Sep 06 02:39:06 -0700 2019</read_at>
+  <date_added>Sat Aug 03 08:07:09 -0700 2019</date_added>
+  <date_updated>Fri Sep 06 02:39:06 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Em alguns momentos achei que estava lendo um spin-off do Sheldon de Big Bang Theory. É uma leitura leve e rápida, mas fiquei incomodado com esse personagem que no final sempre é perfeito e tal. ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2922460488]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2922460488]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2894688872</id>
+    <book>
+  <id type="integer">40407286</id>
+  <isbn nil="true"/>
+  <isbn13>9788575596098</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ODJKRmF8U6Mk5ExXGIgEQw</uri>
+  <title>O Capital para crianças</title>
+  <title_without_series>O Capital para crianças</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528299469l/40407286._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528299469l/40407286._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40407286-o-capital-para-crian-as</link>
+  <num_pages>32</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Boitatá</publisher>
+  <publication_day/>
+  <publication_year>2018</publication_year>
+  <publication_month/>
+  <average_rating>4.09</average_rating>
+  <ratings_count>22</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>18097423</id>
+<name>Joan R. Riera</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18097423.Joan_R_Riera]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>20</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>51145553</id>
+  <uri>kca://work/amzn1.gr.work.v1.PzMgxzsH_e5EAYXSeggkoA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jul 13 14:43:04 -0700 2019</started_at>
+  <read_at>Sat Jul 13 14:44:08 -0700 2019</read_at>
+  <date_added>Sat Jul 13 14:43:04 -0700 2019</date_added>
+  <date_updated>Sat Jul 13 14:44:08 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2894688872]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2894688872]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2734752352</id>
+    <book>
+  <id type="integer">16103312</id>
+  <isbn>8585454164</isbn>
+  <isbn13>9788585454166</isbn13>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.mwtbHGPWSkfKAySdYHoyqw</uri>
+  <title>Faça Fortuna Com Ações: Antes Que Seja Tarde</title>
+  <title_without_series>Faça Fortuna Com Ações: Antes Que Seja Tarde</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483369732l/16103312._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483369732l/16103312._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16103312-fa-a-fortuna-com-a-es</link>
+  <num_pages>344</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>CLA</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month/>
+  <average_rating>3.82</average_rating>
+  <ratings_count>90</ratings_count>
+  <description>O jornalista e investidor Décio Bazin mostra como trilhar com segurança os caminhos da Bolsa de valores, e oferece um roteiro simples e claro de como operar com lucro.</description>
+<authors>
+<author>
+<id>6562591</id>
+<name>Décio Bazin</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6562591.D_cio_Bazin]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>128</ratings_count>
+<text_reviews_count>14</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>21914513</id>
+  <uri>kca://work/amzn1.gr.work.v1.Ua3UWFDIV5EdPErd8mWrcQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Mar 01 16:26:05 -0800 2019</started_at>
+  <read_at>Thu Mar 28 09:58:59 -0700 2019</read_at>
+  <date_added>Fri Mar 01 16:26:05 -0800 2019</date_added>
+  <date_updated>Thu Mar 28 04:16:54 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Excelente para conhecer histórias de um época da Bolsa de Valores que eu nem sonhava em investir, mas ironicamente, apesar do subtítulo do livro, talvez seja um pouco tarde para o seu conteúdo.<br />Acredito que comentários mais atualizados, como os existentes no Investidor Inteligente do Graham,...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2734752352]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2734752352]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2712556460</id>
+    <book>
+  <id type="integer">29606110</id>
+  <isbn>8576572990</isbn>
+  <isbn13>9788576572992</isbn13>
+  <text_reviews_count type="integer">79</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.uASB7a1wVlV7q0aMtHlcTQ</uri>
+  <title>Guerra do Velho (Guerra do Velho, #1)</title>
+  <title_without_series>Guerra do Velho</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458756694l/29606110._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458756694l/29606110._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29606110-guerra-do-velho</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Aleph</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>142406</ratings_count>
+  <description>A humanidade finalmente chegou à era das viagens interestelares. A má notícia é que há poucos planetas habitáveis disponíveis – e muitos alienígenas lutando por eles. Para proteger a Terra e também conquistar novos territórios, a raça humana conta com tecnologias inovadoras e com a habilidade e a disposição das FCD - Forças Coloniais de Defesa. Mas, para se alistar, é necessário ter mais de 75 anos. John Perry vai aceitar esse desafio, e ele tem apenas uma vaga ideia do que pode esperar.</description>
+<authors>
+<author>
+<id>4763</id>
+<name>John Scalzi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1562613145p5/4763.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1562613145p2/4763.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4763.John_Scalzi]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>667832</ratings_count>
+<text_reviews_count>54098</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>50700</id>
+  <uri>kca://work/amzn1.gr.work.v1.j7Z9ksghuQbWG761dcNj-Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Feb 12 02:15:43 -0800 2019</started_at>
+  <read_at>Wed Feb 27 15:00:35 -0800 2019</read_at>
+  <date_added>Tue Feb 12 02:15:42 -0800 2019</date_added>
+  <date_updated>Wed Feb 27 15:00:35 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Leitura rápida e agradável. Uma boa aventura que nem senti o tempo passar enquanto lia. ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2712556460]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2712556460]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2688662946</id>
+    <book>
+  <id type="integer">10794609</id>
+  <isbn>8579620279</isbn>
+  <isbn13>9788579620270</isbn13>
+  <text_reviews_count type="integer">43</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Qr9rmlxnzwIhqFuTrK07jQ</uri>
+  <title>Do que eu falo quando eu falo de corrida</title>
+  <title_without_series>Do que eu falo quando eu falo de corrida</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418968769l/10794609._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418968769l/10794609._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10794609-do-que-eu-falo-quando-eu-falo-de-corrida</link>
+  <num_pages>152</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Alfaguara</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month/>
+  <average_rating>3.84</average_rating>
+  <ratings_count>88852</ratings_count>
+  <description>Em 1982, Haruki Murakami decidiu vender seu bar de jazz em Tóquio para se dedicar à escrita. Nesse mesmo período, começou a correr para se manter em forma. Um ano mais tarde, ele completou, sozinho, o trajeto entre Atenas e a cidade de Maratona, na Grécia, e viu que estava no caminho certo para se tornar um corredor de longas distâncias.&lt;br /&gt;&lt;br /&gt;Os anos se passaram, e os romances de Murakami ganharam o mundo. Traduzido em 38 idiomas, ele é um dos autores mais importantes da atualidade. É também um maratonista experimentado e um triatleta. Agora, ele reflete sobre a influência que o esporte teve em sua vida e, sobretudo, em seu texto.&lt;br /&gt;&lt;br /&gt;Este é um livro bem-humorado e sensível, filosófico e revelador, tanto para os fãs deste grande e reservado escritor quanto para as inúmeras pessoas que encontram satisfação semelhante nas corridas.</description>
+<authors>
+<author>
+<id>3354</id>
+<name>Haruki Murakami</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539035376p5/3354.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539035376p2/3354.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3354.Haruki_Murakami]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>2076484</ratings_count>
+<text_reviews_count>151860</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>2475030</id>
+  <uri>kca://work/amzn1.gr.work.v1.rfmP8kRAFedmJ33PEuUmFg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jan 25 07:50:53 -0800 2019</started_at>
+  <read_at>Mon Feb 11 08:49:27 -0800 2019</read_at>
+  <date_added>Fri Jan 25 07:50:53 -0800 2019</date_added>
+  <date_updated>Mon Feb 11 02:52:30 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Li alguns livros do Murakami e geralmente eles tem algum elemento que tende para o sobrenatural que eu nunca consegui decidir se isso da um charme ou se eu preferia que eles não existissem.<br />Mas nesse que é tipo uma biografia do autor, acho que o maior ponto sobrenatural tenha sido eu ter lid...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2688662946]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2688662946]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2649965135</id>
+    <book>
+  <id type="integer">34440596</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">30</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.1b32kCIzByffdyiE-DXClQ</uri>
+  <title>Matéria escura</title>
+  <title_without_series>Matéria escura</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488381690l/34440596._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488381690l/34440596._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34440596-mat-ria-escura</link>
+  <num_pages>352</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Intrínseca</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>197213</ratings_count>
+  <description>“Você está feliz com a sua vida?” &lt;br /&gt; &lt;br /&gt;Essas são as últimas palavras que Jason Dessen ouve antes de acordar num laboratório, preso a uma maca. Raptado por um homem mascarado, Jason é levado para uma usina abandonada e deixado inconsciente. Quando acorda, um estranho sorri para ele, dizendo: “Bem-vindo de volta, amigo.”&lt;br /&gt;&lt;br /&gt;Neste novo mundo, Jason leva outra vida. Sua esposa não é sua esposa, seu filho nunca nasceu e, em vez de professor numa universidade mediana, ele é um gênio da física quântica que conseguiu um feito inimaginável. Algo impossível. Será que é este seu mundo, e o outro é apenas um sonho? E, se esta não for a vida que ele sempre levou, como voltar para sua família e tudo que ele conhece por realidade?&lt;br /&gt;&lt;br /&gt;Com ritmo veloz e muita ação, Matéria escura nos leva a um universo muito maior do que imaginamos, ao mesmo tempo em que comove ao colocar em primeiro plano o amor pela família. Marcante e intimista, seus múltiplos cenários compõem uma história que aborda questões profundamente humanas, como identidade, o peso das escolhas e até onde vamos para recuperar a vida com que sonhamos.&lt;br /&gt;&lt;br /&gt;O livro figurou na lista de mais vendidos do The New York Times e ficou entre os finalistas do Goodreads Choice Awards na categoria melhor livro de ficção científica de 2016.&lt;br /&gt;&lt;br /&gt;Matéria escura ficou entre os vinte livros eleitos pela Amazon como Melhores do Ano de 2016, na categoria mistério e thriller.&lt;br /&gt;&lt;br /&gt;Os direitos de adaptação do livro para o cinema foram adquiridos pela Sony Pictures.&lt;br /&gt;&lt;br /&gt;Blake Crouch é autor da trilogia Wayward Pines, que deu origem à série de TV exibida pela FOX, atualmente na segunda temporada. O programa é produzido por M. Night Shyamalan, o célebre diretor de O Sexto Sentido, Sinais e A Vila.&lt;br /&gt;&lt;br /&gt;“Você vai devorar Matéria escura em uma tarde, ou, mais provavelmente, uma noite.”The New York Times&lt;br /&gt;&lt;br /&gt;“O thriller mais alucinante que você vai ler este ano.”The Guardian</description>
+<authors>
+<author>
+<id>442240</id>
+<name>Blake Crouch</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1479398727p5/442240.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1479398727p2/442240.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/442240.Blake_Crouch]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>483409</ratings_count>
+<text_reviews_count>52919</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>43161998</id>
+  <uri>kca://work/amzn1.gr.work.v1.68qRRKertk5ZNLGCu2siMw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jan 01 09:27:21 -0800 2019</started_at>
+  <read_at>Fri Jan 18 05:11:48 -0800 2019</read_at>
+  <date_added>Tue Jan 01 09:27:21 -0800 2019</date_added>
+  <date_updated>Fri Jan 18 03:50:44 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<blockquote>"Cada escolha uma renúncia, isso é a vida."<br />- Chorão<br /></blockquote>]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2649965135]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2649965135]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2640165101</id>
+    <book>
+  <id type="integer">42438740</id>
+  <isbn>8584391304</isbn>
+  <isbn13>9788584391301</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FPzEctl1WtTWp1qI5vzvnA</uri>
+  <title>O método Bullet Journal: registre o passado, organize o presente, planeje o futuro</title>
+  <title_without_series>O método Bullet Journal: registre o passado, organize o presente, planeje o futuro</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540503664l/42438740._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540503664l/42438740._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/42438740-o-m-todo-bullet-journal</link>
+  <num_pages>328</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Fontanar</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>8790</ratings_count>
+  <description>&lt;b&gt;O aguardado primeiro livro oficial do famoso método Bullet Journal®.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;O método Bullet Journal é muito mais do que uma forma de organizar tarefas através de anotações. É uma maneira de diminuir a ansiedade e “viver de forma intencional”. Ao remover as distrações e focar seu tempo e energia nas atividades que realmente trazem resultado, você vai transformar sua vida profissional e pessoal. &lt;br /&gt;Aprenda neste livro a:&lt;br /&gt;- Registrar o passado;&lt;br /&gt;- Organizar o presente;&lt;br /&gt;- Planejar o futuro. &lt;br /&gt;Um guia certeiro para quem quer tomar as rédeas da própria vida e comemorar um aumento na produtividade.</description>
+<authors>
+<author>
+<id>17732950</id>
+<name>Ryder Carroll</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1535118185p5/17732950.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1535118185p2/17732950.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17732950.Ryder_Carroll]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>8806</ratings_count>
+<text_reviews_count>1219</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>60624007</id>
+  <uri>kca://work/amzn1.gr.work.v1.CVl0N0gu0YpAC2cneK-kOw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Dec 26 16:56:02 -0800 2018</started_at>
+  <read_at>Mon Dec 31 13:26:18 -0800 2018</read_at>
+  <date_added>Wed Dec 26 16:56:00 -0800 2018</date_added>
+  <date_updated>Mon Dec 31 13:26:18 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Sempre fui simpático ao método Bullet Journal e provavelmente vou tentar usar em 2019, mas esperava um pouco mais de exemplos práticos no livro e um pouco menos do teor de auto ajuda. ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2640165101]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2640165101]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2635215153</id>
+    <book>
+  <id type="integer">6669720</id>
+  <isbn nil="true"/>
+  <isbn13>9789898166005</isbn13>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6ITQgIsdVu6xyjca0_6LRQ</uri>
+  <title>A Árvore Generosa</title>
+  <title_without_series>A Árvore Generosa</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402663600l/6669720._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402663600l/6669720._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6669720-a-rvore-generosa</link>
+  <num_pages>56</num_pages>
+  <format>Hardcover</format>
+  <edition_information>2ª Ed.</edition_information>
+  <publisher>Bruaá Editora</publisher>
+  <publication_day/>
+  <publication_year>2008</publication_year>
+  <publication_month/>
+  <average_rating>4.37</average_rating>
+  <ratings_count>837257</ratings_count>
+  <description>Este livro é o mais conhecido do escritor e ilustrador norte-americano Shel Silverstein. O clássico, escrito em 1964, comoveu gerações com a história de uma árvore e um menino. Com poucas palavras, Silverstein fala da relação entre o homem e a natureza, onde uma árvore oferece tudo a um menino, que a deixa de lado ao crescer, ao mesmo tempo que se torna num homem egoísta. Mas para agradar ao menino que ama, a generosidade desta árvore não tem fim - ainda que isto signifique a sua própria destruição.&lt;br /&gt;Duas fortes qualidades aliam-se neste livro. O facto de abordar questões fundamentais como o tempo, a morte, a vida, a relação amorosa e de amizade, tudo o que nos posiciona face aos outros e a nós próprios, assim como a aposta ao nível estético, na sobriedade narrativa e ilustrativa, com o traço simples e preciso de Silverstein.</description>
+<authors>
+<author>
+<id>435477</id>
+<name>Shel Silverstein</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p5/435477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p2/435477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/435477.Shel_Silverstein]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>2505161</ratings_count>
+<text_reviews_count>35443</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>30530</id>
+  <uri>kca://work/amzn1.gr.work.v1.iqYS4UpCfd8IR8w7om4WXQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Dec 22 15:41:59 -0800 2018</date_added>
+  <date_updated>Sat Dec 22 15:43:54 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2635215153]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2635215153]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2606896460</id>
+    <book>
+  <id type="integer">42267651</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">30</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Oiit35-iY5cHAnTYUaXU4A</uri>
+  <title>Do mil ao milhão: Sem cortar o cafézinho</title>
+  <title_without_series>Do mil ao milhão: Sem cortar o cafézinho</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/42267651-do-mil-ao-milh-o</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.11</average_rating>
+  <ratings_count>260</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>18510192</id>
+<name>Thiago Nigro</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18510192.Thiago_Nigro]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>298</ratings_count>
+<text_reviews_count>33</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>65887058</id>
+  <uri>kca://work/amzn1.gr.work.v1.yfXbxibk-2Q2_If-Af5U4Q</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Nov 26 16:17:54 -0800 2018</started_at>
+  <read_at>Fri Dec 14 04:18:58 -0800 2018</read_at>
+  <date_added>Mon Nov 26 16:17:54 -0800 2018</date_added>
+  <date_updated>Fri Dec 14 04:18:58 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Um apanhado de ensinamentos que está presente em vários livros sobre o tema escritos de uma forma que deixa a leitura mais leve/rápida. Aproveita também para expor um pouco da biografia do autor.<br />Recomendo para quem não leu tantos livros sobre a área ou quer saber mais sobre a história de vi...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2606896460]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2606896460]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2596354395</id>
+    <book>
+  <id type="integer">42135165</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">15</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Z1zolNuXAhjr73zUBh-DLQ</uri>
+  <title>O Ódio como Política: A Reinvenção das Direitas no Brasil</title>
+  <title_without_series>O Ódio como Política: A Reinvenção das Direitas no Brasil</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/42135165-o-dio-como-pol-tica</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information>Tinta Vermelha</edition_information>
+  <publisher>Boitempo</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>234</ratings_count>
+  <description>O ódio como política, organizado por Esther Solano, chega às livrarias durante o período eleitoral, no momento em que o campo progressista assiste perplexo à reorganização e ao fortalecimento político das direitas. "Direitas", "novas direitas", "onda conservadora", "fascismo", "reacionarismo", "neoconservadorismo" são algumas expressões que tentam conceituar e dar sentido a um fenômeno que é indiscutível protagonista nos cenários nacional e internacional de hoje, após seguidas vitórias dessas forças dentro do processo democrático. Trump, Brexit e a popularidade de Bolsonaro integram as complexas dinâmicas das direitas que a coletânea busca aprofundar a partir de ensaios escritos por grandes pensadores da atualidade. Tendo como foco central o avanço dos movimentos de direita, os textos analisam sob as mais diversas perspectivas o surgimento e a manutenção do regime de ódio dentro do campo político. &lt;br /&gt; &lt;br /&gt;Luis Felipe Miguel abre o livro apresentando os três eixos da extrema-direita brasileira: o libertarianismo, o fundamentalismo religioso e o revival do anticomunismo. Silvio Almeida continua o raciocínio discorrendo sobre a distinção entre o conservadorismo clássico e o neoconservadorismo atual, para o qual a democracia não passa de um detalhe incômodo. Carapanã tenta responder à pergunta de como chegamos a este cenário de recessão democrática analisando os ataques ao Estado na América Latina e no Brasil. Flávio Henrique Calheiros Casimiro trabalha a cronologia da reorganização do pensamento e da ação política das direitas brasileiras, buscando suas raízes nos anos 1980. Camila Rocha questiona a caracterização das novas direitas brasileiras como militância ou como resultado do financiamento de organizações que articulam think tanks globalmente. &lt;br /&gt; &lt;br /&gt;Rosana Pinheiro-Machado e Lucia Mury Scalco analisam as transformações da juventude periférica, que migrou da esperança frustrada para o ódio bolsonarista na última década. Ferréz também traça um retrato das periferias e do reacionarismo contido nelas, com uma linguagem forte e poética. Rubens Casara escreve sobre a direita jurídica de tradição antidemocrática, marcada por uma herança colonial e escravocrata. Edson Teles reflete sobre a militarização da política e da vida, e sobre a dinâmica da dualidade "inimigo interno" versus "cidadão de bem". &lt;br /&gt; &lt;br /&gt;Na economia, Pedro Rossi e Esther Dweck analisam alguns mitos do discurso da austeridade, enquanto Márcio Moretto conduz-nos a uma dimensão de vital importância para as direitas na atualidade: as redes sociais e como estas organizam o debate político. Já o pastor Henrique Vieira aborda o fundamentalismo religioso e como este se traduz em ações truculentas e em projetos de poder, como a Frente Parlamentar Evangélica. Ainda sobre os perigos do discurso da moral e dos bons costumes, Lucas Bulgarelli analisa a oposição aos direitos LGBTI nos últimos anos, e Stephanie Ribeiro apresenta as ameaças da retórica antifeminista no ideal da mulher submissa, "bela, recatada e do lar". Por fim, Fernando Penna reflete sobre o caráter reacionário do projeto Escola sem Partido, que fomenta um clima de perseguição inquisitorial em muitas escolas brasileiras sob o lema de um suposto pensamento neutro.</description>
+<authors>
+<author>
+<id>8192324</id>
+<name>Esther Solano</name>
+<role>Editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8192324.Esther_Solano]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>352</ratings_count>
+<text_reviews_count>31</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>65731280</id>
+  <uri>kca://work/amzn1.gr.work.v1.a1DXYGc6jhTVEwOcxKskyw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Nov 16 10:59:56 -0800 2018</date_added>
+  <date_updated>Fri Nov 16 11:01:56 -0800 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2596354395]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2596354395]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2568562776</id>
+    <book>
+  <id type="integer">41947479</id>
+  <isbn>8574068365</isbn>
+  <isbn13>9788574068367</isbn13>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.3SAhnDbMw2ccLyR2wCaELg</uri>
+  <title>Amoras</title>
+  <title_without_series>Amoras</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537392384l/41947479._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1537392384l/41947479._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41947479-amoras</link>
+  <num_pages>44</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Companhia das Letrinhas</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.63</average_rating>
+  <ratings_count>62</ratings_count>
+  <description>&lt;b&gt;Em seu primeiro livro infantil, Emicida conta uma história cheia de simplicidade e poesia, que mostra a importância de nos reconhecermos nos pequenos detalhes do mundo.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Na música “Amoras”, Emicida canta: “Que a doçura das frutinhas sabor acalanto/ Fez a criança sozinha alcançar a conclusão/ Papai que bom, porque eu sou pretinha também”. E é a partir desse rap que um dos artistas brasileiros mais influentes da atualidade cria seu primeiro livro infantil e mostra, através de seu texto e das ilustrações de Aldo Fabrini, a importância de nos reconhecermos no mundo e nos orgulharmos de quem somos — desde criança e para sempre.&lt;br /&gt;&lt;br /&gt;“Um livro que rega as crianças com o olhar cristalino de quem sonha plantar primaveras para colher o fruto doce da humanidade.”&lt;br /&gt;Sérgio Vaz</description>
+<authors>
+<author>
+<id>12514655</id>
+<name>Emicida</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12514655.Emicida]]></link>
+<average_rating>4.62</average_rating>
+<ratings_count>66</ratings_count>
+<text_reviews_count>10</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>65442896</id>
+  <uri>kca://work/amzn1.gr.work.v1.vOs5ZGbldaXrO9a7bP0H_g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Oct 20 21:49:50 -0700 2018</date_added>
+  <date_updated>Sat Oct 20 21:51:19 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      Nada foi em vão 
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2568562776]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2568562776]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2498181856</id>
+    <book>
+  <id type="integer">23274304</id>
+  <isbn>8535924833</isbn>
+  <isbn13>9788535924831</isbn13>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.cGEffsGS_wQ-LHFVMQ43rw</uri>
+  <title>E se?: Respostas Científicas para Perguntas Absurdas</title>
+  <title_without_series>E se?: Respostas Científicas para Perguntas Absurdas</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411759057l/23274304._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411759057l/23274304._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23274304-e-se</link>
+  <num_pages>328</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Companhia das Letras</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.16</average_rating>
+  <ratings_count>106995</ratings_count>
+  <description>Um guia dos curiosos para os tempos de internet, feito por uma das maiores personalidades da era digital.&lt;br /&gt;&lt;br /&gt;Garoto prodígio da NASA, Randall Munroe tornou-se conhecido com a icônica série em quadrinhos XKCD, que passou a publicar na internet em 2005. Desde então, milhões de pessoas visitam semanalmente o xkcd.com em busca de suas figuras desenhadas com palitinhos e seus comentários sobre ciência, tecnologia e amor. Munroe não tem exatamente leitores, e sim um séquito de seguidores apaixonados.&lt;br /&gt;&lt;br /&gt;Mas os fãs do XKCD costumam fazer perguntas estranhas a Munroe. O que aconteceria se você rebatesse uma bola de beisebol a 90% da velocidade da luz? Qual a velocidade máxima permitida para passar de carro por uma lombada sem morrer? Se os robôs causassem o apocalipse, quanto tempo a humanidade duraria? Em busca de atender a curiosidade de seus leitores, Munroe criou o também imensamente popular ™E se??, um blog destinado a resolver essas e outras grandes questões da humanidade. &lt;br /&gt;&lt;br /&gt;Para encontrar as respostas, Munroe cria complexas simulações computadorizadas, lê dezenas de memorandos do exército, resolve equações diferenciais e consulta operadores de usinas nucleares. Suas respostas são uma obra-prima da clareza e do humor. Em geral elas terminam com a aniquilação da humanidade, ou pelo menos numa grande explosão.&lt;br /&gt;&lt;br /&gt;Nas listas dos mais vendidos mesmo antes de ser publicado, E se? traz questões nunca antes respondidas, além de versões expandidas e atualizadas das perguntas mais populares do blog. Leitura obrigatória não só para os fãs do XKCD, mas para todos que já se viram considerando hipóteses absurdas e descabidas. Randall Munroe está ao seu lado.</description>
+<authors>
+<author>
+<id>3089156</id>
+<name>Randall Munroe</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1406058780p5/3089156.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1406058780p2/3089156.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3089156.Randall_Munroe]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>131314</ratings_count>
+<text_reviews_count>9720</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>40714465</id>
+  <uri>kca://work/amzn1.gr.work.v1.OdBsasFG5pao1ntpwqXA8A</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Aug 18 06:56:27 -0700 2018</started_at>
+  <read_at>Thu Jan 24 09:15:21 -0800 2019</read_at>
+  <date_added>Sat Aug 18 06:56:27 -0700 2018</date_added>
+  <date_updated>Thu Jan 24 02:27:46 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[O subtítulo realmente já diz tudo o que esperar: <i>Respostas Científicas para Perguntas Absurdas</i>.<br />Um excelente livro para o tempo entre leituras ou quando precisa esperar alguns minutos em uma fila ou consultório. O humor do XKCD está totalmente presente em cada resposta. ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2498181856]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2498181856]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2403492645</id>
+    <book>
+  <id type="integer">25118347</id>
+  <isbn>8535925589</isbn>
+  <isbn13>9788535925586</isbn13>
+  <text_reviews_count type="integer">27</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.M4bWMvlFgc25WC9-_FqPDw</uri>
+  <title>Dois Irmãos</title>
+  <title_without_series>Dois Irmãos</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426050622l/25118347._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426050622l/25118347._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25118347-dois-irm-os</link>
+  <num_pages>232</num_pages>
+  <format>Paperback</format>
+  <edition_information>1ª edição</edition_information>
+  <publisher>Quadrinhos na Cia</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>1734</ratings_count>
+  <description>Um dos livros mais importantes da literatura brasileira contemporânea, Dois irmãos vem, desde seu lançamento há quinze anos, conquistando novas gerações de leitores. E foi com o mesmo entusiasmo desses leitores que Fábio Moon e Gabriel Bá embarcaram na missão de adaptar o romance de Milton Hatoum para uma graphic novel. Entre os mais premiados da última década, os irmãos quadrinistas vêm igualmente arrebatando fãs e trazendo uma verdadeira legião de leitores às HQs. Suas obras foram publicadas em diversos países, atravessando fronteiras culturais e políticas.&lt;br /&gt;&lt;br /&gt;Ao mesmo tempo que preserva a força narrativa de Hatoum, esta adaptação evidencia o talento de Bá e Moon na construção de histórias que alternam entre a tragédia, a delicadeza, a brutalidade e o humor. No traço deles, a vida dos gêmeos Yaqub e Omar ganha novos contornos épicos. A Manaus dos quadrinhos, feita de um jogo de luz e sombras, acolhe este drama que cruza gerações e, seja nos grandes planos ou nos mínimos detalhes, carrega o enredo original de energia e vitalidade. &lt;br /&gt;&lt;br /&gt;Quem conhece a obra de Hatoum vai não apenas reencontrar, mas redescobrir com outros olhos personagens marcantes como Domingas, Halim, Zana e Dália. E os novos leitores terão contato com um riquíssimo universo ficcional, um drama que, ao esmiuçar a intimidade e a rivalidade de Yaqub e Halim, lança luz nas frestas das relações familiares, do amor e da história recente do Brasil.</description>
+<authors>
+<author>
+<id>454774</id>
+<name>Fábio Moon</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309371479p5/454774.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309371479p2/454774.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/454774.F_bio_Moon]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>49159</ratings_count>
+<text_reviews_count>5062</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>44814137</id>
+  <uri>kca://work/amzn1.gr.work.v1.CopPqdsPLzLyZcjrdoWHBQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat May 26 10:12:20 -0700 2018</started_at>
+  <read_at>Thu Jan 10 07:19:45 -0800 2019</read_at>
+  <date_added>Sat May 26 10:12:19 -0700 2018</date_added>
+  <date_updated>Thu Jan 10 03:00:38 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Deu aquela vontade de viajar e conhecer Manaus. Além da trama familiar é bem presente a história do país e da cidade durante as páginas do quadrinho.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2403492645]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2403492645]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2338286048</id>
+    <book>
+  <id type="integer">9902586</id>
+  <isbn>8535906282</isbn>
+  <isbn13>9788535906288</isbn13>
+  <text_reviews_count type="integer">75</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.gerwccYxsHXvk79KSJAELg</uri>
+  <title>Maus: A História de um Sobrevivente</title>
+  <title_without_series>Maus: A História de um Sobrevivente</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450311497l/9902586._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450311497l/9902586._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9902586-maus</link>
+  <num_pages>296</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Quadrinhos na Cia.</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.55</average_rating>
+  <ratings_count>116406</ratings_count>
+  <description>Maus ("rato", em alemão) é a história de Vladek Spiegelman, judeu-polonês que sobreviveu ao campo de concentração de Auschwitz, narrada por ele próprio ao filho Art. O livro é considerado um clássico contemporâneo das histórias em quadrinhos. Foi publicado em duas partes, a primeira em 1986 e a segunda em 1991. No ano seguinte, Maus ganhou o prestigioso Prêmio Pulitzer de literatura. A obra é um sucesso estrondoso de público e de crítica. Desde que foi lançada, tem sido objeto de estudos e análises de especialistas de diversas áreas -história, literatura, artes e psicologia. Em nova tradução, o livro é agora relançado com as duas partes reunidas num só volume. Nas tiras, os judeus são desenhados como ratos e os nazistas ganham feições de gatos; poloneses não-judeus são porcos e americanos, cachorros. Esse recurso, aliado à ausência de cor dos quadrinhos, reflete o espírito do livro: trata-se de um relato incisivo e perturbador, que evidencia a brutalidade da catástrofe do Holocausto. Spiegelman, porém, evita o sentimentalismo e interrompe algumas vezes a narrativa para dar espaço a dúvidas e inquietações. É implacável com o protagonista, seu próprio pai, retratado como valoroso e destemido, mas também como sovina, racista e mesquinho. De vários pontos de vista, uma obra sem equivalente no universo dos quadrinhos e um relato histórico de valor inestimável.</description>
+<authors>
+<author>
+<id>5117</id>
+<name>Art Spiegelman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206557373p5/5117.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206557373p2/5117.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5117.Art_Spiegelman]]></link>
+<average_rating>4.38</average_rating>
+<ratings_count>494234</ratings_count>
+<text_reviews_count>18043</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>1658562</id>
+  <uri>kca://work/amzn1.gr.work.v1.8l2wrIObSxKZ3S5NXbrgHQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Mar 24 11:13:19 -0700 2018</started_at>
+  <read_at>Thu Apr 19 14:14:03 -0700 2018</read_at>
+  <date_added>Sat Mar 24 11:13:19 -0700 2018</date_added>
+  <date_updated>Thu Apr 19 10:52:59 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      Uma obra de arte. 
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2338286048]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2338286048]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2326010909</id>
+    <book>
+  <id type="integer">29077195</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.MOVjl6xX8XDthPC0kZJguw</uri>
+  <title>O investidor inteligente: O guia clássico para ganhar dinheiro na bolsa</title>
+  <title_without_series>O investidor inteligente: O guia clássico para ganhar dinheiro na bolsa</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29077195-o-investidor-inteligente</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>59054</ratings_count>
+  <description>&lt;p&gt;
+  &lt;b&gt;EDIÇÃO REVISADA&lt;/b&gt;
+  &lt;br /&gt;
+  &lt;i&gt;Atualizado com novos comentários de &lt;b&gt;Jason Zweig&lt;/b&gt;. Prefácio e apêndice de &lt;b&gt;Warren E. Buffett&lt;/b&gt;.&lt;/i&gt;
+&lt;/p&gt;&lt;p&gt;“De longe, o melhor livro sobre investimentos já escrito.”&lt;br /&gt;– &lt;i&gt;&lt;b&gt;Warren Buffett&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;“Se você tiver que ler um só livro sobre investimentos em toda a sua vida, que seja esse.”&lt;br /&gt;— &lt;i&gt;&lt;b&gt;Fortune&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;“Um dos 10 livros que todo o investidor deveria ler.”&lt;br /&gt;— &lt;i&gt;&lt;b&gt;Revista Exame&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;“Neste livro, um best-seller com mais de um milhão de exemplares vendidos, Benjamin Graham nos mostra que todo investidor inteligente deve combinar educação financeira, pleno conhecimento de mercado e, acima de tudo, uma visão de longo prazo. Essas são ferramentas fundamentais e de grande valia para quem deseja ter sucesso no mercado de ações.”&lt;br /&gt;— &lt;i&gt;&lt;b&gt;Raymundo Magliano Filho&lt;/b&gt;, ex-presidente da Bovespa e atual presidente da Magliano Corretora de Câmbmbio e Valores Mobiliários&lt;/i&gt;&lt;/p&gt;&lt;p&gt;“Com base em sua abordagem, vários discípulos de Graham — com destaque para Warren Buffett, talvez o mais famoso de todos os tempos — ainda hoje praticam esse método com extraordinário sucesso. Apesar de sua ampla difusão no mundo, as lições de Graham mantêm sua validade graças às extremas (e nem sempre racionais) flutuações que acontecem nas bolsas de valores do mundo. Como não há possibilidade real de que tais flutuações deixem de ocorrer, deixo aqui minha mais entusiástica recomendação deste brilhante e claríssimo livro. Bom proveito!”&lt;br /&gt;— &lt;i&gt;&lt;b&gt;Eduardo Rocha Rezende&lt;/b&gt;, sócio-diretor da Jardim Botânico Partners&lt;/i&gt;&lt;/p&gt;&lt;p&gt;MAIOR CONSULTOR DE INVESTIMENTO DO SÉCULO XX, &lt;b&gt;BENJAMIN GRAHAM&lt;/b&gt; ensinou e inspirou pessoas de todo o mundo. O conceito de “valor de investimento” protegia os investidores de erros substanciais e os ensinou a desenvolver estratégias de longo prazo, fazendo com que &lt;i&gt;O investidor inteligente&lt;/i&gt; se tornasse a Bíblia do mercado de ações desde sua primeira publicação, em 1949.&lt;/p&gt;&lt;p&gt;Desde então, os desenvolvimentos do mercado provaram a sabedoria das estratégias de Graham. Ao mesmo tempo em que preserva a integridade do texto original de Graham, esta versão revista inclui comentários atualizados e notas do jornalista econômico Jason Zweig, cuja perspectiva incorpora as realidades do mercado atual, tece paralelos entre os exemplos de Graham e as novidades financeiras, além de ajudar o leitor a aplicar de forma prática os princípios de Graham.&lt;/p&gt;&lt;p&gt;Vital e indispensável, este é o livro mais importante que você vai ler sobre como alcançar suas metas financeiras.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>755</id>
+<name>Benjamin Graham</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1300236137p5/755.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1300236137p2/755.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/755.Benjamin_Graham]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>68030</ratings_count>
+<text_reviews_count>1699</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>102974</id>
+  <uri>kca://work/amzn1.gr.work.v1.bnK4bX02MAnQUUrvFrNkew</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 13 04:56:28 -0700 2018</started_at>
+  <read_at>Sun Jul 22 16:38:11 -0700 2018</read_at>
+  <date_added>Tue Mar 13 04:56:27 -0700 2018</date_added>
+  <date_updated>Sun Jul 22 16:38:11 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2326010909]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2326010909]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2255230702</id>
+    <book>
+  <id type="integer">29344197</id>
+  <isbn nil="true"/>
+  <isbn13>9788580576986</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.XInN80v2lH2ENGhW5p7QJg</uri>
+  <title>Toda luz que não podemos ver</title>
+  <title_without_series>Toda luz que não podemos ver</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29344197-toda-luz-que-n-o-podemos-ver</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.33</average_rating>
+  <ratings_count>857833</ratings_count>
+  <description>&lt;p&gt;Um romance sobre autopreservação e generosidade em meio às atrocidades de uma guerra que jamais deve ser esquecida.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Marie-Laure vive em Paris, perto do Museu de História Natural, onde seu pai é o chaveiro responsável por cuidar de milhares de fechaduras. Quando a menina fica cega, aos seis anos, o pai constrói uma maquete em miniatura do bairro onde moram para que ela seja capaz de memorizar os caminhos. Na ocupação nazista em Paris, pai e filha fogem para a cidade de Saint-Malo e levam consigo o que talvez seja o mais valioso tesouro do museu. &lt;/p&gt;&lt;br /&gt;&lt;p&gt;Em uma região de minas na Alemanha, o órfão Werner cresce com a irmã mais nova, encantado pelo rádio que certo dia encontram em uma pilha de lixo. Com a prática, acaba se tornando especialista no aparelho, talento que lhe vale uma vaga em uma escola nazista e, logo depois, uma missão especial: descobrir a fonte das transmissões de rádio responsáveis pela chegada dos Aliados na Normandia. Cada vez mais consciente dos custos humanos de seu trabalho, o rapaz é enviado então para Saint-Malo, onde seu caminho cruza o de Marie-Laure, enquanto ambos tentam sobreviver à Segunda Guerra Mundial.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Uma história arrebatadora contada de forma fascinante. Com incrível habilidade para combinar lirismo e uma observação atenta dos horrores da guerra, o premiado autor Anthony Doerr constrói, em &lt;i&gt;Toda luz que não podemos ver&lt;/i&gt;, um tocante romance sobre o que há além do mundo visível.&lt;/p&gt;&lt;p&gt;
+  &lt;b&gt;Ganhador do Prêmio Pulitzer de Ficção 2015&lt;/b&gt;
+&lt;/p&gt;&lt;p&gt; &lt;b&gt;Best seller VEJA&lt;/b&gt;&lt;/p&gt;</description>
+<authors>
+<author>
+<id>28186</id>
+<name>Anthony Doerr</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417812584p5/28186.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417812584p2/28186.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/28186.Anthony_Doerr]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>893420</ratings_count>
+<text_reviews_count>73920</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>25491300</id>
+  <uri>kca://work/amzn1.gr.work.v1.RE5swba2G5t7ZuQ6dNCGEQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jan 12 15:09:38 -0800 2018</started_at>
+  <read_at>Sun Mar 04 07:24:51 -0800 2018</read_at>
+  <date_added>Fri Jan 12 15:09:37 -0800 2018</date_added>
+  <date_updated>Sun Mar 04 07:24:51 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[História, Segunda Guerra, Ciência, Carinho... foi uma leitura bem agradável e emocionante.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2255230702]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2255230702]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2255229525</id>
+    <book>
+  <id type="integer">32756541</id>
+  <isbn nil="true"/>
+  <isbn13>9788540508477</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.kzF-dMK_OXW8Sz64nPLvsA</uri>
+  <title>24/7 -  Capitalismo tardio e os fins do sono</title>
+  <title_without_series>24/7 -  Capitalismo tardio e os fins do sono</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477398233l/32756541._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477398233l/32756541._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32756541-24-7---capitalismo-tardio-e-os-fins-do-sono</link>
+  <num_pages>107</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information>1ª</edition_information>
+  <publisher>Cosac Naify</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.77</average_rating>
+  <ratings_count>1244</ratings_count>
+  <description>24/7 é o primeiro livro da Coleção Exit. O livro faz um panorama vertiginoso de um mundo cuja lógica não se prende mais a limites de tempo e espaço, funcionando ininterruptamente sob uma lógica para a qual o próprio ser humano é um empecilho. Para o autor, nossa necessidade de repouso e sono é a última fronteira ainda não ultrapassada pela lógica da mercadoria. O capitalismo, no entanto, já se movimenta no sentido de colonizar mais essa esfera da vida e hoje financia extensamente pesquisas científicas que buscam a fórmula para crias o "homem sem sono", capaz de trabalhar e consumir sob a lógica 24/7. Ainda assim, o livro recupera toda uma tradição da cultura ocidental que sempre viu no sono e no sonho possibilidades utópicas. 24/7 é um dos diagnósticos mais agudos do mundo contemporâneo.</description>
+<authors>
+<author>
+<id>32306</id>
+<name>Jonathan Crary</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/32306.Jonathan_Crary]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>1948</ratings_count>
+<text_reviews_count>169</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>22399975</id>
+  <uri>kca://work/amzn1.gr.work.v1.5MVCOrFKxWGJn_QEBZQX6Q</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jan 12 15:08:18 -0800 2018</started_at>
+  <read_at>Mon Mar 12 14:33:13 -0700 2018</read_at>
+  <date_added>Fri Jan 12 15:08:18 -0800 2018</date_added>
+  <date_updated>Mon Mar 12 14:33:13 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Ironicamente o livro sobre sono me deu muito sono durante a leitura. Apresenta conceitos interessantes, mas tudo escrito de uma forma massante, tive que me esforçar um pouco para chegar até o fim.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2255229525]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2255229525]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2236651093</id>
+    <book>
+  <id type="integer">23569239</id>
+  <isbn>8542804511</isbn>
+  <isbn13>9788542804515</isbn13>
+  <text_reviews_count type="integer">82</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.60Os2CLuKOZH6Nm3VQmHTw</uri>
+  <title>Anexos</title>
+  <title_without_series>Anexos</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416169139l/23569239._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416169139l/23569239._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23569239-anexos</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information>1ª</edition_information>
+  <publisher>Novo Século</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>154218</ratings_count>
+  <description>"Hi, I'm the guy who reads your e-mail, and also, I love you..."&lt;br /&gt;&lt;br /&gt;Beth Fremont and Jennifer Scribner-Snyder know that somebody is monitoring their work e-mail. (Everybody in the newsroom knows. It's company policy.) But they can't quite bring themselves to take it seriously. They go on sending each other endless and endlessly hilarious e-mails, discussing every aspect of their personal lives.&lt;br /&gt;&lt;br /&gt;Meanwhile, Lincoln O'Neill can't believe this is his job now—reading other people's e-mail. When he applied to be "internet security officer," he pictured himself building firewalls and crushing hackers—not writing up a report every time a sports reporter forwards a dirty joke.&lt;br /&gt;&lt;br /&gt;When Lincoln comes across Beth's and Jennifer's messages, he knows he should turn them in. But he can't help being entertained—and captivated—by their stories.&lt;br /&gt;&lt;br /&gt;By the time Lincoln realizes he's falling for Beth, it's way too late to introduce himself.&lt;br /&gt;&lt;br /&gt;What would he say . . . ?</description>
+<authors>
+<author>
+<id>4208569</id>
+<name>Rainbow Rowell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342324527p5/4208569.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342324527p2/4208569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4208569.Rainbow_Rowell]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>1843358</ratings_count>
+<text_reviews_count>191718</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>13785503</id>
+  <uri>kca://work/amzn1.gr.work.v1.y1my8uYagVvSxEbZ51Sy1g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jan 01 12:23:35 -0800 2018</started_at>
+  <read_at>Tue Jan 09 13:39:21 -0800 2018</read_at>
+  <date_added>Mon Jan 01 12:23:35 -0800 2018</date_added>
+  <date_updated>Tue Jan 09 13:39:21 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Comecei não ligando muito para a história e acabei ficando com saudade dos personagens agora que acabou. ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2236651093]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2236651093]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2225383423</id>
+    <book>
+  <id type="integer">31840869</id>
+  <isbn>9788545201</isbn>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Fx-IQPoeZwVG-x5v8M6UVA</uri>
+  <title>Quero Ficar Rico</title>
+  <title_without_series>Quero Ficar Rico</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473094747l/31840869._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473094747l/31840869._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/31840869-quero-ficar-rico</link>
+  <num_pages>142</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.76</average_rating>
+  <ratings_count>29</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>7705570</id>
+<name>Rafael Seabra</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7705570.Rafael_Seabra]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>51</ratings_count>
+<text_reviews_count>6</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>52506056</id>
+  <uri>kca://work/amzn1.gr.work.v1.TKDdwwMth_16OTIY6LeUaA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Dec 25 11:31:04 -0800 2017</started_at>
+  <read_at>Thu Dec 28 07:37:33 -0800 2017</read_at>
+  <date_added>Mon Dec 25 11:31:04 -0800 2017</date_added>
+  <date_updated>Thu Dec 28 07:37:33 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Um resumão do que vários outros livros renomados dizem por aí. Uma boa pedida para quem está pensando em começar a arrumar sua vida financeira.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2225383423]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2225383423]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2204973280</id>
+    <book>
+  <id type="integer">31299418</id>
+  <isbn nil="true"/>
+  <isbn13>9788546500031</isbn13>
+  <text_reviews_count type="integer">32</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.dgxed2m1lKcEZcbJSfPKGw</uri>
+  <title>O ano em que disse sim</title>
+  <title_without_series>O ano em que disse sim</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/31299418-o-ano-em-que-disse-sim</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>53278</ratings_count>
+  <description>&lt;b&gt;Premiada e aclamada pela crítica, Shonda Rhimes é uma fábrica de sucessos. Criadora das séries Grey’s Anatomy, Private Practice e Scandal, além de produtora executiva de How to Get Away with Murder, Shonda foi vencedora do Globo de Ouro e indicada a três Emmys. Seu modo de abordar assuntos como feminismo, questões raciais e sexualidade aproximou a escritora de seu público-alvo e trouxe à tona importantes debates sobre representatividade.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Um livro motivador da aclamada e premiada criadora e produtora executiva de grandes sucessos televisivos. “Você nunca diz ‘sim’ para nada.” Foram essas seis palavras, ditas pela irmã de Shonda durante uma ceia de Ação de Graças, que levaram a autora a repensar a maneira como estava levando sua vida. Apesar da timidez e da introversão, Shonda decidiu encarar o desafio de passar um ano dizendo “sim” para as oportunidades que surgiam. Os “sins” iam desde cuidar melhor de sua saúde até aceitar convites para participar de talk shows e discursos em público. Além disso, Shonda deu um difícil passo: dizer sim ao amor próprio e ao seu empoderamento. Em O ano em que disse sim, Shonda Rhimes relata, com muito bom humor, os detalhes sobre sua vida pessoal, profissional e sobre como mergulhar de cabeça no “Ano do Sim” transformou ambas.</description>
+<authors>
+<author>
+<id>3888197</id>
+<name>Shonda Rhimes</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1444681291p5/3888197.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1444681291p2/3888197.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3888197.Shonda_Rhimes]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>53423</ratings_count>
+<text_reviews_count>6158</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>45519636</id>
+  <uri>kca://work/amzn1.gr.work.v1.VPPVK5ba_llQC1Vl4BLyaA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Dec 05 10:45:23 -0800 2017</started_at>
+  <read_at>Sat Dec 23 10:21:49 -0800 2017</read_at>
+  <date_added>Tue Dec 05 10:45:22 -0800 2017</date_added>
+  <date_updated>Wed Apr 11 09:53:42 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2204973280]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2204973280]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2204968359</id>
+    <book>
+  <id type="integer">23276483</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">159</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ZcJ0Hi7H0CDf0u9Cr5lcGQ</uri>
+  <title>Sejamos todos feministas</title>
+  <title_without_series>Sejamos todos feministas</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411840633l/23276483._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411840633l/23276483._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23276483-sejamos-todos-feministas</link>
+  <num_pages>26</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Companhia das Letras</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.45</average_rating>
+  <ratings_count>131545</ratings_count>
+  <description>O que significa ser feminista no século XXI? Por que o feminismo é essencial para libertar homens e mulheres? Eis as questões que estão no cerne de Sejamos todos feministas, ensaio da premiada autora de Americanah e Meio sol amarelo.&lt;br /&gt;&lt;br /&gt;"A questão de gênero é importante em qualquer canto do mundo. É importante que comecemos a planejar e sonhar um mundo diferente. Um mundo mais justo. Um mundo de homens mais felizes e mulheres mais felizes, mais autênticos consigo mesmos. E é assim que devemos começar: precisamos criar nossas filhas de uma maneira diferente. Também precisamos criar nossos filhos de uma maneira diferente."&lt;br /&gt;&lt;br /&gt;Chimamanda Ngozi Adichie ainda se lembra exatamente da primeira vez em que a chamaram de feminista. Foi durante uma discussão com seu amigo de infância Okoloma. “Não era um elogio. Percebi pelo tom da voz dele; era como se dissesse: ‘Você apoia o terrorismo!’”. Apesar do tom de desaprovação de Okoloma, Adichie abraçou o termo e — em resposta àqueles que lhe diziam que feministas são infelizes porque nunca se casaram, que são “anti-africanas”, que odeiam homens e maquiagem — começou a se intitular uma “feminista feliz e africana que não odeia homens, e que gosta de usar batom e salto alto para si mesma, e não para os homens”.&lt;br /&gt;&lt;br /&gt;Neste ensaio agudo, sagaz e revelador, Adichie parte de sua experiência pessoal de mulher e nigeriana para pensar o que ainda precisa ser feito de modo que as meninas não anulem mais sua personalidade para ser como esperam que sejam, e os meninos se sintam livres para crescer sem ter que se enquadrar nos estereótipos de masculinidade. Sejamos todos feministas é uma adaptação do discurso feito pela autora no TEDx Euston, que conta com mais de 1 milhão de visualizações e foi musicado por Beyoncé.</description>
+<authors>
+<author>
+<id>11291</id>
+<name>Chimamanda Ngozi Adichie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474446019p5/11291.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474446019p2/11291.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11291.Chimamanda_Ngozi_Adichie]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>561997</ratings_count>
+<text_reviews_count>55542</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>42278179</id>
+  <uri>kca://work/amzn1.gr.work.v1.I5G5ry4JvAtOvvZCAaa3Aw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Dec 05 10:41:25 -0800 2017</date_added>
+  <date_updated>Tue Dec 05 10:44:09 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2204968359]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2204968359]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2199080456</id>
+    <book>
+  <id type="integer">36686290</id>
+  <isbn nil="true"/>
+  <isbn13>9788568079003</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KMnDl5FIi2Iw5-xs8iFfkg</uri>
+  <title>O apartamento de baixo</title>
+  <title_without_series>O apartamento de baixo</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511984651l/36686290._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511984651l/36686290._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/36686290-o-apartamento-de-baixo</link>
+  <num_pages>64</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Mater</publisher>
+  <publication_day/>
+  <publication_year>2014</publication_year>
+  <publication_month/>
+  <average_rating>3.00</average_rating>
+  <ratings_count>2</ratings_count>
+  <description>Rio de Janeiro, tempos atuais. Nara, estudante universitária e de classe média alta do Leblon, na zona sul do Rio de Janeiro, amarga uma vida superficial e um namoro falido. Mais um dos incontáveis sumiços de seu namorado a faz passar horas de uma madrugada na portaria de seu prédio, esperando para encontrá-lo, e fica sem coragem de voltar para casa e encarar o olhar de desaprovação de sua mãe. Em companhia do zelador, o calado e discreto Pará, que apenas concentra-se na leitura de um romance, Nara, entediada, acaba pedindo seu livro emprestado. A leitura do romance junto com o desespero por mudança em sua vida, fortalece Nara para buscar um novo sentido à sua vida, que a faz se abrir para um novo modo de viver. Ao bater no apartamento do zelador que fica na garagem em abaixo de todos os outros a fim de devolver o livro, Nara depara-se com uma grande e inesperada biblioteca na sala. E sob esse encantamento, ela começa a pegar vários livros emprestados com o zelador paraibano que gentilmente lhe serve cafés e tapiocas entre conversas filosóficas em sua modesta cozinha. Esse novo e inesperado universo – dos livros e do apartamento de baixo – levam Nara a se dividir entre sua rotina e vida familiar com as transformações sofridas em seu íntimo. Nara estabelece uma nova relação com o zelador, que não suspeita do amor que a estudante começa a nutrir por ele, a despeito de suas diferenças.</description>
+<authors>
+<author>
+<id>17377513</id>
+<name>Bárbara Caldas</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17377513.B_rbara_Caldas]]></link>
+<average_rating>3.00</average_rating>
+<ratings_count>2</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>58480079</id>
+  <uri>kca://work/amzn1.gr.work.v1.eDPjt4DVMJ7G6a_UwNVr_A</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Nov 29 11:46:11 -0800 2017</date_added>
+  <date_updated>Wed Nov 29 11:47:00 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2199080456]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2199080456]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2164150834</id>
+    <book>
+  <id type="integer">32813190</id>
+  <isbn>8525063304</isbn>
+  <isbn13>9788525063304</isbn13>
+  <text_reviews_count type="integer">113</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Q1J9V4klCSCcc7MOYw_dXQ</uri>
+  <title>Rita Lee: Uma Autobiografia</title>
+  <title_without_series>Rita Lee: Uma Autobiografia</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477864775l/32813190._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477864775l/32813190._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32813190-rita-lee</link>
+  <num_pages>296</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Globo Livros</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.30</average_rating>
+  <ratings_count>1006</ratings_count>
+  <description>Do primeiro disco voador ao último porre, Rita é consistente. Corajosa. Sem culpa nenhuma. Tanto que, ao ler o livro, várias vezes temos a sensação de estar diante de uma bio não autorizada, tamanha a honestidade nas histórias. A infância e os primeiros passos na vida artística; sua prisão em 1976; o encontro de almas com Roberto de Carvalho; o nascimento dos filhos, das músicas e dos discos clássicos; os tropeços e as glórias. Está tudo lá. E você pode ter certeza- essa é a obra mais pessoal que ela poderia entregar de presente para nós. Rita cuidou de tudo. Escreveu, escolheu as fotos e criou as legendas - e até decidiu a ordem das imagens -, fez a capa, pensou na contracapa, nas orelhas... Entregou o livro assim- prontinho. Sua essência está nessas páginas. E é exatamente desse modo que a Globo Livros coloca a autobiografia da nossa estrela maior no mercado. &lt;br /&gt;&lt;br /&gt;Guilherme Samora é jornalista e estudioso do legado cultural de Rita Lee.</description>
+<authors>
+<author>
+<id>3215798</id>
+<name>Rita Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1544820492p5/3215798.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1544820492p2/3215798.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3215798.Rita_Lee]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>1090</ratings_count>
+<text_reviews_count>125</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>53413614</id>
+  <uri>kca://work/amzn1.gr.work.v1.8F-6HuvNZbZ7BU3LZn-f8A</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Oct 25 16:14:29 -0700 2017</started_at>
+  <read_at>Tue Nov 21 13:33:20 -0800 2017</read_at>
+  <date_added>Wed Oct 25 16:14:29 -0700 2017</date_added>
+  <date_updated>Tue Nov 21 13:33:20 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Uma biografia agradável de ler]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2164150834]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2164150834]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2163085148</id>
+    <book>
+  <id type="integer">713273</id>
+  <isbn>8575422391</isbn>
+  <isbn13>9788575422397</isbn13>
+  <text_reviews_count type="integer">28</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.eHOga4IK-Yw1VeTW-27bMA</uri>
+  <title>Os Segredos Da Mente Milionária</title>
+  <title_without_series>Os Segredos Da Mente Milionária</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436387204l/713273._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436387204l/713273._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/713273.Os_Segredos_Da_Mente_Milion_ria</link>
+  <num_pages>176</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Sextante</publisher>
+  <publication_day/>
+  <publication_year>2006</publication_year>
+  <publication_month/>
+  <average_rating>4.18</average_rating>
+  <ratings_count>37291</ratings_count>
+  <description>Se as suas finanças andam na corda bamba, talvez esteja na hora de você refletir sobre o que T. Harv Eker chama de 'o seu modelo de dinheiro' - um conjunto de crenças que cada um de nós alimenta desde a infância e que molda o nosso destino financeiro, quase sempre nos levando para uma situação difícil. Neste livro, Eker mostra como substituir uma mentalidade destrutiva - que você talvez nem perceba que tem - pelos 'arquivos de riqueza', 17 modos de pensar e agir que distinguem os ricos das demais pessoas. O autor também ensina um método eficiente de administrar o dinheiro. Você aprenderá a estabelecer sua remuneração pelos resultados que apresenta e não pelas horas que trabalha. Além disso, saberá como aumentar o seu patrimônio líquido - a verdadeira medida da riqueza.</description>
+<authors>
+<author>
+<id>8656</id>
+<name>T. Harv Eker</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1326087257p5/8656.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1326087257p2/8656.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8656.T_Harv_Eker]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>37616</ratings_count>
+<text_reviews_count>1336</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>771090</id>
+  <uri>kca://work/amzn1.gr.work.v1.7mvwqV-z5jlgt3g-y0zSgg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Oct 24 16:12:59 -0700 2017</started_at>
+  <read_at>Mon Dec 04 01:47:31 -0800 2017</read_at>
+  <date_added>Tue Oct 24 16:12:58 -0700 2017</date_added>
+  <date_updated>Mon Dec 04 01:47:31 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Alguns bons conselhos envoltos em muito poder da atração e acredite em mim porque eu sou rico e você não.<br />Esperava um pouco mais ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2163085148]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2163085148]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2152295980</id>
+    <book>
+  <id type="integer">32060999</id>
+  <isbn>853592812X</isbn>
+  <isbn13>9788535928129</isbn13>
+  <text_reviews_count type="integer">23</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VMdGH5F3JeazIgtKzHSJog</uri>
+  <title>Repeteco</title>
+  <title_without_series>Repeteco</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474052322l/32060999._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474052322l/32060999._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32060999-repeteco</link>
+  <num_pages>336</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Quadrinhos na Cia.</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>37034</ratings_count>
+  <description>A vida de Katie vai muito bem. Ela é uma chef talentosa, dona de um restaurante de sucesso e com grandes planos para a vida. De repente, em um único dia ela perde uma grande chance de negócios, sua paquera com um jovem chef azeda, sua melhor garçonete se machuca e um ex-namorado charmoso aparece para complicar ainda mais a situação. Quando tudo parece perdido e Katie já não enxerga mais uma solução, uma misteriosa garota aparece no meio da noite com a receita perfeita para uma segunda chance. E assim, Katie ganha um repeteco na vida e precisará lidar com as consequências de suas melhores intenções.</description>
+<authors>
+<author>
+<id>16807</id>
+<name>Bryan Lee O&apos;Malley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1211297899p5/16807.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1211297899p2/16807.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16807.Bryan_Lee_O_Malley]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>434421</ratings_count>
+<text_reviews_count>17408</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>17378014</id>
+  <uri>kca://work/amzn1.gr.work.v1.GEKVsrIGZEA297-MQoWOYw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 01 00:00:00 -0800 2017</read_at>
+  <date_added>Fri Oct 13 13:56:11 -0700 2017</date_added>
+  <date_updated>Fri Oct 13 13:57:39 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2152295980]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2152295980]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2130047781</id>
+    <book>
+  <id type="integer">18918044</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FAwNDL21tGwq3X2uD8daDQ</uri>
+  <title>1984</title>
+  <title_without_series>1984</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18918044-1984</link>
+  <num_pages>483</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>2719164</ratings_count>
+  <description>&lt;p&gt;Winston, herói de &lt;i&gt;1984&lt;/i&gt;, último romance de George Orwell, vive aprisionado na engrenagem totalitária de uma sociedade completamente dominada pelo Estado, onde tudo é feito coletivamente, mas cada qual vive sozinho. Ninguém escapa à vigilância do Grande Irmão, a mais famosa personificação literária de um poder cínico e cruel ao infinito, além de vazio de sentido histórico. De fato, a ideologia do Partido dominante em Oceânia não visa nada de coisa alguma para ninguém, no presente ou no futuro. O'Brien, hierarca do Partido, é quem explica a Winston que "só nos interessa o poder em si. Nem riqueza, nem luxo, nem vida longa, nem felicidade: só o poder pelo poder, poder puro".&lt;/p&gt;&lt;p&gt;Quando foi publicada em 1949, poucos meses antes da morte do autor, essa assustadora distopia datada de forma arbitrária num futuro perigosamente próximo logo experimentaria um imenso sucesso de público. Seus principais ingredientes - um homem sozinho desafiando uma tremenda ditadura; sexo furtivo e libertador; horrores letais - atraíram leitores de todas as idades, à esquerda e à direita do espectro político, com maior ou menor grau de instrução. À parte isso, a escrita translúcida de George Orwell, os personagens fortes, traçados a carvão por um vigoroso desenhista de personalidades, a trama seca e crua e o tom de sátira sombria garantiram a entrada precoce de 1984 no restrito panteão dos grandes clássicos modernos.&lt;/p&gt;&lt;p&gt;Algumas das ideias centrais do livro dão muito o que pensar até hoje, como a contraditória Novafala imposta pelo Partido para renomear as coisas, as instituições e o próprio mundo, manipulando ao infinito a realidade. Afinal, quem não conhece hoje em dia "ministérios da defesa" dedicados a promover ataques bélicos a outros países, da mesma forma que, no livro de Orwell, o "Ministério do Amor" é o local onde Winston será submetido às mais bárbaras torturas nas mãos de seu suposto amigo O'Brien.&lt;/p&gt;&lt;p&gt;Muitos leram &lt;i&gt;1984&lt;/i&gt; como uma crítica devastadora aos belicosos totalitarismos nazifascistas da Europa, de cujos terríveis crimes o mundo ainda tentava se recuperar quando o livro veio a lume. Nos Estados Unidos, foi visto como uma fantasia de horror quase cômico voltada contra o comunismo da hoje extinta União Soviética, então sob o comando de Stálin e seu Partido único e inquestionável. No entanto, superando todas as conjunturas históricas - e até mesmo a data futurista do título -, a obra magistral de George Orwell ainda se impõe como uma poderosa reflexão ficcional sobre os excessos delirantes, mas perfeitamente possíveis, de qualquer forma de poder incontestado, seja onde for.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>3706</id>
+<name>George Orwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p5/3706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p2/3706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>5518261</ratings_count>
+<text_reviews_count>125128</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>153313</id>
+  <uri>kca://work/amzn1.gr.work.v1.SgJQSc4-cyFNY1JLB6R9mA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Sep 13 00:00:00 -0700 2017</started_at>
+  <read_at>Thu Oct 12 09:34:33 -0700 2017</read_at>
+  <date_added>Wed Sep 20 16:38:24 -0700 2017</date_added>
+  <date_updated>Thu Oct 12 04:49:29 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2130047781]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2130047781]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2061513461</id>
+    <book>
+  <id type="integer">5113684</id>
+  <isbn nil="true"/>
+  <isbn13>9788576842125</isbn13>
+  <text_reviews_count type="integer">18</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FkvslvLpt5dTjnnMcchHJw</uri>
+  <title>A Lógica do Cisne Negro</title>
+  <title_without_series>A Lógica do Cisne Negro</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5113684-a-l-gica-do-cisne-negro</link>
+  <num_pages>458</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Best Seller</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>73582</ratings_count>
+  <description>O que o Sucesso do Google e o 11 de Setembro têm em comum?&lt;br /&gt;&lt;br /&gt;Para Nassim Nicholas Taleb, ambos são exemplos claros de Cisnes Negros: eventos imprevisíveis e impactantes cuja natureza extraordinária está na base de quase tudo o que acontece no mundo, da ascensão das religiões à nossa vida pessoal. Em A lógica do Cisne Negro, um dos maiores especialistas de risco da atualidade propõe&lt;br /&gt;o mapeamento e a gestão do desconhecido, do pouco provável,&lt;br /&gt;do extremo. Para o autor, a fragilidade do conhecimento e a limitação do aprendizado baseado na observação e na experiência levam o ser humano a se defrontar com situações totalmente inesperadas.&lt;br /&gt;Nesta obra, o leitor aprenderá, com idéias simples, a tirar proveito&lt;br /&gt;de Cisnes Negros e ter outra visão de mundo. Seu livro anterior,&lt;br /&gt;o best seller Iludido pelo acaso, foi publicado em vinte idiomas.&lt;br /&gt;Taleb vive na maior parte do tempo em Nova York.</description>
+<authors>
+<author>
+<id>21559</id>
+<name>Nassim Nicholas Taleb</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206025993p5/21559.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206025993p2/21559.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/21559.Nassim_Nicholas_Taleb]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>161097</ratings_count>
+<text_reviews_count>10272</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>2157806</id>
+  <uri>kca://work/amzn1.gr.work.v1.8FaHjNRMpC09kAGUsXQsHA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jul 15 18:33:14 -0700 2017</started_at>
+  <read_at>Mon Oct 23 07:43:51 -0700 2017</read_at>
+  <date_added>Sat Jul 15 18:33:14 -0700 2017</date_added>
+  <date_updated>Mon Oct 23 07:43:51 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Com certeza terei que ler novamente no futuro. O livro traz bons conceitos, mas pelo fato de achar a leitura um pouco arrastada sinto que não consegui aproveitar tudo. ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2061513461]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2061513461]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2017017993</id>
+    <book>
+  <id type="integer">19180812</id>
+  <isbn>8575429981</isbn>
+  <isbn13>9788575429983</isbn13>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.w5JbA8CCYlagCwNxRrlQZA</uri>
+  <title>Investimentos inteligentes</title>
+  <title_without_series>Investimentos inteligentes</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19180812-investimentos-inteligentes</link>
+  <num_pages>251</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.94</average_rating>
+  <ratings_count>459</ratings_count>
+  <description>Investir quase sempre envolve abrir mão de alguma coisa e se arriscar. Mas esse processo pode ser feito com bem menos sofrimento e riscos do que se imagina. Em &lt;em&gt;Investimentos inteligentes&lt;/em&gt;, o consultor financeiro Gustavo Cerbasi explica que não existe um único investimento perfeito, e sim maneiras mais indicadas de investir de acordo com as necessidades de cada pessoa. &lt;br /&gt;&lt;br /&gt;Quais são os obstáculos enfrentados por um investidor iniciante? O que não se deve fazer ao investir? Quais são as qualidades encontradas em um bom investidor? Cerbasi responde a essas e outras perguntas, desmistificando algumas questões e apresentando em linguagem acessível as melhores formas de investimentos, seja em renda fixa, ações, fundos, previdência privada ou imóveis, entre outras.&lt;br /&gt;&lt;br /&gt;Saber investir é fundamental para alcançar a tão sonhada independência financeira e um futuro mais tranquilo para você e seus dependentes. Se você ainda não sabe o que fazer com o seu dinheiro ou não está satisfeito com seus rendimentos atuais, chegou a hora de esclarecer as suas dúvidas e dar um bem-sucedido passo adiante.</description>
+<authors>
+<author>
+<id>996960</id>
+<name>Gustavo Cerbasi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1559258275p5/996960.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1559258275p2/996960.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/996960.Gustavo_Cerbasi]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>2035</ratings_count>
+<text_reviews_count>142</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>6564722</id>
+  <uri>kca://work/amzn1.gr.work.v1.QKREiRhwDI-1tH_albNHHQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jun 01 16:02:42 -0700 2017</started_at>
+  <read_at>Fri Jun 09 14:01:38 -0700 2017</read_at>
+  <date_added>Thu Jun 01 16:02:41 -0700 2017</date_added>
+  <date_updated>Fri Jun 09 14:01:38 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[A pouco tempo terminei de ler o Como organizar sua vida financeira e tinha achado muito superficial, mas com a leitura do Investimentos inteligentes tive exatamente o que senti que faltou.<br /><br />Para quem ta querendo começar a investir e tem dúvida do que pode valer mais a pena, esse livro p...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2017017993]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2017017993]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1999728962</id>
+    <book>
+  <id type="integer">31223335</id>
+  <isbn nil="true"/>
+  <isbn13>9788543805801</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UiCinHiNqBESmU8EGDAQQA</uri>
+  <title>Mais rápido e melhor: Os segredos da produtividade na vida e nos negócios</title>
+  <title_without_series>Mais rápido e melhor: Os segredos da produtividade na vida e nos negócios</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/31223335-mais-r-pido-e-melhor</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>22416</ratings_count>
+  <description>&lt;b&gt;Em O poder do hábito, o jornalista vencedor do Pulitzer Charles Duhigg explicava por que fazemos o que fazemos. Em Mais rápido e melhor, ele explica como podemos melhorar o que fazemos&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Em &lt;em&gt;Mais rápido e melhor&lt;/em&gt;, Charles Duhigg faz um exploração inovadora da ciência da produtividade e por que, no mundo de hoje, como você pensa é muito mais importante do que o que você pensa. Com base nas últimas descobertas da neurociência, psicologia e economia comportamental Duhigg explica que as pessoas, empresas e organizações mais produtivas não apenas agem diferente, elas veem o mundo de modos profundamente diferentes. Elas sabem que produtividade tem a ver com fazer escolhas. A maneira como tomamos decisões; as grandes ambições que colocamos em primeiro lugar e as metas fáceis que ignoramos; a cultura que estabelecemos para estimular a inovação; o modo como interagimos com as informações que temos diante de nós: é isso que separa os simplesmente ocupados dos genuinamente produtivos.</description>
+<authors>
+<author>
+<id>5201530</id>
+<name>Charles Duhigg</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1349273209p5/5201530.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1349273209p2/5201530.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5201530.Charles_Duhigg]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>295597</ratings_count>
+<text_reviews_count>16480</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>45641753</id>
+  <uri>kca://work/amzn1.gr.work.v1.qLgMjS-gPGdh5eulGiecJQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat May 13 00:00:00 -0700 2017</started_at>
+  <read_at>Fri Jul 21 16:49:34 -0700 2017</read_at>
+  <date_added>Sun May 14 06:03:12 -0700 2017</date_added>
+  <date_updated>Fri Jul 21 16:49:34 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Conteúdo bem interessante, mas não gosto muito da forma com que o autor expões o mesmo. Tive a mesma opinião com o outro livro do autor. Mesmo assim recomendo a leitura]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1999728962]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1999728962]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1985275034</id>
+    <book>
+  <id type="integer">22934370</id>
+  <isbn>8583680272</isbn>
+  <isbn13>9788583680277</isbn13>
+  <text_reviews_count type="integer">59</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.bah_SfOzyoKtw46-tfQD8Q</uri>
+  <title>Bidu: Caminhos</title>
+  <title_without_series>Bidu: Caminhos</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408376635l/22934370._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408376635l/22934370._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22934370-bidu</link>
+  <num_pages>80</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Panini Comics</publisher>
+  <publication_day/>
+  <publication_year>2014</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.32</average_rating>
+  <ratings_count>738</ratings_count>
+  <description>Em 'Caminhos', os autores Eduardo Damasceno e Luís Felipe Garrocho reimaginam de modo belíssimo a forma como Bidu e Franjinha, os dois primeiros personagens criados por Mauricio de Sousa, se tornaram melhores amigos. Uma aventura cheia de problemas, surras, desvios de rota, chuva, cachorros, decisões difíceis e ternura.</description>
+<authors>
+<author>
+<id>5357400</id>
+<name>Eduardo Damasceno</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5357400.Eduardo_Damasceno]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>1051</ratings_count>
+<text_reviews_count>90</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>42504498</id>
+  <uri>kca://work/amzn1.gr.work.v1.J-P4T89ec0psarI3T7nxiQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Apr 28 00:00:00 -0700 2017</started_at>
+  <read_at>Mon May 15 16:58:23 -0700 2017</read_at>
+  <date_added>Fri Apr 28 17:23:22 -0700 2017</date_added>
+  <date_updated>Mon May 15 16:58:23 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1985275034]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1985275034]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1978273598</id>
+    <book>
+  <id type="integer">27229842</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qqimXL1NjdZ5VoGD59W57A</uri>
+  <title>Como organizar sua vida financeira</title>
+  <title_without_series>Como organizar sua vida financeira</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445179744l/27229842._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445179744l/27229842._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27229842-como-organizar-sua-vida-financeira</link>
+  <num_pages>178</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information>1</edition_information>
+  <publisher>Editora Sextante</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>276</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>996960</id>
+<name>Gustavo Cerbasi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1559258275p5/996960.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1559258275p2/996960.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/996960.Gustavo_Cerbasi]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>2035</ratings_count>
+<text_reviews_count>142</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>6792208</id>
+  <uri>kca://work/amzn1.gr.work.v1.58IM8hE4qTsVOW7WFy4VOA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Apr 21 00:00:00 -0700 2017</started_at>
+  <read_at>Sat May 06 00:00:00 -0700 2017</read_at>
+  <date_added>Fri Apr 21 13:30:25 -0700 2017</date_added>
+  <date_updated>Sun May 07 08:19:12 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[O Cerbasi escreve de forma bem simples e fácil de entender.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1978273598]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1978273598]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1968019129</id>
+    <book>
+  <id type="integer">27246385</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.D5Sai9PL1gG_aGpUERl8BA</uri>
+  <title>Bioshock - Rapture</title>
+  <title_without_series>Bioshock - Rapture</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27246385-bioshock---rapture</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>6542</ratings_count>
+  <description>"A LIBERDADE TEM LIMITES?&lt;br /&gt;&lt;br /&gt;CONHEÇA A HISTÓRIA DE RAPTURE, A UTÓPICA CIDADE SUBMERSA, CENÁRIO DO INQUIETANTE GAME BIOSHOCK .&lt;br /&gt;&lt;br /&gt;Fim da Segunda Guerra Mundial. As bombas atômicas de Hiroshima e Nagasaki trouxeram ao mundo o medo de uma total aniquilação. Novas políticas foram adotadas pelo governo americano, a fim de recuperar e restaurar a economia do país. Os altos impostos, o aumento da intervenção do Estado nas instituições privadas e o crescente poder das agências de inteligência davam ao cidadão comum a impressão de eterna vigilância. A sensação de liberdade diminuía a cada dia... e muitos pareciam dispostos a fazer de tudo para reconquistá-la. Entre eles, havia um grande sonhador, Andrew Ryan, decidido a criar sua própria utopia: uma cidade livre de governo, de censura, de restrições morais à ciência. Nesta cidade, tudo seria possível, e cada um receberia de volta o correspondente a seu esforço individual. Esta cidade era Rapture, a joia no fundo do mar. Mas nem tudo correu conforme o esperado, e uma grande tragédia abalou os planos daquele sonhador. Esta é a história do início de tudo... e do fim."</description>
+<authors>
+<author>
+<id>61958</id>
+<name>John Shirley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206507607p5/61958.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206507607p2/61958.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/61958.John_Shirley]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>39276</ratings_count>
+<text_reviews_count>3085</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>14256715</id>
+  <uri>kca://work/amzn1.gr.work.v1.FKStf5U8sGXnxgZFyC51AQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Apr 10 18:42:58 -0700 2017</started_at>
+  <read_at>Tue May 30 14:51:27 -0700 2017</read_at>
+  <date_added>Mon Apr 10 18:42:57 -0700 2017</date_added>
+  <date_updated>Tue May 30 14:51:26 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[O início do livro é um pouco devagar, mas com o tempo as lembranças do jogo vem a tona a medida que Rapture ganha forma. <br /><br />No fim das contas gostei do livro e sinto que foi uma ótima forma de revisitar esse universo. <br /><br />Não recomendo para quem não jogou Bioshock ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1968019129]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1968019129]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1953387251</id>
+    <book>
+  <id type="integer">22916766</id>
+  <isbn>8535909559</isbn>
+  <isbn13>9788535909555</isbn13>
+  <text_reviews_count type="integer">212</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.EXsVtfjG2AkLIAEo2cFELQ</uri>
+  <title>A Revolução dos Bichos</title>
+  <title_without_series>A Revolução dos Bichos</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483726197l/22916766._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483726197l/22916766._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22916766-a-revolu-o-dos-bichos</link>
+  <num_pages>152</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Companhia das Letras</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>2435636</ratings_count>
+  <description>Verdadeiro clássico moderno, concebido por um dos mais influentes escritores do século 20, "A Revolução dos Bichos" é uma fábula sobre o poder. Narra a insurreição dos animais de uma granja contra seus donos. Progressivamente, porém, a revolução degenera numa tirania ainda mais opressiva que a dos humanos&lt;br /&gt;Escrita em plena Segunda Guerra Mundial e publicada em 1945 depois de ter sido rejeitada por várias editoras, essa pequena narrativa causou desconforto ao satirizar ferozmente a ditadura stalinista numa época em que os soviéticos ainda eram aliados do Ocidente na luta contra o eixo nazifascista.&lt;br /&gt;&lt;br /&gt;De fato, são claras as referências: o despótico Napoleão seria Stálin, o banido Bola-de-Neve seria Trotsky, e os eventos políticos - expurgos, instituição de um estado policial, deturpação tendenciosa da História - mimetizam os que estavam em curso na União Soviética.&lt;br /&gt;&lt;br /&gt;Com o acirramento da Guerra Fria, as mesmas razões que causaram constrangimento na época de sua publicação levaram A Revolução Dos Bichos a ser amplamente usada pelo Ocidente nas décadas seguintes como arma ideológica contra o comunismo. O próprio Orwell, adepto do socialismo e inimigo de qualquer forma de manipulação política, sentiu-se incomodado com a utilização de sua fábula como panfleto.</description>
+<authors>
+<author>
+<id>3706</id>
+<name>George Orwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p5/3706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p2/3706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>5518261</ratings_count>
+<text_reviews_count>125128</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2207778</id>
+  <uri>kca://work/amzn1.gr.work.v1.V_MbIpN8vLdVjldwRz26LA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 26 18:02:08 -0700 2017</started_at>
+  <read_at>Thu Apr 06 15:36:29 -0700 2017</read_at>
+  <date_added>Sun Mar 26 18:02:07 -0700 2017</date_added>
+  <date_updated>Thu Apr 06 15:36:29 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1953387251]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1953387251]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1923831354</id>
+    <book>
+  <id type="integer">31752207</id>
+  <isbn nil="true"/>
+  <isbn13>9788543805436</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Fqwv54LzUVCb025gVnVnDQ</uri>
+  <title>Romance moderno: Uma investigação sobre relacionamentos na era digital</title>
+  <title_without_series>Romance moderno: Uma investigação sobre relacionamentos na era digital</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/31752207-romance-moderno</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>151157</ratings_count>
+  <description>Aziz Ansari ensina tudo que você precisa saber sobre amor nos tempos do Google!&lt;br /&gt;&lt;br /&gt;Alguns dos problemas de relacionamento que temos hoje são bem específicos da nossa era: "Por que esse cara me mandou um emoji de pizza?"; "Devo sair com essa menina apesar de ela dizer que Torcida é seu petisco preferido? Torcida, jura?!"; "Minha namorada acabou de receber uma mensagem de um fulano chamado Daniel. Quem é Daniel? Será que ele mandou uma foto do pau dele? Devo olhar só para garantir?".&lt;br /&gt;No entanto, a transformação da nossa vida amorosa não se resume à tecnologia. Em um curto período de tempo, as formas de se buscar o amor mudaram drasticamente.&lt;br /&gt;Algumas décadas atrás, os casamentos aconteciam entre pessoas que moravam no mesmo bairro. Suas famílias se encontravam e, depois de constatar que nenhuma das partes era um assassino em potencial, os pretendentes se casavam e tinham filhos. Tudo antes de completar 24 anos. Hoje, as pessoas se casam mais tarde do que nunca e passam anos à procurado par perfeito. Aziz Ansari tem discutido os romances modernos há tempos em suas apresentações de stand-up e no seriado "Master of None", escrito, dirigido e protagonizado por ele. Mas agora, em "Romance moderno", decidiu levar o assunto a outro nível. Aziz se juntou ao sociólogo Eric Klinenberg para desenvolver um projeto de pesquisa que se estendeu de Tóquio a Buenos Aires, passando por Paris, Doha e Wichita. Com o auxílio dos mais renomados pesquisadores, a dupla analisou dados comportamentais, entrevistou centenas de pessoas e criou um fórum no site Reddit, obtendo milhares de respostas. O resultado é um livro único, em que o humor irreverente de Aziz é veículo para pesquisas sociais inovadoras. Um tour pelo nosso universo romântico como nunca visto antes.</description>
+<authors>
+<author>
+<id>9802136</id>
+<name>Aziz Ansari</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1433455717p5/9802136.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1433455717p2/9802136.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9802136.Aziz_Ansari]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>151332</ratings_count>
+<text_reviews_count>12756</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>43014915</id>
+  <uri>kca://work/amzn1.gr.work.v1.6c4Nljq9-Mb69pjWFuGw_A</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Feb 24 15:35:11 -0800 2017</started_at>
+  <read_at>Sun Mar 12 07:20:06 -0700 2017</read_at>
+  <date_added>Fri Feb 24 15:35:11 -0800 2017</date_added>
+  <date_updated>Sun Mar 12 07:20:06 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Faz uma análise sobre os relacionamentos modernos baseado em pesquisas, entrevistas e bom humor. Recomendo a leitura.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1923831354]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1923831354]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1918316778</id>
+    <book>
+  <id type="integer">25804350</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ydsTs7_rsCpcE2Gv8KK14w</uri>
+  <title>Eleanor &amp; Park</title>
+  <title_without_series>Eleanor &amp; Park</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25804350-eleanor-park</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>766273</ratings_count>
+  <description>&lt;i&gt;Two misfits.&lt;br /&gt;One extraordinary love.&lt;br /&gt;&lt;br /&gt;Eleanor&lt;/i&gt;... Red hair, wrong clothes. Standing behind him until he turns his head. Lying beside him until he wakes up. Making everyone else seem drabber and flatter and never good enough...Eleanor.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Park&lt;/i&gt;... He knows she'll love a song before he plays it for her. He laughs at her jokes before she ever gets to the punch line. There's a place on his chest, just below his throat, that makes her want to keep promises...Park.&lt;br /&gt;&lt;br /&gt;Set over the course of one school year, this is the story of two star-crossed sixteen-year-olds—smart enough to know that first love almost never lasts, but brave and desperate enough to try.</description>
+<authors>
+<author>
+<id>4208569</id>
+<name>Rainbow Rowell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342324527p5/4208569.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342324527p2/4208569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4208569.Rainbow_Rowell]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>1843358</ratings_count>
+<text_reviews_count>191718</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>17225055</id>
+  <uri>kca://work/amzn1.gr.work.v1.urcxn2ghJ-hmk9Aa-LDHLQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Feb 18 00:00:00 -0800 2017</started_at>
+  <read_at>Thu Feb 23 00:00:00 -0800 2017</read_at>
+  <date_added>Sun Feb 19 09:31:01 -0800 2017</date_added>
+  <date_updated>Fri Feb 24 02:06:15 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Leitura leve, rápida e que te transporta um pouco para uma época em que tudo era tão simples e ao mesmo tempo a coisa mais complicada do mundo]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1918316778]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1918316778]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1917065797</id>
+    <book>
+  <id type="integer">28336146</id>
+  <isbn nil="true"/>
+  <isbn13>9788579623974</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Di72hFL7yHTkv1seeUeBpA</uri>
+  <title>Dance dance dance</title>
+  <title_without_series>Dance dance dance</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28336146-dance-dance-dance</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>59581</ratings_count>
+  <description>“A literatura de Murakami é universal.” — Revista Cult&lt;br /&gt;&lt;br /&gt;“Se Raymond Carver tivesse vivido o suficiente para assistir a Blade Runner, talvez ele tivesse escrito algo parecido com Dance dance dance.” — The Observer&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Parte mistério, parte especulação espiritual, &lt;em&gt;Dance dance dance&lt;/em&gt; é uma verdadeira fábula do nosso tempo. Tão cativante quanto uma canção de rock&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;O protagonista deste romance é um escritor freelance que se identifica apenas como um “limpa-neve cultural”: ele aceita todos os tipos de trabalho, mesmo as reportagens mais estranhas, para tentar se reintegrar à sociedade após uma série de eventos traumáticos em sua vida. Enquanto tenta reordenar os fatos do passado, ele procura uma antiga namorada que está desaparecida e decide voltar ao local em que a viu pela última vez — o Hotel do Golfinho. Mas o hotel também não é mais o mesmo. &lt;br /&gt;Procurando respostas para os seus questionamentos, ele é levado a um misterioso mundo de desaparecimentos, atividades ilícitas e especulações, que fazem deste um romance enigmático, mas também envolvente.</description>
+<authors>
+<author>
+<id>3354</id>
+<name>Haruki Murakami</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539035376p5/3354.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539035376p2/3354.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3354.Haruki_Murakami]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>2076484</ratings_count>
+<text_reviews_count>151860</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>2753173</id>
+  <uri>kca://work/amzn1.gr.work.v1.2PA6E4dPO4q4om_sx9g35Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jan 25 00:00:00 -0800 2017</started_at>
+  <read_at>Fri Feb 17 00:00:00 -0800 2017</read_at>
+  <date_added>Sat Feb 18 03:53:46 -0800 2017</date_added>
+  <date_updated>Sat Feb 18 03:56:09 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1917065797]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1917065797]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1910482827</id>
+    <book>
+  <id type="integer">16270446</id>
+  <isbn nil="true"/>
+  <isbn13>9788539004119</isbn13>
+  <text_reviews_count type="integer">65</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.91wymR6oVYOn05Zhsy8Ijw</uri>
+  <title>O Poder do Hábito: Por que fazemos o que fazemos na vida e nos negócios</title>
+  <title_without_series>O Poder do Hábito: Por que fazemos o que fazemos na vida e nos negócios</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354798448l/16270446._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354798448l/16270446._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16270446-o-poder-do-h-bito</link>
+  <num_pages>407</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Objetiva</publisher>
+  <publication_day/>
+  <publication_year>2012</publication_year>
+  <publication_month/>
+  <average_rating>4.09</average_rating>
+  <ratings_count>273090</ratings_count>
+  <description>Há mais de 20 semanas entre os mais vendidos do New York Times!&lt;br /&gt;&lt;br /&gt;Durante os últimos dois anos, uma jovem transformou quase todos os aspectos de sua vida. Parou de fumar, correu uma maratona e foi promovida. Em um laboratório, neurologistas descobriram que os padrões dentro do cérebro dela ou seja, seus hábitos foram modificados de maneira fundamental para que todas essas mudanças ocorressem. Há duas décadas pesquisando ao lado de psicólogos, sociólogos e publicitários, cientistas do cérebro começaram finalmente a entender como os hábitos funcionam ¿ e, mais importante, como podem ser transformados. Embora isoladamente pareçam ter pouca importância, com o tempo, têm um enorme impacto na saúde, na produtividade, na estabilidade financeira e na felicidade. &lt;br /&gt;&lt;br /&gt;Com base na leitura de centenas de artigos acadêmicos, entrevistas com mais de trezentos cientistas e executivos, além de pesquisas realizadas em dezenas de empresas, o repórter investigativo do New York Times Charles Duhigg elabora, em O poder do hábito, um argumento animador: a chave para se exercitar regularmente, perder peso, educar bem os filhos, se tornar uma pessoa mais produtiva, criar empresas revolucionárias e ter sucesso é entender como os hábitos funcionam. Transformá-los pode gerar bilhões e significar a diferença entre fracasso e sucesso, vida e morte. &lt;br /&gt;&lt;br /&gt;Duhigg conclui por que algumas pessoas e empresas têm tanta dificuldade em mudar, enquanto outras o fazem da noite para o dia. Descobre, por exemplo, como hábitos corretos foram cruciais para o sucesso do nadador Michael Phelps, do diretor executivo da Starbucks, Howard Schultz, e do herói dos direitos civis, Martin Luther King, Jr.: "Eles tiveram êxito transformando hábitos. Todos começam com um padrão psicológico. Primeiro, há uma sugestão, ou gatilho, que diz ao seu cérebro para entrar em modo automático e desdobrar um comportamento. Depois, há a rotina, que é o comportamento em si. Para alterar um hábito, é preciso modificar os padrões que moldam cada aspecto de nossas vidas. Entendendo isso, você ganha a liberdade ¿ e a responsabilidade ¿ para começar a trabalhar e refazê-los", diz o autor.&lt;br /&gt;&lt;br /&gt;Um dos exemplos citados pelo autor diz respeito a ele próprio. Duhigg explica como conseguiu parar de consumir cookies no meio do dia de trabalho ao compreender o hábito que o levava diariamente a uma cafeteria para comê-los, mesmo sem fome ¿ as visitas diárias ao lugar ocorriam por necessidade de socialização. "Refiz o hábito e, agora, pelas 15h30, levanto da minha mesa e procuro alguém para conversar por 10 minutos. E não como um cookie há seis meses", conta ele. A prática é um dos segredos para a mudança: "Tarefas que parecem incrivelmente complexas no início, como aprender a tocar violão e falar uma língua estrangeira, podem se tornar muito mais fáceis depois de executadas inúmeras vezes. Maus hábitos, como fumar e beber demais, são superados quando aprendemos novas rotinas e a praticamos incessantemente. "&lt;br /&gt;&lt;br /&gt;Há ainda, segundo Duhigg, os chamados "hábitos mestres", capazes de desencadear uma série de reações no modo da pessoa organizar sua própria vida. Um bom exemplo de um hábito mestre é o exercício físico.&lt;br /&gt;"Quando as pessoas começam a se exercitar regularmente, começam a mudar outros comportamentos que não estão relacionados à atividade física. Passam a comer melhor e a levantar da cama mais cedo. Fumam menos e se tornam mais pacientes. (...) Não está completamente claro porque isso ocorre, mas está provado que exercício é um hábito mestre, que propaga mudanças em todos os aspectos da vida."</description>
+<authors>
+<author>
+<id>5201530</id>
+<name>Charles Duhigg</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1349273209p5/5201530.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1349273209p2/5201530.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5201530.Charles_Duhigg]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>295597</ratings_count>
+<text_reviews_count>16480</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>17624817</id>
+  <uri>kca://work/amzn1.gr.work.v1.gRJ7ixmb9Hyc0lfIw7m6og</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Feb 11 00:00:00 -0800 2017</started_at>
+  <read_at>Fri Mar 17 14:40:48 -0700 2017</read_at>
+  <date_added>Sat Feb 11 15:38:11 -0800 2017</date_added>
+  <date_updated>Sat Oct 14 15:59:23 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[O livro mostra vários casos e estudos que comprovam que vivemos criando hábitos e que inclusive as vezes fazemos coisas inconscientemente e faz um bom trabalho nesse quesito.<br />Acho que peca apenas por não focar muito em como mudarmos e aprimorarmos os nossos próprios hábitos.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1910482827]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1910482827]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1903343570</id>
+    <book>
+  <id type="integer">18308536</id>
+  <isbn nil="true"/>
+  <isbn13>9788574746784</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ZPuWjTnY6xmziizMBU3RIA</uri>
+  <title>A Árvore do Dinheiro</title>
+  <title_without_series>A Árvore do Dinheiro</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376267078l/18308536._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376267078l/18308536._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18308536-a-rvore-do-dinheiro</link>
+  <num_pages>208</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Insular</publisher>
+  <publication_day/>
+  <publication_year>2013</publication_year>
+  <publication_month/>
+  <average_rating>4.09</average_rating>
+  <ratings_count>64</ratings_count>
+  <description>Ter uma árvore do dinheiro no quintal, vê-la frutificar e poder recorrer a ela sempre que a situação complica. Esse é o sonho de muita gente. Infelizmente, dinheiro não dá em árvore… Mas, será que não dá para cultivar dinheiro?&lt;br /&gt;Neste livro de leitura fácil, o planejador financeiro Jurandir Sell Macedo reúne dicas estimulantes e informações valiosas, desenvolvidas em quase duas décadas de estudos, que são capazes de facilitar o caminho que leva até a sonhada independência financeira.&lt;br /&gt;A maioria das pessoas trabalha muito para pagar as contas no final do mês, e muitas sequer conseguem quitar os compromissos e acabam se endividando ainda mais. Dois em cada três brasileiros gastam boa parte de suas vidas pagando juros – ou seja, apenas um terço da população não está endividada. Se for incluída a prestação da casa própria na lista de possíveis dívidas, esse grupo é ainda maior.&lt;br /&gt;Como é possível sair da berlinda financeira e passar a ter uma vida mais tranqüila?&lt;br /&gt;Como deixar de ser escravo do dinheiro? Para ser feliz é preciso ser rico?&lt;br /&gt;O guia responde questões como essas e ensina que guardar dinheiro, controlar os gastos e investir pode ser mais simples do que se imagina. São pequenas atitudes, tomadas no dia-a-dia, que podem fazer com que qualquer pessoa tenha uma fonte inesgotável de renda, uma vida feliz e um futuro tranqüilo.</description>
+<authors>
+<author>
+<id>7214762</id>
+<name>Jurandir Sell Macedo Jr.</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7214762.Jurandir_Sell_Macedo_Jr_]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>70</ratings_count>
+<text_reviews_count>7</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>25804056</id>
+  <uri>kca://work/amzn1.gr.work.v1.DHzfLazvkDVJMUvsz_AYqw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Feb 05 00:00:00 -0800 2017</started_at>
+  <read_at>Wed Feb 08 11:25:53 -0800 2017</read_at>
+  <date_added>Sun Feb 05 02:40:24 -0800 2017</date_added>
+  <date_updated>Sat Feb 18 03:57:12 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1903343570]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1903343570]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1891441049</id>
+    <book>
+  <id type="integer">28804192</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">34</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.T9YIW85vPznT-VvIQxrdjQ</uri>
+  <title>Pílulas Azuis</title>
+  <title_without_series>Pílulas Azuis</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28804192-p-lulas-azuis</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Nemo</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.93</average_rating>
+  <ratings_count>5346</ratings_count>
+  <description>Nesta narrativa gráfica pessoal e de rara pureza, por meio de um roteiro simples e de temas universais (o amor, a morte), Frederik Peeters conta sobre seu encontro e sua história com Cati, envolvendo o vírus ignóbil que entra em cena e muda tudo, e todas as emoções contraditórias que ele tem de aprender a gerenciar: amor, raiva, compaixão. Pílulas azuis nos permite acompanhar, sem nenhum vestígio de sentimentalismo, através de um prisma raramente (senão nunca) abordado, o cotidiano de uma relação cingida pelo HIV, sem deixar de lançar algumas verdades duras e surpreendentes sobre o assunto.&lt;br /&gt;&lt;br /&gt;Apesar da seriedade do tema, Pílulas azuis é uma obra cheia de leveza e humor. Não é à toa que é considerada por muitos a obra-prima de Frederik Peeters. Uma das mais belas histórias de amor já publicadas.</description>
+<authors>
+<author>
+<id>658304</id>
+<name>Frederik Peeters</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1241621054p5/658304.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1241621054p2/658304.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/658304.Frederik_Peeters]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>10384</ratings_count>
+<text_reviews_count>860</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>2377505</id>
+  <uri>kca://work/amzn1.gr.work.v1.niopW2K6uosBwMsSU-zCeg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Jan 09 00:00:00 -0800 2017</read_at>
+  <date_added>Wed Jan 25 00:33:24 -0800 2017</date_added>
+  <date_updated>Wed Jan 25 00:33:49 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1891441049]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1891441049]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1890978771</id>
+    <book>
+  <id type="integer">23823800</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">17</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.D8CDa4LgSv314116h90QTg</uri>
+  <title>Scrum: A arte de fazer o dobro de trabalho na metade do tempo</title>
+  <title_without_series>Scrum: A arte de fazer o dobro de trabalho na metade do tempo</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23823800-scrum</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>LeYa</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.19</average_rating>
+  <ratings_count>11826</ratings_count>
+  <description>Se você já foi surpreendido por quão rápido o mundo está mudando, Scrum é uma das razões. Para aqueles que acreditam que deve haver uma maneira mais eficiente de se fazer as coisas, este é um livro sobre o processo de gestão que está mudando a maneira como vivemos. Desde o advento do método, já foram registrados ganhos de produtividade de até 1.200%. Tecida com insights de artes marciais, tomadas de decisão judicial, combate aéreo avançado, robótica e muitas outras disciplinas, Scrum é sempre fascinante. Seja para inventar uma tecnologia pioneira ou para estabelecer os alicerces de prosperidade de uma família.</description>
+<authors>
+<author>
+<id>2290725</id>
+<name>Jeff Sutherland</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1508058646p5/2290725.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1508058646p2/2290725.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2290725.Jeff_Sutherland]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>13004</ratings_count>
+<text_reviews_count>1244</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>27337257</id>
+  <uri>kca://work/amzn1.gr.work.v1.qewQt4PtCOGvzkH3YwVtfQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="209798350" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jan 24 00:00:00 -0800 2017</read_at>
+  <date_added>Tue Jan 24 14:29:35 -0800 2017</date_added>
+  <date_updated>Wed Feb 08 11:30:27 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1890978771]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1890978771]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

@@ -1,0 +1,857 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='252075701' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="11" total="11">
+    <review>
+  <id>2773935895</id>
+    <book>
+  <id type="integer">29056083</id>
+  <isbn>0751565350</isbn>
+  <isbn13>9780751565355</isbn13>
+  <text_reviews_count type="integer">41063</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.NTYPh5dfLSnVoTwZlCTGdw</uri>
+  <title>Harry Potter and the Cursed Child: Parts One and Two (Harry Potter, #8)</title>
+  <title_without_series>Harry Potter and the Cursed Child: Parts One and Two</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470082995l/29056083._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470082995l/29056083._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29056083-harry-potter-and-the-cursed-child</link>
+  <num_pages>330</num_pages>
+  <format>Paperback</format>
+  <edition_information>Special Rehearsal Edition Script, UK</edition_information>
+  <publisher>Little, Brown</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.66</average_rating>
+  <ratings_count>590539</ratings_count>
+  <description>Based on an original new story by J.K. Rowling, Jack Thorne and John Tiffany, a new play by Jack Thorne, &lt;i&gt;Harry Potter and the Cursed Child&lt;/i&gt; is the eighth story in the Harry Potter series and the first official Harry Potter story to be presented on stage. The play will receive its world premiere in London’s West End on July 30, 2016.&lt;br /&gt;&lt;br /&gt;It was always difficult being Harry Potter and it isn’t much easier now that he is an overworked employee of the Ministry of Magic, a husband and father of three school-age children.&lt;br /&gt;&lt;br /&gt;While Harry grapples with a past that refuses to stay where it belongs, his youngest son Albus must struggle with the weight of a family legacy he never wanted. As past and present fuse ominously, both father and son learn the uncomfortable truth: sometimes, darkness comes from unexpected places.</description>
+<authors>
+<author>
+<id>5042201</id>
+<name>John Tiffany</name>
+<role>Adaptation</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1470470327p5/5042201.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1470470327p2/5042201.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5042201.John_Tiffany]]></link>
+<average_rating>3.66</average_rating>
+<ratings_count>590939</ratings_count>
+<text_reviews_count>61960</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>48765776</id>
+  <uri>kca://work/amzn1.gr.work.v1.EFy6sOal2wcXh7AmESrXWA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="252075701" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 03 13:36:58 -0700 2019</date_added>
+  <date_updated>Wed Apr 03 13:36:59 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2773935895]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2773935895]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2611675297</id>
+    <book>
+  <id type="integer">23158207</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1038</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ukcIQkZDGPeuLkYlygwAZw</uri>
+  <title>How Google Works</title>
+  <title_without_series>How Google Works</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23158207-how-google-works</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.05</average_rating>
+  <ratings_count>20779</ratings_count>
+  <description>Both Eric Schmidt and Jonathan Rosenberg came to Google as seasoned Silicon Valley business executives, but over the course of a decade they came to see the wisdom in Coach John Wooden's observation that 'it's what you learn after you know it all that counts'. As they helped grow Google from a young start-up to a global icon, they relearned everything they knew about management. &lt;i&gt;How Google Works&lt;/i&gt; is the sum of those experiences distilled into a fun, easy-to-read primer on corporate culture, strategy, talent, decision-making, communication, innovation, and dealing with disruption.&lt;br /&gt;&lt;br /&gt;The authors explain how the confluence of three seismic changes - the internet, mobile, and cloud computing - has shifted the balance of power from companies to consumers. The companies that will thrive in this ever-changing landscape will be the ones that create superior products and attract a new breed of multifaceted employees whom the authors dub 'smart creatives'. The management maxims ('Consensus requires dissension', 'Exile knaves but fight for divas', 'Think 10X, not 10%') are illustrated with previously unreported anecdotes from Google's corporate history.&lt;br /&gt;&lt;br /&gt;'Back in 2010, Eric and I created an internal class for Google managers,' says Rosenberg. 'The class slides all read 'Google confidential' until an employee suggested we uphold the spirit of openness and share them with the world. This book codifies the recipe for our secret sauce: how Google innovates and how it empowers employees to succeed.'</description>
+<authors>
+<author>
+<id>3887089</id>
+<name>Eric Schmidt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1456105735p5/3887089.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1456105735p2/3887089.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3887089.Eric_Schmidt]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>27059</ratings_count>
+<text_reviews_count>1863</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>42705109</id>
+  <uri>kca://work/amzn1.gr.work.v1.DiaCU_Rh-PhSM92mKeXMPQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="252075701" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Dec 01 01:59:31 -0800 2018</started_at>
+  <read_at>Sat Nov 09 10:36:52 -0800 2019</read_at>
+  <date_added>Sat Dec 01 01:59:30 -0800 2018</date_added>
+  <date_updated>Sat Nov 09 10:36:52 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2611675297]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2611675297]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2499186516</id>
+    <book>
+  <id type="integer">41222097</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.cZxI7HB0R6nJ5quIbdpG_Q</uri>
+  <title>خفايا الدعم الأمريكي لإسرائيل</title>
+  <title_without_series>خفايا الدعم الأمريكي لإسرائيل</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534678297l/41222097._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534678297l/41222097._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41222097</link>
+  <num_pages>102</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>دار المكتبي للطباعة والنشر والتوزيع</publisher>
+  <publication_day/>
+  <publication_year>2002</publication_year>
+  <publication_month/>
+  <average_rating>1.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>أمريكا راعية عملية السلام!!... أمريكا تساعد العرب والمسلمين و..!! لكن ما هي حقيقة العلاقة بين أمريكا والكيان الصهيوني؟! وما هو موقف أمريكا من الوحدة العربية؟!.. ومن الصراع العربي الإسرائيلي؟!&lt;br /&gt;&lt;br /&gt;... يجيب الدكتور المؤلف عن هذه التساؤلات، ثم يركّز على أنواع المعونات التي تقدمها أمريكا لإسرائيل...&lt;br /&gt;&lt;br /&gt;ثم يرسم أهم السُبل لمواجهة أمريكا، وهي:&lt;br /&gt;-لا ولاية للكافرين الظالمين!&lt;br /&gt;-مقاطعة البضائع الأمريكية.. أولاً!!</description>
+<authors>
+<author>
+<id>6892106</id>
+<name>محمد عمر الحاجي</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6892106._]]></link>
+<average_rating>3.13</average_rating>
+<ratings_count>15</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>64427883</id>
+  <uri>kca://work/amzn1.gr.work.v1.vMsTjK9zTtA4unsajKhqJQ</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="252075701" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Aug 19 04:34:09 -0700 2018</date_added>
+  <date_updated>Sun Aug 19 04:34:56 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2499186516]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2499186516]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2429235389</id>
+    <book>
+  <id type="integer">40583409</id>
+  <isbn nil="true"/>
+  <isbn13>9786039067344</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qACSJVmcV_kgVe1AU11Eeg</uri>
+  <title>القيمة المعنوية للغة العربية لدى الشباب في دول مجلس التعاون الخليجي</title>
+  <title_without_series>القيمة المعنوية للغة العربية لدى الشباب في دول مجلس التعاون الخليجي</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529439366l/40583409._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529439366l/40583409._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40583409</link>
+  <num_pages>107</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>2.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>18139523</id>
+<name>منيرة ناصر المبدل</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18139523._]]></link>
+<average_rating>2.00</average_rating>
+<ratings_count>1</ratings_count>
+<text_reviews_count>0</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>63023573</id>
+  <uri>kca://work/amzn1.gr.work.v1.0g_whrQC6pEMPd0ZwtRyiw</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="252075701" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jun 19 13:17:09 -0700 2018</date_added>
+  <date_updated>Tue Jun 19 13:17:18 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2429235389]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2429235389]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2414269862</id>
+    <book>
+  <id type="integer">49464</id>
+  <isbn>1932907009</isbn>
+  <isbn13>9781932907001</isbn13>
+  <text_reviews_count type="integer">1117</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.SXibD2G6FTmutfTVjU6tOQ</uri>
+  <title>Save the Cat: The Last Book on Screenwriting You'll Ever Need</title>
+  <title_without_series>Save the Cat: The Last Book on Screenwriting You'll Ever Need</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411952887l/49464._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411952887l/49464._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/49464.Save_the_Cat</link>
+  <num_pages>195</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Michael Wiese Productions</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>11032</ratings_count>
+  <description>This ultimate insider's guide reveals the secrets that none dare admit, told by a show biz veteran who's proven that you can sell your script if you can save the cat!</description>
+<authors>
+<author>
+<id>27856</id>
+<name>Blake Snyder</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1250045933p5/27856.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1250045933p2/27856.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/27856.Blake_Snyder]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>13307</ratings_count>
+<text_reviews_count>1379</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>48383</id>
+  <uri>kca://work/amzn1.gr.work.v1.JOeQ3lwmQesOyhBpvAfg9g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="252075701" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jun 05 10:37:07 -0700 2018</started_at>
+  <read_at>Fri Oct 12 09:59:56 -0700 2018</read_at>
+  <date_added>Tue Jun 05 10:37:06 -0700 2018</date_added>
+  <date_updated>Fri Oct 12 09:59:56 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I actually liked it! regardless of some of the bad reviews I read on here, It's pretty much the only book on screenwriting -beside school curriculums- I ever read, so it was fine for me.<br /><br />It was very easy to understand, I just wish I had a script in mind so I could try the exercises/ fo...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2414269862]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2414269862]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2377841105</id>
+    <book>
+  <id type="integer">40007214</id>
+  <isbn nil="true"/>
+  <isbn13>9789933112806</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.67hxCbCFNZwrjwQFzG5B8w</uri>
+  <title>حقيقة إسرائيل</title>
+  <title_without_series>حقيقة إسرائيل</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525121945l/40007214._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525121945l/40007214._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40007214</link>
+  <num_pages>96</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>دار المكتبي للطباعة والنشر والتوزيع</publisher>
+  <publication_day/>
+  <publication_year>2002</publication_year>
+  <publication_month/>
+  <average_rating>2.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>ها هي عشرات السنوات قد مرّت على مهزلة السلام مع إسرائيل، وما حصد المنخدعون بذلك إلا الخزي والخذلان!!&lt;br /&gt;ولم تعد أراضي الضفة! ولم تتوقّف إسرائيل عن قتل الآمنين! ولم ترتدع عن تهشيم عظام الأطفال وتكسيرها! ولم... ولم...!!&lt;br /&gt;وما تفعله بالأطفال الفلسطينيين خير دليلٍ على دجل الانبطاحيين.&lt;br /&gt;... وفي ظلال قوله تعالى: (لتجدّن أشد الناس عداوةً للذين آمنوا اليهود والذين أشركوا).&lt;br /&gt;يتوقف الدكتور المؤلف عند بعض المحاور، منها: &lt;br /&gt;-النظام السياسي الإسرائيلي. &lt;br /&gt;-الاقتصاد الإسرائيلي. &lt;br /&gt;-قضايا الإعلام الإسرائيلي: خاصةً عن هيمنة اليهود على غالبية الإعلام العالمي! &lt;br /&gt;-إسرائيل الكبرى: خاصةً معركة المياه!! والاستيلاء على منابع النفط!!&lt;br /&gt;هذه المحاور وغيرها تبيّن (حقيقة إسرائيل)، والهدف من ذلك كله هو عدم الانخداع بالشعارات الجوفاء، والتي تتعلق بالسلام مع الغدّة السرطانية -إسرائيل-.</description>
+<authors>
+<author>
+<id>6892106</id>
+<name>محمد عمر الحاجي</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6892106._]]></link>
+<average_rating>3.13</average_rating>
+<ratings_count>15</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>61954005</id>
+  <uri>kca://work/amzn1.gr.work.v1.NPjsfSGHzyiBMvKdir_2Aw</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="252075701" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Apr 30 14:19:46 -0700 2018</started_at>
+  <read_at>Wed May 02 04:54:56 -0700 2018</read_at>
+  <date_added>Mon Apr 30 14:19:46 -0700 2018</date_added>
+  <date_updated>Wed May 02 04:54:56 -0700 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[يتحدث الكتاب بشكل عام عن عدة عناصر يرى الكاتب أهميتها في التعرف على إسرائيل الحقيقية، لاحظت عليه بعض الأخطاء الإملائية بالأخص في استخدام المسافات مع علامات الترقيم.<br /><br />الكتاب سلس أسلوبه، عام جدًا وسطحي لا يتعمق في تحليل استراتيجيات إسرائيل عمليًا بخطوات زمنية، وإنما يعممها ويشرح نوعها، به...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2377841105]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2377841105]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2361889404</id>
+    <book>
+  <id type="integer">30044563</id>
+  <isbn nil="true"/>
+  <isbn13>9786039078647</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.wMEEsR3G3W19bFGO7qwKIg</uri>
+  <title>سريرة</title>
+  <title_without_series>سريرة</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30044563</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>دار الأدب العربي </publisher>
+  <publication_day/>
+  <publication_year>2016</publication_year>
+  <publication_month/>
+  <average_rating>3.56</average_rating>
+  <ratings_count>9</ratings_count>
+  <description>الحديث عن الذات و الأخلاق يفضي كل منهما غلى الآخر ، إنها قضية ذات شقين تنبعان من أصل واحد و تلتقيان في غاية واحدة . فالأخلاق مضمار رئيسي في البحث عن الذات و في الحياة عموما و كل ما كتب لا يتعدى كونه محاولات لتمييز الصواب من الخطأ. و عند تناول الاخلاق لابد ان تدرس في سياق مكانتها من القلب و البحث عن الذات و التعرف عليها من خلال هذه المدارس و النظريات الأخلاقية ، و لعل هذا الكتاب يحاول ردم الفجوة بين الفلسفة الاخلاقية و التعرف على النفس و تطويرها .</description>
+<authors>
+<author>
+<id>15216850</id>
+<name>عبد العزيز الخريجي</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15216850._]]></link>
+<average_rating>3.56</average_rating>
+<ratings_count>9</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>50450928</id>
+  <uri>kca://work/amzn1.gr.work.v1.C-fE0ArotQ2IInHNbeju0A</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="252075701" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Apr 15 02:41:46 -0700 2018</started_at>
+  <read_at>Fri Apr 27 09:08:58 -0700 2018</read_at>
+  <date_added>Sun Apr 15 02:41:46 -0700 2018</date_added>
+  <date_updated>Fri Apr 27 09:08:58 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[أسلوب الكاتب اللغوي مُتقدم، لذا لا أنصح مبتدئي القراءة به، لكنه عظيم بالنسبة لذائقتي، تنوع في استخدام المفردات وجمل تركيبية مختلفة عمّا أعتدته من أساليب سابقة، كما يكرر استعمال التشبيهات البلاغية في معظم الكتاب، وبعضها عميق و"شاطح" تحتاج لإعادة قرائتها لاستيعات وجه الشبه.<br /><br />موضوع الكتاب...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2361889404]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2361889404]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2328115563</id>
+    <book>
+  <id type="integer">39286812</id>
+  <isbn nil="true"/>
+  <isbn13>9786039087106</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.l9Qyfoz5qj4eYgLCYCoDww</uri>
+  <title>الفصحى والعامية في وسائل الإعلام</title>
+  <title_without_series>الفصحى والعامية في وسائل الإعلام</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521102687l/39286812._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521102687l/39286812._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/39286812</link>
+  <num_pages>152</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية</publisher>
+  <publication_day/>
+  <publication_year>2016</publication_year>
+  <publication_month/>
+  <average_rating>3.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>يضم هذا الكتاب النتاج العلمي الخاص بندوة (اللغة العربية والإعلام) لكلٍ من الباحثين: عبدالحفيظ عبدالجواد درويش و هبة الله محمود وأنور محمد مبروكي وصابرين مهدي علي أبو الريش، والتي أقامها مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية مع قسم الاتصال والإعلام في كلية الآداب والعلوم الإنسانية بجامعة طيبة.</description>
+<authors>
+<author>
+<id>14560330</id>
+<name><![CDATA[مركز الملك عبدالله بن عبدالعزيز الدولي لخدمة اللغة العربية]]></name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14560330._]]></link>
+<average_rating>3.22</average_rating>
+<ratings_count>9</ratings_count>
+<text_reviews_count>3</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>60853213</id>
+  <uri>kca://work/amzn1.gr.work.v1.LSVZbhnW4-5AklKHcI_-2Q</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="252075701" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 15 01:31:41 -0700 2018</started_at>
+  <read_at>Tue Mar 20 13:22:51 -0700 2018</read_at>
+  <date_added>Thu Mar 15 01:31:41 -0700 2018</date_added>
+  <date_updated>Tue Mar 20 13:22:51 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[الكتاب عبارة عن أربعة أبحاث تتعلق باللغة العربية في وسائل الإعلام، بالأخص الاستخدام الحالي لها ما بين الفُصحى والعامية، الكتاب جزء من ندوة لذا هو يحتوى على أجزاء نصية لا داعي لها، مثل كلمة مديري الأقسام وبعض المسؤولين، والأحرى تلخيصها كلها إلى سرد قصير جدًا يُمهد للأبحاث ويحكي تفاصيل الندوة (موعد...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2328115563]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2328115563]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2320029545</id>
+    <book>
+  <id type="integer">17842818</id>
+  <isbn nil="true"/>
+  <isbn13>9786144182086</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._-A-EfbbxyXBJKeydI5TEw</uri>
+  <title>كتاب أسلوب الشرق الأوسط</title>
+  <title_without_series>كتاب أسلوب الشرق الأوسط</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366794767l/17842818._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366794767l/17842818._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17842818</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information>الطبعة الأولي</edition_information>
+  <publisher>جداول للنشر والتوزيع </publisher>
+  <publication_day/>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>2.70</average_rating>
+  <ratings_count>20</ratings_count>
+  <description>في سابقة تُعدُ هي الأولى على مستوى الصحافة العربية، تطرح صحيفة “الشرق الأوسط” كتاب أسلوبها في الأسواق العربية، ليكون مرجعًا للمحررين ولطلاب الصحافة ودارسيها، ودليل هوية وفلسفة، ومصدر معلومات ونصائح لمن يُقدّر العمل الصحافي والإعلامي. يأتي طرح هذا الكتاب بعد مُضي خمسة وثلاثين عامًا من انطلاقة صحيفة “الشرق الأوسط”، بعد أن نضُجت تجربتها الصحافية، مهنيًا وثقافيًا وتقنيًا، وبعدما عاشت مسيرتها مع قرائها صحيفة جامعة مواظبة على التميّز في مختلف ميادين العمل الصحافي. والكتاب كما يقول عنه المؤرخ الدكتور عبدالهادي التازي تحتاجه المجامع العربية لأن مشغلتها الأولى هي الاهتمام بالمصطلحات والمعاجم ولغة الصحافة، وهو إن دلّ على شيء فإنما يدلّ على أننا ما نزال نمتلك من لا يبخل بما تتوفر عليه تجربته اليومية ولا يتردد في استشارة القواميس والمعاجم بكل لسان قبل أن يُجازف بإملاء نظرياته.</description>
+<authors>
+<author>
+<id>7061694</id>
+<name>مجموعة من المحررين</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7061694._]]></link>
+<average_rating>2.81</average_rating>
+<ratings_count>21</ratings_count>
+<text_reviews_count>6</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>24971043</id>
+  <uri>kca://work/amzn1.gr.work.v1.Ws4MvTbWlubsFmyS70L0Fg</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="252075701" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 07 13:29:58 -0800 2018</started_at>
+  <read_at>Sat Apr 07 05:47:04 -0700 2018</read_at>
+  <date_added>Wed Mar 07 13:29:58 -0800 2018</date_added>
+  <date_updated>Sat Apr 07 05:47:04 -0700 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[بلا شك الكتاب مُفيد للكُتاب بشكل عام، لكن هيكلته وطريقة توزيع معلوماته تُصعب عملية حفظ هذه المعلومات.<br />لا يشمل كافة القواعد النحوية وإنما ما ترى الجريدة أهمية التنويه حوله، ويحتوي على أشبه ما يكون بقاموس لبعض المصطلحات في القطاعات العسكرية وغيرها.<br />سيكون أحد مراجعي -بعد تلخيصه- في مرحلة ت...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2320029545]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2320029545]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2299965648</id>
+    <book>
+  <id type="integer">21394850</id>
+  <isbn nil="true"/>
+  <isbn13>9786030150601</isbn13>
+  <text_reviews_count type="integer">1749</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oOjzEOtLQR4_e6sUACWNzw</uri>
+  <title>أقوم قيلا</title>
+  <title_without_series>أقوم قيلا</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394163349l/21394850._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394163349l/21394850._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21394850</link>
+  <num_pages>223</num_pages>
+  <format>Paperback</format>
+  <edition_information>4th Edition</edition_information>
+  <publisher>دار الفكر العربي</publisher>
+  <publication_day/>
+  <publication_year>2014</publication_year>
+  <publication_month/>
+  <average_rating>3.93</average_rating>
+  <ratings_count>13451</ratings_count>
+  <description>الكاتب: "كنت في لندن عندما تعرضت للموقف الذي غير حياتي .. تحديدا حين التقيت برجل من المغرب العربي في حديقة الهايد بارك الشهيرة .. سلم علي ورحب بي رغم صغر سني وقتها مقارنة به .. فقد كنت في الثامنة عشرة من عمري بينما كان هو في عمر أبي تقريبا و كان هو أول ملحد التقي به"</description>
+<authors>
+<author>
+<id>8022624</id>
+<name>سلطان موسى الموسى</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1426334823p5/8022624.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1426334823p2/8022624.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8022624._]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>19770</ratings_count>
+<text_reviews_count>2532</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>40691767</id>
+  <uri>kca://work/amzn1.gr.work.v1.b6iRbEIJBYPv5LJDPvpFJw</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="252075701" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Feb 18 06:32:51 -0800 2018</started_at>
+  <read_at>Fri Feb 23 05:00:08 -0800 2018</read_at>
+  <date_added>Sun Feb 18 06:32:50 -0800 2018</date_added>
+  <date_updated>Fri Feb 23 05:00:08 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[عادةً لا أُقدِم على اختيار هذا النوع من الكُتب أو المواضيع، لكن كان الكتاب هدية ونوع مختلف للتجربة.<br /><br />يصف سلطان هدف الكتاب بأنه معلومات يتسلح بها المُسلم للرد على تشكيكات الملحدين وغيرهم من الديانات الأخرى بعد تجربته -الغير ناجحة بنظره- في الحديث مع المغربي المُلحد، وبينما أنا أعتقد -ولا...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2299965648]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2299965648]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2299127653</id>
+    <book>
+  <id type="integer">25453605</id>
+  <isbn nil="true"/>
+  <isbn13>9786144258590</isbn13>
+  <text_reviews_count type="integer">17</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ctjAn7bI6zre_HsAH1gTJQ</uri>
+  <title>يوميات غوانتانامو</title>
+  <title_without_series>يوميات غوانتانامو</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430355946l/25453605._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430355946l/25453605._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25453605</link>
+  <num_pages>480</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>دار الساقي</publisher>
+  <publication_day/>
+  <publication_year>2015</publication_year>
+  <publication_month/>
+  <average_rating>4.06</average_rating>
+  <ratings_count>2877</ratings_count>
+  <description>حدث لم يسبق له مثيل في عالم النشر على الصعيد العالمي: للمرة الأولى، يكتب سجينٌ يومياته وهو لا يزال رهن الاعتقال في غوانتانامو.&lt;br /&gt;منذ عام 2002 وحتى هذه اللحظة، يقضي محمدو ولد صلاحي أيامه سجيناً في المعسكر الاحتجازي في خليج غوانتانامو بكوبا. وطوال هذه السنوات لم توجّه إليه الولايات المتحدة أيَّ نوع من التُّهم. أصدر قاضٍ من المحكمة الفيدرالية قراراً يقضي بإطلاق سراحه في مارس 2010، ولكنّ الحكومة الأميركية عارضت قراره ذاك، ولا توجد الآن أية إشارات في الأفق تدلّ على أنّ الولايات المتحدة لديها نية لإطلاق سراحه.&lt;br /&gt;في السنة الثالثة من أًسْره، بدأ صلاحي بكتابة يومياته، واصفاً فيها حياته قبل مغادرته بيته، في 28 نوفمبر عام 2001، واختفائه في سجن أميركي، ومن ثم «رحلته اللانهائية حول العالم» سجناً وتحقيقاً، وأخيراً حياته اليومية كسجين في غوانتانامو. يومياته ليست مجرد سجلّ حيّ لإخفاق العدالة، بل وذكريات شخصية رهيبة تتّسم بالعمق والسخرية السوداء واللطف المدهش.</description>
+<authors>
+<author>
+<id>8241241</id>
+<name>Mohamedou Ould Slahi</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8241241.Mohamedou_Ould_Slahi]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>2877</ratings_count>
+<text_reviews_count>452</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>41549257</id>
+  <uri>kca://work/amzn1.gr.work.v1.Zl7SQ8zGQGJabWwhvsCZ4A</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="252075701" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Feb 17 11:36:49 -0800 2018</date_added>
+  <date_updated>Sat Feb 17 11:40:30 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[الوحشية وعدم الرحمة - بالأخض خلف القضبان- أمر متوقع، لكن الكتاب يُقربها للقارئ بحيث -فعليًا- تحتاج تتوقف بعد فترة من القراءة بسبب كمية الضيق والأسى الذي ينتابك!<br /><br />استمتعت بقراءة الكتاب، ليس مملًا بشكل عام لكن التكرار في هيكلة الأحداث وبعض الأجزاء تترك أثر مشابه لدى النفس، وبالإضافة إلى أ...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2299127653]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2299127653]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

@@ -1,0 +1,3666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='18553187' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="48" total="48">
+    <review>
+  <id>3041641686</id>
+    <book>
+  <id type="integer">42660463</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">197</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KjUNOOTGYYwBwIxw7NlULQ</uri>
+  <title>Twas The Nightshift Before Christmas</title>
+  <title_without_series>Twas The Nightshift Before Christmas</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571165254l/42660463._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571165254l/42660463._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/42660463-twas-the-nightshift-before-christmas</link>
+  <num_pages>160</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Picador</publisher>
+  <publication_day/>
+  <publication_year>2019</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>4396</ratings_count>
+  <description>&lt;i&gt;Twas The Nightshift Before Christmas&lt;/i&gt; is the hilarious, poignant and entertaining story of the life of a junior doctor at the most challenging time of the year. With twenty-five tales of intriguing, shocking and incredible Christmas incidents, the British public will finally appreciate the sacrifices made and the challenges faced by the unsung heroes of the NHS.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Twas The Nightshift Before Christmas&lt;/i&gt; will be fully illustrated (as tastefully as possible) and will delight all of Adam’s fans throughout the festive period of Christmas 2019 and for many years to come.</description>
+<authors>
+<author>
+<id>17160706</id>
+<name>Adam Kay</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1556173670p5/17160706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1556173670p2/17160706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17160706.Adam_Kay]]></link>
+<average_rating>4.40</average_rating>
+<ratings_count>95952</ratings_count>
+<text_reviews_count>6469</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>66405258</id>
+  <uri>kca://work/amzn1.gr.work.v1.wyn3bQpWxRBAh-SLA1nWVg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Nov 09 07:41:12 -0800 2019</started_at>
+  <read_at>Sat Nov 09 16:15:50 -0800 2019</read_at>
+  <date_added>Fri Nov 08 09:58:38 -0800 2019</date_added>
+  <date_updated>Sat Nov 09 16:15:51 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3041641686]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3041641686]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2821639536</id>
+    <book>
+  <id type="integer">45485039</id>
+  <isbn>178541514X</isbn>
+  <isbn13>9781785415142</isbn13>
+  <text_reviews_count type="integer">68</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Ga1Rg642fK2i0PKv_xIh5w</uri>
+  <title>This Is Going to Hurt: Secret Diaries of a Junior Doctor</title>
+  <title_without_series>This Is Going to Hurt: Secret Diaries of a Junior Doctor</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/45485039-this-is-going-to-hurt</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.41</average_rating>
+  <ratings_count>91448</ratings_count>
+  <description>THE MILLION COPY BESTSELLER BOOK OF THE YEAR AT THE NATIONAL BOOK AWARDS `Painfully funny. The pain and the funniness somehow add up to something entirely good, entirely noble and entirely loveable.' - Stephen Fry Welcome to the life of a junior doctor: 97-hour weeks, life and death decisions, a constant tsunami of bodily fluids, and the hospital parking meter earns more than you. Scribbled in secret after endless days, sleepless nights and missed weekends, Adam Kay's This is Going to Hurt provides a no-holds-barred account of his time on the NHS front line. Hilarious, horrifying and heartbreaking, this diary is everything you wanted to know - and more than a few things you didn't - about life on and off the hospital ward. Sunday Times Number One Bestseller for over eight months and winner of a record FOUR National Book Awards: Book of the Year, Non-Fiction Book of the Year, New Writer of the Year and Zoe Ball Book Club Book of the Year. This edition includes extra diary entries and a new afterword by the author.</description>
+<authors>
+<author>
+<id>17160706</id>
+<name>Adam Kay</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1556173670p5/17160706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1556173670p2/17160706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17160706.Adam_Kay]]></link>
+<average_rating>4.40</average_rating>
+<ratings_count>95952</ratings_count>
+<text_reviews_count>6469</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>56583337</id>
+  <uri>kca://work/amzn1.gr.work.v1.bQdu2It8zviIsdcIlAV5ag</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 14 23:23:49 -0700 2019</date_added>
+  <date_updated>Wed Nov 13 05:50:56 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2821639536]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2821639536]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2821637643</id>
+    <book>
+  <id type="integer">27833843</id>
+  <isbn>0718182715</isbn>
+  <isbn13>9780718182717</isbn13>
+  <text_reviews_count type="integer">393</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.GC9ptMoNUSmBqsTwIGKFtA</uri>
+  <title>Unnatural Causes</title>
+  <title_without_series>Unnatural Causes</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534293786l/27833843._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534293786l/27833843._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27833843-unnatural-causes</link>
+  <num_pages>400</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Michael Joseph</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.37</average_rating>
+  <ratings_count>5874</ratings_count>
+  <description>As the UK's top forensic pathologist, Dr Richard Shepherd has spent a lifetime uncovering the secrets of the dead. When death is sudden or unexplained, it falls to Shepherd to establish the cause. Each post-mortem is a detective story in its own right - and Shepherd has performed over 23,000 of them. Through his skill, dedication and insight, Dr Shepherd solves the puzzle to answer our most pressing question: how did this person die?&lt;br /&gt;&lt;br /&gt;From serial killer to natural disaster, 'perfect murder' to freak accident, Shepherd takes nothing for granted in pursuit of truth. And while he's been involved in some of the most high-profile cases of recent times, it's often the less well known encounters that prove the most perplexing, intriguing and even bizarre. In or out of the public eye, his evidence has put killers behind bars, freed the innocent and turned open-and-shut cases on their heads.&lt;br /&gt;&lt;br /&gt;But a life in death, bearing witness to some of humanity's darkest corners, exacts a price and Shepherd doesn't flinch from counting the cost to him and his family.</description>
+<authors>
+<author>
+<id>14676444</id>
+<name>Richard  Shepherd</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539292300p5/14676444.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539292300p2/14676444.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14676444.Richard_Shepherd]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>5483</ratings_count>
+<text_reviews_count>516</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>47815784</id>
+  <uri>kca://work/amzn1.gr.work.v1.fXguuNZ4_uhxhQ7Dvyb9qQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jun 09 07:37:10 -0700 2019</started_at>
+  <read_at>Fri Nov 08 09:59:55 -0800 2019</read_at>
+  <date_added>Tue May 14 23:20:11 -0700 2019</date_added>
+  <date_updated>Fri Nov 08 09:59:55 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2821637643]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2821637643]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2818368986</id>
+    <book>
+  <id type="integer">36667341</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">56</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.BUUFmNCnejiTO59Dl_G7SQ</uri>
+  <title>The F Word</title>
+  <title_without_series>The F Word</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519129135l/36667341._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519129135l/36667341._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/36667341-the-f-word</link>
+  <num_pages>292</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Hodder &amp; Stoughton </publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.30</average_rating>
+  <ratings_count>753</ratings_count>
+  <description>If there's one piece of invaluable advice for women and girls of all ages, it is that there is nothing more important than creating and maintaining strong, positive and happy friendships with other women.&lt;br /&gt;In a culture that largely pits women against each other, I want to celebrate female friendships... all strings attached!&lt;br /&gt;If my 1998 diary is anything to go by, female friendships are incredibly complex and emotional but they're the mini love stories that make us who we are. For many women, friends are our partners in crime through life; they are the ones who move us into new homes, out of bad relationships, through births and illnesses. In The F Word I've set out to explore and celebrate the essence of female friendship at different life stages and in its many wild and wonderful forms.</description>
+<authors>
+<author>
+<id>17367367</id>
+<name>Lily Pebbles</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520881654p5/17367367.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520881654p2/17367367.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17367367.Lily_Pebbles]]></link>
+<average_rating>3.30</average_rating>
+<ratings_count>753</ratings_count>
+<text_reviews_count>74</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>58449703</id>
+  <uri>kca://work/amzn1.gr.work.v1.h_03o1tySO0NavbRl67N9g</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun May 12 08:26:21 -0700 2019</date_added>
+  <date_updated>Tue May 14 23:24:58 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2818368986]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2818368986]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2818363921</id>
+    <book>
+  <id type="integer">39358743</id>
+  <isbn>1409177246</isbn>
+  <isbn13>9781409177241</isbn13>
+  <text_reviews_count type="integer">33</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qBup3bFRZfeB8HvnQcUxoQ</uri>
+  <title>Part-Time Working Mummy: A Patchwork Life</title>
+  <title_without_series>Part-Time Working Mummy: A Patchwork Life</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532830386l/39358743._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532830386l/39358743._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/39358743-part-time-working-mummy</link>
+  <num_pages>272</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Trapeze</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>806</ratings_count>
+  <description>&lt;b&gt; THE &lt;i&gt;SUNDAY TIMES&lt;/i&gt; BESTSELLER &lt;/b&gt;&lt;br /&gt;&lt;b&gt;Want to know the truth about what life is like as a mum and step-mum with a chaotic patchwork family?&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;i&gt;This book is everything I've been through that's made me who I am, plus the lessons I've learned from many mistakes. I hope that it will make you laugh as well as give you strength to keep going when times get tough. After all, we are all in this together...&lt;/i&gt;&lt;br /&gt;Rachaele, aka Part-Time Working Mummy&lt;br /&gt;&lt;br /&gt;Hundreds of thousands of fans flock to the PTWM page online and now, in this book, Rachaele shares her behind-the-scenes experiences with single &lt;b&gt;parenthood&lt;/b&gt;, unexpected &lt;b&gt;pregnancy&lt;/b&gt;, &lt;b&gt;domestic violence&lt;/b&gt;, &lt;b&gt;relationships&lt;/b&gt;, &lt;b&gt;bullying&lt;/b&gt; and much more - spreading &lt;b&gt;kindness&lt;/b&gt; amidst the &lt;b&gt;craziness&lt;/b&gt; along the way!&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;&lt;b&gt;***** Readers are raving about this book *****&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;'What can I say...amazing! The book is humbling, it's heart wrenching, it's funny and it's real life! The world needs more Rachaeles.'&lt;br /&gt;&lt;br /&gt;'Thanks to Rachaele and this amazing book, I all of a sudden don't feel so bad about my parenting skills. A brave insight on Rachaele's life and how patchwork families can be amazing if you fill your home with love. A must have on your book shelf!'&lt;br /&gt;&lt;br /&gt;'The most heart wrenching real book I've ever read, full of sadness, amazement and utter brilliance. Never has a book made me have a lump in my throat and burst into tears then have me in fits of laughter a few pages later... So real and so relatable.'&lt;br /&gt;&lt;br /&gt;'I don't normally do reviews or books even but wow I couldn't put it down! Read it in one. A must read!'&lt;br /&gt;&lt;br /&gt;'Straight-from-the-heart read - every mum needs to read this.'</description>
+<authors>
+<author>
+<id>17854326</id>
+<name>Rachaele Hambleton</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17854326.Rachaele_Hambleton]]></link>
+<average_rating>4.47</average_rating>
+<ratings_count>807</ratings_count>
+<text_reviews_count>71</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>61025782</id>
+  <uri>kca://work/amzn1.gr.work.v1.5lyaxn3VN3PsX0vw4KXxaw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun May 12 08:20:38 -0700 2019</date_added>
+  <date_updated>Sun May 12 08:20:39 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2818363921]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2818363921]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2818363593</id>
+    <book>
+  <id type="integer">25613395</id>
+  <isbn>0593076443</isbn>
+  <isbn13>9780593076446</isbn13>
+  <text_reviews_count type="integer">160</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.R5jTP6v5aDCrnbuqcyPwgg</uri>
+  <title>The Unmumsy Mum</title>
+  <title_without_series>The Unmumsy Mum</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458804224l/25613395._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458804224l/25613395._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25613395-the-unmumsy-mum</link>
+  <num_pages>336</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Bantam Press</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>2890</ratings_count>
+  <description>THIS IS NOT A PARENTING MANUAL. THIS IS REAL LIFE.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;The Unmumsy Mum&lt;/b&gt; writes candidly about motherhood like it really is: the messy, maddening, hilarious reality, how there is no ‘one size fits all’ approach and how it is sometimes absolutely fine to not know what you are doing. The lessons she's learnt while grappling with two small boys – from birth to teething, 3am night feeds to toddler tantrums, soft play to toilet training – will have you roaring with laughter and taking great comfort in the fact that it's definitely not just you...</description>
+<authors>
+<author>
+<id>1541481</id>
+<name>Sarah Turner</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1541481.Sarah_Turner]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>2444</ratings_count>
+<text_reviews_count>235</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>45424658</id>
+  <uri>kca://work/amzn1.gr.work.v1.Urwdw6rT0GmIj8FIcCsz_g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun May 12 08:20:17 -0700 2019</date_added>
+  <date_updated>Wed Nov 13 05:50:52 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2818363593]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2818363593]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>987074727</id>
+    <book>
+  <id type="integer">18895450</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">129</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.57O-4iudp3VZXKnYF1Vl8A</uri>
+  <title>Helpless: A True Short Story</title>
+  <title_without_series>Helpless: A True Short Story</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18895450-helpless</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>1736</ratings_count>
+  <description>&lt;p&gt;A dramatic short story from debut author and foster carer Rosie Lewis.&lt;/p&gt;&lt;p&gt;A digital-exclusive short story from Rosie Lewis, plus a sneak peek chapter from Rosie’s highly anticipated debut memoir, Trapped.&lt;/p&gt;&lt;p&gt;Baby Sarah is born to a crack-addicted mother on a freezing cold night in December. Rosie is woken a few short hours later, at 1am, and taken to the maternity unit by police escort to collect the infant and take her to a place of safety.&lt;/p&gt;&lt;p&gt;But it soon becomes clear that Sarah is suffering from severe withdrawal symptoms. Knowing that separation is inevitable, Rosie tries to maintain a professional distance but that’s easier said than done.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>7416785</id>
+<name>Rosie Lewis</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7416785.Rosie_Lewis]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>5282</ratings_count>
+<text_reviews_count>315</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>26899790</id>
+  <uri>kca://work/amzn1.gr.work.v1._WEJu8CCpqUxctzgnyTMMQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jul 05 14:44:42 -0700 2014</started_at>
+  <read_at>Fri Oct 10 04:26:33 -0700 2014</read_at>
+  <date_added>Sat Jul 05 14:44:42 -0700 2014</date_added>
+  <date_updated>Fri Oct 10 04:26:33 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/987074727]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/987074727]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>985355416</id>
+    <book>
+  <id type="integer">15733851</id>
+  <isbn>000748805X</isbn>
+  <isbn13>9780007488056</isbn13>
+  <text_reviews_count type="integer">1358</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.NdXM3AeG6DutElJfJozAlQ</uri>
+  <title>You Had Me At Hello</title>
+  <title_without_series>You Had Me At Hello</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348787624l/15733851._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348787624l/15733851._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15733851-you-had-me-at-hello</link>
+  <num_pages>436</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Avon</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>19533</ratings_count>
+  <description>What happens when the one that got away comes back?&lt;br /&gt;&lt;br /&gt;Rachel and Ben. Ben and Rachel. It was them against the world. Until it all fell apart.&lt;br /&gt;&lt;br /&gt;It’s been a decade since they last spoke, but when Rachel bumps into Ben one rainy day, the years melt away.&lt;br /&gt;&lt;br /&gt;From the moment they met they’d been a gang of two; partners in crime and the best of friends. But life has moved on. Ben is married. Rachel is definitely not. In fact, the men in her life make her want to take holy orders…&lt;br /&gt;&lt;br /&gt;Yet in that split second, Rachel feels the old friendship return. And along with it, the broken heart she’s never been able to mend.&lt;br /&gt;&lt;br /&gt;If you love David Nicholls and Lisa Jewell then this is the book for you. Hilarious, heartbreaking and everything in between, you’ll be hooked from their first ‘hello’.</description>
+<authors>
+<author>
+<id>6434584</id>
+<name>Mhairi McFarlane</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1461840417p5/6434584.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1461840417p2/6434584.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6434584.Mhairi_McFarlane]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>51378</ratings_count>
+<text_reviews_count>5128</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>21415597</id>
+  <uri>kca://work/amzn1.gr.work.v1.x_zSWPzDCSMvJHfrg5BT4A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jul 03 15:06:53 -0700 2014</date_added>
+  <date_updated>Thu Jul 03 15:06:53 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/985355416]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/985355416]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>879720379</id>
+    <book>
+  <id type="integer">161099</id>
+  <isbn>006440174X</isbn>
+  <isbn13>9780064401746</isbn13>
+  <text_reviews_count type="integer">1073</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.BL-JtUaf38zJtHiD278n_Q</uri>
+  <title>Good Night, Mr. Tom</title>
+  <title_without_series>Good Night, Mr. Tom</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282757902l/161099._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1282757902l/161099._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/161099.Good_Night_Mr_Tom</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>1986</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.30</average_rating>
+  <ratings_count>35683</ratings_count>
+  <description>London is poised on the brink of World War II. Timid, scrawny Willie Beech -- the abused child of a single mother -- is evacuated to the English countryside. At first, he is terrified of everything, of the country sounds and sights, even of Mr. Tom, the gruff, kindly old man who has taken him in. But gradually Willie forgets the hate and despair of his past. He learns to love a world he never knew existed, a world of friendship and affection in which harsh words and daily beatings have no place. Then a telegram comes. Willie must return to his mother in London. When weeks pass by with no word from Willie, Mr. Tom sets out for London to look for the young boy he has come to love as a son.</description>
+<authors>
+<author>
+<id>93351</id>
+<name>Michelle Magorian</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1210189009p5/93351.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1210189009p2/93351.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/93351.Michelle_Magorian]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>41742</ratings_count>
+<text_reviews_count>2141</text_reviews_count>
+</author>
+</authors>
+  <published>1986</published>
+<work>  <id>870671</id>
+  <uri>kca://work/amzn1.gr.work.v1.Hzq1E2SkwAetZZaagRq_JA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 12 13:50:00 -0700 2014</date_added>
+  <date_updated>Mon Jun 09 13:09:49 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/879720379]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/879720379]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>879718174</id>
+    <book>
+  <id type="integer">13335037</id>
+  <isbn>0062024035</isbn>
+  <isbn13>9780062024039</isbn13>
+  <text_reviews_count type="integer">72150</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.fc0XIQILLBQyHgbQRqzXNA</uri>
+  <title>Divergent (Divergent, #1)</title>
+  <title_without_series>Divergent</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328559506l/13335037._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328559506l/13335037._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13335037-divergent</link>
+  <num_pages>487</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Katherine Tegen Books</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>2672846</ratings_count>
+  <description>In Beatrice Prior's dystopian Chicago world, society is divided into five factions, each dedicated to the cultivation of a particular virtue—Candor (the honest), Abnegation (the selfless), Dauntless (the brave), Amity (the peaceful), and Erudite (the intelligent). On an appointed day of every year, all sixteen-year-olds must select the faction to which they will devote the rest of their lives. For Beatrice, the decision is between staying with her family and being who she really is—she can't have both. So she makes a choice that surprises everyone, including herself.&lt;br /&gt;&lt;br /&gt;During the highly competitive initiation that follows, Beatrice renames herself Tris and struggles alongside her fellow initiates to live out the choice they have made. Together they must undergo extreme physical tests of endurance and intense psychological simulations, some with devastating consequences. As initiation transforms them all, Tris must determine who her friends really are—and where, exactly, a romance with a sometimes fascinating, sometimes exasperating boy fits into the life she's chosen. But Tris also has a secret, one she's kept hidden from everyone because she's been warned it can mean death. And as she discovers unrest and growing conflict that threaten to unravel her seemingly perfect society, she also learns that her secret might help her save those she loves . . . or it might destroy her.</description>
+<authors>
+<author>
+<id>4039811</id>
+<name>Veronica Roth</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1544540525p5/4039811.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1544540525p2/4039811.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4039811.Veronica_Roth]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>5023296</ratings_count>
+<text_reviews_count>264323</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>13155899</id>
+  <uri>kca://work/amzn1.gr.work.v1.rBaAZasQyoeUWDUqmXfzJA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Oct 10 04:27:08 -0700 2014</started_at>
+  <read_at>Sun Oct 12 00:45:56 -0700 2014</read_at>
+  <date_added>Wed Mar 12 13:47:36 -0700 2014</date_added>
+  <date_updated>Sun Oct 12 00:45:57 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/879718174]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/879718174]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>872678113</id>
+    <book>
+  <id type="integer">100915</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">14329</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.bTpunK9LhLneojBwpPB9iQ</uri>
+  <title>The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)</title>
+  <title_without_series>The Lion, the Witch and the Wardrobe</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353029077l/100915._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353029077l/100915._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/100915.The_Lion_the_Witch_and_the_Wardrobe</link>
+  <num_pages>206</num_pages>
+  <format>Paperback</format>
+  <edition_information>Film Tie-in Edition (US/CAN)</edition_information>
+  <publisher>HarperCollins Publishers</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month/>
+  <average_rating>4.21</average_rating>
+  <ratings_count>1948264</ratings_count>
+  <description>There are a thousand stories in the land of Narnia, and the first is about to be told in an extraordinary motion picture, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, from Walt Disney Pictures and Walden Media.&lt;br /&gt;&lt;br /&gt;In the never-ending war between good and evil, The Chronicles of Narnia set the stage for battles of epic proportions. Some take place in vast fields, where the forces of light and darkness clash. But other battles occur within the small chambers of the heart and are equally decisive.&lt;br /&gt;&lt;br /&gt;Journeys to the ends of the world, fantastic creatures, betrayals, heroic deeds and friendships won and lost -- all come together in an unforgettable world of magic. So join the battle to end all battles.&lt;br /&gt;&lt;br /&gt;The second volume in&lt;br /&gt;The Chronicles of Narnia®&lt;br /&gt;The Lion, the Witch and the Wardrobe&lt;br /&gt;&lt;br /&gt;Narnia .... a land frozen in eternal winter ... a country waiting to be set free.&lt;br /&gt;&lt;br /&gt;Four adventurers step through a wardrobe door and into the land of Narnia -- a land enslaved by the power of the White Witch. But when almost all hope is lost, the return of the Great Lion, Aslan, signals a great change ... and a great sacrifice.&lt;br /&gt;(back cover)</description>
+<authors>
+<author>
+<id>1069006</id>
+<name>C.S. Lewis</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564671804p5/1069006.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564671804p2/1069006.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>5331314</ratings_count>
+<text_reviews_count>121201</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>4790821</id>
+  <uri>kca://work/amzn1.gr.work.v1.rqpJlzO5rS559vW35rJa1w</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 05 09:24:47 -0800 2014</date_added>
+  <date_updated>Wed Mar 05 09:24:47 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/872678113]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/872678113]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>869530486</id>
+    <book>
+  <id type="integer">13413843</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">68</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.X2JtGHZvTPX0Q8HkL4NdCA</uri>
+  <title>Three Girls and a Leading Man (Three Girls, #3)</title>
+  <title_without_series>Three Girls and a Leading Man</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335402144l/13413843._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335402144l/13413843._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13413843-three-girls-and-a-leading-man</link>
+  <num_pages>240</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>1431</ratings_count>
+  <description>Annie Duncan has never put much stock in true love. Sure, she loves dating, but she gets more than her share of drama working as a struggling actress—she can live without the romantic kind, thank you very much. &lt;br /&gt;&lt;br /&gt;Instead, Annie focuses her energy on her two best friends, Jen and Ginny. And now that she finally appears to be getting her big break, Annie couldn’t be happier with the way things are going. When she meets Nate during a weekend away in Vegas, she figures she'll just have an exhilarating fling—even if he is totally adorable and clearly into her. But when Annie finds herself falling for Nate, she's faced with a choice she never wanted to make.&lt;br /&gt;&lt;br /&gt;In Three Girls and a Leading Man, Annie Duncan attempts to chase her dreams and keep her heart under control. Her heart, however, may have different ideas!</description>
+<authors>
+<author>
+<id>5049499</id>
+<name>Rachel Schurig</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442598951p5/5049499.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442598951p2/5049499.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5049499.Rachel_Schurig]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>33007</ratings_count>
+<text_reviews_count>2332</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>18701646</id>
+  <uri>kca://work/amzn1.gr.work.v1.jxZx8FVkwKgLsTR-tQpgtQ</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Mar 11 10:46:01 -0700 2014</started_at>
+  <read_at>Sat Mar 22 07:05:15 -0700 2014</read_at>
+  <date_added>Sun Mar 02 08:25:01 -0800 2014</date_added>
+  <date_updated>Mon Jun 09 13:09:03 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/869530486]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/869530486]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>869530250</id>
+    <book>
+  <id type="integer">13010017</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">84</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.u2PpkK4nYYFbQvsm0j06Wg</uri>
+  <title>Three Girls and a Wedding (Three Girls, #2)</title>
+  <title_without_series>Three Girls and a Wedding</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335402527l/13010017._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335402527l/13010017._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13010017-three-girls-and-a-wedding</link>
+  <num_pages>271</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>1723</ratings_count>
+  <description>Jen Campbell loves weddings. In fact, she loves them so much that she became an event planner in the hopes that she would one day get the chance to help women create the fairy tale day of their dreams...Unfortunately, the only thing Jen has been allowed to plan so far are boring restaurant openings and children's birthday parties.&lt;br /&gt;&lt;br /&gt;When Jen’s big break finally comes, she realizes that wedding planning is a heck of a lot more complicated than picking out the perfect flowers and cake.&lt;br /&gt;&lt;br /&gt;Add to the chaos a pair of fighting friends, a totally pressuring mother, and a ridiculously gorgeous (but moody) best man, and Jen has her work cut out for her.&lt;br /&gt;&lt;br /&gt;In Three Girls and a Wedding, Jen Campbell will try to plan the perfect wedding and maybe—just maybe—create her very own happily-ever-after.</description>
+<authors>
+<author>
+<id>5049499</id>
+<name>Rachel Schurig</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442598951p5/5049499.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442598951p2/5049499.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5049499.Rachel_Schurig]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>33007</ratings_count>
+<text_reviews_count>2332</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>18171658</id>
+  <uri>kca://work/amzn1.gr.work.v1.ipQhTTR7XKsENbX9lYoJ6g</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 05 08:00:54 -0800 2014</started_at>
+  <read_at>Sun Mar 09 10:42:28 -0700 2014</read_at>
+  <date_added>Sun Mar 02 08:24:49 -0800 2014</date_added>
+  <date_updated>Sun Mar 09 10:42:28 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/869530250]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/869530250]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>866537959</id>
+    <book>
+  <id type="integer">12066631</id>
+  <isbn nil="true"/>
+  <isbn13>2940012833006</isbn13>
+  <text_reviews_count type="integer">456</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.p8zo6ic-PXoktlxfb7KGUg</uri>
+  <title>Three Girls and a Baby (Three Girls, #1)</title>
+  <title_without_series>Three Girls and a Baby</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326543852l/12066631._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1326543852l/12066631._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12066631-three-girls-and-a-baby</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.71</average_rating>
+  <ratings_count>6698</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>5049499</id>
+<name>Rachel Schurig</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442598951p5/5049499.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1442598951p2/5049499.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5049499.Rachel_Schurig]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>33007</ratings_count>
+<text_reviews_count>2332</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>17034070</id>
+  <uri>kca://work/amzn1.gr.work.v1.G47A6WmIFI8I2sClrDp-BA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Feb 27 00:00:00 -0800 2014</started_at>
+  <read_at>Sun Mar 02 00:00:00 -0800 2014</read_at>
+  <date_added>Thu Feb 27 03:45:37 -0800 2014</date_added>
+  <date_updated>Wed Mar 05 08:02:20 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[So overall I would rate this 3/5 stars. I have decided to give it that rating, because honestly, the book was pretty predictable! Okay, it's a Chick-Lit and you can't really expect a lot from it but I think there have been so many other books with romance in that have been a lot better!<br /><br...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/866537959]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/866537959]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>865130163</id>
+    <book>
+  <id type="integer">17229961</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">196</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.679p9uOeParjmXbgBymptA</uri>
+  <title>The Proposal (A Perfect Match #1)</title>
+  <title_without_series>The Proposal</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357765634l/17229961._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357765634l/17229961._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17229961-the-proposal</link>
+  <num_pages>145</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.42</average_rating>
+  <ratings_count>2635</ratings_count>
+  <description>A high-flying career woman with no time for romance finds herself at a loose end for her company's annual marketing convention. Partners are encouraged, and Nadine Stefano has every intention of fitting the image she believes her boss wants.&lt;p&gt;At her sister's recent bachelorette party Nadine finds herself irresistibly drawn to Ethan, one of the male strippers.&lt;/p&gt;&lt;p&gt;A single woman, desperate to present the image of being in a settled and happy relationship, she hires Ethan to act as her pretend boyfriend at the company event.&lt;/p&gt;&lt;p&gt;Not only is he five years younger, but he is also sexy as sin.&lt;/p&gt;&lt;p&gt;Theirs is a strong attraction, and the over-worked and uptight Nadine soon finds herself falling for the easy-going young man.&lt;/p&gt;&lt;p&gt;But company politics and nasty colleagues stand in their way.&lt;/p&gt;&lt;p&gt;Will their meeting lead to love, despite seemingly different career choices, or will Nadine dump Ethan in order to pursue her career goals?&lt;/p&gt;</description>
+<authors>
+<author>
+<id>6885341</id>
+<name>Lily Zante</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1538692420p5/6885341.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1538692420p2/6885341.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6885341.Lily_Zante]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>10890</ratings_count>
+<text_reviews_count>1097</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>23744559</id>
+  <uri>kca://work/amzn1.gr.work.v1.tqEQOkspnv2_AgCJ3rdO0g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Feb 25 13:46:40 -0800 2014</started_at>
+  <read_at>Thu Feb 27 01:28:18 -0800 2014</read_at>
+  <date_added>Tue Feb 25 13:46:40 -0800 2014</date_added>
+  <date_updated>Sun Mar 09 13:33:22 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/865130163]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/865130163]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>864996451</id>
+    <book>
+  <id type="integer">1821082</id>
+  <isbn>0340950943</isbn>
+  <isbn13>9780340950944</isbn13>
+  <text_reviews_count type="integer">313</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.OW4o1nQqADSMD8IgCIPpSQ</uri>
+  <title>My Fat, Mad Teenage Diary (Rae Earl, #1)</title>
+  <title_without_series>My Fat, Mad Teenage Diary</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1821082.My_Fat_Mad_Teenage_Diary</link>
+  <num_pages>342</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Hodder</publisher>
+  <publication_day/>
+  <publication_year>2007</publication_year>
+  <publication_month/>
+  <average_rating>3.71</average_rating>
+  <ratings_count>3385</ratings_count>
+  <description>&lt;i&gt;An alternate cover edition can be found &lt;a href="https://www.goodreads.com/book/show/1740064.My_Mad_Fat_Diary" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;It's 1989 and Rae is a fat, boy-mad 17-year-old girl, living in Stamford, Lincolnshire with her mum and their deaf white cat in a council house with a mint off-green bath suite and a larder Rae can't keep away from. This is the hilarious and touching real-life diary she kept during that fateful year - with characters like her evil friend Bethany, Bethany's besotted boyfriend, and the boys from the grammar school up the road (who have code names like Haddock and Battered Sausage).&lt;br /&gt;&lt;br /&gt;&lt;i&gt;My Fat, Mad Teenage Diary&lt;/i&gt; evokes a vanished time when Charles and Di are still together, the Berlin wall is up, Kylie is expected to disappear from the charts at any moment and it's £1 for a Snakebite and Black in the Vaults pub. &lt;i&gt;My Fat, Mad Teenage Diary&lt;/i&gt; will appeal to anyone who's lived through the 1980s. But it will also strike a chord with anyone who's ever been a confused, lonely teenager who clashes with their mother, takes themselves VERY seriously and has no idea how hilarious they are.</description>
+<authors>
+<author>
+<id>798728</id>
+<name>Rae Earl</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/798728.Rae_Earl]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>4927</ratings_count>
+<text_reviews_count>567</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>1820686</id>
+  <uri>kca://work/amzn1.gr.work.v1.iD5TjFZMZzRK303px1zv2w</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jul 04 09:00:11 -0700 2014</started_at>
+  <read_at>Sat Jul 05 14:43:30 -0700 2014</read_at>
+  <date_added>Tue Feb 25 11:04:15 -0800 2014</date_added>
+  <date_updated>Sat Jul 05 14:43:30 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/864996451]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/864996451]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>864209832</id>
+    <book>
+  <id type="integer">19448</id>
+  <isbn>0064472779</isbn>
+  <isbn13>9780064472777</isbn13>
+  <text_reviews_count type="integer">1710</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.G_OQCWiFpTcAdyq3F4NgYQ</uri>
+  <title>All-American Girl (All-American Girl, #1)</title>
+  <title_without_series>All-American Girl</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1291882422l/19448._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1291882422l/19448._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19448.All_American_Girl</link>
+  <num_pages>398</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperTrophy</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.74</average_rating>
+  <ratings_count>62406</ratings_count>
+  <description>Top Ten Reasons Samantha Madison is in Deep Trouble&lt;br /&gt;&lt;br /&gt;10. Her big sister is the most popular girl in school&lt;br /&gt;&lt;br /&gt;9. Her little sister is a certified genius&lt;br /&gt;&lt;br /&gt;8. She's in love with her big sister's boyfriend&lt;br /&gt;&lt;br /&gt;7. She got caught selling celebrity portraits in school&lt;br /&gt;&lt;br /&gt;6. And now she's being forced to take art classes&lt;br /&gt;&lt;br /&gt;5. She's just saved the president of the United States from an assassination attempt&lt;br /&gt;&lt;br /&gt;4. So the whole world thinks she is a hero&lt;br /&gt;&lt;br /&gt;3. Even though Sam knows she is far, far from being a hero&lt;br /&gt;&lt;br /&gt;2. And now she's been appointed teen ambassador to the UN&lt;br /&gt;&lt;br /&gt;And the number-one reason Sam's life is over?&lt;br /&gt;&lt;br /&gt;1. The president's son just might be in love with her</description>
+<authors>
+<author>
+<id>11654</id>
+<name>Meg Cabot</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1532640822p5/11654.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1532640822p2/11654.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11654.Meg_Cabot]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>1847150</ratings_count>
+<text_reviews_count>77893</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>2610030</id>
+  <uri>kca://work/amzn1.gr.work.v1.O-ZMgsBxyQbkMEM6bSpVOA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Feb 24 13:21:38 -0800 2014</date_added>
+  <date_updated>Mon Jun 09 13:10:58 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/864209832]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/864209832]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>864190170</id>
+    <book>
+  <id type="integer">3</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">72244</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tJT_00n8UPpvWa-zWHEAXg</uri>
+  <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone</link>
+  <num_pages>322</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Inc</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>6201046</ratings_count>
+  <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936489</ratings_count>
+<text_reviews_count>550492</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>4640799</id>
+  <uri>kca://work/amzn1.gr.work.v1.TbpxJa2CwiSSz_9W2FruoA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Feb 24 12:56:15 -0800 2014</date_added>
+  <date_updated>Mon Feb 24 12:56:15 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/864190170]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/864190170]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>864188598</id>
+    <book>
+  <id type="integer">33724</id>
+  <isbn>0440241901</isbn>
+  <isbn13>9780440241904</isbn13>
+  <text_reviews_count type="integer">9149</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.z5YKXW47A2TlZxMXKYFGhw</uri>
+  <title>Can You Keep a Secret?</title>
+  <title_without_series>Can You Keep a Secret?</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330464293l/33724._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330464293l/33724._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/33724.Can_You_Keep_a_Secret_</link>
+  <num_pages>374</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Dell Publishing Company</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>347288</ratings_count>
+  <description>Meet Emma Corrigan, a young woman with a huge heart, an irrepressible spirit, and a few little secrets: Secrets from her boyfriend: I've always thought Connor looks a bit like Ken. As in Barbie and Ken. Secrets from her mother: I lost my virginity in the spare bedroom with Danny Nussbaum while Mum and Dad were downstairs watching Ben-Hur. Secrets she wouldn't share with anyone in the world: I have no idea what NATO stands for. Or even what it is. Until she spills them all to a handsome stranger on a plane. At least, she thought he was a stranger.…Until Emma comes face-to-face with Jack Harper, the company's elusive CEO, a man who knows every single humiliating detail about her...</description>
+<authors>
+<author>
+<id>6160</id>
+<name>Sophie Kinsella</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245821549p5/6160.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245821549p2/6160.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6160.Sophie_Kinsella]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>2540175</ratings_count>
+<text_reviews_count>106369</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>2888997</id>
+  <uri>kca://work/amzn1.gr.work.v1.2V1GqTIu0JV7cAnbOsdp4A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Feb 24 12:54:13 -0800 2014</date_added>
+  <date_updated>Mon Feb 24 12:54:13 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/864188598]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/864188598]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>864092435</id>
+    <book>
+  <id type="integer">12033455</id>
+  <isbn>0385342063</isbn>
+  <isbn13>9780385342063</isbn13>
+  <text_reviews_count type="integer">10156</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.pN297nJgDypU7bre6oILqQ</uri>
+  <title>I've Got Your Number</title>
+  <title_without_series>I've Got Your Number</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327956732l/12033455._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327956732l/12033455._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12033455-i-ve-got-your-number</link>
+  <num_pages>433</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>The Dial Press</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.94</average_rating>
+  <ratings_count>179664</ratings_count>
+  <description>I’ve lost it. :( The only thing in the world I wasn’t supposed to lose. My engagement ring. It’s been in Magnus’s family for three generations. And now the very same day his parents are coming, I’ve lost it. The very same day! Do not hyperventilate, Poppy. Stay positive :) !!&lt;br /&gt;  &lt;br /&gt; Poppy Wyatt has never felt luckier. She is about to marry her ideal man, Magnus Tavish, but in one afternoon her “happily ever after” begins to fall apart. Not only has she lost her engagement ring in a hotel fire drill but in the panic that follows, her phone is stolen. As she paces shakily around the lobby, she spots an abandoned phone in a trash can. Finders keepers! Now she can leave a number for the hotel to contact her when they find her ring. Perfect!&lt;br /&gt;  &lt;br /&gt; Well, perfect except that the phone’s owner, businessman Sam Roxton, doesn’t agree. He wants his phone back and doesn’t appreciate Poppy reading his messages and wading into his personal life.&lt;br /&gt;  &lt;br /&gt; What ensues is a hilarious and unpredictable turn of events as Poppy and Sam increasingly upend each other’s lives through emails and text messages. As Poppy juggles wedding preparations, mysterious phone calls, and hiding her left hand from Magnus and his parents . . . she soon realizes that she is in for the biggest surprise of her life.</description>
+<authors>
+<author>
+<id>6160</id>
+<name>Sophie Kinsella</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245821549p5/6160.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245821549p2/6160.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6160.Sophie_Kinsella]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>2540175</ratings_count>
+<text_reviews_count>106369</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>16327730</id>
+  <uri>kca://work/amzn1.gr.work.v1.PPeKrw4Odw8WtM_RekuPHA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Feb 24 10:56:24 -0800 2014</date_added>
+  <date_updated>Mon Feb 24 13:02:06 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/864092435]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/864092435]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>864090054</id>
+    <book>
+  <id type="integer">8196732</id>
+  <isbn>0749942010</isbn>
+  <isbn13>9780749942014</isbn13>
+  <text_reviews_count type="integer">3991</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6gtRHc_hThkscH4Rz-Q5hw</uri>
+  <title>Sister</title>
+  <title_without_series>Sister</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320189763l/8196732._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320189763l/8196732._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8196732-sister</link>
+  <num_pages>358</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Piatkus Books</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.77</average_rating>
+  <ratings_count>46435</ratings_count>
+  <description>Nothing can break the bond between sisters ...When Beatrice gets a frantic call in the middle of Sunday lunch to say that her younger sister, Tess, is missing, she boards the first flight home to London. But as she learns about the circumstances surrounding her sister's disappearance, she is stunned to discover how little she actually knows of her sister's life - and unprepared for the terrifying truths she must now face.The police, Beatrice's fiance and even their mother accept they have lost Tess but Beatrice refuses to give up on her. So she embarks on a dangerous journey to discover the truth, no matter the cost.</description>
+<authors>
+<author>
+<id>3953740</id>
+<name>Rosamund Lupton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1555588090p5/3953740.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1555588090p2/3953740.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3953740.Rosamund_Lupton]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>70198</ratings_count>
+<text_reviews_count>8202</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>13043611</id>
+  <uri>kca://work/amzn1.gr.work.v1.YNcQurgOn2otN_sH3KEI9Q</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Feb 24 10:53:21 -0800 2014</date_added>
+  <date_updated>Mon Feb 24 13:01:48 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/864090054]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/864090054]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>316852328</id>
+    <book>
+  <id type="integer">3063499</id>
+  <isbn>0446579939</isbn>
+  <isbn13>9780446579933</isbn13>
+  <text_reviews_count type="integer">8552</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VFOwB6EHuFDfnk5-FUwkuQ</uri>
+  <title>The Lucky One</title>
+  <title_without_series>The Lucky One</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420816338l/3063499._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1420816338l/3063499._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3063499-the-lucky-one</link>
+  <num_pages>326</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Grand Central Publishing</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.11</average_rating>
+  <ratings_count>313877</ratings_count>
+  <description>When U.S. Marine Logan Thibault finds a photograph of a smiling young woman half-buried in the dirt during his third tour of duty in Iraq, his first instinct is to toss it aside. Instead, he brings it back to the base for someone to claim, but when no one does, he finds himself always carrying the photo in his pocket. Soon Thibault experiences a sudden streak of luck—winning poker games and even surviving deadly combat that kills two of his closest buddies. Only his best friend, Victor, seems to have an explanation for his good fortune: the photograph—his lucky charm.&lt;br /&gt;Back home in Colorado, Thibault can’t seem to get the photo—and the woman in it—out of his mind. Believing that she somehow holds the key to his destiny, he sets out on a journey across the country to find her, never expecting the strong but vulnerable woman he encounters in Hampton, North Carolina—Elizabeth, a divorced mother with a young son—to be the girl he’s been waiting his whole life to meet. Caught off guard by the attraction he feels, Thibault keeps the story of the photo, and his luck, a secret. As he and Elizabeth embark upon a passionate and all-consuming love affair, the secret he is keeping will soon threaten to tear them apart—destroying not only their love, but also their lives.&lt;br /&gt;Filled with tender romance and terrific suspense, The Lucky One is Nicholas Sparks at his best—an unforgettable story about the surprising paths our lives often take and the power of fate to guide us to true and everlasting love.</description>
+<authors>
+<author>
+<id>2345</id>
+<name>Nicholas Sparks</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1468247396p5/2345.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1468247396p2/2345.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2345.Nicholas_Sparks]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>5134024</ratings_count>
+<text_reviews_count>155173</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>3094402</id>
+  <uri>kca://work/amzn1.gr.work.v1.DBKqN8iH-QmLdlePA2NaIA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Apr 22 07:57:05 -0700 2012</date_added>
+  <date_updated>Mon Feb 24 13:05:17 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/316852328]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/316852328]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>281105846</id>
+    <book>
+  <id type="integer">7260188</id>
+  <isbn>0439023513</isbn>
+  <isbn13>9780439023511</isbn13>
+  <text_reviews_count type="integer">89327</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hFVPFpO-8DyF11Gy1k4d7A</uri>
+  <title>Mockingjay (The Hunger Games, #3)</title>
+  <title_without_series>Mockingjay</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358275419l/7260188._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358275419l/7260188._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7260188-mockingjay</link>
+  <num_pages>390</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>2114704</ratings_count>
+  <description>&lt;b&gt;My name is Katniss Everdeen.&lt;br /&gt;Why am I not dead?&lt;br /&gt;I should be dead.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Katniss Everdeen, girl on fire, has survived, even though her home has been destroyed. Gale has escaped. Katniss's family is safe. Peeta has been captured by the Capitol. District 13 really does exist. There are rebels. There are new leaders. A revolution is unfolding.&lt;br /&gt;&lt;br /&gt;It is by design that Katniss was rescued from the arena in the cruel and haunting Quarter Quell, and it is by design that she has long been part of the revolution without knowing it. District 13 has come out of the shadows and is plotting to overthrow the Capitol. Everyone, it seems, has had a hand in the carefully laid plans--except Katniss.&lt;br /&gt;&lt;br /&gt;The success of the rebellion hinges on Katniss's willingness to be a pawn, to accept responsibility for countless lives, and to change the course of the future of Panem. To do this, she must put aside her feelings of anger and distrust. She must become the rebels' Mockingjay--no matter what the personal cost.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1530308375p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1530308375p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>10651532</ratings_count>
+<text_reviews_count>377123</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>8812783</id>
+  <uri>kca://work/amzn1.gr.work.v1.4IASwwiLmBwCmDcIe56XuQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Feb 20 16:16:04 -0800 2012</date_added>
+  <date_updated>Mon Feb 20 16:16:07 -0800 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/281105846]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/281105846]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>281105666</id>
+    <book>
+  <id type="integer">6148028</id>
+  <isbn>0439023491</isbn>
+  <isbn13>9780439023498</isbn13>
+  <text_reviews_count type="integer">83122</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.c5JlFHJrTIJY5yfmJN8b0w</uri>
+  <title>Catching Fire (The Hunger Games, #2)</title>
+  <title_without_series>Catching Fire</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358273780l/6148028._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358273780l/6148028._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6148028-catching-fire</link>
+  <num_pages>391</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>2247850</ratings_count>
+  <description>&lt;b&gt;Sparks are igniting.&lt;br /&gt;Flames are spreading.&lt;br /&gt;And the Capitol wants revenge.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Against all odds, Katniss has won the Hunger Games. She and fellow District 12 tribute Peeta Mellark are miraculously still alive. Katniss should be relieved, happy even. After all, she has returned to her family and her longtime friend, Gale. Yet nothing is the way Katniss wishes it to be. Gale holds her at an icy distance. Peeta has turned his back on her completely. And there are whispers of a rebellion against the Capitol - a rebellion that Katniss and Peeta may have helped create.&lt;br /&gt;&lt;br /&gt;Much to her shock, Katniss has fueled an unrest she's afraid she cannot stop. And what scares her even more is that she's not entirely convinced she should try. As time draws near for Katniss and Peeta to visit the districts on the Capitol's cruel Victory Tour, the stakes are higher than ever. If they can't prove, without a shadow of a doubt, that they are lost in their love for each other, the consequences will be horrifying.&lt;br /&gt;&lt;br /&gt;In &lt;i&gt;Catching Fire&lt;/i&gt;, the second novel in the Hunger Games trilogy, Suzanne Collins continues the story of Katniss Everdeen, testing her more than ever before...and surprising readers at every turn.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1530308375p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1530308375p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>10651532</ratings_count>
+<text_reviews_count>377123</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>6171458</id>
+  <uri>kca://work/amzn1.gr.work.v1.2o2efDDMSYr-E3ruRr1VcA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Feb 20 16:15:47 -0800 2012</date_added>
+  <date_updated>Fri Mar 23 16:46:44 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/281105666]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/281105666]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>281105423</id>
+    <book>
+  <id type="integer">2767052</id>
+  <isbn>0439023483</isbn>
+  <isbn13>9780439023481</isbn13>
+  <text_reviews_count type="integer">149162</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.YaoKZD8xVx72w5T1ZgR1YQ</uri>
+  <title>The Hunger Games (The Hunger Games, #1)</title>
+  <title_without_series>The Hunger Games</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447303603l/2767052._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447303603l/2767052._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2767052-the-hunger-games</link>
+  <num_pages>374</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.33</average_rating>
+  <ratings_count>5856090</ratings_count>
+  <description>Could you survive on your own, in the wild, with everyone out to make sure you don't live to see the morning?&lt;br /&gt;&lt;br /&gt;In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. The Capitol is harsh and cruel and keeps the districts in line by forcing them all to send one boy and one girl between the ages of twelve and eighteen to participate in the annual Hunger Games, a fight to the death on live TV. Sixteen-year-old Katniss Everdeen, who lives alone with her mother and younger sister, regards it as a death sentence when she is forced to represent her district in the Games. But Katniss has been close to dead before - and survival, for her, is second nature. Without really meaning to, she becomes a contender. But if she is to win, she will have to start making choices that weigh survival against humanity and life against love.&lt;br /&gt;&lt;br /&gt;New York Times bestselling author Suzanne Collins delivers equal parts suspense and philosophy, adventure and romance, in this searing novel set in a future with unsettling parallels to our present.</description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1530308375p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1530308375p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>10651532</ratings_count>
+<text_reviews_count>377123</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>2792775</id>
+  <uri>kca://work/amzn1.gr.work.v1.qDM8aVuWTQKRymQBUS02og</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Feb 20 16:15:23 -0800 2012</date_added>
+  <date_updated>Mon Feb 20 16:15:31 -0800 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/281105423]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/281105423]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>207901299</id>
+    <book>
+  <id type="integer">11165674</id>
+  <isbn>1847679277</isbn>
+  <isbn13>9781847679277</isbn13>
+  <text_reviews_count type="integer">122</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.bt7QwAMTQ5b1o68bnpjQUg</uri>
+  <title>An Idiot Abroad: The Travel Diaries of Karl Pilkington</title>
+  <title_without_series>An Idiot Abroad: The Travel Diaries of Karl Pilkington</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328707870l/11165674._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328707870l/11165674._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11165674-an-idiot-abroad</link>
+  <num_pages>225</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Canongate UK</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>8488</ratings_count>
+  <description>&lt;b&gt;The companion guide to the hysterical television show of the same name, in which Ricky Gervais and Stephen Merchant force their arrestingly simple pal Karl Pilkington on a global journey&lt;/b&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;&lt;i&gt;"He'd have been happier in medieval times in a village where you didn't travel beyond the local community."  —Stephen Merchant&lt;/i&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;A cult celebrity due to his role in &lt;i&gt;The Ricky Gervais Show&lt;/i&gt;, the most-downloaded podcast ever, Karl Pilkington has been accused of being a comic creation, so unburdened is he by complex thought—but that is truly just him. The trio's newest project mines Karl massive provinciality: put simply, Karl is not big on traveling. Given the choice, he'll go on vacation to Devon or Wales or, if pushed, eat English food on a package tour of the Mediterranean. So what happened when he was convinced by Gervais and Merchant to go on an epic adventure to see the Seven Wonders of the World? Does travel truly broaden the mind? Find out in Karl Pilkington's hilarious travel diaries.</description>
+<authors>
+<author>
+<id>21077</id>
+<name>Karl Pilkington</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1303744286p5/21077.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1303744286p2/21077.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/21077.Karl_Pilkington]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>22988</ratings_count>
+<text_reviews_count>1540</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>13597098</id>
+  <uri>kca://work/amzn1.gr.work.v1.S6VkPmkC6tDff6EjhVuuLg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Sep 13 02:06:48 -0700 2011</started_at>
+  <read_at>Mon Feb 24 13:04:11 -0800 2014</read_at>
+  <date_added>Tue Sep 13 02:06:48 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 13:04:11 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/207901299]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/207901299]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>192059501</id>
+    <book>
+  <id type="integer">9419</id>
+  <isbn>0440241898</isbn>
+  <isbn13>9780440241898</isbn13>
+  <text_reviews_count type="integer">2063</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4i5IByehrfBal1ejxTqQww</uri>
+  <title>Shopaholic Ties the Knot (Shopaholic, #3)</title>
+  <title_without_series>Shopaholic Ties the Knot</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371383294l/9419._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1371383294l/9419._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9419.Shopaholic_Ties_the_Knot</link>
+  <num_pages>407</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Dell Publishing Company</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.77</average_rating>
+  <ratings_count>100752</ratings_count>
+  <description>Life has been good for Becky Bloomwood: She’s become the best personal shopper at Barneys, she and her successful entrepreneurial boyfriend, Luke, are living happily in Manhattan’s West Village, and her new next-door neighbor is a fashion designer! But with her best friend, Suze, engaged, how can Becky fail to notice that her own ring finger is bare? Not that she’s been thinking of marriage (or diamonds) or anything . . . Then Luke proposes! Bridal registries dance in Becky’s head. Problem is, two other people are planning her wedding: Becky’s overjoyed mother has been waiting forever to host a backyard wedding, with the bride resplendent in Mum’s frilly old gown. While Luke’s high-society mother is insisting on a glamorous, all-expenses-paid affair at the Plaza. Both weddings for the same day. And Becky can’t seem to turn down either one. Can everyone’s favorite shopaholic tie the knot before everything unravels?</description>
+<authors>
+<author>
+<id>6160</id>
+<name>Sophie Kinsella</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245821549p5/6160.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245821549p2/6160.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6160.Sophie_Kinsella]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>2540175</ratings_count>
+<text_reviews_count>106369</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>2992357</id>
+  <uri>kca://work/amzn1.gr.work.v1.aW60gkltU_W2Du9rK6jWqw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jul 30 00:39:29 -0700 2011</date_added>
+  <date_updated>Sat Jul 30 00:39:29 -0700 2011</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/192059501]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/192059501]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>192059320</id>
+    <book>
+  <id type="integer">5599033</id>
+  <isbn>0007274068</isbn>
+  <isbn13>9780007274062</isbn13>
+  <text_reviews_count type="integer">216</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.igHTZhenYa-7n00UTWS9NQ</uri>
+  <title>Cry Silent Tears: The Horrific True Story of the Mute Little Boy in the Cellar</title>
+  <title_without_series>Cry Silent Tears: The Horrific True Story of the Mute Little Boy in the Cellar</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327113278l/5599033._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327113278l/5599033._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5599033-cry-silent-tears</link>
+  <num_pages>304</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper Element</publisher>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4.18</average_rating>
+  <ratings_count>3647</ratings_count>
+  <description>Joe knew his mother was cruel and violent, but he trusted his beloved father to protect him from her. When a freak accident saw his father burn to death in front of him, Joe was left at the mercy of his mother. Without the love of his friend and brother, he wouldn't have survived. With them, he went on to spend his life fighting child abuse. &lt;br /&gt;&lt;br /&gt;Joe was just five years old and the horrific scene literally struck him dumb. He didn't speak for four and a half years, which meant he was unable to ask anyone for help as his life turned into a living hell. His schizophrenic mother and two of his older brothers spent the following years beating him, raping him and locking him in the cellar at the family home. &lt;br /&gt;&lt;br /&gt;Fed on scraps that he was forced to lick from the floor, he was sometimes left naked in the dark for three days without human contact. Unable to read or write, all Joe could do to communicate his suffering was draw pictures. The violence and sexual abuse grew in severity as more people, including his stepfather, were invited to use him in any way they chose. &lt;br /&gt;&lt;br /&gt;The only thing that saved Joe was the kindness of his elder brother and his only school friend, both of whom showed him that love was possible even in the darkest of situations. At fourteen he finally found the courage to run away, hiding in a hut by a railway line, fed on scraps by some local children who found him. &lt;br /&gt;&lt;br /&gt;Joe's is the ultimate insider's story, casting light into the darkest of hidden worlds, and a truly inspirational account of how one small boy found the strength to overcome almost impossible odds and become a remarkable man. Now that he has found his voice again, Joe speaks out against child abuse and helps support and protect other children whose lives have been blighted by it.</description>
+<authors>
+<author>
+<id>1217490</id>
+<name>Joe Peters</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1217490.Joe_Peters]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>3963</ratings_count>
+<text_reviews_count>268</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>5770385</id>
+  <uri>kca://work/amzn1.gr.work.v1.o1dVnRPYwmKyX-GzfxEilg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jul 30 00:37:58 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 13:01:08 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/192059320]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/192059320]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>185847447</id>
+    <book>
+  <id type="integer">6006518</id>
+  <isbn>1595142517</isbn>
+  <isbn13>9781595142511</isbn13>
+  <text_reviews_count type="integer">2009</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Dyeijd6gpPFbDPa5JP3YKg</uri>
+  <title>Strange Angels (Strange Angels, #1)</title>
+  <title_without_series>Strange Angels</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331244487l/6006518._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331244487l/6006518._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6006518-strange-angels</link>
+  <num_pages>293</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Razorbill</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>38018</ratings_count>
+  <description>In &lt;i&gt;Strange Angels&lt;/i&gt;, Dru Anderson has what her grandmother called “the touch.” (Comes in handy when you’re traveling from town to town with your dad, hunting ghosts, suckers, wulfen, and the occasional zombie.) Then her dad turns up dead—but still walking—and Dru knows she’s next. Even worse, she’s got two guys hungry for her affections, and they’re not about to let the fiercely independent Dru go it alone. Will Dru discover just how special she really is before coming face-to-fang with whatever—or &lt;i&gt;whoever&lt;/i&gt;— is hunting her?&lt;br /&gt;&lt;br /&gt;</description>
+<authors>
+<author>
+<id>3408349</id>
+<name>Lili St. Crow</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1320999953p5/3408349.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1320999953p2/3408349.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3408349.Lili_St_Crow]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>126832</ratings_count>
+<text_reviews_count>6046</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>6181610</id>
+  <uri>kca://work/amzn1.gr.work.v1.hy_lsM0QBBaTBf8-BIjToA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jul 17 15:33:23 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 13:01:26 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/185847447]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/185847447]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>183091009</id>
+    <book>
+  <id type="integer">186521</id>
+  <isbn>0141023570</isbn>
+  <isbn13>9780141023571</isbn13>
+  <text_reviews_count type="integer">445</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ywAoj6_Yhoe6XZSVpsC_cg</uri>
+  <title>Of Mice and Men</title>
+  <title_without_series>Of Mice and Men</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516742630l/186521._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516742630l/186521._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/186521.Of_Mice_and_Men</link>
+  <num_pages>121</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.86</average_rating>
+  <ratings_count>1774707</ratings_count>
+  <description>Streetwise George and his big, childlike friend Lennie are drifters, searching for work in the fields and valleys of California. They have nothing except the clothes on their back, and a hope that one day they’ll find a place of their own and live the American dream. But dreams come at a price. Gentle giant Lennie doesn’t know his own strength, and when they find work at a ranch he gets into trouble with the boss’s daughter-in-law. Trouble so bad that even his protector George may not be able to save him…</description>
+<authors>
+<author>
+<id>585</id>
+<name>John Steinbeck</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1182118389p5/585.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1182118389p2/585.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/585.John_Steinbeck]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>3444647</ratings_count>
+<text_reviews_count>96056</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>40283</id>
+  <uri>kca://work/amzn1.gr.work.v1.eBaTt5IH0gu2aaYbJLCgog</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jul 08 09:35:15 -0700 2011</date_added>
+  <date_updated>Mon Jun 09 13:10:15 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/183091009]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/183091009]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>183090746</id>
+    <book>
+  <id type="integer">13023</id>
+  <isbn>0517223627</isbn>
+  <isbn13>9780517223628</isbn13>
+  <text_reviews_count type="integer">5134</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.stq0PnOGM4a9c8lvZrS50g</uri>
+  <title>Alice in Wonderland</title>
+  <title_without_series>Alice in Wonderland</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13023.Alice_in_Wonderland</link>
+  <num_pages>92</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Gramercy Books</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>359924</ratings_count>
+  <description>&lt;strong&gt;
+  &lt;i&gt;This is an adaptation. For the editions of the original book, see &lt;a href="https://www.goodreads.com/book/show/6324090-alice-s-adventures-in-wonderland" rel="nofollow"&gt;here&lt;/a&gt;&lt;/i&gt;
+&lt;/strong&gt;.&lt;br /&gt;&lt;br /&gt;Alice's Adventures in Wonderland (commonly shortened to Alice in Wonderland) is an 1865 novel written by English mathematician Charles Lutwidge Dodgson under the pseudonym Lewis Carroll. It tells of a girl named Alice falling through a rabbit hole into a fantasy world populated by peculiar, anthropomorphic creatures. The tale plays with logic, giving the story lasting popularity with adults as well as with children. It is considered to be one of the best examples of the literary nonsense genre. Its narrative course and structure, characters and imagery have been enormously influential in both popular culture and literature, especially in the fantasy genre.</description>
+<authors>
+<author>
+<id>34933</id>
+<name>Jane Carruth</name>
+<role>Adapted By</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/34933.Jane_Carruth]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>361256</ratings_count>
+<text_reviews_count>5249</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>2933712</id>
+  <uri>kca://work/amzn1.gr.work.v1.aEAtT81ZtHTMmzoYw0OELQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jul 08 09:34:19 -0700 2011</date_added>
+  <date_updated>Fri Jul 08 09:34:29 -0700 2011</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/183090746]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/183090746]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>183089284</id>
+    <book>
+  <id type="integer">392786</id>
+  <isbn>0413650103</isbn>
+  <isbn13>9780413650108</isbn13>
+  <text_reviews_count type="integer">93</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UcB26IkH2iB7bhbEVZyV4Q</uri>
+  <title>Adrian Mole: The Wilderness Years (Adrian Mole, #4)</title>
+  <title_without_series>Adrian Mole: The Wilderness Years</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314914870l/392786._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1314914870l/392786._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/392786.Adrian_Mole</link>
+  <num_pages>182</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Methuen Publishing Company</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>1993</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>5556</ratings_count>
+  <description>Adrian Mole has at last reached physical maturity, but he can't help roaming the pages of his diary like an untamed adolescent. Finally given the heave-ho by Pandora, he seeks solace in the arms of Bianca, a qualified hydraulic engineer masquerading as a waitress. Between his dishwashing job and completing his epic novel, 'Lo! The Flat Hills of My Homeland', Adrian hopes that fame and fortune will not keep him waiting much longer.</description>
+<authors>
+<author>
+<id>28707</id>
+<name>Sue Townsend</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399722415p5/28707.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399722415p2/28707.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/28707.Sue_Townsend]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>107444</ratings_count>
+<text_reviews_count>5608</text_reviews_count>
+</author>
+</authors>
+  <published>1993</published>
+<work>  <id>2997464</id>
+  <uri>kca://work/amzn1.gr.work.v1.B8hj5TCMPGsagnzc_O5b-w</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jul 08 09:29:12 -0700 2011</date_added>
+  <date_updated>Fri Jul 08 09:29:20 -0700 2011</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/183089284]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/183089284]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>183089056</id>
+    <book>
+  <id type="integer">51069</id>
+  <isbn>0060533986</isbn>
+  <isbn13>9780060533984</isbn13>
+  <text_reviews_count type="integer">196</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.q-fvBxgTrsaQctLbVar6oA</uri>
+  <title>The Growing Pains of Adrian Mole (Adrian Mole #2)</title>
+  <title_without_series>The Growing Pains of Adrian Mole</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1301643288l/51069._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1301643288l/51069._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/51069.The_Growing_Pains_of_Adrian_Mole</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperTeen</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>12523</ratings_count>
+  <description>At sixteen, Adrian Mole's life continues to be nothing but a set of tragic circumstances: His tempestuous relationship with an alluring schoolmate tortures him, while his intellectualism continues to be ignored by the British press. Despite it all he remains as agonizingly funny as ever in this, the second of his diaries.</description>
+<authors>
+<author>
+<id>28707</id>
+<name>Sue Townsend</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399722415p5/28707.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399722415p2/28707.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/28707.Sue_Townsend]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>107444</ratings_count>
+<text_reviews_count>5608</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>49844</id>
+  <uri>kca://work/amzn1.gr.work.v1.x1W40lH5JgqcKaM_jE3yJg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jul 08 09:28:26 -0700 2011</date_added>
+  <date_updated>Fri Jul 08 09:28:31 -0700 2011</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/183089056]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/183089056]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>183088923</id>
+    <book>
+  <id type="integer">51070</id>
+  <isbn>0060533994</isbn>
+  <isbn13>9780060533991</isbn13>
+  <text_reviews_count type="integer">1021</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.IPj2L102S45SkHui2L29lw</uri>
+  <title>The Secret Diary of Adrian Mole, Aged 13 3/4  (Adrian Mole, #1)</title>
+  <title_without_series>The Secret Diary of Adrian Mole, Aged 13 3/4</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1285269220l/51070._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1285269220l/51070._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/51070.The_Secret_Diary_of_Adrian_Mole_Aged_13_3_4</link>
+  <num_pages>272</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperTeen</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>38771</ratings_count>
+  <description>Adrian Mole's first love, Pandora, has left him; a neighbor, Mr. Lucas, appears to be seducing his mother (and what does that mean for his father?); the BBC refuses to publish his poetry; and his dog swallowed the tree off the Christmas cake. "Why" indeed.</description>
+<authors>
+<author>
+<id>28707</id>
+<name>Sue Townsend</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399722415p5/28707.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399722415p2/28707.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/28707.Sue_Townsend]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>107444</ratings_count>
+<text_reviews_count>5608</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>2866062</id>
+  <uri>kca://work/amzn1.gr.work.v1.Ob-8ut7ADxE0qCE-NA5Tqg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jul 08 09:28:01 -0700 2011</date_added>
+  <date_updated>Fri Jul 08 09:28:08 -0700 2011</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/183088923]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/183088923]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>183088724</id>
+    <book>
+  <id type="integer">7613</id>
+  <isbn>0452284244</isbn>
+  <isbn13>9780452284241</isbn13>
+  <text_reviews_count type="integer">29490</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._W5xqHHsgJCKA7skF45m8A</uri>
+  <title>Animal Farm</title>
+  <title_without_series>Animal Farm</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424037542l/7613._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424037542l/7613._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7613.Animal_Farm</link>
+  <num_pages>122</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>NAL</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>2435598</ratings_count>
+  <description>George Orwell's timeless and timely allegorical novel—a scathing satire on a downtrodden society’s blind march towards totalitarianism.&lt;br /&gt;&lt;br /&gt;“All animals are equal, but some animals are more equal than others.”&lt;br /&gt;&lt;br /&gt;A farm is taken over by its overworked, mistreated animals. With flaming idealism and stirring slogans, they set out to create a paradise of progress, justice, and equality. Thus the stage is set for one of the most telling satiric fables ever penned—a razor-edged fairy tale for grown-ups that records the evolution from revolution against tyranny to a totalitarianism just as terrible. &lt;br /&gt; &lt;br /&gt;When Animal Farm was first published, Stalinist Russia was seen as its target. Today it is devastatingly clear that wherever and whenever freedom is attacked, under whatever banner, the cutting clarity and savage comedy of George Orwell’s masterpiece have a meaning and message still ferociously fresh.</description>
+<authors>
+<author>
+<id>3706</id>
+<name>George Orwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p5/3706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p2/3706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>5518191</ratings_count>
+<text_reviews_count>125128</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>2207778</id>
+  <uri>kca://work/amzn1.gr.work.v1.V_MbIpN8vLdVjldwRz26LA</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jul 08 09:27:21 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 12:58:29 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/183088724]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/183088724]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>183088210</id>
+    <book>
+  <id type="integer">2641461</id>
+  <isbn>0854768599</isbn>
+  <isbn13>9780854768592</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.AyK6bdSl1FA1dhD6glgsOg</uri>
+  <title>The Shock of Your Life</title>
+  <title_without_series>The Shock of Your Life</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2641461-the-shock-of-your-life</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>137</ratings_count>
+  <description>Dan, Becky and Emma have one thing in common... they just died. Were they ready? The Shock of Your Life grapples with life's biggest question-What happens when we die?</description>
+<authors>
+<author>
+<id>560425</id>
+<name>Adrian Holloway</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/560425.Adrian_Holloway]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>224</ratings_count>
+<text_reviews_count>21</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>2666197</id>
+  <uri>kca://work/amzn1.gr.work.v1.Wru_JzDa2RfaDoNFtNMgBQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jul 08 09:25:34 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 12:58:49 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/183088210]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/183088210]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>183084073</id>
+    <book>
+  <id type="integer">2</id>
+  <isbn>0439358078</isbn>
+  <isbn13>9780439358071</isbn13>
+  <text_reviews_count type="integer">28427</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.uGB1cTbG_Dm5BpjL_i7pqw</uri>
+  <title>Harry Potter and the Order of the Phoenix (Harry Potter, #5)</title>
+  <title_without_series>Harry Potter and the Order of the Phoenix</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546910265l/2._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546910265l/2._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix</link>
+  <num_pages>870</num_pages>
+  <format>Paperback</format>
+  <edition_information>US Edition</edition_information>
+  <publisher>Scholastic Inc.</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.49</average_rating>
+  <ratings_count>2226598</ratings_count>
+  <description>There is a door at the end of a silent corridor. And it’s haunting Harry Pottter’s dreams. Why else would he be waking in the middle of the night, screaming in terror?&lt;br /&gt;&lt;br /&gt;Harry has a lot on his mind for this, his fifth year at Hogwarts: a Defense Against the Dark Arts teacher with a personality like poisoned honey; a big surprise on the Gryffindor Quidditch team; and the looming terror of the Ordinary Wizarding Level exams. But all these things pale next to the growing threat of He-Who-Must-Not-Be-Named---a threat that neither the magical government nor the authorities at Hogwarts can stop.&lt;br /&gt;&lt;br /&gt;As the grasp of darkness tightens, Harry must discover the true depth and strength of his friends, the importance of boundless loyalty, and the shocking price of unbearable sacrifice.&lt;br /&gt;&lt;br /&gt;His fate depends on them all.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936489</ratings_count>
+<text_reviews_count>550492</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>2809203</id>
+  <uri>kca://work/amzn1.gr.work.v1.QBlq2dw4tPMZSuXhlMeXww</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jul 08 09:10:03 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 12:59:16 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/183084073]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/183084073]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>183083947</id>
+    <book>
+  <id type="integer">1</id>
+  <isbn>0439785960</isbn>
+  <isbn13>9780439785969</isbn13>
+  <text_reviews_count type="integer">26868</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.L9KPn9NQyHxsNneS-mDWAg</uri>
+  <title>Harry Potter and the Half-Blood Prince (Harry Potter, #6)</title>
+  <title_without_series>Harry Potter and the Half-Blood Prince</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039191l/1._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039191l/1._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince</link>
+  <num_pages>652</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic Inc.</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.56</average_rating>
+  <ratings_count>2172048</ratings_count>
+  <description>When Harry Potter and the Half-Blood Prince opens, the war against Voldemort has begun. The Wizarding world has split down the middle, and as the casualties mount, the effects even spill over onto the Muggles. Dumbledore is away from Hogwarts for long periods, and the Order of the Phoenix has suffered grievous losses. And yet, as in all wars, life goes on.&lt;br /&gt;&lt;br /&gt;Harry, Ron, and Hermione, having passed their O.W.L. level exams, start on their specialist N.E.W.T. courses. Sixth-year students learn to Apparate, losing a few eyebrows in the process. Teenagers flirt and fight and fall in love. Harry becomes captain of the Gryffindor Quidditch team, while Draco Malfoy pursues his own dark ends. And classes are as fascinating and confounding as ever, as Harry receives some extraordinary help in Potions from the mysterious Half-Blood Prince.&lt;br /&gt;&lt;br /&gt;Most importantly, Dumbledore and Harry work together to uncover the full and complex story of a boy once named Tom Riddle—the boy who became Lord Voldemort. Like Harry, he was the son of one Muggle-born and one Wizarding parent, raised unloved, and a speaker of Parseltongue. But the similarities end there, as the teenaged Riddle became deeply interested in the Dark objects known as Horcruxes: objects in which a wizard can hide part of his soul, if he dares splinter that soul through murder.&lt;br /&gt;&lt;br /&gt;Harry must use all the tools at his disposal to draw a final secret out of one of Riddle’s teachers, the sly Potions professor Horace Slughorn. Finally Harry and Dumbledore hold the key to the Dark Lord’s weaknesses... until a shocking reversal exposes Dumbledore’s own vulnerabilities, and casts Harry’s—and Hogwarts’s—future in shadow.&lt;br /&gt;&lt;br /&gt;Source: &lt;a target="_blank" href="http://harrypotter.scholastic.com" rel="nofollow"&gt;http://harrypotter.scholastic.com&lt;/a&gt;</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936489</ratings_count>
+<text_reviews_count>550492</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>41335427</id>
+  <uri>kca://work/amzn1.gr.work.v1.txipecnIYua0HbI4GhIAkA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jul 08 09:09:25 -0700 2011</date_added>
+  <date_updated>Tue Apr 29 04:42:21 -0700 2014</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/183083947]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/183083947]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>183083838</id>
+    <book>
+  <id type="integer">6</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">30565</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Qtinlqa0DGyf_iLtfFVrCQ</uri>
+  <title>Harry Potter and the Goblet of Fire (Harry Potter, #4)</title>
+  <title_without_series>Harry Potter and the Goblet of Fire</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554006152l/6._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554006152l/6._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire</link>
+  <num_pages>734</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Scholastic Trade Paperback Edition</edition_information>
+  <publisher>Scholastic</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.55</average_rating>
+  <ratings_count>2281783</ratings_count>
+  <description>Harry Potter is midway through his training as a wizard and his coming of age. Harry wants to get away from the pernicious Dursleys and go to the International Quidditch Cup. He wants to find out about the mysterious event that's supposed to take place at Hogwarts this year, an event involving two other rival schools of magic, and a competition that hasn't happened for a hundred years. He wants to be a normal, fourteen-year-old wizard. But unfortunately for Harry Potter, he's not normal - even by wizarding standards. And in his case, different can be deadly. --back cover</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936489</ratings_count>
+<text_reviews_count>550492</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>3046572</id>
+  <uri>kca://work/amzn1.gr.work.v1.USb5ObBtcLXUuC3i9aoelA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jul 08 09:09:01 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 13:00:24 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/183083838]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/183083838]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>183083235</id>
+    <book>
+  <id type="integer">1271905</id>
+  <isbn>1842911767</isbn>
+  <isbn13>9781842911761</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tv8hkdIPf-VngEesrJ17NQ</uri>
+  <title>Aftershock</title>
+  <title_without_series>Aftershock</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1271905.Aftershock</link>
+  <num_pages>214</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Kingsway Publications</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>82</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>560425</id>
+<name>Adrian Holloway</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/560425.Adrian_Holloway]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>224</ratings_count>
+<text_reviews_count>21</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>1260854</id>
+  <uri>kca://work/amzn1.gr.work.v1.gsJEaAzfj5e56UM-gx1cqg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jul 02 00:00:00 -0700 2011</read_at>
+  <date_added>Fri Jul 08 09:06:51 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 12:56:51 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Hard to follow in some parts, but very gripping.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/183083235]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/183083235]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>180563968</id>
+    <book>
+  <id type="integer">1812457</id>
+  <isbn>0964729237</isbn>
+  <isbn13>9780964729230</isbn13>
+  <text_reviews_count type="integer">29029</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.p8ucpZt2GCI-ZkMGjshvvg</uri>
+  <title>The Shack</title>
+  <title_without_series>The Shack</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344270232l/1812457._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344270232l/1812457._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1812457.The_Shack</link>
+  <num_pages>252</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Windblown Media</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.76</average_rating>
+  <ratings_count>498192</ratings_count>
+  <description>Mackenzie Allen Philips' youngest daughter, Missy, has been abducted during a family vacation, and evidence that she may have been brutally murdered is found in an abandoned shack deep in the Oregon wilderness. Four years later in the midst of his &lt;i&gt;"Great Sadness,"&lt;/i&gt; Mack receives a suspicious note, apparently from God, inviting him back to that shack for a weekend.&lt;br /&gt;&lt;br /&gt;Against his better judgment he arrives at the shack on a wintry afternoon and walks back into his darkest nightmare. What he finds there will change Mack's world forever.&lt;br /&gt;&lt;br /&gt;In a world where religion seems to grow increasingly irrelevant &lt;i&gt;The Shack&lt;/i&gt; wrestles with the timeless question, "Where is God in a world so filled with unspeakable pain?" The answers Mack gets will astound you and perhaps transform you as much as it did him. You'll want everyone you know to read this book!&lt;br /&gt;&lt;br /&gt;&lt;i&gt;* book description from the back cover&lt;/i&gt;</description>
+<authors>
+<author>
+<id>15481463</id>
+<name>William Paul Young</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1485366482p5/15481463.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1485366482p2/15481463.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15481463.William_Paul_Young]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>515544</ratings_count>
+<text_reviews_count>34361</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2666268</id>
+  <uri>kca://work/amzn1.gr.work.v1.zcJ9pgf16wwJi6H5A9A5Xw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue Jul 05 00:00:00 -0700 2011</read_at>
+  <date_added>Wed Jun 29 08:24:13 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 12:56:41 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/180563968]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/180563968]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>180562787</id>
+    <book>
+  <id type="integer">2326730</id>
+  <isbn>1904233880</isbn>
+  <isbn13>9781904233886</isbn13>
+  <text_reviews_count type="integer">254</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._4ZypDssqwGDFXx0La4Xjg</uri>
+  <title>New Moon (Twilight, #2)</title>
+  <title_without_series>New Moon</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327248369l/2326730._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327248369l/2326730._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2326730.New_Moon</link>
+  <num_pages>563</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Atom</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.53</average_rating>
+  <ratings_count>1325624</ratings_count>
+  <description>For Bella Swan, there is one thing more important than life itself: Edward Cullen. But being in love with a vampire is even more dangerous than Bella could ever have imagined. Edward has already rescued Bella from the clutches of one evil vampire, but now, as their daring relationship threatens all that is near and dear to them, they realize their troubles may be just beginning...</description>
+<authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>9910344</ratings_count>
+<text_reviews_count>308745</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>3203964</id>
+  <uri>kca://work/amzn1.gr.work.v1.1fzgJvmQrkvntdirmyYMoA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 29 08:19:11 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 13:00:50 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/180562787]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/180562787]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>180562783</id>
+    <book>
+  <id type="integer">2650712</id>
+  <isbn>1904233910</isbn>
+  <isbn13>9781904233916</isbn13>
+  <text_reviews_count type="integer">212</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.3n4Fmco1_bmy2Ps0lRB7FA</uri>
+  <title>Eclipse (Twilight, #3)</title>
+  <title_without_series>Eclipse</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394296634l/2650712._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394296634l/2650712._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2650712-eclipse</link>
+  <num_pages>628</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Atom</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.69</average_rating>
+  <ratings_count>1297916</ratings_count>
+  <description>'Bella?' Edward's soft voice came from behind me. I turned to see him spring lightly up the porch steps, his hair windblown from running. He pulled me into his arms at once, and kissed me again. His kiss frightened me. There was too much tension, too strong an edge to the way his lips crushed mine - like he was afraid we had only so much time left to us. As Seattle is ravaged by a string of mysterious killings and a malicious vampire continues her quest for revenge, Bella once again finds herself...</description>
+<authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>9910344</ratings_count>
+<text_reviews_count>308745</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>2675454</id>
+  <uri>kca://work/amzn1.gr.work.v1.IwzpEvvlhAc8tuScGbwg8g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 29 08:19:11 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 12:58:58 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/180562783]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/180562783]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>180562784</id>
+    <book>
+  <id type="integer">871224</id>
+  <isbn>1904233651</isbn>
+  <isbn13>9781904233657</isbn13>
+  <text_reviews_count type="integer">363</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.-cpJpu7RdYuzdMZ4TUdi8w</uri>
+  <title>Twilight (Twilight, #1)</title>
+  <title_without_series>Twilight</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327156103l/871224._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327156103l/871224._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/871224.Twilight</link>
+  <num_pages>434</num_pages>
+  <format>Paperback</format>
+  <edition_information>UK Edition, Reprint</edition_information>
+  <publisher>Atom</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.59</average_rating>
+  <ratings_count>4533400</ratings_count>
+  <description>When Isabella Swan moves to the gloomy town of Forks and meets the mysterious, alluring Edward Cullen, her life takes a thrilling and terrifying turn. With his porcelain skin, golden eyes, mesmerizing voice, and supernatural gifts, Edward is both irresistible and impenetrable. Up until now, he has managed to keep his true identity hidden, but Bella is determined to uncover his dark secret. &lt;br /&gt;&lt;br /&gt;What Bella doesn't realize is that the closer she gets to him, the more she is putting herself and those around her at risk. And it might be too late to turn back ...&lt;br /&gt;--back cover</description>
+<authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>9910344</ratings_count>
+<text_reviews_count>308745</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>3212258</id>
+  <uri>kca://work/amzn1.gr.work.v1.f8lFp92oAIBHtSmSo4txRg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 29 08:19:11 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 13:00:59 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/180562784]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/180562784]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>180562779</id>
+    <book>
+  <id type="integer">3018469</id>
+  <isbn>1905654286</isbn>
+  <isbn13>9781905654284</isbn13>
+  <text_reviews_count type="integer">176</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.SgMEKtlwXf32pkQdkfXY4g</uri>
+  <title>Breaking Dawn (Twilight, #4)</title>
+  <title_without_series>Breaking Dawn</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327880066l/3018469._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327880066l/3018469._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3018469-breaking-dawn</link>
+  <num_pages>768</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>ATOM</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.69</average_rating>
+  <ratings_count>1208572</ratings_count>
+  <description>To be irrevocably in love with a vampire is both fantasy and nightmare woven into a dangerously heightened reality for Bella Swan. Pulled in one direction by her intense passion for Edward Cullen, and in another by her profound connection to werewolf Jacob Black, she has endured a tumultuous year of temptation, loss and strife to reach the ultimate turning point. Her imminent choice to either join the dark but seductive world of immortals or pursue a fully human life has become the thread from which the fate of two tribes hangs. Now that Bella has made her decision, a startling chain of unprecedented events is about to unfold with potentially devastating and unfathomable consequences. Just when the frayed strands of Bella's life - first discovered in TWILIGHT, then scattered and torn in NEW MOON and ECLIPSE - seem ready to heal and knit together, could they be destroyed...forever?</description>
+<authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>9910344</ratings_count>
+<text_reviews_count>308745</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>2960529</id>
+  <uri>kca://work/amzn1.gr.work.v1.xP6iGogq7HD98dx88kJDog</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 29 08:19:09 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 12:59:37 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/180562779]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/180562779]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>180562777</id>
+    <book>
+  <id type="integer">464164</id>
+  <isbn>0747546290</isbn>
+  <isbn13>9780747546290</isbn13>
+  <text_reviews_count type="integer">1458</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.sYThoDaKhnFMaeBQAbbMWA</uri>
+  <title>Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)</title>
+  <title_without_series>Harry Potter and the Prisoner of Azkaban</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562747693l/464164._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562747693l/464164._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/464164.Harry_Potter_and_the_Prisoner_of_Azkaban</link>
+  <num_pages>317</num_pages>
+  <format>Paperback</format>
+  <edition_information>UK Edition</edition_information>
+  <publisher>Bloomsbury Publishing</publisher>
+  <publication_day/>
+  <publication_year>1999</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.56</average_rating>
+  <ratings_count>2438512</ratings_count>
+  <description>Harry Potter, along with his best friends, Ron and Hermione, is about to start his third year at Hogwarts School of Witchcraft and Wizardry. Harry can't wait to get back to school after the summer holidays. (Who wouldn't if they lived with the horrible Dursleys?) But when Harry gets to Hogwarts, the atmosphere is tense. There's an escaped mass murderer on the loose, and the sinister prison guards of Azkaban have been called in to guard the school...&lt;br /&gt;&lt;br /&gt;</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936489</ratings_count>
+<text_reviews_count>550492</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>2402163</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZkLfli5sQE5ax3qSa7235Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 29 08:19:09 -0700 2011</date_added>
+  <date_updated>Sun Aug 07 10:56:17 -0700 2011</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/180562777]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/180562777]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>180562780</id>
+    <book>
+  <id type="integer">224912</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1351</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.vkgYmK5sGqFQFpXYuc-DdA</uri>
+  <title>Harry Potter and the Chamber of Secrets (Harry Potter, #2)</title>
+  <title_without_series>Harry Potter and the Chamber of Secrets</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553352368l/224912._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553352368l/224912._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/224912.Harry_Potter_and_the_Chamber_of_Secrets</link>
+  <num_pages>251</num_pages>
+  <format>Paperback</format>
+  <edition_information>UK Edition</edition_information>
+  <publisher>Bloomsbury Publishing</publisher>
+  <publication_day/>
+  <publication_year>1998</publication_year>
+  <publication_month/>
+  <average_rating>4.41</average_rating>
+  <ratings_count>2395458</ratings_count>
+  <description>Alternate Cover Edition ISBN 0747538484 (ISBN13: 9780747538486)&lt;br /&gt;&lt;br /&gt;Harry Potter is a wizard. He is in his second year at Hogwarts School of Witchcraft and Wizardry. Little does he know that this year will be just as eventful as the last...&lt;br /&gt;(back cover)</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936489</ratings_count>
+<text_reviews_count>550492</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+<work>  <id>6231171</id>
+  <uri>kca://work/amzn1.gr.work.v1.PjwTgn-_w5b0mY40RgNxdw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 29 08:19:09 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 13:01:37 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/180562780]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/180562780]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>180562767</id>
+    <book>
+  <id type="integer">2352137</id>
+  <isbn>0747595836</isbn>
+  <isbn13>9780747595830</isbn13>
+  <text_reviews_count type="integer">142</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.IIVqGH5Z30FOBcgh6cTkLQ</uri>
+  <title>Harry Potter and the Deathly Hallows (Harry Potter, #7)</title>
+  <title_without_series>Harry Potter and the Deathly Hallows</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327930977l/2352137._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327930977l/2352137._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2352137.Harry_Potter_and_the_Deathly_Hallows</link>
+  <num_pages>608</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bloomsbury</publisher>
+  <publication_day/>
+  <publication_year>2008</publication_year>
+  <publication_month/>
+  <average_rating>4.61</average_rating>
+  <ratings_count>2529706</ratings_count>
+  <description>As he climbs into the sidecar of Hagrid’s motorbike and takes to the skies, leaving Privet Drive for the last time, Harry Potter knows that Lord Voldemort and the Death Eaters are not far behind. The protective charm that has kept Harry safe until now is broken, but he cannot keep hiding. The Dark Lord is breathing fear into everything Harry loves, and to stop him Harry will have to find and destroy the remaining Horcruxes. The final battle must begin – Harry must stand and face his enemy ...&lt;br /&gt;--harrypotter.bloomsbury.com</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936489</ratings_count>
+<text_reviews_count>550492</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>2963218</id>
+  <uri>kca://work/amzn1.gr.work.v1.Adr1zpcHTPWrbOovOdZhlA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="18553187" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 29 08:19:06 -0700 2011</date_added>
+  <date_updated>Mon Feb 24 13:00:11 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/180562767]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/180562767]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

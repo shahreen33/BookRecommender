@@ -1,0 +1,2 @@
+LSP: The Liskov Substitution Principle by Robert C. Martin
+Average Rating: 4.50

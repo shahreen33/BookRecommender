@@ -1,0 +1,1010 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='181881383' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="13" total="13">
+    <review>
+  <id>2999562776</id>
+    <book>
+  <id type="integer">41829525</id>
+  <isbn>1946101796</isbn>
+  <isbn13>9781946101792</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.nv7HGnAAxiyB_VtTQc3j_Q</uri>
+  <title>Witches' Quarters</title>
+  <title_without_series>Witches' Quarters</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536938380l/41829525._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536938380l/41829525._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41829525-witches-quarters</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Clear Fork Publishing</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.50</average_rating>
+  <ratings_count>22</ratings_count>
+  <description>Charlotte's parents are fighting again. As the oldest of four children, Charlotte needs something to distract her three siblings. June, the youngest, takes a quarter from a bag and drops it in a tree-shaped coin bank. But these are no ordinary quarters. The kids are transported to a new world - one that resembles the scene on the back of the coin.&lt;br /&gt;&lt;br /&gt;That world is Nova, and Nova is at war. The four siblings are now thrust into the middle of this war between the witches and the animal warriors. A raccoon named Ringo offers a way home – but the kids must first fight alongside the animals. Younger sister Ava wants to fight. Charlotte doesn’t trust the warriors and wants to look for her own way out. &lt;br /&gt;&lt;br /&gt;Charlotte and Ava become separated when they each follow their instincts. On their own, each girl discovers mysteries about Nova that place their family in peril. Now Charlotte and Ava have to find one another again – a task wrought with danger and deception – before it’s too late.</description>
+<authors>
+<author>
+<id>18418341</id>
+<name>Laura M. Snider</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540970618p5/18418341.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540970618p2/18418341.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18418341.Laura_M_Snider]]></link>
+<average_rating>4.50</average_rating>
+<ratings_count>22</ratings_count>
+<text_reviews_count>12</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>65288942</id>
+  <uri>kca://work/amzn1.gr.work.v1.2brmJUIegCisNNJs8432Lw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="181881383" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Oct 03 05:14:44 -0700 2019</started_at>
+  <read_at>Sat Nov 09 08:06:10 -0800 2019</read_at>
+  <date_added>Thu Oct 03 05:14:43 -0700 2019</date_added>
+  <date_updated>Sat Nov 09 08:06:10 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This was a thoroughly enjoyable read for me and I hope Laura can turn this into a series, somehow.<br /><br />Siblings Charlotte, Ava, Nolan, and June exist under consistently unpredictable circumstances. They have a violent father who takes his anger out on their detached mother, June lives with...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2999562776]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2999562776]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2830111251</id>
+    <book>
+  <id type="integer">42851437</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.0B47JsTBuzTYMkGMKNTHig</uri>
+  <title>Tar</title>
+  <title_without_series>Tar</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542470387l/42851437._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1542470387l/42851437._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/42851437-tar</link>
+  <num_pages></num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.38</average_rating>
+  <ratings_count>13</ratings_count>
+  <description>Brendan Cobb calls it tar, but there might be as many names for it as cities left standing.&lt;br /&gt;&lt;br /&gt;To some, it’s known as filth, or blight. Others call it the Black God in reverential whispers. Whatever name it takes, the effects are the same. Cities left in ruins. People turned into monsters. Living infections with no known cure. The best anyone can do is avoid it, but even that gets harder the more it spreads.&lt;br /&gt;&lt;br /&gt;Brendan survives this waking nightmare by trading salvage for shelter and for repairs to his cybernetic arm, until a newcomer arrives, convinced Brendan is the key to ridding the world of tar once and for all. Reluctantly, Brendan and his mechanic join the newcomer on a journey across the desolate highways of a ruined world, where he learns the true history of the tar…and of the dark power inside him, which grows stronger every day.</description>
+<authors>
+<author>
+<id>7136484</id>
+<name>Taylor Hohulin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1528032008p5/7136484.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1528032008p2/7136484.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7136484.Taylor_Hohulin]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>98</ratings_count>
+<text_reviews_count>46</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>66620097</id>
+  <uri>kca://work/amzn1.gr.work.v1.9WsqjgW456mhSmOUuzsT4w</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="181881383" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed May 22 07:17:56 -0700 2019</date_added>
+  <date_updated>Wed May 22 07:31:13 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[From the beginning of the novel, I was hooked.<br /><br />TAR is an enthralling story about, essentially, a young man being forced into a road trip with his best friend and a wizard with a shotgun to save the world. But Brendan Cobb isn't sure he's the man for the job. Along the way, the group en...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2830111251]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2830111251]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2808122306</id>
+    <book>
+  <id type="integer">43850895</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.NchLFsd4JDm5tseTQWgq7A</uri>
+  <title>He Was A Boy Who Smiled: Book One: Phoenix Rising</title>
+  <title_without_series>He Was A Boy Who Smiled: Book One: Phoenix Rising</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/43850895-he-was-a-boy-who-smiled</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>5.00</average_rating>
+  <ratings_count>8</ratings_count>
+  <description>If he was a phoenix rising, then what brought him to his ashes?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;He was a child of the 80’s, born in Phoenix, Arizona. He had young parents, barely into adulthood: a father who was always chasing after his hopes and dreams and a mother who loved her husband irrevocably. The only thing Michael had to worry about was starting Kindergarten and learning how to read so he could read his comics to his infant brother and crazy cat. Everything seemed idyllic.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Then things started going incredibly wrong. His mother announced she quit her job. His father, struggling to carry the responsibility of working extra hours and how own mental illness, began to drink more, becoming increasingly bitter.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;After coming home from school one day, Michael witnessed a violent push that would change his world completely. His father decided the only way things would get better is if they moved to Michigan and started fresh. But things only went from bad to worse.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This is a story about a boy who learnt at an early age that he had to take care of his mother and fight to bring happiness to his family. Armed with his cat, his feisty grandma and his imagination, Michael learnt what it meant to grow up and still be a boy who smiled despite the world giving him reasons not to.</description>
+<authors>
+<author>
+<id>18642639</id>
+<name>Michael Stoneburner</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18642639.Michael_Stoneburner]]></link>
+<average_rating>5.00</average_rating>
+<ratings_count>14</ratings_count>
+<text_reviews_count>10</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>66714422</id>
+  <uri>kca://work/amzn1.gr.work.v1.6NTpwt0RJoEty_Xa_eqJlQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="181881383" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri May 03 11:51:49 -0700 2019</started_at>
+  <read_at>Tue May 07 13:40:28 -0700 2019</read_at>
+  <date_added>Fri May 03 11:51:49 -0700 2019</date_added>
+  <date_updated>Tue May 07 06:19:19 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<strong>Heartbreak and Hope</strong><br /><br />As told from the memories of a young boy, He Was a Boy Who Smiled: Phoenix Rising is filled with the joy, hope, love, and fear that only a child carries. We follow Michael through the first few years of drastic changes in his world, including his home, his relationships, a...</strong>]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2808122306]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2808122306]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2575939749</id>
+    <book>
+  <id type="integer">34334392</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._WYsjgz_XM4N6860Nt2lTQ</uri>
+  <title>Polaroid</title>
+  <title_without_series>Polaroid</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487437596l/34334392._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487437596l/34334392._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34334392-polaroid</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.50</average_rating>
+  <ratings_count>6</ratings_count>
+  <description>There's a Polaroid of my wife at this garage sale. She's sitting in the living room of our house, reading. Looks like some creep snapped it from the bushes across the street a few months back.&lt;br /&gt;&lt;br /&gt;The weird part is Lisa's been missing for a year.</description>
+<authors>
+<author>
+<id>7136484</id>
+<name>Taylor Hohulin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1528032008p5/7136484.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1528032008p2/7136484.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7136484.Taylor_Hohulin]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>98</ratings_count>
+<text_reviews_count>46</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>45070229</id>
+  <uri>kca://work/amzn1.gr.work.v1.yEASpJP5QyUdLSDASG6ylQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="181881383" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Oct 28 08:29:03 -0700 2018</started_at>
+  <read_at>Sun Oct 28 08:49:19 -0700 2018</read_at>
+  <date_added>Sun Oct 28 08:29:03 -0700 2018</date_added>
+  <date_updated>Sun Oct 28 08:49:19 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<strong>Spooky!</strong><br /><br />I was expecting a psychological thriller with the protagonist losing his mind but I loved the twist! Of course I want to know more, would love to read what happens to the protagonist now, what horrors await them all...Great short story!]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2575939749]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2575939749]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2571749416</id>
+    <book>
+  <id type="integer">42379718</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.CySEgvhpDOEL5ErwDr51Aw</uri>
+  <title>Chills Down Your Spine: A Scary Halloween Anthology by NeoLeaf Press</title>
+  <title_without_series>Chills Down Your Spine: A Scary Halloween Anthology by NeoLeaf Press</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/42379718-chills-down-your-spine</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.50</average_rating>
+  <ratings_count>2</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>17860440</id>
+<name>NeoLeaf Press</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17860440.NeoLeaf_Press]]></link>
+<average_rating>3.60</average_rating>
+<ratings_count>5</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>66043586</id>
+  <uri>kca://work/amzn1.gr.work.v1.cs6dL_UjRokiHxooSTMAFQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="181881383" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Oct 23 21:45:16 -0700 2018</started_at>
+  <read_at>Mon May 06 09:55:32 -0700 2019</read_at>
+  <date_added>Tue Oct 23 21:45:16 -0700 2018</date_added>
+  <date_updated>Mon May 06 09:55:32 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[There are some amazingly creative and creepy stories in this anthology. There are varying degrees of fright, from the macabre to the sweet and everything in between.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2571749416]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2571749416]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2476556900</id>
+    <book>
+  <id type="integer">20622633</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Q2bh4zB4vIxFTeCMF5V8aw</uri>
+  <title>The Guild (The Guild, #3)</title>
+  <title_without_series>The Guild</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432050932l/20622633._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432050932l/20622633._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20622633-the-guild</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>107</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>3440476</id>
+<name>Felicia Day</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1437521951p5/3440476.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1437521951p2/3440476.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3440476.Felicia_Day]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>49577</ratings_count>
+<text_reviews_count>6252</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>55766728</id>
+  <uri>kca://work/amzn1.gr.work.v1.vTtuEoFVH-hhnTSVD18HtQ</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="181881383" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jul 30 22:21:41 -0700 2018</date_added>
+  <date_updated>Mon Jul 30 22:21:42 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2476556900]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2476556900]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2387223039</id>
+    <book>
+  <id type="integer">2726761</id>
+  <isbn>0199535523</isbn>
+  <isbn13>9780199535521</isbn13>
+  <text_reviews_count type="integer">42</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.RIB8LbZujBva-3sPkvCfsQ</uri>
+  <title>Emma</title>
+  <title_without_series>Emma</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2726761-emma</link>
+  <num_pages>402</num_pages>
+  <format>Paperback</format>
+  <edition_information>Oxford World's Classics</edition_information>
+  <publisher>Oxford University Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>582839</ratings_count>
+  <description>'&lt;i&gt;I wonder what will become of her!&lt;/i&gt;'&lt;br /&gt;So speculate the friends and neighbours of Emma Woodhouse, the lovely, lively, wilful,and fallible heroine of Jane Austen's fourth published novel. Confident that she knows best, Emma schemes to find a suitable husband for her pliant friend Harriet, only to discover that she understands the feelings of others as little as she does her own heart. As Emma puzzles and blunders her way through the mysteries of her social world, Austen evokes for her readers a cast of unforgettable characters and a detailed portrait of a small town undergoing historical transition. &lt;br /&gt; Written with matchless wit and irony, judged by many to be her finest novel, Emma has been adapted many times for film and television. This new edition shows how Austen brilliantly turns the everyday into the exceptional.</description>
+<authors>
+<author>
+<id>1265</id>
+<name>Jane Austen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1380085320p5/1265.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1380085320p2/1265.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1265.Jane_Austen]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>5475317</ratings_count>
+<text_reviews_count>151375</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>3360164</id>
+  <uri>kca://work/amzn1.gr.work.v1.c4uYaKUyM94oIBy8bkW2TA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="181881383" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed May 09 21:15:49 -0700 2018</started_at>
+  <read_at>Wed May 09 21:15:51 -0700 2018</read_at>
+  <date_added>Wed May 09 21:15:48 -0700 2018</date_added>
+  <date_updated>Wed May 09 21:16:43 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2387223039]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2387223039]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2387221989</id>
+    <book>
+  <id type="integer">32326144</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.1nTUKp2CiGCJsgzVvqI_LA</uri>
+  <title>The Cloud (The Marian, #3)</title>
+  <title_without_series>The Cloud</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475339824l/32326144._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475339824l/32326144._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32326144-the-cloud</link>
+  <num_pages>265</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.88</average_rating>
+  <ratings_count>8</ratings_count>
+  <description>When the bomb dropped, everything changed.&lt;br /&gt;&lt;br /&gt;Even worse than the mountains of salt where oceans used to be, worse than the armies of mercenaries, worse than HydroSystems Worldwide’s rise to power, was the Cloud.&lt;br /&gt;&lt;br /&gt;In the area closest to the bomb’s blast, the very fabric of reality was damaged. The air there can steal a person’s humanity, even as it gives great power. The Cloud is home to a deadly cult and nightmarish creatures, and it is fifteen-year-old Ethan Denby’s only hope of survival. If he ever wants to make it home, he’ll have to go where he always knew his journey would end. He will have to go into the heart of the Cloud.&lt;br /&gt;&lt;br /&gt;The Cloud is a post apocalyptic pirate adventure, equal parts Mad Max and Pirates of the Caribbean. It is the last book of The Marian Trilogy.</description>
+<authors>
+<author>
+<id>7136484</id>
+<name>Taylor Hohulin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1528032008p5/7136484.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1528032008p2/7136484.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7136484.Taylor_Hohulin]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>98</ratings_count>
+<text_reviews_count>46</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>52959766</id>
+  <uri>kca://work/amzn1.gr.work.v1.XYpaFAq_OB_JGVyAA7KQZg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="181881383" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jun 10 20:39:47 -0700 2018</started_at>
+  <read_at>Fri Jun 15 05:04:26 -0700 2018</read_at>
+  <date_added>Wed May 09 21:14:05 -0700 2018</date_added>
+  <date_updated>Fri Jun 22 08:38:45 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<strong>Brilliant</strong><br /><br />Loved this trilogy, loved these characters! The world Taylor built is bleak but fascinating. I want to read more-about Ethan’s life in his time, about the crew of the Marian before they joined Duncan, and their lives after the end of The Cloud. The mechanisms and weapons and tools were v...</strong>]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2387221989]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2387221989]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2387221953</id>
+    <book>
+  <id type="integer">26032220</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.3I7X8TuS2eim-ivXhoIvQQ</uri>
+  <title>The Hunted (The Marian #2)</title>
+  <title_without_series>The Hunted</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438632295l/26032220._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438632295l/26032220._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26032220-the-hunted</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.60</average_rating>
+  <ratings_count>10</ratings_count>
+  <description>Book two in The Marian Trilogy&lt;br /&gt;&lt;br /&gt;&lt;b&gt;In the distant future, water is more valuable than gold, and the very fabric of reality has been damaged.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;This bleak world is foreign to fifteen-year-old Ethan Denby. He isn’t from this time, and even his body belongs to someone else.&lt;br /&gt;&lt;br /&gt;In a desperate attempt to return home, Ethan has killed a high-ranking government official. With blood on his hands and a bounty on his head, Ethan finds himself the target of an army of mercenaries, all bearing the same strange mark. As he flees, Ethan turns to the only source of hope he has left, but will the dark power it contains consume him and his companions before they can find the answers they need?&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Hunted&lt;/i&gt; is a wild post-apocalyptic adventure, equal parts Dark Tower and Pirates of the Caribbean. It is the second book in The Marian Trilogy.</description>
+<authors>
+<author>
+<id>7136484</id>
+<name>Taylor Hohulin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1528032008p5/7136484.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1528032008p2/7136484.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7136484.Taylor_Hohulin]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>98</ratings_count>
+<text_reviews_count>46</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>45958579</id>
+  <uri>kca://work/amzn1.gr.work.v1.91M-9bc7yCxwaIog6iAfjA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="181881383" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed May 16 05:51:52 -0700 2018</started_at>
+  <read_at>Fri Jun 08 16:18:48 -0700 2018</read_at>
+  <date_added>Wed May 09 21:14:01 -0700 2018</date_added>
+  <date_updated>Fri Jun 08 16:18:48 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Exciting, action-packed and fairly emotional read! I liked "The Marian" but "The Hunted" is even better! Great character development - you really care about them, are devastated when they're hurting - and the storyline really picked up. Can't wait to read "The Cloud"! Great job, Taylor!]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2387221953]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2387221953]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2387208198</id>
+    <book>
+  <id type="integer">23782010</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.iyuCfWQhN2nMM-L3lRm0Ag</uri>
+  <title>The Marian (The Marian #1)</title>
+  <title_without_series>The Marian</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23782010-the-marian</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.88</average_rating>
+  <ratings_count>24</ratings_count>
+  <description>Fifteen-year-old Ethan Denby doesn’t know how he got on the Marian. He just woke up one day inside the body of its captain.&lt;br /&gt;&lt;br /&gt;The Marian is unlike any ship Ethan has ever seen. It crawls on long, metal legs over dunes of salt in search of water, despite laws granting exclusive harvesting rights to a corrupt organization known as HydroSystems Worldwide.&lt;br /&gt;&lt;br /&gt;HydroSystems is closing in, tensions are mounting aboard the Marian, and on top of all that, Ethan is beginning to think the dreams he's been having aren't completely harmless. If he doesn’t get home soon, Ethan could die inside someone else’s body in this wasteland of a world. The only way back seems to be through the Cloud, but how can he convince the crew to take him there when it means confronting a dangerous cult and venturing into a place where the very fabric of reality has worn thin?</description>
+<authors>
+<author>
+<id>7136484</id>
+<name>Taylor Hohulin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1528032008p5/7136484.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1528032008p2/7136484.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7136484.Taylor_Hohulin]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>98</ratings_count>
+<text_reviews_count>46</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>42440329</id>
+  <uri>kca://work/amzn1.gr.work.v1.JYZRbVjWDOk2l5uJhHvUdQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="181881383" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed May 09 20:52:49 -0700 2018</started_at>
+  <read_at>Mon May 14 06:26:21 -0700 2018</read_at>
+  <date_added>Wed May 09 20:52:49 -0700 2018</date_added>
+  <date_updated>Mon May 14 06:26:21 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This was a great read and I'm so glad I got the next two books already! The characters were really well written, their personalities evident in their dialogue and movements. The action was just the right pace, not too frenetic, there wasn't too much jammed into each chapter. The post-apocalyptic...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2387208198]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2387208198]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1631738268</id>
+    <book>
+  <id type="integer">7613</id>
+  <isbn>0452284244</isbn>
+  <isbn13>9780452284241</isbn13>
+  <text_reviews_count type="integer">29489</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._W5xqHHsgJCKA7skF45m8A</uri>
+  <title>Animal Farm</title>
+  <title_without_series>Animal Farm</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424037542l/7613._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424037542l/7613._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7613.Animal_Farm</link>
+  <num_pages>122</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>NAL</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>2435611</ratings_count>
+  <description>George Orwell's timeless and timely allegorical novel—a scathing satire on a downtrodden society’s blind march towards totalitarianism.&lt;br /&gt;&lt;br /&gt;“All animals are equal, but some animals are more equal than others.”&lt;br /&gt;&lt;br /&gt;A farm is taken over by its overworked, mistreated animals. With flaming idealism and stirring slogans, they set out to create a paradise of progress, justice, and equality. Thus the stage is set for one of the most telling satiric fables ever penned—a razor-edged fairy tale for grown-ups that records the evolution from revolution against tyranny to a totalitarianism just as terrible. &lt;br /&gt; &lt;br /&gt;When Animal Farm was first published, Stalinist Russia was seen as its target. Today it is devastatingly clear that wherever and whenever freedom is attacked, under whatever banner, the cutting clarity and savage comedy of George Orwell’s masterpiece have a meaning and message still ferociously fresh.</description>
+<authors>
+<author>
+<id>3706</id>
+<name>George Orwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p5/3706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p2/3706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>5518223</ratings_count>
+<text_reviews_count>125128</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>2207778</id>
+  <uri>kca://work/amzn1.gr.work.v1.V_MbIpN8vLdVjldwRz26LA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="181881383" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat May 07 13:53:35 -0700 2016</date_added>
+  <date_updated>Sat May 07 13:53:40 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1631738268]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1631738268]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1631738079</id>
+    <book>
+  <id type="integer">48855</id>
+  <isbn>0553296981</isbn>
+  <isbn13>9780553296983</isbn13>
+  <text_reviews_count type="integer">20740</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.NpJw6QbRgLr9alsXArRByw</uri>
+  <title>The Diary of a Young Girl</title>
+  <title_without_series>The Diary of a Young Girl</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560816565l/48855._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560816565l/48855._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl</link>
+  <num_pages>283</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>US / CAN Edition</edition_information>
+  <publisher>Bantam</publisher>
+  <publication_day/>
+  <publication_year>1993</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>2479592</ratings_count>
+  <description>Discovered in the attic in which she spent the last years of her life, Anne Frank’s remarkable diary has become a world classic—a powerful reminder of the horrors of war and an eloquent testament to the human spirit. &lt;br /&gt;&lt;br /&gt;In 1942, with the Nazis occupying Holland, a thirteen-year-old Jewish girl and her family fled their home in Amsterdam and went into hiding. For the next two years, until their whereabouts were betrayed to the Gestapo, the Franks and another family lived cloistered in the “Secret Annexe” of an old office building. Cut off from the outside world, they faced hunger, boredom, the constant cruelties of living in confined quarters, and the ever-present threat of discovery and death. In her diary Anne Frank recorded vivid impressions of her experiences during this period. By turns thoughtful, moving, and surprisingly humorous, her account offers a fascinating commentary on human courage and frailty and a compelling self-portrait of a sensitive and spirited young woman whose promise was tragically cut short.&lt;br /&gt;--back cover</description>
+<authors>
+<author>
+<id>3720</id>
+<name>Anne Frank</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1343271406p5/3720.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1343271406p2/3720.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3720.Anne_Frank]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>2524379</ratings_count>
+<text_reviews_count>27304</text_reviews_count>
+</author>
+</authors>
+  <published>1993</published>
+<work>  <id>3532896</id>
+  <uri>kca://work/amzn1.gr.work.v1.Hn8z2cQc--WW1zAa5fCZ8Q</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="181881383" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat May 07 13:53:18 -0700 2016</date_added>
+  <date_updated>Sat May 07 13:53:28 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1631738079]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1631738079]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1631737494</id>
+    <book>
+  <id type="integer">3</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">72243</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tJT_00n8UPpvWa-zWHEAXg</uri>
+  <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone</link>
+  <num_pages>322</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Inc</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>6201097</ratings_count>
+  <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936870</ratings_count>
+<text_reviews_count>550498</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>4640799</id>
+  <uri>kca://work/amzn1.gr.work.v1.TbpxJa2CwiSSz_9W2FruoA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="181881383" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat May 07 13:52:36 -0700 2016</date_added>
+  <date_updated>Sat May 07 13:52:43 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1631737494]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1631737494]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

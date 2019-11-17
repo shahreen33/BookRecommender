@@ -1,0 +1,2 @@
+DIP: The Dependency Inversion Principle by Robert C. Martin
+Average Rating: 4.00

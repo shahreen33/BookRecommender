@@ -1,0 +1,2 @@
+Inversion of Control Containers and the Dependency Injection pattern by Martin Fowler
+Average Rating: 4.60

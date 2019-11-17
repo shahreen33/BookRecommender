@@ -1,0 +1,3724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='120871861' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="48" total="48">
+    <review>
+  <id>3024012690</id>
+    <book>
+  <id type="integer">45274026</id>
+  <isbn>1529005590</isbn>
+  <isbn13>9781529005592</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ZjhvLDeS_Ddmeg_7T2n8HQ</uri>
+  <title>Counting on Katherine: How Katherine Johnson Put Astronauts on the Moon</title>
+  <title_without_series>Counting on Katherine: How Katherine Johnson Put Astronauts on the Moon</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/45274026-counting-on-katherine</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.46</average_rating>
+  <ratings_count>637</ratings_count>
+  <description>&lt;p&gt;
+  &lt;b&gt;Meet the amazing woman who put astronauts on the moon! Katherine Johnson is the mathematical genius who not only helped make the historic moon landings possible, but also made sure that all the astronauts returned safely home when the mission was in critical danger. &lt;/b&gt;
+&lt;/p&gt;&lt;p&gt;As a child, Katherine loved to count. She counted the steps on the road, the number of dishes and spoons she washed in the kitchen sink, everything! Boundless, curious, and excited by calculations, young Katherine longed to know as much as she could about maths, about the universe . . .&lt;/p&gt;&lt;p&gt;From Katherine's early beginnings as a gifted student to her heroic accomplishments as a prominent mathematician at NASA, this is the true story of a groundbreaking African-American woman who went above and beyond what was expected of her in the 1960s, saving lives and making enormous contributions to history. Featuring Dow Phumiruk's gorgeous full-colour illustrations throughout, Helaine Becker's &lt;i&gt;Counting on Katherine: How Katherine Johnson Put Astronauts on the Moon&lt;/i&gt; is truly a gift to treasure.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>152889</id>
+<name>Helaine Becker</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1307806533p5/152889.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1307806533p2/152889.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/152889.Helaine_Becker]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>2439</ratings_count>
+<text_reviews_count>550</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>57295718</id>
+  <uri>kca://work/amzn1.gr.work.v1.8Tm9rrzotqADAxClCfJiaQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Oct 24 13:05:12 -0700 2019</started_at>
+  <read_at>Sun Nov 03 08:05:12 -0800 2019</read_at>
+  <date_added>Thu Oct 24 13:05:12 -0700 2019</date_added>
+  <date_updated>Sun Nov 03 08:05:12 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[A beautiful book for children about Katherine Johnson. It presents her biography is a beautiful and informative way for children. It is very easy to read, the language is easy to understand. I was impressed to see how the author actually explained a mathematical concept using very easy to underst...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3024012690]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3024012690]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2890406724</id>
+    <book>
+  <id type="integer">25953369</id>
+  <isbn>0062363603</isbn>
+  <isbn13>9780062363602</isbn13>
+  <text_reviews_count type="integer">5575</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.yGrvehl5WsppaCcxk9amnw</uri>
+  <title>Hidden Figures</title>
+  <title_without_series>Hidden Figures</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481844518l/25953369._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481844518l/25953369._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25953369-hidden-figures</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information>Movie tie-in Edition</edition_information>
+  <publisher>William Morrow Paperbacks</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>60856</ratings_count>
+  <description>The #1 New York Times Bestseller. Set amid the civil rights movement, the never-before-told true story of NASA’s African-American female mathematicians who played a crucial role in America’s space program. Before Neil Armstrong walked on the moon, a group of professionals worked as ‘Human Computers’, calculating the flight paths that would enable these historic achievements. Among these were a coterie of bright, talented African-American women. Segregated from their white counterparts, these ‘coloured computers’ used pencil and paper to write the equations that would launch rockets and astronauts, into space. Moving from World War II through NASA’s golden age, touching on the civil rights era, the Space Race, the Cold War and the women’s rights movement, ‘Hidden Figures’ interweaves a rich history of mankind’s greatest adventure with the intimate stories of five courageous women whose work forever changed the world.</description>
+<authors>
+<author>
+<id>14176929</id>
+<name>Margot Lee Shetterly</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14176929.Margot_Lee_Shetterly]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>76221</ratings_count>
+<text_reviews_count>9558</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>45855800</id>
+  <uri>kca://work/amzn1.gr.work.v1.7kkH2gRly1R336uTEavlMQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='256179258' name='women-in-mathematics' review_shelf_id='2537072233' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jul 10 05:12:09 -0700 2019</started_at>
+  <read_at>Sat Nov 09 10:25:16 -0800 2019</read_at>
+  <date_added>Wed Jul 10 05:12:08 -0700 2019</date_added>
+  <date_updated>Sat Nov 09 10:25:16 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I discovered this book after watching the movie, which is wonderful and I totally recommend you check it out. I was excited to find out more about Dorothy Vaughan, Mary Jackson, Katherine Johnson and the book offers even more examples of great women. <br /><br />The story is very powerful and I wanted to fin...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2890406724]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2890406724]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2829229560</id>
+    <book>
+  <id type="integer">41135759</id>
+  <isbn nil="true"/>
+  <isbn13>9781786894663</isbn13>
+  <text_reviews_count type="integer">64</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6_6ZgO0qozkxdKA7NNU5Tg</uri>
+  <title>The Humans</title>
+  <title_without_series>The Humans</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534177517l/41135759._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534177517l/41135759._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41135759-the-humans</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Canongate Books Ltd</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>44103</ratings_count>
+  <description>THERE'S NO PLACE LIKE HOME. OR IS THERE? After an 'incident' one wet Friday night where he is found walking naked through the streets of Cambridge, Professor Andrew Martin is not feeling quite himself. Food sickens him. Clothes confound him. Even his loving wife and teenage son are repulsive to him. He feels lost amongst an alien species and hates everyone on the planet. Everyone, that is, except Newton, and he's a dog. Who is he really? And what could make someone change their mind about the human race . . . ?</description>
+<authors>
+<author>
+<id>76360</id>
+<name>Matt Haig</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1296764418p5/76360.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1296764418p2/76360.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/76360.Matt_Haig]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>180710</ratings_count>
+<text_reviews_count>23497</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>21955852</id>
+  <uri>kca://work/amzn1.gr.work.v1.59oc6QPnxUWMxu2cI6F7yg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='292937855' name='favorites' review_shelf_id='2487769844' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue May 21 13:06:28 -0700 2019</started_at>
+  <read_at>Fri May 31 15:44:28 -0700 2019</read_at>
+  <date_added>Tue May 21 13:06:21 -0700 2019</date_added>
+  <date_updated>Fri May 31 11:49:42 -0700 2019</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[I have decided to read this book after a recommendation in our Book Club page (LThMath Book Club). I am a big fan of science-fiction and the premise of this book seemed interesting: an alien on Earth stoping some sort of scientific discovery. But, I didn't know this "scientific discovery" was act...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2829229560]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2829229560]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2782673469</id>
+    <book>
+  <id type="integer">25329850</id>
+  <isbn>0544668251</isbn>
+  <isbn13>9780544668256</isbn13>
+  <text_reviews_count type="integer">704</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.TLsLZT0dnkCtfpRGFLzaDQ</uri>
+  <title>Thing Explainer: Complicated Stuff in Simple Words</title>
+  <title_without_series>Thing Explainer: Complicated Stuff in Simple Words</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431518396l/25329850._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431518396l/25329850._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25329850-thing-explainer</link>
+  <num_pages>64</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Houghton Mifflin Harcourt</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>8137</ratings_count>
+  <description>In &lt;i&gt;Thing Explainer: Complicated Stuff in Simple Words&lt;/i&gt;, things are explained in the style of Up Goer Five, using only drawings and a vocabulary of the 1,000 (or "ten hundred") most common words. Explore computer buildings (datacenters), the flat rocks we live on (tectonic plates), the things you use to steer a plane (airliner cockpit controls), and the little bags of water you're made of (cells).</description>
+<authors>
+<author>
+<id>3089156</id>
+<name>Randall Munroe</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1406058780p5/3089156.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1406058780p2/3089156.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3089156.Randall_Munroe]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>131306</ratings_count>
+<text_reviews_count>9719</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>45065096</id>
+  <uri>kca://work/amzn1.gr.work.v1.sgvJfcqE6imZvKmIcO_p1w</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Apr 11 06:53:19 -0700 2019</started_at>
+  <read_at>Wed Jul 10 05:48:35 -0700 2019</read_at>
+  <date_added>Thu Apr 11 06:53:18 -0700 2019</date_added>
+  <date_updated>Wed Jul 10 05:11:15 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[An awesome non-fiction about science, engineering, history and more full of incredible illustrations. The idea intrigued me. Trying to explain a concept using only drawings and a vocabulary of just under 1, 000 of the most common words is very interesting. I never thought how many complex or comp...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2782673469]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2782673469]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2782663820</id>
+    <book>
+  <id type="integer">39230505</id>
+  <isbn>113856172X</isbn>
+  <isbn13>9781138561724</isbn13>
+  <text_reviews_count type="integer">16</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.mI0VaESRZYQvRyw3SUBNkA</uri>
+  <title>Understanding How We Learn: A Visual Guide</title>
+  <title_without_series>Understanding How We Learn: A Visual Guide</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533031746l/39230505._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533031746l/39230505._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/39230505-understanding-how-we-learn</link>
+  <num_pages>166</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Routledge</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.57</average_rating>
+  <ratings_count>84</ratings_count>
+  <description>Educational practice does not, for the most part, rely on research findings. Instead, there's a preference for relying on our intuitions about what's best for learning. But relying on intuition may be a bad idea for teachers and learners alike.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;This accessible guide helps teachers to integrate effective, research-backed strategies for learning into their classroom practice. The book explores exactly what constitutes good evidence for effective learning and teaching strategies, how to make evidence-based judgments instead of relying on intuition, and how to apply findings from cognitive psychology directly to the classroom.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Including real-life examples and case studies, FAQs, and a wealth of engaging illustrations to explain complex concepts and emphasize key points, the book is divided into four parts:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Evidence-based education and the science of learning Basics of human cognitive processes Strategies for effective learning Tips for students, teachers, and parents.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Written by "The Learning Scientists" and fully illustrated by Oliver Caviglioli, &lt;i&gt;Understanding How We Learn &lt;/i&gt;is a rejuvenating and fresh examination of cognitive psychology's application to education. This is an essential read for all teachers and educational practitioners, designed to convey the concepts of research to the reality of a teacher's classroom.</description>
+<authors>
+<author>
+<id>5999329</id>
+<name>Yana Weinstein</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5999329.Yana_Weinstein]]></link>
+<average_rating>4.57</average_rating>
+<ratings_count>84</ratings_count>
+<text_reviews_count>17</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>60807750</id>
+  <uri>kca://work/amzn1.gr.work.v1.xsXKz1yk8D8FWuuX4aJKLw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='292937855' name='favorites' review_shelf_id='2441266739' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Apr 11 06:41:28 -0700 2019</started_at>
+  <read_at>Mon Apr 22 13:18:32 -0700 2019</read_at>
+  <date_added>Thu Apr 11 06:41:28 -0700 2019</date_added>
+  <date_updated>Mon Apr 22 11:46:28 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Such a great book to find out more about how people learn in general. It covers a lot of interesting aspects that are explained using easy to understand vocabulary and great drawings (infographics and mind maps). <br /><br />If you are a teacher, this book is very good if you want to improve your teaching te...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2782663820]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2782663820]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2782663152</id>
+    <book>
+  <id type="integer">28186015</id>
+  <isbn>0553418815</isbn>
+  <isbn13>9780553418811</isbn13>
+  <text_reviews_count type="integer">1503</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.kR42Z-vGOGZfXkbj3jnZLw</uri>
+  <title>Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy</title>
+  <title_without_series>Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456091964l/28186015._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456091964l/28186015._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction</link>
+  <num_pages>259</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Crown</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>12186</ratings_count>
+  <description>&lt;b&gt;A former Wall Street quant sounds an alarm on mathematical modeling—a pervasive new force in society that threatens to undermine democracy and widen inequality.&lt;/b&gt;&lt;br /&gt;  &lt;br /&gt; We live in the age of the algorithm. Increasingly, the decisions that affect our lives—where we go to school, whether we get a car loan, how much we pay for health insurance—are being made not by humans, but by mathematical models. In theory, this should lead to greater fairness: Everyone is judged according to the same rules, and bias is eliminated. But as Cathy O’Neil reveals in this shocking book, the opposite is true. The models being used today are opaque, unregulated, and uncontestable, even when they’re wrong. Most troubling, they reinforce discrimination: If a poor student can’t get a loan because a lending model deems him too risky (by virtue of his race or neighborhood), he’s then cut off from the kind of education that could pull him out of poverty, and a vicious spiral ensues. Models are propping up the lucky and punishing the downtrodden, creating a “toxic cocktail for democracy.” Welcome to the dark side of Big Data.&lt;br /&gt;  &lt;br /&gt; Tracing the arc of a person’s life, from college to retirement, O’Neil exposes the black box models that shape our future, both as individuals and as a society. Models that score teachers and students, sort resumes, grant (or deny) loans, evaluate workers, target voters, set parole, and monitor our health—all have pernicious feedback loops. They don’t simply &lt;i&gt;describe&lt;/i&gt; reality, as proponents claim, they &lt;i&gt;change&lt;/i&gt; reality, by expanding or limiting the opportunities people have. O’Neil calls on modelers to take more responsibility for how their algorithms are being used. But in the end, it’s up to us to become more savvy about the models that govern our lives. This important book empowers us to ask the tough questions, uncover the truth, and demand change.</description>
+<authors>
+<author>
+<id>6928121</id>
+<name>Cathy O&apos;Neil</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1514301784p5/6928121.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1514301784p2/6928121.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6928121.Cathy_O_Neil]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>12803</ratings_count>
+<text_reviews_count>1816</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>48207762</id>
+  <uri>kca://work/amzn1.gr.work.v1.pgdFnJ2LUbWXtHYXaGup6w</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Apr 11 06:40:42 -0700 2019</started_at>
+  <read_at>Wed Jul 10 05:48:37 -0700 2019</read_at>
+  <date_added>Thu Apr 11 06:40:41 -0700 2019</date_added>
+  <date_updated>Wed Jul 10 03:50:41 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Even though it took me a very long time to read, I managed to finished this in time for the discussion in our Book club (<a href="https://www.goodreads.com/group/show/245895-lthmath-book-club" rel="nofollow">my link text</a>). In general I found the book interesting and I wholeheartedly recommend it to eve...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2782663152]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2782663152]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2782662987</id>
+    <book>
+  <id type="integer">28216828</id>
+  <isbn>383652984X</isbn>
+  <isbn13>9783836529846</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.rx3IS7Fuld8yFXaGsexh_A</uri>
+  <title>The Graphic Work</title>
+  <title_without_series>The Graphic Work</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564235921l/28216828._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564235921l/28216828._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28216828-the-graphic-work</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>60874</ratings_count>
+  <description>From impossible staircases to tesselated birds, explore the graphic genius of M.C. Escher, master of quirky vantage points, mathematical puzzles, and the transition from paper flatness to illusory volume. This essential introduction presents key Escher works, exploring the evolution of a unique pictorial style that has captivated scientists and hippies alike.</description>
+<authors>
+<author>
+<id>306401</id>
+<name>M.C. Escher</name>
+<role>Artist</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1229744189p5/306401.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1229744189p2/306401.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/306401.M_C_Escher]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>76348</ratings_count>
+<text_reviews_count>234</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>267933</id>
+  <uri>kca://work/amzn1.gr.work.v1.fcLAxIi0XRpcTt0EEeEeUw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Apr 11 06:40:29 -0700 2019</started_at>
+  <read_at>Sat Apr 27 13:58:34 -0700 2019</read_at>
+  <date_added>Thu Apr 11 06:40:29 -0700 2019</date_added>
+  <date_updated>Sat Apr 27 12:45:18 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This is a very interesting experience! It's not just a book, it is a story, it is an exhibition, it is an experience. <br /><br />It starts with a great introduction by Escher, that just made me want to read even more about his life and his beliefs. After, you go straight into the images and their descriptio...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2782662987]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2782662987]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2782662937</id>
+    <book>
+  <id type="integer">380756</id>
+  <isbn>0802714315</isbn>
+  <isbn13>9780802714312</isbn13>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.WjYL0BAkS_WHZZ6JTDNa-g</uri>
+  <title>Q.E.D.: Beauty in Mathematical Proof</title>
+  <title_without_series>Q.E.D.: Beauty in Mathematical Proof</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/380756.Q_E_D_</link>
+  <num_pages>58</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Bloomsbury USA</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>138</ratings_count>
+  <description>Q.E.D. presents some of the most famous mathematical proofs in a charming book that will appeal to nonmathematicians and math experts alike. Grasp in an instant why Pythagoras's theorem must be correct. Follow the ancient Chinese proof of the volume formula for the frustrating frustum, and Archimedes' method for finding the volume of a sphere. Discover the secrets of pi and why, contrary to popular belief, squaring the circle really is possible. Study the subtle art of mathematical domino tumbling, and find out how slicing cones helped save a city and put a man on the moon.</description>
+<authors>
+<author>
+<id>216896</id>
+<name>Burkard Polster</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1228029220p5/216896.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1228029220p2/216896.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/216896.Burkard_Polster]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>552</ratings_count>
+<text_reviews_count>45</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>370550</id>
+  <uri>kca://work/amzn1.gr.work.v1.zH6NfViOfAxc_WKp20Xk7g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Apr 11 06:40:26 -0700 2019</started_at>
+  <read_at>Sat Apr 13 03:49:21 -0700 2019</read_at>
+  <date_added>Thu Apr 11 06:40:25 -0700 2019</date_added>
+  <date_updated>Sat Apr 13 03:49:21 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[For such a short book (just 58 pages) I was impressed by the amount of information: great proofs, great connections between different topics, such as algebra and geometry, and great drawings (graphs, diagrams). The proofs were chosen really good; they are short enough, but very explicit. I was al...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2782662937]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2782662937]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2726881854</id>
+    <book>
+  <id type="integer">38741025</id>
+  <isbn>1786032597</isbn>
+  <isbn13>9781786032591</isbn13>
+  <text_reviews_count type="integer">32</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xOT0ZgJUdbElsmLDOUlnLg</uri>
+  <title>Ada Lovelace: My First Ada Lovelace</title>
+  <title_without_series>Ada Lovelace: My First Ada Lovelace</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521724486l/38741025._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521724486l/38741025._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38741025-ada-lovelace</link>
+  <num_pages>24</num_pages>
+  <format>Board Book</format>
+  <edition_information/>
+  <publisher>Frances Lincoln Children's Books</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>316</ratings_count>
+  <description>New, in the &lt;i&gt;My First Little People, Big Dreams series&lt;/i&gt;: Introduce your littlest one to the world’s first computer programmer, Ada Lovelace. &lt;br /&gt;&lt;br /&gt; Told in simple sentences, this young reader edition of the best-selling series is perfect to read out loud to little dreamers. This empowering series celebrates the important life stories of wonderful women of the world – and is now in available in a board format for little hands! These books make the lives of these role models accessible for the youngest children, providing a powerful message to inspire the next generation of outstanding people who will change the world!</description>
+<authors>
+<author>
+<id>14886582</id>
+<name>Mª Isabel Sánchez Vegara</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1518331707p5/14886582.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1518331707p2/14886582.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14886582.M_Isabel_S_nchez_Vegara]]></link>
+<average_rating>4.16</average_rating>
+<ratings_count>7060</ratings_count>
+<text_reviews_count>2253</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>57518210</id>
+  <uri>kca://work/amzn1.gr.work.v1._O5fA462YbtY-Hmm60iUHg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Feb 23 12:06:00 -0800 2019</started_at>
+  <read_at>Fri Apr 12 03:18:17 -0700 2019</read_at>
+  <date_added>Sat Feb 23 12:05:59 -0800 2019</date_added>
+  <date_updated>Fri Apr 12 03:18:17 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Such a sweet little book. I think it presents the story very well, giveing enought details through the short sentences and the drawings to captivate any child's attention. <br /><br />The whole idea is great and I hope more children are seeing this book. ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2726881854]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2726881854]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2652325331</id>
+    <book>
+  <id type="integer">186124</id>
+  <isbn>0809045990</isbn>
+  <isbn13>9780809045990</isbn13>
+  <text_reviews_count type="integer">141</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VGjoGMJ9FFAxT7fYClp4LQ</uri>
+  <title>Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street</title>
+  <title_without_series>Fortune's Formula: The Untold Story of the Scientific Betting System That Beat the Casinos and Wall Street</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/186124.Fortune_s_Formula</link>
+  <num_pages>400</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Hill and Wang</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.18</average_rating>
+  <ratings_count>2916</ratings_count>
+  <description>In 1956 two Bell Labs scientists discovered the scientific formula for getting rich. One was mathematician Claude Shannon, neurotic father of our digital age, whose genius is ranked with Einstein's. The other was John L. Kelly Jr., a Texas-born, gun-toting physicist. Together they applied the science of information theory—the basis of computers and the Internet—to the problem of making as much money as possible, as fast as possible.&lt;br /&gt;&lt;br /&gt;Shannon and MIT mathematician Edward O. Thorp took the "Kelly formula" to Las Vegas. It worked. They realized that there was even more money to be made in the stock market. Thorp used the Kelly system with his phenomenonally successful hedge fund, Princeton-Newport Partners. Shannon became a successful investor, too, topping even Warren Buffett's rate of return. &lt;i&gt;Fortune's Formula &lt;/i&gt;traces how the Kelly formula sparked controversy even as it made fortunes at racetracks, casinos, and trading desks. It reveals the dark side of this alluring scheme, which is founded on exploiting an insider's edge.&lt;br /&gt;&lt;br /&gt;Shannon believed it was possible for a smart investor to beat the market—and &lt;i&gt;Fortune's Formula &lt;/i&gt;will convince you that he was right.</description>
+<authors>
+<author>
+<id>16598</id>
+<name>William Poundstone</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1555527301p5/16598.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1555527301p2/16598.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16598.William_Poundstone]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>13923</ratings_count>
+<text_reviews_count>1297</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>1142998</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZNnZVPscVa9kfekbKJeLYg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jan 02 07:39:07 -0800 2019</started_at>
+  <read_at>Sun Jan 27 12:00:53 -0800 2019</read_at>
+  <date_added>Wed Jan 02 07:39:06 -0800 2019</date_added>
+  <date_updated>Sun Jan 27 12:00:53 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I wanted to read this book for a while and did have the patience to start it because I thought it will be complicated and hard to read. I was wrong!! It explains complicated mathematical and economic ideas simply. The language is not over the top, but easy to understand and the explanations and e...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2652325331]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2652325331]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2570284743</id>
+    <book>
+  <id type="integer">39313279</id>
+  <isbn>1786072645</isbn>
+  <isbn13>9781786072641</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xcRnrcWnuUnA1fR7l1tv1Q</uri>
+  <title>Weird Maths: At the Edge of Infinity and Beyond</title>
+  <title_without_series>Weird Maths: At the Edge of Infinity and Beyond</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/39313279-weird-maths</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.22</average_rating>
+  <ratings_count>41</ratings_count>
+  <description>Is anything truly random?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Does infinity actually exist?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Could we ever see into other dimensions?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;In this delightful journey of discovery, David Darling and extraordinary child prodigy Agnijo Banerjee draw connections between the cutting edge of modern maths and life as we understand it, delving into the strange – would we like alien music? – and venturing out on quests to consider the existence of free will and the fantastical future of quantum computers. Packed with puzzles and paradoxes, mind-bending concepts and surprising solutions, this is for anyone who wants life’s questions answered – even those you never thought to ask.</description>
+<authors>
+<author>
+<id>37621</id>
+<name>David Darling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1408362955p5/37621.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1408362955p2/37621.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/37621.David_Darling]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>698</ratings_count>
+<text_reviews_count>93</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>59968762</id>
+  <uri>kca://work/amzn1.gr.work.v1.395i4F-usIraFTDTZtfpPg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Oct 22 13:09:51 -0700 2018</started_at>
+  <read_at>Mon Dec 31 09:27:16 -0800 2018</read_at>
+  <date_added>Mon Oct 22 13:09:51 -0700 2018</date_added>
+  <date_updated>Mon Dec 31 09:27:16 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I have very mixed feelings about this book and it took me quite a while to finish it. I have found the book either very interesting or very boring. It was a strange combination of "OMG Sooo GOOOood!" and "Why am I reading this?". I don't really know why exactly why I have found it so inconsistent...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2570284743]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2570284743]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2565899057</id>
+    <book>
+  <id type="integer">7288227</id>
+  <isbn>0304322792</isbn>
+  <isbn13>9780304322794</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.bHB9eY0hyB1YNMjUeUMRCg</uri>
+  <title>Gender And Mathematics: An International Perspective</title>
+  <title_without_series>Gender And Mathematics: An International Perspective</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7288227-gender-and-mathematics</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>4</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>3182271</id>
+<name>Leone Burton</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3182271.Leone_Burton]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>9</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>8548953</id>
+  <uri>kca://work/amzn1.gr.work.v1.a3WohGngBgrH1tWon5BsWw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Oct 18 07:09:06 -0700 2018</started_at>
+  <read_at>Wed Nov 28 13:01:22 -0800 2018</read_at>
+  <date_added>Thu Oct 18 07:09:05 -0700 2018</date_added>
+  <date_updated>Wed Nov 28 13:01:22 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This is the first time I am reading a book like this. It is presented as a collection of papers, from the world of the International Organisation of Women and Mathematics Education. Just from this I was very interested in what the papers present. <br /><br />Being just a collection of research papers, it fee...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2565899057]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2565899057]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2544320377</id>
+    <book>
+  <id type="integer">38212157</id>
+  <isbn>039363499X</isbn>
+  <isbn13>9780393634990</isbn13>
+  <text_reviews_count type="integer">252</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7lqzKxkaTwlJjB6uvKX8gA</uri>
+  <title>Hello World: Being Human in the Age of Algorithms</title>
+  <title_without_series>Hello World: Being Human in the Age of Algorithms</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525784303l/38212157._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525784303l/38212157._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38212157-hello-world</link>
+  <num_pages>246</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>W. W. Norton Company</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>3400</ratings_count>
+  <description>A look inside the algorithms that are shaping our lives and the dilemmas they bring with them.&lt;br /&gt;&lt;br /&gt;If you were accused of a crime, who would you rather decide your sentence—a mathematically consistent algorithm incapable of empathy or a compassionate human judge prone to bias and error? What if you want to buy a driverless car and must choose between one programmed to save as many lives as possible and another that prioritizes the lives of its own passengers? And would you agree to share your family’s full medical history if you were told that it would help researchers find a cure for cancer?&lt;br /&gt;&lt;br /&gt;These are just some of the dilemmas that we are beginning to face as we approach the age of the algorithm, when it feels as if the machines reign supreme. Already, these lines of code are telling us what to watch, where to go, whom to date, and even whom to send to jail. But as we rely on algorithms to automate big, important decisions—in crime, justice, healthcare, transportation, and money—they raise questions about what we want our world to look like. What matters most: Helping doctors with diagnosis or preserving privacy? Protecting victims of crime or preventing innocent people being falsely accused?&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Hello World&lt;/em&gt; takes us on a tour through the good, the bad, and the downright ugly of the algorithms that surround us on a daily basis. Mathematician Hannah Fry reveals their inner workings, showing us how algorithms are written and implemented, and demonstrates the ways in which human bias can literally be written into the code. By weaving in relatable, real world stories with accessible explanations of the underlying mathematics that power algorithms, &lt;em&gt;Hello World&lt;/em&gt; helps us to determine their power, expose their limitations, and examine whether they really are improvement on the human systems they replace.</description>
+<authors>
+<author>
+<id>8365972</id>
+<name>Hannah Fry</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1448012148p5/8365972.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1448012148p2/8365972.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8365972.Hannah_Fry]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>5511</ratings_count>
+<text_reviews_count>710</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>59883978</id>
+  <uri>kca://work/amzn1.gr.work.v1.j8DPLzrOlIdM0qebyQAozg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jul 10 05:12:25 -0700 2019</started_at>
+  <read_at>Mon Oct 28 15:30:33 -0700 2019</read_at>
+  <date_added>Thu Sep 27 11:25:22 -0700 2018</date_added>
+  <date_updated>Mon Oct 28 14:29:22 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This was the book for our LThMath Book Club for June and July. It was a great read after <a href="https://www.goodreads.com/book/show/28186015.Weapons_of_Math_Destruction_How_Big_Data_Increases_Inequality_and_Threatens_Democracy" title="Weapons of Math Destruction How Big Data Increases Inequality and Threatens Democracy by Cathy O'Neil" rel="nofollow">Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy</a>. It is similar to it: it explains different mathematical models and algorithms that influence our society. It covers different aspe...</a>]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2544320377]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2544320377]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2544309322</id>
+    <book>
+  <id type="integer">36205393</id>
+  <isbn>0316509035</isbn>
+  <isbn13>9780316509039</isbn13>
+  <text_reviews_count type="integer">68</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.H5UkV22f9S9pzYmoVXK6CQ</uri>
+  <title>Math with Bad Drawings</title>
+  <title_without_series>Math with Bad Drawings</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528328702l/36205393._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528328702l/36205393._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/36205393-math-with-bad-drawings</link>
+  <num_pages>376</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Black Dog &amp; Leventhal</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.30</average_rating>
+  <ratings_count>442</ratings_count>
+  <description>&lt;b&gt;Smart, hilarious, and engaging, MATH WITH BAD DRAWINGS is a delightful &lt;i&gt;re&lt;/i&gt;-education in math that empowers readers with a joyful appreciation and powerful understanding of how math works in our daily lives.&lt;/b&gt; &lt;br /&gt; In&lt;i&gt; &lt;/i&gt;MATH WITH BAD DRAWINGS&lt;i&gt;,&lt;/i&gt; Ben Orlin answers math's three big questions: Why do I need to learn this? When am I ever going to use it? Why is it so hard? The answers come in various forms-cartoons, drawings, jokes, and the stories and insights of an empathetic teacher who believes that math should belong to everyone.&lt;br /&gt;&lt;br /&gt;Eschewing the tired old curriculum that begins in the wading pool of addition and subtraction and progresses to the shark infested waters of calculus (AKA the Great Weed Out Course), Orlin instead shows us how to think&lt;i&gt; &lt;/i&gt;like a mathematician by teaching us a new game of Tic-Tac-Toe, how to understand an economic crisis by rolling a pair of dice, and the mathematical reason why you should never buy a second lottery ticket. &lt;br /&gt; Every example in the book is illustrated with his trademark "bad drawings," which convey both his humor and his message with perfect pitch and clarity. Organized by unconventional but compelling topics such as "Statistics: The Fine Art of Honest Lying," "Design: The Geometry of Stuff That Works," and "Probability: The Mathematics of Maybe," MATH WITH BAD DRAWINGS is a perfect read for fans of illustrated popular science.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;</description>
+<authors>
+<author>
+<id>17149272</id>
+<name>Ben Orlin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1528328986p5/17149272.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1528328986p2/17149272.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17149272.Ben_Orlin]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>469</ratings_count>
+<text_reviews_count>87</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>57835859</id>
+  <uri>kca://work/amzn1.gr.work.v1.QCEA756UPzKywaAVOVl88g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jan 27 12:12:33 -0800 2019</started_at>
+  <read_at>Fri Apr 12 09:49:47 -0700 2019</read_at>
+  <date_added>Thu Sep 27 11:13:18 -0700 2018</date_added>
+  <date_updated>Fri Apr 12 03:30:30 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[It took me a little longer to finish this, but it was not the book's falt at all. The book is very easy to read, you can also read the sections in any order you like. From the first pages I found it quite funny and I never laughed so bad, while reading math books. The author has a great way of ma...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2544309322]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2544309322]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2413231281</id>
+    <book>
+  <id type="integer">6393242</id>
+  <isbn>1402757964</isbn>
+  <isbn13>9781402757969</isbn13>
+  <text_reviews_count type="integer">83</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.D6Kj7pIf2y0zpf7FvOT4JA</uri>
+  <title>The Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics</title>
+  <title_without_series>The Math Book: From Pythagoras to the 57th Dimension, 250 Milestones in the History of Mathematics</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328768386l/6393242._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328768386l/6393242._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6393242-the-math-book</link>
+  <num_pages>528</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Sterling</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>1824</ratings_count>
+  <description>Math’s infinite mysteries and beauty unfold in this follow-up to the best-selling &lt;i&gt;The Science Book&lt;/i&gt;. Beginning millions of years ago with ancient “ant odometers” and moving through time to our modern-day quest for new dimensions, it covers 250 milestones in mathematical history. Among the numerous delights readers will learn about as they dip into this inviting anthology: cicada-generated prime numbers, magic squares from centuries ago, the discovery of pi and calculus, and the butterfly effect. Each topic gets a lavishly illustrated spread with stunning color art, along with formulas and concepts, fascinating facts about scientists’ lives, and real-world applications of the theorems.</description>
+<authors>
+<author>
+<id>381</id>
+<name>Clifford A. Pickover</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1223588396p5/381.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1223588396p2/381.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/381.Clifford_A_Pickover]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>5398</ratings_count>
+<text_reviews_count>430</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>6581735</id>
+  <uri>kca://work/amzn1.gr.work.v1.QZD0o518QtE_zwPJJgLp2Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jun 04 11:57:26 -0700 2018</started_at>
+  <read_at>Tue Aug 14 10:37:28 -0700 2018</read_at>
+  <date_added>Mon Jun 04 11:57:25 -0700 2018</date_added>
+  <date_updated>Tue Aug 14 06:59:24 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[The author has set a big goal for this book: discussing different mathematical breakthroughs from B.C up to 2007. It is hard to briefly describe them and make it interesting for the general public, but the book is delivering it. <br /><br />It is very interesting how the author decided to attach an image to...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2413231281]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2413231281]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2328648219</id>
+    <book>
+  <id type="integer">17835351</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1093</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jqHNQ0-634v2AqCuVSCKKA</uri>
+  <title>Nikola Tesla: Imagination and the Man That Invented the 20th Century</title>
+  <title_without_series>Nikola Tesla: Imagination and the Man That Invented the 20th Century</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366561721l/17835351._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366561721l/17835351._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17835351-nikola-tesla</link>
+  <num_pages>46</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Oculus Publishers</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>22892</ratings_count>
+  <description>If you want to learn about one of history’s most fascinating minds and uncover some of his secrets of imagination—secrets that enabled him to invent machines light years ahead of his time and literally bring light to the world—then you want to read this book.&lt;br /&gt;&lt;br /&gt;Imagination amplifies and colors every other element of genius, and unlocks our potential for understanding and ability. &lt;br /&gt;&lt;br /&gt;It’s no coincidence that geniuses not only dare to dream of the impossible for their work, but do the same for their lives. They’re audacious enough to think that they’re not just ordinary players. &lt;br /&gt;&lt;br /&gt;Few stories better illustrate this better than the life of the father of the modern world, a man of legendary imaginative power and wonder: Nikola Tesla.&lt;br /&gt;&lt;br /&gt;In this book, you’ll be taken on a whirlwind journey through Tesla’s life and work, and not only learn about the successes and mistakes of one of history’s greatest inventors, but also how to look at the world in a different, more imaginative way.&lt;br /&gt;&lt;br /&gt;Read this book now and learn lessons from Nikola Tesla on why imagination is so vital to awakening your inner genius, and insights into the real “secret” to creativity, as explained by people like Jobs, Picasso, Dali, and Twain.</description>
+<authors>
+<author>
+<id>311368</id>
+<name>Sean Patrick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1362149503p5/311368.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1362149503p2/311368.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/311368.Sean_Patrick]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>25067</ratings_count>
+<text_reviews_count>1246</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>24955642</id>
+  <uri>kca://work/amzn1.gr.work.v1.y-FZAOmGcZM2NBy9dYgf5w</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 15 13:45:56 -0700 2018</started_at>
+  <read_at>Wed Mar 21 11:17:53 -0700 2018</read_at>
+  <date_added>Thu Mar 15 13:45:56 -0700 2018</date_added>
+  <date_updated>Wed Mar 21 11:17:53 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[An interesting and inspirational read. Finding out how great people have worked and struggled in their life is very inspirational. Observing and learning from their life is an important aspect in our evolution. This book is doing a great job by shortly describing some important aspects from Tesla...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2328648219]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2328648219]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2297791450</id>
+    <book>
+  <id type="integer">34928261</id>
+  <isbn>0691174164</isbn>
+  <isbn13>9780691174167</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.C646dTrbmSYrwkB-aMQaqw</uri>
+  <title>Ten Great Ideas about Chance</title>
+  <title_without_series>Ten Great Ideas about Chance</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497980695l/34928261._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497980695l/34928261._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34928261-ten-great-ideas-about-chance</link>
+  <num_pages>272</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Princeton University Press</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.63</average_rating>
+  <ratings_count>38</ratings_count>
+  <description>&lt;b&gt;A fascinating account of the breakthrough ideas that transformed probability and statistics&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In the sixteenth and seventeenth centuries, gamblers and mathematicians transformed the idea of chance from a mystery into the discipline of probability, setting the stage for a series of breakthroughs that enabled or transformed innumerable fields, from gambling, mathematics, statistics, economics, and finance to physics and computer science. This book tells the story of ten great ideas about chance and the thinkers who developed them, tracing the philosophical implications of these ideas as well as their mathematical impact.&lt;br /&gt;&lt;br /&gt;Persi Diaconis and Brian Skyrms begin with Girolamo Cardano, a sixteenth-century physician, mathematician, and professional gambler who helped develop the idea that chance actually can be measured. They describe how later thinkers showed how the judgment of chance also can be measured, how frequency is related to chance, and how chance, judgment, and frequency could be unified. Diaconis and Skyrms explain how Thomas Bayes laid the foundation of modern statistics, and they explore David Hume's problem of induction, Andrey Kolmogorov's general mathematical framework for probability, the application of computability to chance, and why chance is essential to modern physics. A final idea--that we are psychologically predisposed to error when judging chance--is taken up through the work of Daniel Kahneman and Amos Tversky.&lt;br /&gt;&lt;br /&gt;Complete with a brief probability refresher, &lt;i&gt;Ten Great Ideas about Chance &lt;/i&gt;is certain to be a hit with anyone who wants to understand the secrets of probability and how they were discovered.</description>
+<authors>
+<author>
+<id>1598867</id>
+<name>Persi Diaconis</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1598867.Persi_Diaconis]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>167</ratings_count>
+<text_reviews_count>27</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>56192351</id>
+  <uri>kca://work/amzn1.gr.work.v1.wbaY2MEo8-SM3587OQK9Tw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Feb 16 06:19:08 -0800 2018</started_at>
+  <read_at>Sat Sep 01 12:10:18 -0700 2018</read_at>
+  <date_added>Fri Feb 16 06:19:08 -0800 2018</date_added>
+  <date_updated>Sat Jan 05 06:50:03 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[The book came into being from a course the authors have taught at Stanford for approx 10 years. The course was intended for undergraduates and graduates alike. Just from this you can imagine the complexity of the book already. This is not your normal light read on probability; this has the feelin...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2297791450]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2297791450]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2234249789</id>
+    <book>
+  <id type="integer">6963933</id>
+  <isbn>1847247687</isbn>
+  <isbn13>9781847247681</isbn13>
+  <text_reviews_count type="integer">29</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.-WFtvCeU16PeVuNINQvmPQ</uri>
+  <title>Taming the Infinite: The Story of Mathematics from the First Numbers to Chaos Theory</title>
+  <title_without_series>Taming the Infinite: The Story of Mathematics from the First Numbers to Chaos Theory</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328724475l/6963933._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328724475l/6963933._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6963933-taming-the-infinite</link>
+  <num_pages>384</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Quercus</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>508</ratings_count>
+  <description>&lt;b&gt;From ancient Babylon to the last great unsolved problems, an acclaimed mathematician and popular science writer brings us his witty, engaging, and definitive history of mathematics&lt;br /&gt; &lt;/b&gt;In his famous straightforward style, Ian Stewart explains each major development—from the first number systems to chaos theory—and considers how each affected society and changed everyday life forever. Maintaining a personal touch, he introduces all of the outstanding mathematicians of history, from the key Babylonians, Greeks, and Egyptians, via Newton and Descartes, to Fermat, Babbage, and Godel, and demystifies math's key concepts without recourse to complicated formulae. Written to provide a captivating historic narrative for the non-mathematician, this book is packed with fascinating nuggets and quirky asides, and contains plenty of illustrations and diagrams to illuminate and aid understanding of a subject many dread, but which has made the world what it is today.</description>
+<authors>
+<author>
+<id>10336</id>
+<name>Ian Stewart</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1311861784p5/10336.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1311861784p2/10336.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10336.Ian_Stewart]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>36203</ratings_count>
+<text_reviews_count>2066</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>4969940</id>
+  <uri>kca://work/amzn1.gr.work.v1.OhUB81tM0-20-5EAuCuk3A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='292937855' name='favorites' review_shelf_id='2259328206' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Aug 20 10:07:08 -0700 2018</started_at>
+  <read_at>Sun Oct 14 12:20:33 -0700 2018</read_at>
+  <date_added>Sun Dec 31 05:28:09 -0800 2017</date_added>
+  <date_updated>Mon Dec 03 12:59:32 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This is one of the best books on history of mathematics I have read in a very long time. The author has a wonderful way of starting with something basic and getting to complicated aspects in just a couple of pages. I loved it. <br /><br />The chapters are very interestingly divided into small sub-chapters; e...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2234249789]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2234249789]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2206391704</id>
+    <book>
+  <id type="integer">433567</id>
+  <isbn>048627263X</isbn>
+  <isbn13>9780486272634</isbn13>
+  <text_reviews_count type="integer">2553</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VK5xtxMv6QdTtmPgxxy6NA</uri>
+  <title>Flatland: A Romance of Many Dimensions</title>
+  <title_without_series>Flatland: A Romance of Many Dimensions</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435435775l/433567._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435435775l/433567._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/433567.Flatland</link>
+  <num_pages>96</num_pages>
+  <format>Paperback</format>
+  <edition_information>Dover Thrift Edition</edition_information>
+  <publisher>Dover Publications, Inc.</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>1992</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>48452</ratings_count>
+  <description>This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square &lt;i&gt;[sic – ed.]&lt;/i&gt;, a mathematician and resident of the two-dimensional Flatland, where women-thin, straight lines-are the lowliest of shapes, and where men may have any number of sides, depending on their social status.&lt;br /&gt;Through strange occurrences that bring him into contact with a host of geometric forms, Square has adventures in Spaceland (three dimensions), Lineland (one dimension) and Pointland (no dimensions) and ultimately entertains thoughts of visiting a land of four dimensions—a revolutionary idea for which he is returned to his two-dimensional world. Charmingly illustrated by the author, Flatland is not only fascinating reading, it is still a first-rate fictional introduction to the concept of the multiple dimensions of space. "Instructive, entertaining, and stimulating to the imagination." — &lt;i&gt;Mathematics Teacher&lt;/i&gt;.</description>
+<authors>
+<author>
+<id>3093075</id>
+<name>Edwin A. Abbott</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1291869697p5/3093075.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1291869697p2/3093075.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3093075.Edwin_A_Abbott]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>49271</ratings_count>
+<text_reviews_count>3755</text_reviews_count>
+</author>
+</authors>
+  <published>1992</published>
+<work>  <id>4243538</id>
+  <uri>kca://work/amzn1.gr.work.v1.r8ZaqlVm7_oD80Pmic0qiw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Dec 06 13:42:20 -0800 2017</started_at>
+  <read_at>Sat Jan 13 12:18:59 -0800 2018</read_at>
+  <date_added>Wed Dec 06 13:42:19 -0800 2017</date_added>
+  <date_updated>Sun Jan 14 06:50:23 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[It is an interesting book for its mix of mathematics and the description of a society. The book makes a lot of parallel descriptions between some geometrical concepts and the society in the 1880s. It is interesting to see how the author managed to described important aspects of that society using...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2206391704]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2206391704]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2206383029</id>
+    <book>
+  <id type="integer">714583</id>
+  <isbn>0786884061</isbn>
+  <isbn13>9780786884063</isbn13>
+  <text_reviews_count type="integer">324</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.5iwoP8Kn2h_rj_QBD2AB8g</uri>
+  <title>The Man Who Loved Only Numbers: The Story of  Paul Erdős and the Search for Mathematical Truth</title>
+  <title_without_series>The Man Who Loved Only Numbers: The Story of  Paul Erdős and the Search for Mathematical Truth</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/714583.The_Man_Who_Loved_Only_Numbers</link>
+  <num_pages>302</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Hachette Books</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>6781</ratings_count>
+  <description>Based on a National Magazine Award-winning article, this masterful biography of Hungarian-born Paul Erdos is both a vivid portrait of an eccentric genius and a layman's guide to some of this century's most startling mathematical discoveries.</description>
+<authors>
+<author>
+<id>142799</id>
+<name>Paul Hoffman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1264547849p5/142799.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1264547849p2/142799.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/142799.Paul_Hoffman]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>7662</ratings_count>
+<text_reviews_count>477</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>1407234</id>
+  <uri>kca://work/amzn1.gr.work.v1.QmQ2rqZjm8saqYiufWa_tA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='292937855' name='favorites' review_shelf_id='2259329767' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Oct 16 00:00:00 -0700 2017</started_at>
+  <read_at>Wed Nov 29 00:00:00 -0800 2017</read_at>
+  <date_added>Wed Dec 06 13:33:18 -0800 2017</date_added>
+  <date_updated>Mon Dec 03 13:01:06 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2206383029]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2206383029]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2092245494</id>
+    <book>
+  <id type="integer">358691</id>
+  <isbn>1857028295</isbn>
+  <isbn13>9781857028294</isbn13>
+  <text_reviews_count type="integer">22</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._n7At2dwhfAmXoG-6l3u5A</uri>
+  <title>The Man Who Loved Only Numbers</title>
+  <title_without_series>The Man Who Loved Only Numbers</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/358691.The_Man_Who_Loved_Only_Numbers</link>
+  <num_pages>302</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Fourth Estate (GB)</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>6781</ratings_count>
+  <description>The biography of a mathematical genius. Paul Erdos was the most prolific pure mathematician in history and, arguably, the strangest too. 'A mathematical genius of the first order, Paul Erdos was totally obsessed with his subject -- he thought and wrote mathematics for nineteen hours a day until he died. He travelled constantly, living out of a plastic bag and had no interest in food, sex, companionship, art -- all that is usually indispensible to a human life. Paul Hoffman, in this marvellous biography, gives us a vivid and strangely moving portrait of this singular creature, one that brings out not only Erdos's genius and his oddness, but his warmth and sense of fun, the joyfulness of his strange life.' Oliver Sacks For six decades Erdos had no job, no hobbies, no wife, no home; he never learnt to cook, do laundry, drive a car and died a virgin. Instead he travelled the world with his mother in tow, arriving at the doorstep of esteemed mathematicians declaring 'My brain is open'. He travelled until his death at 83, racing across four continents to prove as many theorems as possible, fuelled by a diet of espresso and amphetamines. With more than 1,500 papers written or co-written,</description>
+<authors>
+<author>
+<id>142799</id>
+<name>Paul Hoffman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1264547849p5/142799.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1264547849p2/142799.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/142799.Paul_Hoffman]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>7662</ratings_count>
+<text_reviews_count>477</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>1407234</id>
+  <uri>kca://work/amzn1.gr.work.v1.QmQ2rqZjm8saqYiufWa_tA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='292937855' name='favorites' review_shelf_id='2259328363' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Aug 14 05:57:41 -0700 2017</started_at>
+  <read_at>Sun Dec 03 11:33:16 -0800 2017</read_at>
+  <date_added>Mon Aug 14 05:57:41 -0700 2017</date_added>
+  <date_updated>Mon Dec 03 12:59:41 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[The book gives a wonderful description of Erdos' personality, life and work. Generally, it was an interesting read. <br /><br />Before I started the book I already knew a couple of things about his mathematical genius, but I never really understood its importance and the extent of his contributions. The book...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2092245494]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2092245494]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2013631622</id>
+    <book>
+  <id type="integer">13277386</id>
+  <isbn>0224095315</isbn>
+  <isbn13>9780224095310</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.f52uWa9wbkPIVTXk7tp9BQ</uri>
+  <title>More Maths for Mums and Dads</title>
+  <title_without_series>More Maths for Mums and Dads</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364251034l/13277386._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364251034l/13277386._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13277386-more-maths-for-mums-and-dads</link>
+  <num_pages>392</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Square Peg</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>19</ratings_count>
+  <description>In their first, bestselling book, &lt;i&gt;Maths for Mums and Dads&lt;/i&gt;, Rob Eastaway and Mike Askew helped you and your child make sense of the new methods and topics covered in primary school maths. But as your child embarks on secondary school, two new issues arise. First, in the build-up to GCSE, school children begin to do maths that you probably have never encountered before—or, if you have, you never really got it in the first place, and have long since forgotten. Factorizing? Finding the locus?Solving for x? Probability distributions? What do these even mean? &lt;i&gt;More Maths for Mums and Dads&lt;/i&gt; gives you all the ammunition to help you to help your teenager get to grips with and feel more confident about—and hopefully even enjoy—GCSE maths. It covers in straightforward and easy-to-follow terms the maths your child will encounter in the build up to GCSE, and in many cases gives practical and fun examples of where the maths crops up in the real world. In addition, the authors introduce the notion of estimation and coin a new term, Zequals. Using the Zequals method will help develop your teenager's feel for numbers, which in turn could transform their experience and enjoyment of everyday maths.</description>
+<authors>
+<author>
+<id>299621</id>
+<name>Rob Eastaway</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/299621.Rob_Eastaway]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>1391</ratings_count>
+<text_reviews_count>155</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>18481522</id>
+  <uri>kca://work/amzn1.gr.work.v1.svOW-wkYp9yMy8aF7a4JAQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon May 29 00:00:00 -0700 2017</started_at>
+  <read_at>Mon Jun 05 06:04:20 -0700 2017</read_at>
+  <date_added>Mon May 29 10:49:02 -0700 2017</date_added>
+  <date_updated>Mon Jun 05 06:04:19 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This book looks like a good read for parents, it gives good examples and tips on how to help your pupil with specific maths topics they encounter at school. You have to be careful that it is based on the UK curriculum, more specifically English, but it works for other systems too. <br /><br />It also offers...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2013631622]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2013631622]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1895101107</id>
+    <book>
+  <id type="integer">154060</id>
+  <isbn>0521427061</isbn>
+  <isbn13>9780521427067</isbn13>
+  <text_reviews_count type="integer">269</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.SdzwocpJmcQOz-yY5BPybg</uri>
+  <title>A Mathematician's Apology</title>
+  <title_without_series>A Mathematician's Apology</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/154060.A_Mathematician_s_Apology</link>
+  <num_pages>153</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Cambridge University Press</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>1992</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>4938</ratings_count>
+  <description>Written in 1940 as his mathematical powers were declining, G.H. Hardy's apology offers an engaging account of the thoughts of a man known for his eccentricities as well as his brilliance in mathematics.</description>
+<authors>
+<author>
+<id>313252</id>
+<name>G.H. Hardy</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1225555356p5/313252.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1225555356p2/313252.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/313252.G_H_Hardy]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>5374</ratings_count>
+<text_reviews_count>352</text_reviews_count>
+</author>
+</authors>
+  <published>1992</published>
+<work>  <id>1486751</id>
+  <uri>kca://work/amzn1.gr.work.v1.r_vahwQ_xEGShLMwyMldHg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 01 00:00:00 -0800 2017</read_at>
+  <date_added>Sat Jan 28 13:27:38 -0800 2017</date_added>
+  <date_updated>Mon May 28 13:11:44 -0700 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[This was a very interesting read for me. I totally enjoyed the Foreword part written by C. P. Snow, it gave the book more sense and I could understand more subtleties hidden in the actual book. When I started the part by G. H. Hardy, I got stuck by the openness of the book. He was not hiding unde...]]>
+  </body>
+
+  
+
+  <comments_count>3</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1895101107]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1895101107]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1784156535</id>
+    <book>
+  <id type="integer">18007564</id>
+  <isbn>0804139024</isbn>
+  <isbn13>9780804139021</isbn13>
+  <text_reviews_count type="integer">55469</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.O5h1YAnBEe0cYP_KkaVAcA</uri>
+  <title>The Martian</title>
+  <title_without_series>The Martian</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18007564-the-martian</link>
+  <num_pages>369</num_pages>
+  <format>Hardcover</format>
+  <edition_information>US / CAN Edition</edition_information>
+  <publisher>Crown</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.40</average_rating>
+  <ratings_count>719621</ratings_count>
+  <description>Six days ago, astronaut Mark Watney became one of the first people to walk on Mars. &lt;br /&gt;&lt;br /&gt;Now, he’s sure he’ll be the first person to die there.&lt;br /&gt;&lt;br /&gt;After a dust storm nearly kills him and forces his crew to evacuate while thinking him dead, Mark finds himself stranded and completely alone with no way to even signal Earth that he’s alive—and even if he could get word out, his supplies would be gone long before a rescue could arrive. &lt;br /&gt;&lt;br /&gt;Chances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old “human error” are much more likely to kill him first. &lt;br /&gt;&lt;br /&gt;But Mark isn’t ready to give up yet. Drawing on his ingenuity, his engineering skills — and a relentless, dogged refusal to quit — he steadfastly confronts one seemingly insurmountable obstacle after the next. Will his resourcefulness be enough to overcome the impossible odds against him?&lt;br /&gt;&lt;br /&gt;</description>
+<authors>
+<author>
+<id>6540057</id>
+<name>Andy Weir</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1382592903p5/6540057.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1382592903p2/6540057.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6540057.Andy_Weir]]></link>
+<average_rating>4.27</average_rating>
+<ratings_count>891571</ratings_count>
+<text_reviews_count>92538</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>21825181</id>
+  <uri>kca://work/amzn1.gr.work.v1.0JRIm1nF_5TP-vPc6Z2f0w</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='292937855' name='favorites' review_shelf_id='2259329315' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Apr 01 00:00:00 -0700 2016</read_at>
+  <date_added>Fri Oct 14 04:24:14 -0700 2016</date_added>
+  <date_updated>Mon Dec 03 13:00:36 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I enjoyed the amount of science (physics, chemistry and mathematics) in this book. ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1784156535]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1784156535]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1784147573</id>
+    <book>
+  <id type="integer">202226</id>
+  <isbn>0761134662</isbn>
+  <isbn13>9780761134664</isbn13>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.gWwoQutp13GW14jKeXo58w</uri>
+  <title>The Big Book of Brain Games: 1,000 PlayThinks of Art, Mathematics  Science</title>
+  <title_without_series>The Big Book of Brain Games: 1,000 PlayThinks of Art, Mathematics  Science</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404580553l/202226._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404580553l/202226._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/202226.The_Big_Book_of_Brain_Games</link>
+  <num_pages>420</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Workman Publishing Company</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>138</ratings_count>
+  <description>About the original &lt;i&gt;1000 PlayThinks&lt;/i&gt;,Will Shortz of &lt;i&gt;The New York Times&lt;/i&gt; said it best: “The most wide-ranging, visually appealing, entertaining, gigantic collection of brainteasers since Sam Loyd’s &lt;i&gt;Cyclopedia of Puzzles&lt;/i&gt; almost a century ago.” Inside &lt;i&gt;The Big Book of Brain Games&lt;/i&gt;, you will find an obsessive collection of 1,000 challenges, puzzles, riddles, illusions—originals as well as must-do classics—it’s like salted peanuts for the brain. With jampacked pages and a full-color illustration for each entry, the book, opened anywhere, is a call to action. (And it’s guaranteed to make you smarter.) Twelve basic categories include Geometry, Patterns, Numbers, Logic and Probability, and Perception. An easy-to-read key at the top of each game ranks its difficulty on a scale of 1 to 10, while indices in the back cross-reference the puzzles. (You’ll find the answers back there, too.)</description>
+<authors>
+<author>
+<id>117923</id>
+<name>Ivan Moscovich</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/117923.Ivan_Moscovich]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>302</ratings_count>
+<text_reviews_count>33</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>195660</id>
+  <uri>kca://work/amzn1.gr.work.v1.li17IeF3QHv7XS8Q6Svtng</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Oct 01 00:00:00 -0700 2016</read_at>
+  <date_added>Fri Oct 14 04:02:15 -0700 2016</date_added>
+  <date_updated>Fri Oct 14 04:03:02 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Great book full of awesome puzzles and games. ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1784147573]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1784147573]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1784146229</id>
+    <book>
+  <id type="integer">2381216</id>
+  <isbn>0192800868</isbn>
+  <isbn13>9780192800862</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ISMZbipHP0NplU0it0i7vQ</uri>
+  <title>A Dictionary of Scientists</title>
+  <title_without_series>A Dictionary of Scientists</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2381216.A_Dictionary_of_Scientists</link>
+  <num_pages>592</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Oxford University Press, USA</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>4</ratings_count>
+  <description>From Archimedes and Copernicus to Stephen Hawking and Stephen Jay Gould, this is the most authoritative and up-to-date biographical dictionary of scientists currently available. Featuring over 1,300 entries, spanning over 2,500 years, this book covers all areas of science, from physics and astronomy to medicine and ecology, including key figures in the fields of mathematics and technology. Offering clear explanations of the science itself as well as its historical significance, the Dictionary includes coverage of all Nobel Laureates in physics, chemistry, physiology, and medicine, in addition to a comprehensive index of topics, and extensive network of cross-references to related entries.&lt;br /&gt; Compact, comprehensive, and crammed full of useful facts throughout, A Dictionary of Scientists will be an essential reference for scientists, students, and anyone with a general interest in science.&lt;br /&gt;</description>
+<authors>
+<author>
+<id>2901941</id>
+<name>Oxford University Press</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1339816069p5/2901941.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1339816069p2/2901941.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2901941.Oxford_University_Press]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>7440</ratings_count>
+<text_reviews_count>338</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>2388228</id>
+  <uri>kca://work/amzn1.gr.work.v1.P6Q09HBnN6IdJhHRchtKyw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jan 01 00:00:00 -0800 2016</read_at>
+  <date_added>Fri Oct 14 03:58:57 -0700 2016</date_added>
+  <date_updated>Fri Oct 14 03:59:08 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1784146229]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1784146229]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1784145525</id>
+    <book>
+  <id type="integer">22196</id>
+  <isbn>0285635948</isbn>
+  <isbn13>9780285635944</isbn13>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.YalwHhW2OX6GsRnLn-E4Dw</uri>
+  <title>Zero: The Biography of a Dangerous Idea</title>
+  <title_without_series>Zero: The Biography of a Dangerous Idea</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22196.Zero</link>
+  <num_pages>248</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Souvenir Press</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>8052</ratings_count>
+  <description>A NEW YORK TIMES NOTABLE BOOK&lt;br /&gt;The Babylonians invented it, the Greeks banned it, the Hindus worshipped it, and the Christian Church used it to fend off heretics. Today it's a timebomb ticking in the heart of astrophysics. For zero, infinity's twin, is not like other numbers. It is both nothing and everything.&lt;br /&gt;&lt;br /&gt;Zero has pitted East against West and faith against reason, and its intransigence persists in the dark core of a black hole and the brilliant flash of the Big Bang. Today, zero lies at the heart of one of the biggest scientific controversies of all time: the quest for a theory of everything. Within the concept of zero lies a philosophical and scientific history of humanity.&lt;br /&gt;&lt;br /&gt;Charles Seife's elegant and witty account takes us from Aristotle to superstring theory by way of Egyptian geometry, Kabbalism, Einstein, the Chandrasekhar limit and Stephen Hawking. Covering centuries of thought, it is a concise tour of a world of ideas, bound up in the simple notion of nothing.</description>
+<authors>
+<author>
+<id>12668</id>
+<name>Charles Seife</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1511239528p5/12668.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1511239528p2/12668.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12668.Charles_Seife]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>11683</ratings_count>
+<text_reviews_count>1133</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>2372</id>
+  <uri>kca://work/amzn1.gr.work.v1.iYDSLAJqUiQ9t4qxTVkKOg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='292937855' name='favorites' review_shelf_id='2259327790' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Sep 01 00:00:00 -0700 2016</read_at>
+  <date_added>Fri Oct 14 03:57:13 -0700 2016</date_added>
+  <date_updated>Mon Dec 03 12:59:13 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[A great book about the history of the number "zero" and how it influences (or was influenced) by religious, philosophy and then physics, chemistry and so on. Extremely interesting. ]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1784145525]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1784145525]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1474585344</id>
+    <book>
+  <id type="integer">22551914</id>
+  <isbn>1784700088</isbn>
+  <isbn13>9781784700089</isbn13>
+  <text_reviews_count type="integer">48</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.86ackr33l6w9SzEUQnVMfw</uri>
+  <title>Alan Turing: The Enigma</title>
+  <title_without_series>Alan Turing: The Enigma</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413132350l/22551914._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413132350l/22551914._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22551914-alan-turing</link>
+  <num_pages>736</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>7385</ratings_count>
+  <description>&lt;b&gt;The official book behind the film, &lt;i&gt;The Imitation Game&lt;/i&gt;, this is a dramatic portrayal of the life and work of Alan Turing, one of Britain's most extraordinary unsung heroes, and one of the world's greatest innovators.&lt;/b&gt;&lt;br /&gt;     This is the official story that has inspired the British film, &lt;i&gt;The Imitation Game,&lt;/i&gt; a nail-biting race against time following Alan Turing, the pioneer of modern-day computing and credited with cracking the German Enigma code, and his brilliant team at Britain's top-secret code-breaking centre, Bletchley Park, during the darkest days of World War II. Turing, whose contributions and genius significantly shortened the war, saving thousands of lives, was the eventual victim of an unenlightened British establishment, but his work and legacy live on.&lt;br /&gt;     Prime Minister Gordon Brown released a statement of apology in 2009 on behalf of the British government for the "appalling" treatment of Turing.</description>
+<authors>
+<author>
+<id>87039</id>
+<name>Andrew Hodges</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/87039.Andrew_Hodges]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>8148</ratings_count>
+<text_reviews_count>901</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>145479</id>
+  <uri>kca://work/amzn1.gr.work.v1.SlisQldeUQmlQEsbvYn6mA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='292937855' name='favorites' review_shelf_id='2259329159' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Dec 20 15:14:17 -0800 2015</date_added>
+  <date_updated>Mon Dec 03 13:00:27 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[It is a long book to read, but one that gave me so much information about the life of Alan Turing, the society then and also the mathematical society (university life, mathematicians and scientists). It is very interesting. Also, it made me Google things and wanting to find more and more about th...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1474585344]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1474585344]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1474579875</id>
+    <book>
+  <id type="integer">329336</id>
+  <isbn>0140296476</isbn>
+  <isbn13>9780140296471</isbn13>
+  <text_reviews_count type="integer">590</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.1r3EC8px4vjjaWR8QcvIiQ</uri>
+  <title>Zero: The Biography of a Dangerous Idea</title>
+  <title_without_series>Zero: The Biography of a Dangerous Idea</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/329336.Zero</link>
+  <num_pages>248</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>8052</ratings_count>
+  <description>The Babylonians invented it, the Greeks banned it, the Hindus worshipped it, and the Church used it to fend off heretics. For centuries, the power of zero savored of the demonic; once harnessed, it became the most important tool in mathematics. &lt;i&gt;Zero&lt;/i&gt; follows this number from its birth as an Eastern philosophical concept to its struggle for acceptance in Europe and its apotheosis as the mystery of the black hole. Today, zero lies at the heart of one of the biggest scientific controversies of all time, the quest for the theory of everything. Elegant, witty, and enlightening, &lt;i&gt;Zero&lt;/i&gt; is a compelling look at the strangest number in the universeૼand one of the greatest paradoxes of human thought.</description>
+<authors>
+<author>
+<id>12668</id>
+<name>Charles Seife</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1511239528p5/12668.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1511239528p2/12668.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12668.Charles_Seife]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>11683</ratings_count>
+<text_reviews_count>1133</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>2372</id>
+  <uri>kca://work/amzn1.gr.work.v1.iYDSLAJqUiQ9t4qxTVkKOg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='292937855' name='favorites' review_shelf_id='2259330227' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Dec 20 15:07:18 -0800 2015</date_added>
+  <date_updated>Mon Dec 03 13:01:36 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1474579875]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1474579875]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>1474577063</id>
+    <book>
+  <id type="integer">26104340</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">32</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.3kEz_9NLy3TnJ4Ay-Ky9ZA</uri>
+  <title>Flatland: A Romance of Many Dimensions</title>
+  <title_without_series>Flatland: A Romance of Many Dimensions</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26104340-flatland</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information>The Distinguished Chiron Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>48452</ratings_count>
+  <description>This special edition is a distinguished vintage reproduction, of the 1884 satirical novella Flatland, by the English schoolmaster Edwin Abbott. Meticulously elaborated by the editorial team of Chiron Academic Press in collaboration with the renowned literature publisher Edition l'Aleph (&lt;a target="_blank" href="http://www.l-aleph.com" rel="nofollow"&gt;www.l-aleph.com&lt;/a&gt;), this special edition, pays particular attention to the very authentic details of the editorial of text and images, fine type setting, mise-en-page, production, and print. The result is a revival of the vintage for the 21st century's reader. Thus a unique reading experience for the book lovers and collectors of this genre. A recommended edition to libraries.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Writing pseudonymously as "A Square", the book used the fictional two-dimensional world of Flatland to comment on the hierarchy of Victorian culture, but the novella's more enduring contribution is its examination of dimensions. The story describes a two-dimensional world occupied by geometric figures, whereof women are simple line-segments, while men are polygons with various numbers of sides. The narrator is a square, a member of the caste of gentlemen and professionals, who guides the readers through some of the implications of life in two dimensions. The Square dreams about a visit to a one-dimensional world (Lineland) inhabited by "lustrous points", and attempts to convince the realm's monarch of a second dimension; but is unable to do so. . . &lt;br /&gt;&lt;br /&gt;</description>
+<authors>
+<author>
+<id>3093075</id>
+<name>Edwin A. Abbott</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1291869697p5/3093075.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1291869697p2/3093075.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3093075.Edwin_A_Abbott]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>49271</ratings_count>
+<text_reviews_count>3755</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>4243538</id>
+  <uri>kca://work/amzn1.gr.work.v1.r8ZaqlVm7_oD80Pmic0qiw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Dec 20 15:03:28 -0800 2015</date_added>
+  <date_updated>Mon Dec 03 13:01:00 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1474577063]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1474577063]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1474575231</id>
+    <book>
+  <id type="integer">30760384</id>
+  <isbn>1781252882</isbn>
+  <isbn13>9781781252888</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.GOCb3xclIx2S6jNrjYqmeA</uri>
+  <title>How to Bake Pi: Easy recipes for understanding complex maths</title>
+  <title_without_series>How to Bake Pi: Easy recipes for understanding complex maths</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30760384-how-to-bake-pi</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Profile Books</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.58</average_rating>
+  <ratings_count>1310</ratings_count>
+  <description>&lt;br /&gt;What is math? How exactly does it work? And what do three siblings trying to share a cake have to do with it? In &lt;i&gt;How to Bake Pi&lt;/i&gt;, math professor Eugenia Cheng provides an accessible introduction to the logic and beauty of mathematics, powered, unexpectedly, by insights from the kitchen: we learn, for example, how the béchamel in a lasagna can be a lot like the number 5, and why making a good custard proves that math is easy but life is hard. Of course, it’s not all cooking; we’ll also run the New York and Chicago marathons, pay visits to Cinderella and Lewis Carroll, and even get to the bottom of a tomato’s identity as a vegetable. This is not the math of our high school classes: mathematics, Cheng shows us, is less about numbers and formulas and more about how we know, believe, and understand anything, including whether our brother took too much cake.&lt;br /&gt;&lt;br /&gt;At the heart of &lt;i&gt;How to Bake Pi&lt;/i&gt; is Cheng’s work on category theory—a cutting-edge “mathematics of mathematics.” Cheng combines her theory work with her enthusiasm for cooking both to shed new light on the fundamentals of mathematics and to give readers a tour of a vast territory no popular book on math has explored before. Lively, funny, and clear, &lt;i&gt;How to Bake Pi&lt;/i&gt; will dazzle the initiated while amusing and enlightening even the most hardened math-phobe.&lt;br /&gt;</description>
+<authors>
+<author>
+<id>9259857</id>
+<name>Eugenia Cheng</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9259857.Eugenia_Cheng]]></link>
+<average_rating>3.63</average_rating>
+<ratings_count>2045</ratings_count>
+<text_reviews_count>378</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>42915915</id>
+  <uri>kca://work/amzn1.gr.work.v1.fF-yG7zfErmQxNWZ73F2Qg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jan 13 12:33:02 -0800 2018</started_at>
+  <read_at>Wed Feb 28 03:06:20 -0800 2018</read_at>
+  <date_added>Sun Dec 20 15:01:06 -0800 2015</date_added>
+  <date_updated>Fri Mar 30 12:53:54 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[It was a refreshing read. At first I got stuck in all the recipes (that is because I am not really a foodie), but when I got to the second part of the book (the category theory part) everything started to be even more interesting. <br /><br />This is really a book that can be enjoyed by absolutely everyone,...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1474575231]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1474575231]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1474573686</id>
+    <book>
+  <id type="integer">383087</id>
+  <isbn>039304002X</isbn>
+  <isbn13>9780393040029</isbn13>
+  <text_reviews_count type="integer">29</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xA7zeT_lhVdqB2MzVe3B3A</uri>
+  <title>Mathematics: From the Birth of Numbers</title>
+  <title_without_series>Mathematics: From the Birth of Numbers</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/383087.Mathematics</link>
+  <num_pages>1093</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>W. W. Norton  Company</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>549</ratings_count>
+  <description>This extraordinary work takes the reader on a long and fascinating journey--from the dual invention of numbers and language, through the major realms of arithmetic, algebra, geometry, trigonometry, and calculus, to the final destination of differential equations, with excursions into mathematical logic, set theory, topology, fractals, probability, and assorted other mathematical byways. The book is unique among popular books on mathematics in combining an engaging, easy-to-read history of the subject with a comprehensive mathematical survey text. Intended, in the author's words, "for the benefit of those who never studied the subject, those who think they have forgotten what they once learned, or those with a sincere desire for more knowledge," it links mathematics to the humanities, linguistics, the natural sciences, and technology.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Contains more than 1000 original technical illustrations, a multitude of reproductions from mathematical classics and other relevant works, and a generous sprinkling of humorous asides, ranging from limericks and tall stories to cartoons and decorative drawings.</description>
+<authors>
+<author>
+<id>218068</id>
+<name>Jan Gullberg</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/218068.Jan_Gullberg]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>549</ratings_count>
+<text_reviews_count>29</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>372857</id>
+  <uri>kca://work/amzn1.gr.work.v1.FEA2xWn4kV9Ggh4o8-7nIg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Dec 20 00:00:00 -0800 2015</started_at>
+  <read_at>Sat Jan 28 13:40:23 -0800 2017</read_at>
+  <date_added>Sun Dec 20 14:59:12 -0800 2015</date_added>
+  <date_updated>Sat Jan 28 13:40:23 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1474573686]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1474573686]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>1412692114</id>
+    <book>
+  <id type="integer">23569497</id>
+  <isbn nil="true"/>
+  <isbn13>9781784701253</isbn13>
+  <text_reviews_count type="integer">49</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xIE2iMxOf--zwPk_-8GPew</uri>
+  <title>Alan Turing: The Enigma [Abridged]</title>
+  <title_without_series>Alan Turing: The Enigma [Abridged]</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416176991l/23569497._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416176991l/23569497._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23569497-alan-turing</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information>Special Abridged Extract Edition</edition_information>
+  <publisher>Vintage</publisher>
+  <publication_day/>
+  <publication_year>2014</publication_year>
+  <publication_month/>
+  <average_rating>3.79</average_rating>
+  <ratings_count>379</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>87039</id>
+<name>Andrew Hodges</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/87039.Andrew_Hodges]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>8148</ratings_count>
+<text_reviews_count>901</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>68545440</id>
+  <uri>kca://work/amzn1.gr.work.v1.wl87lr-m6xUlKsQGG4lKnQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Oct 09 00:00:00 -0700 2015</started_at>
+  <read_at>Sun Dec 20 15:13:42 -0800 2015</read_at>
+  <date_added>Fri Oct 09 15:15:56 -0700 2015</date_added>
+  <date_updated>Sun Aug 20 12:09:29 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1412692114]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1412692114]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>1292382982</id>
+    <book>
+  <id type="integer">10250838</id>
+  <isbn nil="true"/>
+  <isbn13>9781741965964</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.gYvFJTygNeK9NxO_NJK5ZQ</uri>
+  <title>The Bedside Book Of Algebra</title>
+  <title_without_series>The Bedside Book Of Algebra</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10250838-the-bedside-book-of-algebra</link>
+  <num_pages>176</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Quid Publishing</publisher>
+  <publication_day/>
+  <publication_year>2009</publication_year>
+  <publication_month/>
+  <average_rating>3.56</average_rating>
+  <ratings_count>43</ratings_count>
+  <description>A collection of problems - some with a very practical application, others designed as purely theoretical puzzles - that will offer something of interest to everyone. Each section is written in an easy-to-follow format and guides the reader progressively through this fascinating subject.</description>
+<authors>
+<author>
+<id>3138366</id>
+<name>Michael Willers</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3138366.Michael_Willers]]></link>
+<average_rating>3.55</average_rating>
+<ratings_count>127</ratings_count>
+<text_reviews_count>15</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>15150999</id>
+  <uri>kca://work/amzn1.gr.work.v1.FHuswzWl227XXv1siC6dEw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='292937855' name='favorites' review_shelf_id='2259328695' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu May 28 00:00:00 -0700 2015</started_at>
+  <read_at>Sat Oct 17 15:25:31 -0700 2015</read_at>
+  <date_added>Thu May 28 12:49:54 -0700 2015</date_added>
+  <date_updated>Mon Dec 03 12:59:59 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[The book is quite interesting and easy to read. It gives enough information to make you more interested in the mathematical theory. Also, looks at things from a chronological (with bits of history) point of view which made me more interested because I didn't know that much about the historical pa...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1292382982]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1292382982]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>1246393641</id>
+    <book>
+  <id type="integer">150727</id>
+  <isbn>0471490350</isbn>
+  <isbn13>9780471490357</isbn13>
+  <text_reviews_count type="integer">44</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.BgFet9KrbxL3X1MvC3LO9Q</uri>
+  <title>Enigma: The Battle for the Code</title>
+  <title_without_series>Enigma: The Battle for the Code</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398029433l/150727._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398029433l/150727._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/150727.Enigma</link>
+  <num_pages>422</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Wiley (TP)</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>891</ratings_count>
+  <description>Winston Churchill called the cracking of the German Enigma Code "the secret weapon that won the war." Now, for the first time, noted British journalist Hugh-Sebag-Montefiore reveals the c&lt;i&gt;omplete&lt;/i&gt; story of the breaking of the code by the Allies--the breaking that played a crucial role in the outcome of World War II.&lt;br /&gt;&lt;br /&gt;This fascinating account relates the never-before-told, hair-raising stories of the heroic British and American sailors, spies, and secret agents who faced death in order to capture vital codebooks from sinking ships and snatch them from under the noses of Nazi officials. Sebag-Montefiore also relates new details about the genesis of the code, little-known facts about how the Poles first cracked the Luftwaffe's version of the code (and then passed it along to the British), and the feverish activities at Bletchley Park. Based in part on documents recently unearthed from American and British archives--including previously confidential government files--and in part on unforgettable, firsthand accounts of surviving witnesses, &lt;i&gt;Enigma&lt;/i&gt; unearths the stunning truth about the brilliant piece of decryption that changed history.</description>
+<authors>
+<author>
+<id>87035</id>
+<name>Hugh Sebag-Montefiore</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1465702873p5/87035.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1465702873p2/87035.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/87035.Hugh_Sebag_Montefiore]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>1866</ratings_count>
+<text_reviews_count>187</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>145475</id>
+  <uri>kca://work/amzn1.gr.work.v1.gJK1oVcKOvRM_KzaKK4Ppg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jan 01 00:00:00 -0800 2015</read_at>
+  <date_added>Sun Apr 05 07:48:15 -0700 2015</date_added>
+  <date_updated>Sun Apr 05 07:49:15 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[It was really fascinating to read about the breaking of Enigma from a historian point of view and to see all the other implications it had in the WWII in general. The book also offers some more technical explanations about breaking the machine and how it worked, so it was great food for my brain....]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1246393641]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1246393641]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>1136982526</id>
+    <book>
+  <id type="integer">1168341</id>
+  <isbn>0385520697</isbn>
+  <isbn13>9780385520690</isbn13>
+  <text_reviews_count type="integer">919</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.iRxb_YiTw0Cs7CrbcM3Z_Q</uri>
+  <title>Physics of the Impossible</title>
+  <title_without_series>Physics of the Impossible</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320469147l/1168341._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320469147l/1168341._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1168341.Physics_of_the_Impossible</link>
+  <num_pages>329</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Doubleday Books</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>29878</ratings_count>
+  <description>A fascinating exploration of the science of the impossible—from death rays and force fields to invisibility cloaks—revealing to what extent such technologies might be achievable decades or millennia into the future.&lt;br /&gt;&lt;br /&gt;One hundred years ago, scientists would have said that lasers, televisions, and the atomic bomb were beyond the realm of physical possibility. In Physics of the Impossible, the renowned physicist Michio Kaku explores to what extent the technologies and devices of science fiction that are deemed equally impossible today might well become commonplace in the future.&lt;br /&gt;&lt;br /&gt;From teleportation to telekinesis, Kaku uses the world of science fiction to explore the fundamentals—and the limits—of the laws of physics as we know them today. He ranks the impossible technologies by categories—Class I, II, and III, depending on when they might be achieved, within the next century, millennia, or perhaps never. In a compelling and thought-provoking narrative, he explains:&lt;br /&gt;· How the science of optics and electromagnetism may one day enable us to bend light around an object, like a stream flowing around a boulder, making the object invisible to observers “downstream”&lt;br /&gt;· How ramjet rockets, laser sails, antimatter engines, and nanorockets may one day take us to the nearby stars&lt;br /&gt;· How telepathy and psychokinesis, once considered pseudoscience, may one day be possible using advances in MRI, computers, superconductivity, and nanotechnology&lt;br /&gt;· Why a time machine is apparently consistent with the known laws of quantum physics, although it would take an unbelievably advanced civilization to actually build one&lt;br /&gt;Kaku uses his discussion of each technology as a jumping-off point to explain the science behind it. An extraordinary scientific adventure, Physics of the Impossible takes readers on an unforgettable, mesmerizing journey into the world of science that both enlightens and entertains.</description>
+<authors>
+<author>
+<id>18800</id>
+<name>Michio Kaku</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1379758804p5/18800.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1379758804p2/18800.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18800.Michio_Kaku]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>104048</ratings_count>
+<text_reviews_count>5519</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>1239736</id>
+  <uri>kca://work/amzn1.gr.work.v1.BkOUDqz9BzEONglqjKwoug</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='292937855' name='favorites' review_shelf_id='2259329839' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Dec 20 17:02:05 -0800 2014</date_added>
+  <date_updated>Mon Dec 03 13:01:11 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1136982526]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1136982526]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1111887353</id>
+    <book>
+  <id type="integer">38412</id>
+  <isbn>0385493622</isbn>
+  <isbn13>9780385493628</isbn13>
+  <text_reviews_count type="integer">662</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.C4qq13V2hEqsV2GsuuV5-g</uri>
+  <title>Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem</title>
+  <title_without_series>Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38412.Fermat_s_Enigma</link>
+  <num_pages>315</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>22992</ratings_count>
+  <description>xn + yn = zn, where n represents 3, 4, 5, ...no solution&lt;br /&gt;&lt;br /&gt;"I have discovered a truly marvelous demonstration of this proposition which this margin is too narrow to contain."&lt;br /&gt;&lt;br /&gt;With these words, the seventeenth-century French mathematician Pierre de Fermat threw down the gauntlet to future generations.  What came to be known as Fermat's Last Theorem looked simple; proving it, however, became the Holy Grail of mathematics, baffling its finest minds for more than 350 years.  In &lt;i&gt;Fermat's Enigma&lt;/i&gt;--based on the author's award-winning documentary film, which aired on PBS's "Nova"--Simon Singh tells the astonishingly entertaining story of the pursuit of that grail, and the lives that were devoted to, sacrificed for, and saved by it.  Here is a mesmerizing tale of heartbreak and mastery that will forever change your feelings about mathematics.</description>
+<authors>
+<author>
+<id>10894</id>
+<name>Simon Singh</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1263127928p5/10894.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1263127928p2/10894.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10894.Simon_Singh]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>66347</ratings_count>
+<text_reviews_count>3300</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+<work>  <id>38182</id>
+  <uri>kca://work/amzn1.gr.work.v1.YFpvc3k3VxxAoVZewAZ0tQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='292937855' name='favorites' review_shelf_id='2259328777' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Feb 03 00:00:00 -0800 2017</started_at>
+  <read_at>Sat Mar 11 12:08:19 -0800 2017</read_at>
+  <date_added>Fri Nov 21 07:05:46 -0800 2014</date_added>
+  <date_updated>Mon Dec 03 13:00:04 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[The book impressed me a lot. Understanding the connections between easy mathematical topics and more complex theorems is incredible. Also, I enjoyed how the book took a historical route to all of this. One of the few books I had actually to take notes on. As a whole, it was refreshing and interes...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1111887353]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1111887353]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1111883226</id>
+    <book>
+  <id type="integer">457284</id>
+  <isbn>3540245022</isbn>
+  <isbn13>9783540245025</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.nxomWSwvC8KjP-RCbLMQQw</uri>
+  <title>Decrypted Secrets: Methods and Maxims of Cryptology</title>
+  <title_without_series>Decrypted Secrets: Methods and Maxims of Cryptology</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/457284.Decrypted_Secrets</link>
+  <num_pages>524</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Springer</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>31</ratings_count>
+  <description>In today's unsafe and increasingly wired world cryptology plays a vital role in protecting communication channels, databases, and software from unwanted intruders. This revised and extended third edition of the classic reference work on cryptology now contains many new technical and biographical details. The first part treats secret codes and their uses - cryptography. The second part deals with the process of covertly decrypting a secret code - cryptanalysis, where particular advice on assessing methods is given. The book presupposes only elementary mathematical knowledge. Spiced with a wealth of exciting, amusing, and sometimes personal stories from the history of cryptology, it will also interest general readers.</description>
+<authors>
+<author>
+<id>256600</id>
+<name>Friedrich L. Bauer</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/256600.Friedrich_L_Bauer]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>44</ratings_count>
+<text_reviews_count>0</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>1897395</id>
+  <uri>kca://work/amzn1.gr.work.v1.F60CjxJ-_y8IDnx4OyiYdg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Nov 21 00:00:00 -0800 2014</started_at>
+  <read_at>Thu May 28 12:52:26 -0700 2015</read_at>
+  <date_added>Fri Nov 21 06:58:07 -0800 2014</date_added>
+  <date_updated>Thu May 28 12:52:26 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1111883226]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1111883226]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>1111883036</id>
+    <book>
+  <id type="integer">722471</id>
+  <isbn>0201870738</isbn>
+  <isbn13>9780201870732</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.u5HAZExIYEx6tX1BgBZvBw</uri>
+  <title>Elementary Number Theory and Its Applications</title>
+  <title_without_series>Elementary Number Theory and Its Applications</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/722471.Elementary_Number_Theory_and_Its_Applications</link>
+  <num_pages>544</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Addison Wesley Publishing Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>109</ratings_count>
+  <description>The fourth edition of Kenneth Rosen's widely used and successful text, Elementary Number Theory and Its Applications, preserves the strengths of the previous editions, while enhancing the book's flexibility and depth of content coverage.The blending of classical theory with modern applications is a hallmark feature of the text. The Fourth Edition builds on this strength with new examples, additional applications and increased cryptology coverage. Up-to-date information on the latest discoveries is included.Elementary Number Theory and Its Applications provides a diverse group of exercises, including basic exercises designed to help students develop skills, challenging exercises and computer projects. In addition to years of use and professor feedback, the fourth edition of this text has been thoroughly accuracy checked to ensure the quality of the mathematical content and the exercises.</description>
+<authors>
+<author>
+<id>16118</id>
+<name>Kenneth H. Rosen</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16118.Kenneth_H_Rosen]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>1821</ratings_count>
+<text_reviews_count>103</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>708707</id>
+  <uri>kca://work/amzn1.gr.work.v1.vAVjMlUtN6h4KsCPF5SDIA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Nov 21 06:57:45 -0800 2014</date_added>
+  <date_updated>Fri Nov 21 06:57:51 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1111883036]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1111883036]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1111882590</id>
+    <book>
+  <id type="integer">637638</id>
+  <isbn>0312366965</isbn>
+  <isbn13>9780312366964</isbn13>
+  <text_reviews_count type="integer">117</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.i2VwNZ71qw0wCRoeND8Zrw</uri>
+  <title>Decipher</title>
+  <title_without_series>Decipher</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317792075l/637638._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317792075l/637638._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/637638.Decipher</link>
+  <num_pages>592</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>1837</ratings_count>
+  <description>MANKIND HAS HAD 12,000 YEARS TO DECIPHER THE MESSAGE,&lt;br /&gt;WE HAVE ONE WEEK LEFT....&lt;br /&gt;&lt;br /&gt;There is a signal emanating from deep within the ice of Antarctica. Atlantis has awoken. Ancient monuments all over the worlds from the Pyramids of Giza, to Mexico to the ancient sites of China are reacting...to a brewing crisis not of this earth, but somewhere out in the solar system. Connecting to each other through the oceans. Using low frequency sound waves to create an ancient network. The earth is thrown into panic stations. For it seems that the signals emanating from Atlantis are a prelude to something much greater. Could it be that the entire city is in fact one giant ancient machine? And to what end? For what purpose?&lt;br /&gt;&lt;br /&gt;It is the year 2012, the same year Mayan belief prophesised the end of the world. Two armies, American and Chinese stand on the brink of war for the control of the most potent force ever known to man. The secrets of Atlantis. Secrets which are encoded in crystal shards retrieved from the sunken city. Secrets which Mankind has had twelve thousand years to decipher...but which will now destroy it within one week.</description>
+<authors>
+<author>
+<id>343941</id>
+<name>Stel Pavlou</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474647277p5/343941.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474647277p2/343941.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/343941.Stel_Pavlou]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>2611</ratings_count>
+<text_reviews_count>278</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>623897</id>
+  <uri>kca://work/amzn1.gr.work.v1.uaDnAq7rVmCQkaC1tPMJoQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Nov 21 06:56:57 -0800 2014</date_added>
+  <date_updated>Fri Nov 21 06:57:04 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1111882590]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1111882590]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>1110683964</id>
+    <book>
+  <id type="integer">444347</id>
+  <isbn>0439372941</isbn>
+  <isbn13>9780439372947</isbn13>
+  <text_reviews_count type="integer">2005</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.IZ4bwYBRpd_d_-jqy9tTfg</uri>
+  <title>Chasing Vermeer (Chasing Vermeer, #1)</title>
+  <title_without_series>Chasing Vermeer</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/444347.Chasing_Vermeer</link>
+  <num_pages>254</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.72</average_rating>
+  <ratings_count>26396</ratings_count>
+  <description>When a book of unexplainable occurrences brings Petra Andalee and Calder Pillay together, strange things start to happen: seemingly unrelated events connect, an eccentric old woman seeks their company, and an invaluable Vermeer painting disappears. Before they know it, the two find themselves at the center of an international art scandal, where no one — neighbors, parents, teachers — is spared from suspicion. As Petra and Calder are drawn clue by clue into a mysterious labyrinth, they must draw on their powers of intuition, their problem-solving skills, and their knowledge of Vermeer. Can they decipher a crime that has left even the FBI baffled?</description>
+<authors>
+<author>
+<id>86085</id>
+<name>Blue Balliett</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1244142008p5/86085.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1244142008p2/86085.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/86085.Blue_Balliett]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>48614</ratings_count>
+<text_reviews_count>4479</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>3280795</id>
+  <uri>kca://work/amzn1.gr.work.v1.x1f2K1JEmFN7Mwey2FGfhQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Nov 19 16:12:57 -0800 2014</date_added>
+  <date_updated>Wed Nov 19 16:13:03 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1110683964]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1110683964]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>1110683566</id>
+    <book>
+  <id type="integer">208737</id>
+  <isbn>0805072543</isbn>
+  <isbn13>9780805072549</isbn13>
+  <text_reviews_count type="integer">20</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.loDm6FT1Sur8Vhxy9j25bQ</uri>
+  <title>The Language of Mathematics: Making the Invisible Visible</title>
+  <title_without_series>The Language of Mathematics: Making the Invisible Visible</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/208737.The_Language_of_Mathematics</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Holt Paperbacks</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>399</ratings_count>
+  <description>"The great book of nature," said Galileo, "can be read only by those who know the language in which it was written. And this language is mathematics." In &lt;i&gt;The Language of Mathematics&lt;/i&gt;, award-winning author Keith Devlin reveals the vital role mathematics plays in our eternal quest to understand who we are and the world we live in. More than just the study of numbers, mathematics provides us with the eyes to recognize and describe the hidden patterns of life—patterns that exist in the physical, biological, and social worlds without, and the realm of ideas and thoughts within.&lt;br /&gt;&lt;br /&gt;Taking the reader on a wondrous journey through the invisible universe that surrounds us—a universe made visible by mathematics—Devlin shows us what keeps a jumbo jet in the air, explains how we can see and hear a football game on TV, allows us to predict the weather, the behavior of the stock market, and the outcome of elections. Microwave ovens, telephone cables, children's toys, pacemakers, automobiles, and computers—all operate on mathematical principles. Far from a dry and esoteric subject, mathematics is a rich and living part of our culture. An exploration of an often woefully misunderstood subject, &lt;i&gt;The Language of Mathematics&lt;/i&gt; celebrates the simplicity, the precision, the purity, and the elegance of mathematics.</description>
+<authors>
+<author>
+<id>88713</id>
+<name>Keith J. Devlin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1222028906p5/88713.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1222028906p2/88713.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/88713.Keith_J_Devlin]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>5437</ratings_count>
+<text_reviews_count>605</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>2068670</id>
+  <uri>kca://work/amzn1.gr.work.v1.lAb1QQN_uisztKu2KsVbTg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='292937855' name='favorites' review_shelf_id='2259329427' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Nov 19 16:12:24 -0800 2014</date_added>
+  <date_updated>Mon Dec 03 13:00:43 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1110683566]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1110683566]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>1110683345</id>
+    <book>
+  <id type="integer">587159</id>
+  <isbn>1862075557</isbn>
+  <isbn13>9781862075559</isbn13>
+  <text_reviews_count type="integer">12</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KFRXVwtIjm-QOCEmAA3Hxw</uri>
+  <title>It Must Be Beautiful: Great Equations of Modern Science</title>
+  <title_without_series>It Must Be Beautiful: Great Equations of Modern Science</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328701402l/587159._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328701402l/587159._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/587159.It_Must_Be_Beautiful</link>
+  <num_pages>300</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Granta UK</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>201</ratings_count>
+  <description>&lt;i&gt;It Must Be Beautiful&lt;/i&gt; is a collection of 12 essays on the power and beauty of modern scientific equations by some of the world's foremost scientists and historians. Contributors include Steven Weinberg, Peter Galison, John Maynard Smith, and Frank Wilczek.</description>
+<authors>
+<author>
+<id>319993</id>
+<name>Graham Farmelo</name>
+<role>Editor</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1256020044p5/319993.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1256020044p2/319993.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/319993.Graham_Farmelo]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>4937</ratings_count>
+<text_reviews_count>315</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>573992</id>
+  <uri>kca://work/amzn1.gr.work.v1.9YTlLhTRw3ZvNguKHdN5dw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='292937855' name='favorites' review_shelf_id='2259330338' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Nov 19 16:12:03 -0800 2014</date_added>
+  <date_updated>Mon Dec 03 13:01:43 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1110683345]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1110683345]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1110683094</id>
+    <book>
+  <id type="integer">584620</id>
+  <isbn>0195105192</isbn>
+  <isbn13>9780195105193</isbn13>
+  <text_reviews_count type="integer">35</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.gydxCJkE1z3u5RZVbExOUg</uri>
+  <title>What Is Mathematics?: An Elementary Approach to Ideas and Methods</title>
+  <title_without_series>What Is Mathematics?: An Elementary Approach to Ideas and Methods</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/584620.What_Is_Mathematics_</link>
+  <num_pages>592</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Oxford University Press</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>1751</ratings_count>
+  <description>For more than two thousand years a familiarity with mathematics has been regarded as an indispensable part of the intellectual equipment of every cultured person. Today, unfortunately, the traditional place of mathematics in education is in grave danger. The teaching and learning of mathematics has degenerated into the realm of rote memorization, the outcome of which leads to satisfactory formal ability but does not lead to real understanding or to greater intellectual independence. This new edition of Richard Courant's and Herbert Robbins's classic work seeks to address this problem. Its goal is to put the &lt;i&gt;meaning&lt;/i&gt; back into mathematics.&lt;br /&gt;&lt;br /&gt;Written for beginners and scholars, for students and teachers, for philosophers and engineers, &lt;i&gt;What is Mathematics? Second Edition&lt;/i&gt; is a sparkling collection of mathematical gems that offers an entertaining and accessible portrait of the mathematical world. Covering everything from natural numbers and the number system to geometrical constructions and projective geometry, from topology and calculus to matters of principle and the Continuum Hypothesis, this fascinating survey allows readers to delve into mathematics as an organic whole rather than an empty drill in problem solving. With chapters largely independent of one another and sections that lead upward from basic to more advanced discussions, readers can easily pick and choose areas of particular interest without impairing their understanding of subsequent parts.&lt;br /&gt;&lt;br /&gt;Brought up to date with a new chapter by Ian Stewart, &lt;i&gt;What is Mathematics? Second Edition&lt;/i&gt; offers new insights into recent mathematical developments and describes proofs of the Four-Color Theorem and Fermat's Last Theorem, problems that were still open when Courant and Robbins wrote this masterpiece, but ones that have since been solved.&lt;br /&gt;&lt;br /&gt;Formal mathematics is like spelling and grammar - a matter of the correct application of local rules. Meaningful mathematics is like journalism - it tells an interesting story. But unlike some journalism, the story has to be true. The best mathematics is like literature - it brings a story to life before your eyes and involves you in it, intellectually and emotionally. &lt;i&gt;What is Mathematics&lt;/i&gt; is like a fine piece of literature - it opens a window onto the world of mathematics for anyone interested to view.</description>
+<authors>
+<author>
+<id>318823</id>
+<name>Richard Courant</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/318823.Richard_Courant]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>1875</ratings_count>
+<text_reviews_count>49</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+<work>  <id>571471</id>
+  <uri>kca://work/amzn1.gr.work.v1.j5BKTZEXeBkodEOlnCTV_A</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 01 00:00:00 -0800 2017</read_at>
+  <date_added>Wed Nov 19 16:11:41 -0800 2014</date_added>
+  <date_updated>Sun Dec 31 05:26:20 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1110683094]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1110683094]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1110682326</id>
+    <book>
+  <id type="integer">131306</id>
+  <isbn>1841154350</isbn>
+  <isbn13>9781841154350</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.al-2OvXZEkrLJMWOZlR2YQ</uri>
+  <title>The science of secrecy: The secret history of codes and codebreaking</title>
+  <title_without_series>The science of secrecy: The secret history of codes and codebreaking</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/131306.The_science_of_secrecy</link>
+  <num_pages></num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.18</average_rating>
+  <ratings_count>164</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>10894</id>
+<name>Simon Singh</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1263127928p5/10894.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1263127928p2/10894.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10894.Simon_Singh]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>66347</ratings_count>
+<text_reviews_count>3300</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>17046372</id>
+  <uri>kca://work/amzn1.gr.work.v1.H50FtrgcUmDdly_XO7V0jQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Nov 19 16:10:29 -0800 2014</date_added>
+  <date_updated>Wed Nov 19 16:10:36 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1110682326]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1110682326]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1110682076</id>
+    <book>
+  <id type="integer">1006227</id>
+  <isbn>0684854171</isbn>
+  <isbn13>9780684854175</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.712CzDpy69jh4jyhfT7iMA</uri>
+  <title>What Counts: How Every Brain is Hardwired for Math</title>
+  <title_without_series>What Counts: How Every Brain is Hardwired for Math</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1006227.What_Counts</link>
+  <num_pages>432</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Free Press</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.64</average_rating>
+  <ratings_count>22</ratings_count>
+  <description>Much has been written about our innate language sense and how it has shaped our evolution and our nature, but until now little has been known about what Brian Butterworth calls our "numerosity, " an innate number sense as fundamental to our human nature as language. Indeed, the author argues, to explore human nature at all it is necessary to explore the numerosity of the human brain.Is there a math gene? Butterworth's research strongly suggests there is. Do men and women count differently? What is a mathematical prodigy? Why do some people count on their fingers? Are our methods of teaching math effective or not -- and why? No book has authoritatively answered these intriguing questions before now. Butterworth's unique expertise in both mathematics and psychology has enabled him to write a trailblazing work on our understanding of the mathematical brain that shows why counting is fundamental to our lives and how we comprehend the world. With an engaging and accessible style, What Counts will become as important to mathematics as Stephen Pinker's and Noam Chomsky's writings are to language.</description>
+<authors>
+<author>
+<id>441883</id>
+<name>Brian Butterworth</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1368297696p5/441883.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1368297696p2/441883.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/441883.Brian_Butterworth]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>80</ratings_count>
+<text_reviews_count>8</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>992353</id>
+  <uri>kca://work/amzn1.gr.work.v1.SMp-hPFG6zOv0Nr0Vr0G3g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Nov 19 16:10:08 -0800 2014</date_added>
+  <date_updated>Wed Nov 19 16:10:14 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1110682076]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1110682076]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1110681610</id>
+    <book>
+  <id type="integer">7985298</id>
+  <isbn>0747597162</isbn>
+  <isbn13>9780747597162</isbn13>
+  <text_reviews_count type="integer">35</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.zvsB5SOTa7nEDvvncNnMmw</uri>
+  <title>Alex's Adventures in Numberland: Dispatches from the Wonderful World of Mathematics</title>
+  <title_without_series>Alex's Adventures in Numberland: Dispatches from the Wonderful World of Mathematics</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7985298-alex-s-adventures-in-numberland</link>
+  <num_pages>448</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Bloomsbury</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>3723</ratings_count>
+  <description>Too often math gets a bad rap, characterized as dry and difficult. But, Alex Bellos says, "math can be inspiring and brilliantly creative. Mathematical thought is one of the great achievements of the human race, and arguably the foundation of all human progress. The world of mathematics is a remarkable place."Bellos has traveled all around the globe and has plunged into history to uncover fascinating stories of mathematical achievement, from the breakthroughs of Euclid, the greatest mathematician of all time, to the creations of the Zen master of origami, one of the hottest areas of mathematical work today. Taking us into the wilds of the Amazon, he tells the story of a tribe there who can count only to five and reports on the latest findings about the math instinct--including the revelation that ants can actually count how many steps they've taken. Journeying to the Bay of Bengal, he interviews a Hindu sage about the brilliant mathematical insights of the Buddha, while in Japan he visits the godfather of Sudoku and introduces the brainteasing delights of mathematical games.Exploring the mysteries of randomness, he explains why it is impossible for our iPods to truly randomly select songs. In probing the many intrigues of that most beloved of numbers, pi, he visits with two brothers so obsessed with the elusive number that they built a supercomputer in their Manhattan apartment to study it. Throughout, the journey is enhanced with a wealth of intriguing illustrations, such as of the clever puzzles known as tangrams and the crochet creation of an American math professor who suddenly realized one day that she could knit a representation of higher dimensional space that no one had been able to visualize. Whether writing about how algebra solved Swedish traffic problems, visiting the Mental Calculation World Cup to disclose the secrets of lightning calculation, or exploring the links between pineapples and beautiful teeth, Bellos is a wonderfully engaging guide who never fails to delight even as he edifies. "Here's Looking at Euclid "is a rare gem that brings the beauty of math to life.</description>
+<authors>
+<author>
+<id>398989</id>
+<name>Alex Bellos</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1343975269p5/398989.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1343975269p2/398989.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/398989.Alex_Bellos]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>6753</ratings_count>
+<text_reviews_count>702</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>11157611</id>
+  <uri>kca://work/amzn1.gr.work.v1.m7bREilbQaCDIKG50lj9WQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Nov 19 16:09:23 -0800 2014</date_added>
+  <date_updated>Wed Nov 19 16:09:51 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1110681610]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1110681610]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1110680208</id>
+    <book>
+  <id type="integer">8564913</id>
+  <isbn>0285638475</isbn>
+  <isbn13>9780285638471</isbn13>
+  <text_reviews_count type="integer">12</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tYwbnBi7-TE15F6EClH7yg</uri>
+  <title>The Elephant in the Classroom: Helping Children Learn and Love Maths</title>
+  <title_without_series>The Elephant in the Classroom: Helping Children Learn and Love Maths</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8564913-the-elephant-in-the-classroom</link>
+  <num_pages></num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Souvenir Press</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>218</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>576982</id>
+<name>Jo Boaler</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1562883813p5/576982.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1562883813p2/576982.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/576982.Jo_Boaler]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>2814</ratings_count>
+<text_reviews_count>368</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>10705715</id>
+  <uri>kca://work/amzn1.gr.work.v1.3TLWYt_hLXro3idTmOikYw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="120871861" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Nov 19 16:07:03 -0800 2014</date_added>
+  <date_updated>Wed Nov 19 16:08:51 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1110680208]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1110680208]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

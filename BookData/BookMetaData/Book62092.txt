@@ -1,0 +1,2 @@
+SRP: The Single Responsibility Principle by Robert C. Martin
+Average Rating: 3.50

@@ -1,0 +1,3903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='36533961' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="51" total="51">
+    <review>
+  <id>3041144855</id>
+    <book>
+  <id type="integer">18952827</id>
+  <isbn nil="true"/>
+  <isbn13>9780983958109</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.b6DAiFPStrbMDbC9Re44nA</uri>
+  <title>The Healing Powers of Essential Oils</title>
+  <title_without_series>The Healing Powers of Essential Oils</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18952827-the-healing-powers-of-essential-oils</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>5.00</average_rating>
+  <ratings_count>2</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>7430059</id>
+<name>LeMere N.N.D., K.B.</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7430059.LeMere_N_N_D_K_B_]]></link>
+<average_rating>5.00</average_rating>
+<ratings_count>2</ratings_count>
+<text_reviews_count>0</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>26966186</id>
+  <uri>kca://work/amzn1.gr.work.v1.WFlecnCt71WP6CQkKeW48Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Nov 07 22:06:30 -0800 2019</date_added>
+  <date_updated>Thu Nov 07 22:06:50 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3041144855]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3041144855]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2993765408</id>
+    <book>
+  <id type="integer">35908724</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VfX0AQGERBDw06gWhF-YBw</uri>
+  <title>Beginner's Guide to Essential Oils and Herbal Tinctures: DIY Natural Remedies with Herbs, Aromatherapy Recipes, Infused Oils, and Much More!</title>
+  <title_without_series>Beginner's Guide to Essential Oils and Herbal Tinctures: DIY Natural Remedies with Herbs, Aromatherapy Recipes, Infused Oils, and Much More!</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35908724-beginner-s-guide-to-essential-oils-and-herbal-tinctures</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>16</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>1593072</id>
+<name>Kathy Wyatt</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1593072.Kathy_Wyatt]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>39</ratings_count>
+<text_reviews_count>7</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>57434108</id>
+  <uri>kca://work/amzn1.gr.work.v1.1ymCKXAAi7rvIbRPdK-CVQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Sep 28 12:09:53 -0700 2019</date_added>
+  <date_updated>Sat Sep 28 12:10:52 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2993765408]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2993765408]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2936386684</id>
+    <book>
+  <id type="integer">44909229</id>
+  <isbn>0806539178</isbn>
+  <isbn13>9780806539171</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.YTRKyvl5rpBCLjfMp49A5w</uri>
+  <title>The Healing Powers of Essential Oils: A Complete Guide to Nature's Most Magical Medicine</title>
+  <title_without_series>The Healing Powers of Essential Oils: A Complete Guide to Nature's Most Magical Medicine</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566068668l/44909229._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566068668l/44909229._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/44909229-the-healing-powers-of-essential-oils</link>
+  <num_pages>336</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Citadel Press</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>5</ratings_count>
+  <description>&lt;b&gt;
+  &lt;i&gt;Follow your nose to nature's pharmacy: the garden, where the essence of flowers, fruits, and trees provide some of our most powerful--and pleasurable--sources of health and healing...&lt;/i&gt;
+&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Essential oils--including peppermint, eucalyptus, rose, and tea tree--are nature's ancient medicine, abundant with therapeutic effects. The latest scientific research shows that many popular essential oils and aromatherapy can boost your health and well-being, adding years to your life! This fascinating guide gives you the down-to-earth scoop on the top twenty oils--all of which are budget-friendly and available year-round in everyday products at your grocery store, health food store, and online. Learn how nature's bouquet can help you:&lt;br /&gt;&lt;br /&gt;*Fight colds and stomach woes with medicinal eucalyptus and mint; slow the aging process and lower your risk of cancer, heart disease, and depression with relaxing chamomile and lavender.&lt;br /&gt;&lt;br /&gt;*Naturally enhance flavor in dishes for every season with sweet-smelling foods like Cinnamon Rolls and Gingerbread Squares that lift your mood and trigger fond memories.&lt;br /&gt;&lt;br /&gt;*Discover dozens of home remedies to ease anxiety and stress, improve sleep, sharpen brainpower, increase energy, heal skin problems, and more!&lt;br /&gt;&lt;br /&gt;*Enjoy over 50 recipes for delicious dishes from salads, soups and entrees to desserts, including Lemon Oil Raspberry Muffins and Roast Chicken with Rosemary.&lt;br /&gt;&lt;br /&gt;Sprinkled with feel-good stories and memorable legends, &lt;i&gt;The Healing Powers of Essential Oils&lt;/i&gt; shows you how the comfort and calm of scent can help you get healthy and stay healthy, while taking you on an exciting and life-changing aromatic adventure!&lt;br /&gt;&lt;br /&gt;Includes color photos</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>69577203</id>
+  <uri>kca://work/amzn1.gr.work.v1.ilBddxp9GjOsCO-pSsYBTA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Aug 13 18:38:39 -0700 2019</date_added>
+  <date_updated>Tue Aug 13 18:38:40 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2936386684]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2936386684]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2782134209</id>
+    <book>
+  <id type="integer">19302731</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.vgSu0-BFF6KnK01E9QWuDA</uri>
+  <title>The 99¢ Guide To Apple Cider Vinegar</title>
+  <title_without_series>The 99¢ Guide To Apple Cider Vinegar</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19302731-the-99-guide-to-apple-cider-vinegar</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.38</average_rating>
+  <ratings_count>8</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>7259305</id>
+<name>Dynamite Books</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7259305.Dynamite_Books]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>158</ratings_count>
+<text_reviews_count>15</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>27352091</id>
+  <uri>kca://work/amzn1.gr.work.v1.74l5trQFfrWro0FXot5hHA</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 10 17:12:14 -0700 2019</date_added>
+  <date_updated>Wed Apr 10 17:12:15 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2782134209]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2782134209]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2782133765</id>
+    <book>
+  <id type="integer">19162550</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.PVyryAthxFjR_P5-N1Pd9A</uri>
+  <title>Sixty Uses Of Vinegar</title>
+  <title_without_series>Sixty Uses Of Vinegar</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19162550-sixty-uses-of-vinegar</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>2.00</average_rating>
+  <ratings_count>2</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>4931010</id>
+<name>Sallie&apos;s Books</name>
+<role>Editor</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4931010.Sallie_s_Books]]></link>
+<average_rating>2.78</average_rating>
+<ratings_count>9</ratings_count>
+<text_reviews_count>0</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>27203013</id>
+  <uri>kca://work/amzn1.gr.work.v1.n1JTrXFRkvvxw176SMgoWw</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 10 17:11:45 -0700 2019</date_added>
+  <date_updated>Wed Apr 10 17:11:45 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2782133765]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2782133765]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2782133527</id>
+    <book>
+  <id type="integer">25167133</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.EtJRTk2rbvWP4PtRWWisSA</uri>
+  <title>Apple Cider Vinegar Solution: Discover the Many Miraculous Apple Cider Vinegar Cures, Uses and Remedies You Never Knew About (apple cider vinegar, vinegar, ... vinegar books, apple cider vinegar free)</title>
+  <title_without_series>Apple Cider Vinegar Solution: Discover the Many Miraculous Apple Cider Vinegar Cures, Uses and Remedies You Never Knew About</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25167133-apple-cider-vinegar-solution</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>2.50</average_rating>
+  <ratings_count>4</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>8416883</id>
+<name>Sandi Lane</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8416883.Sandi_Lane]]></link>
+<average_rating>3.48</average_rating>
+<ratings_count>23</ratings_count>
+<text_reviews_count>3</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>44871891</id>
+  <uri>kca://work/amzn1.gr.work.v1.WVLNgkMHBJW23yV0Uhl9KA</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Apr 10 17:11:26 -0700 2019</date_added>
+  <date_updated>Wed Apr 10 17:13:06 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2782133527]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2782133527]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2780427103</id>
+    <book>
+  <id type="integer">24057882</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.don1hnIySeS2hYm78cSSfA</uri>
+  <title>The Discarded Superfoods! The Healing Powers Of Leaves, Peels, Rinds and Vegetable Tops!</title>
+  <title_without_series>The Discarded Superfoods! The Healing Powers Of Leaves, Peels, Rinds and Vegetable Tops!</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24057882-the-discarded-superfoods-the-healing-powers-of-leaves-peels-rinds-and</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.00</average_rating>
+  <ratings_count>2</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>7502435</id>
+<name>Daria Jones</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7502435.Daria_Jones]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>6</ratings_count>
+<text_reviews_count>0</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>43655733</id>
+  <uri>kca://work/amzn1.gr.work.v1._8xGOFs23Is4rsd3vMzXgw</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Apr 09 07:51:16 -0700 2019</date_added>
+  <date_updated>Tue Apr 09 07:51:16 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2780427103]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2780427103]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2705914985</id>
+    <book>
+  <id type="integer">40916679</id>
+  <isbn>1405293187</isbn>
+  <isbn13>9781405293181</isbn13>
+  <text_reviews_count type="integer">530</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.TtmudtX5vb0cgRpc7923_A</uri>
+  <title>A Good Girl's Guide to Murder (A Good Girl's Guide to Murder, #1)</title>
+  <title_without_series>A Good Girl's Guide to Murder</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545494980l/40916679._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545494980l/40916679._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40916679-a-good-girl-s-guide-to-murder</link>
+  <num_pages>433</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Electric Monkey</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.46</average_rating>
+  <ratings_count>3055</ratings_count>
+  <description>The case is closed. Five years ago, schoolgirl Andie Bell was murdered by Sal Singh. The police know he did it. Everyone in town knows he did it.&lt;br /&gt;&lt;br /&gt;But having grown up in the same small town that was consumed by the murder, Pippa Fitz-Amobi isn't so sure. When she chooses the case as the topic for her final year project, she starts to uncover secrets that someone in town desperately wants to stay hidden. And if the real killer is still out there, how far will they go to keep Pip from the truth?&lt;br /&gt;&lt;br /&gt;A debut YA crime thriller as addictive as Serial and as page-turning as One of Us Is Lying.</description>
+<authors>
+<author>
+<id>18229614</id>
+<name>Holly  Jackson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1532348714p5/18229614.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1532348714p2/18229614.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18229614.Holly_Jackson]]></link>
+<average_rating>4.46</average_rating>
+<ratings_count>3056</ratings_count>
+<text_reviews_count>578</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>63791847</id>
+  <uri>kca://work/amzn1.gr.work.v1.Dkx193w0AfBlBWms32b-Mw</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Feb 06 20:39:40 -0800 2019</date_added>
+  <date_updated>Wed Feb 06 20:41:21 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2705914985]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2705914985]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2603812689</id>
+    <book>
+  <id type="integer">36519293</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.h8OJU8qe2hdlYF1HSowOLQ</uri>
+  <title>Summary of Dr. Mehmet Oz's Food Can Fix It: The Superfood Switch to Fight Fat, Defy Aging, and Eat Your Way Healthy</title>
+  <title_without_series>Summary of Dr. Mehmet Oz's Food Can Fix It: The Superfood Switch to Fight Fat, Defy Aging, and Eat Your Way Healthy</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/36519293-summary-of-dr-mehmet-oz-s-food-can-fix-it</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>6</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>14420944</id>
+<name>Brief Books</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14420944.Brief_Books]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>1400</ratings_count>
+<text_reviews_count>148</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>58241431</id>
+  <uri>kca://work/amzn1.gr.work.v1.M4MKIvLWCIpJeURFRNJaVw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Nov 23 21:06:34 -0800 2018</date_added>
+  <date_updated>Sun Mar 03 09:32:17 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2603812689]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2603812689]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2603812112</id>
+    <book>
+  <id type="integer">18167827</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.az9LYUcPlAnfSFRjCerwhw</uri>
+  <title>Kale Recipes: Delicious Recipes Using This Superfood To Keep The Whole Family Healthy!</title>
+  <title_without_series>Kale Recipes: Delicious Recipes Using This Superfood To Keep The Whole Family Healthy!</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376264410l/18167827._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376264410l/18167827._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18167827-kale-recipes</link>
+  <num_pages>78</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Ready Recipe Books </publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.38</average_rating>
+  <ratings_count>21</ratings_count>
+  <description>Ready Recipe Books presents: Simple Kale Recipes. The only recipe book you will ever need to lead a truly nutritious lifestyle. Kale is a perfect ingredient for those who are in need of a healthier diet or people who just want to experience a new and magical culinary experience.&lt;br /&gt;&lt;br /&gt;Kale is a nutrient and mineral rich 'Superfood' that allows you to cook just about all of your favorite meals and beverages, whilst keeping you healthy.&lt;br /&gt;&lt;br /&gt;Inside this book you will find out; What Kale is, The nutritional values of Kale, Varieties of kale, How to prepare Kale, and Tips when cooking with Kale plus many delicious recipes.</description>
+<authors>
+<author>
+<id>7163251</id>
+<name>Ready Recipe Books</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7163251.Ready_Recipe_Books]]></link>
+<average_rating>3.60</average_rating>
+<ratings_count>452</ratings_count>
+<text_reviews_count>26</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>25534356</id>
+  <uri>kca://work/amzn1.gr.work.v1.oz4U7FTk8jxgbwrW7q1Wcg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Nov 23 21:05:40 -0800 2018</date_added>
+  <date_updated>Sat Nov 24 19:09:50 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2603812112]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2603812112]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2603812069</id>
+    <book>
+  <id type="integer">23852289</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.JrzdIB4FZy8B-C021DaMbg</uri>
+  <title>Amazing Avocado: Insanely Delicious Salad, Soup, Breakfast and Dessert Recipes for Better Health and Easy Weight Loss: Superfoods Cookbooks and Books (Healthy Weight Loss Diets Book 5)</title>
+  <title_without_series>Amazing Avocado: Insanely Delicious Salad, Soup, Breakfast and Dessert Recipes for Better Health and Easy Weight Loss: Superfoods Cookbooks and Books</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23852289-amazing-avocado</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.67</average_rating>
+  <ratings_count>33</ratings_count>
+  <description>What's for dinner! - Slimming Superfood Meals to Satisfy Your Soul - and StomachWhy get your nutrients from expensive supplements when you can enjoy mouthwatering superfood meals instead?From the author of several bestselling cookbooks and fitness enthusiast Alissa Noel Grey, comes a delicious new collection of superfood recipes that will naturally boost your metabolism and help you lose weight without starving. &lt;b&gt;Amazing Avocado: Delicious Salad, Soup, Main Dish, Breakfast and Smoothie Recipes for Better Health and Easy Weight Loss&lt;/b&gt; is an invaluable and delicious resource of mouthwatering healthy meals that will make you feel as good as they taste and are so quick and easy that they can be on your table in 15 minutes or less.If you're looking for an easy and natural way to lose weight and stay healthy, this cookbook is for you.&lt;b&gt;***FREE BONUS RECIPES at the end of the book - Easy Paleo, Gluten-Free, Fat Burning Smoothies for Better Health and Natural Weight Loss***&lt;/b&gt;</description>
+<authors>
+<author>
+<id>8383327</id>
+<name>Alissa Noel Grey</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8383327.Alissa_Noel_Grey]]></link>
+<average_rating>3.53</average_rating>
+<ratings_count>517</ratings_count>
+<text_reviews_count>45</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>43462008</id>
+  <uri>kca://work/amzn1.gr.work.v1.v7AoqxxzRqmklMG59ex4-A</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Nov 23 21:05:37 -0800 2018</date_added>
+  <date_updated>Sat Nov 24 19:09:48 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2603812069]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2603812069]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2358253770</id>
+    <book>
+  <id type="integer">39752965</id>
+  <isbn>0806538988</isbn>
+  <isbn13>9780806538983</isbn13>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.IwxaO8W6gJGogbwtfm60PA</uri>
+  <title>The Healing Powers of Superfoods</title>
+  <title_without_series>The Healing Powers of Superfoods</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530029489l/39752965._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530029489l/39752965._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/39752965-the-healing-powers-of-superfoods</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Citadel Press</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.22</average_rating>
+  <ratings_count>9</ratings_count>
+  <description>&lt;b&gt;
+  &lt;i&gt;Did you know the keys to a long life and vibrant good health can be found on the shelves of your local supermarket?&lt;/i&gt;
+&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Apples, leafy greens, shellfish, yogurt--even ice cream and pasta. The latest scientific studies reveal that many of the classic foods you've always loved are superfoods that can supercharge your health! Not only are they delicious, they're affordable--plus these essential farm-to-table favorites can work with &lt;i&gt;any &lt;/i&gt;diet plan, from the balanced Mediterranean Diet to the hunter-gatherer Paleo plan.&lt;br /&gt;&lt;br /&gt;With over 50 recipes for both cooked and raw dishes, including smoothies and soups, a detox juice fast and a jump-start pounds-off diet, this down-to-earth guide will show you how to get healthy and stay healthy with body-friendly superfoods.&lt;br /&gt;&lt;br /&gt;*Boost your immune system with citrus and nutrient-dense berries, including fresh, frozen, and dried.&lt;br /&gt;&lt;br /&gt;*Enjoy the healthy fats in eggs and nuts, including nut butters, to fight inflammation, slow the aging process, and lower your risk of cancer, heart disease, and diabetes.&lt;br /&gt;&lt;br /&gt;*Trade white sugar for antioxidant-rich sweeteners like maple syrup, the newest superfood!&lt;br /&gt;&lt;br /&gt;*Create home remedies designed to ease anxiety, improve sleep, boost brainpower and enhance energy.&lt;br /&gt;&lt;br /&gt;*Keep your home spotless for kids and pets using eco-friendly superfood-rich formulas.&lt;br /&gt;&lt;br /&gt;*Pamper your mind and body with the same food-based treatments that health spas use, including ingredients like seeds and seaweed.&lt;br /&gt;&lt;br /&gt;Now you can indulge in a Pesto Pizza or Berry Basil Smoothie, a Chicken Bone Broth or dark chocolate gelato, while chilling with an ancient-oats facial or relaxing in a warm, herb-scented bath. Infused with heartwarming stories and inspiring legends, &lt;i&gt; The Healing Powers of Superfoods&lt;/i&gt; will take you to a world of wellness that starts at home with our favorite foods from Mother Nature--enjoyed in a new way with an exciting twist!</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>61452996</id>
+  <uri>kca://work/amzn1.gr.work.v1.bv3PLjTcA_M_EnbmBBZSKA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='37114883' name='the-healing-powers-of-coffee' review_shelf_id='2080710357' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jun 24 08:31:57 -0700 2018</started_at>
+  <read_at>Mon Dec 10 15:49:37 -0800 2018</read_at>
+  <date_added>Wed Apr 11 13:26:01 -0700 2018</date_added>
+  <date_updated>Mon Dec 10 15:49:37 -0800 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2358253770]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2358253770]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2338752429</id>
+    <book>
+  <id type="integer">381753</id>
+  <isbn>1580170994</isbn>
+  <isbn13>9781580170994</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.K0SLYBwoPcc0sH01XMI-uA</uri>
+  <title>Herbal Teas: 101 Nourishing Blends for Daily Health  Vitality</title>
+  <title_without_series>Herbal Teas: 101 Nourishing Blends for Daily Health  Vitality</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404578783l/381753._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404578783l/381753._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/381753.Herbal_Teas</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Storey Publishing, LLC</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>51</ratings_count>
+  <description>A warm mug of strong tea was always grandma’s solution to a bad day, and it turns out she may have been on to something! Discover the healing properties of herbal teas in this comprehensive guide to blending and brewing your own steamy concoctions. Kathleen Brown includes recipes for teas to care for the head, throat, gut, nervous system, lungs, bones, joints, and more. Whether you seek to soothe body, soul, or both, you’ll find the perfect brew.</description>
+<authors>
+<author>
+<id>71143</id>
+<name>Kathleen Brown</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/71143.Kathleen_Brown]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>126</ratings_count>
+<text_reviews_count>13</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>371531</id>
+  <uri>kca://work/amzn1.gr.work.v1.xesKPoh7QkVdDpHxlOIhdQ</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Mar 24 20:27:25 -0700 2018</date_added>
+  <date_updated>Sat Mar 24 20:27:25 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2338752429]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2338752429]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2274528311</id>
+    <book>
+  <id type="integer">38184765</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KK_04dlnZd0VyGsUCwzXew</uri>
+  <title>Winter Blues (City Romance, # 1)</title>
+  <title_without_series>Winter Blues</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38184765-winter-blues</link>
+  <num_pages></num_pages>
+  <format/>
+  <edition_information/>
+  <publisher>Tainted Sweetheart</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>113</ratings_count>
+  <description>&lt;b&gt;SOMETHING OLD&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Cassandra Ross worked at Stephens &amp;amp; Associates for years and saw Vance Stephens at corporate events and holiday parties. He was her boss's son and was said to be a maverick. Vance was a celebrity lawyer. He invested in a fleet of start-up companies and lived a bachelor lifestyle. &lt;br /&gt;&lt;br /&gt;Their exchanges were always intimate, stolen moments until a New Year's gala when Vance took her breath away in a passionate Winter's kiss. He received a phone call and left before Cassandra had a chance to reveal her feelings for him. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;SOMETHING NEW&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Cassandra found out months later that Vance was involved in a situation that could lead to his financial ruin. She didn't see Vance until he walked into the company's holiday toy drive almost a year later. He wore a designer suit with a diaper bag slung over his shoulder as he steered a high-tech baby stroller. Vance said he was a single Dad and then introduced her to Braeden Jacob Stephens, his adorable two-month old son. &lt;br /&gt;&lt;br /&gt;Vance Stephens wanted Cassandra from the moment he saw her. She was off limits for years and bad timing had kept them apart. A stressful moment and his random proposal will prompt Cassandra to accept an arrangement. Can she handle the situations and responsibilities or will her own past and insecurities destroy her chance at happiness? &lt;br /&gt;&lt;br /&gt;Adult Romance, contains sexual content.</description>
+<authors>
+<author>
+<id>13529045</id>
+<name>Jessica Caryn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1533387745p5/13529045.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1533387745p2/13529045.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13529045.Jessica_Caryn]]></link>
+<average_rating>4.58</average_rating>
+<ratings_count>837</ratings_count>
+<text_reviews_count>33</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>59848391</id>
+  <uri>kca://work/amzn1.gr.work.v1.BjJTul76oHjVru_lSc3yPg</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jan 27 15:17:21 -0800 2018</date_added>
+  <date_updated>Sat Jan 27 15:17:21 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2274528311]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2274528311]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2274527485</id>
+    <book>
+  <id type="integer">22456636</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.LqjfZnL6L-lD5gRbfWUIQw</uri>
+  <title>Bemused and Bedeviled: Terpsichore in Love</title>
+  <title_without_series>Bemused and Bedeviled: Terpsichore in Love</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402502213l/22456636._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402502213l/22456636._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22456636-bemused-and-bedeviled</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>24</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>136036</id>
+<name>John Tucker</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1391964762p5/136036.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1391964762p2/136036.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/136036.John_Tucker]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>219</ratings_count>
+<text_reviews_count>139</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>24247247</id>
+  <uri>kca://work/amzn1.gr.work.v1.guTo8kPDrTaiQDTmjktDzw</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jan 27 15:16:32 -0800 2018</date_added>
+  <date_updated>Sat Jan 27 15:16:32 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2274527485]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2274527485]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2274527139</id>
+    <book>
+  <id type="integer">597251</id>
+  <isbn>0099504189</isbn>
+  <isbn13>9780099504184</isbn13>
+  <text_reviews_count type="integer">100</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.1_sAUor8WxgSmQoTg-JuqA</uri>
+  <title>The Poseidon Adventure</title>
+  <title_without_series>The Poseidon Adventure</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/597251.The_Poseidon_Adventure</link>
+  <num_pages>480</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.93</average_rating>
+  <ratings_count>7963</ratings_count>
+  <description>On its maiden voyage, luxury ocean liner SS &lt;i&gt;Poseidon&lt;/i&gt; is capsized by a massive undersea earthquake. A handful of survivors must fight for their lives—struggling to make it from the upper deck of the ship to the hull, the only part above water, before the ship sinks. Faced with rising water and the violence of desperate passengers and crewmembers, the group must do everything it can to survive—before time runs out. Adapted into an award-winning film by Irwin Allen, &lt;i&gt;The Poseidon Adventure&lt;/i&gt; is a thrilling tale with timeless suspense and excitement.&lt;br /&gt;&lt;br /&gt; ABOUT THE AUTHOR &lt;br /&gt;Paul Gallico (1897-1976) was an American novelist and sportswriter. Born in New York City, he graduated from Columbia University and became the sports editor and columnist for the &lt;i&gt;New York Daily News&lt;/i&gt;, where he became known for asking champion boxer Jack Dempsey to spar with him during an interview. He founded the Golden Gloves amateur boxing competition, and wrote the book that inspired the movie &lt;i&gt;The Pride of the Yankees&lt;/i&gt;, starring Gary Cooper.&lt;br /&gt;&lt;br /&gt;Gallico is known for his short stories and novels, several of which were adapted to TV and film. His short story &lt;i&gt;The Snow Goose&lt;/i&gt; received the O. Henry Award for short fiction; his novel &lt;i&gt;Love of Seven Dolls&lt;/i&gt; was adapted into &lt;i&gt;Lili&lt;/i&gt;, an Oscar-winning film.&lt;br /&gt;</description>
+<authors>
+<author>
+<id>92064</id>
+<name>Paul Gallico</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201473732p5/92064.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201473732p2/92064.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/92064.Paul_Gallico]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>20744</ratings_count>
+<text_reviews_count>1789</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>2019504</id>
+  <uri>kca://work/amzn1.gr.work.v1.92iUJC80co5LOgpYf7QSVg</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jan 27 15:16:09 -0800 2018</date_added>
+  <date_updated>Sat Jan 27 15:16:09 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2274527139]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2274527139]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2274526916</id>
+    <book>
+  <id type="integer">22926676</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.1VYlpci4k4iBnCGbknCE8g</uri>
+  <title>Terpsichore in Love (Bemused &amp; Bedeviled Book 1)</title>
+  <title_without_series>Terpsichore in Love</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22926676-terpsichore-in-love</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>24</ratings_count>
+  <description>Terpsichore, one of nine Muses living on Earth while they advise mortals, falls in love with Daniel Gordon; a man who displays special powers after coming into contact with her. While they keep their relationship intact, Terpsichore and Dan have to deal with her disparate sisters, the forces of Heaven who want to end their romance, and the legions of Hades who think the mortal is the prophesied Antichrist. Can their love survive the coming apocalypse?</description>
+<authors>
+<author>
+<id>136036</id>
+<name>John Tucker</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1391964762p5/136036.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1391964762p2/136036.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/136036.John_Tucker]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>219</ratings_count>
+<text_reviews_count>139</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>24247247</id>
+  <uri>kca://work/amzn1.gr.work.v1.guTo8kPDrTaiQDTmjktDzw</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jan 27 15:15:55 -0800 2018</date_added>
+  <date_updated>Sat Jan 27 15:15:55 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2274526916]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2274526916]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2274471256</id>
+    <book>
+  <id type="integer">23014666</id>
+  <isbn>1250054389</isbn>
+  <isbn13>9781250054388</isbn13>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qLFVWGRNFdkU2BB9RLcI0w</uri>
+  <title>No-Churn Ice Cream: Over 100 Simply Delicious No-Machine Frozen Treats</title>
+  <title_without_series>No-Churn Ice Cream: Over 100 Simply Delicious No-Machine Frozen Treats</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416448193l/23014666._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416448193l/23014666._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23014666-no-churn-ice-cream</link>
+  <num_pages>176</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>38</ratings_count>
+  <description>&lt;b&gt;Discover how to make homemade ice cream and other desserts!&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;&lt;br /&gt;In every country you'll find people eating ice cream on street corners, in markets, and in fancy restaurants. But the number of people who make it at home is much smaller. The reason? Making this sweet treat yourself is kind of a pain. Ice cream machines can be expensive, bulky and hard to store, or cheap and inefficient. But what if you could make your own ice cream at home without all of the fuss, for a fraction of the cost of buying it, and without any special equipment? &lt;i&gt;No-Churn Ice Cream&lt;/i&gt; is a mouthwatering collection of shortcuts and classic culinary techniques that help you achieve delicious, artisanal results.&lt;br /&gt;&lt;br /&gt;All you need to make your quick and easy no-churn ice cream are the following simple tools:&lt;br /&gt;&lt;br /&gt;- A freezer&lt;br /&gt;- A whisk or electric mixer&lt;br /&gt;- A can opener&lt;br /&gt;- A bowl and a freezeable container, such as a loaf pan&lt;br /&gt;- A sweet tooth!&lt;br /&gt;&lt;br /&gt;Inside you'll find recipes for all the basic flavors, plus more complex and exciting flavors such as Pineapple-Peppercorn and Sweet Potato Marshmallow Swirl. Treat yourself with a decadent Stracciatella gelato or Bananas Foster sorbet, or cool off with some Lavender-Almond sherbet. Your flavor variations are limited only by your imagination. Why not add some bacon to that batch of chocolate-caramel ice cream? Leslie Bilderback, author of &lt;i&gt;Mug Cakes, &lt;/i&gt;is here to show you how.</description>
+<authors>
+<author>
+<id>2950565</id>
+<name>Leslie Bilderback</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1423256738p5/2950565.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1423256738p2/2950565.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2950565.Leslie_Bilderback]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>341</ratings_count>
+<text_reviews_count>68</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>42580795</id>
+  <uri>kca://work/amzn1.gr.work.v1.tAwsQUcY-KfcOl7-9sU67A</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jan 27 14:22:47 -0800 2018</date_added>
+  <date_updated>Sat Jan 27 14:22:47 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2274471256]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2274471256]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2252789865</id>
+    <book>
+  <id type="integer">22773114</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.irM2M4uH-JOMuNAuFSQBdQ</uri>
+  <title>Green Tea: Green Tea &amp; Its Miraculous Healing Powers: Green Tea For Weight Loss, Diabetes, Blood Pressure, Cholesterol, Cancer, Stress, Allergies, Teeth ... - All Your Questions Answered Book 1)</title>
+  <title_without_series>Green Tea: Green Tea &amp; Its Miraculous Healing Powers: Green Tea For Weight Loss, Diabetes, Blood Pressure, Cholesterol, Cancer, Stress, Allergies, Teeth ... - All Your Questions Answered Book 1)</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22773114-green-tea</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>22</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>8402277</id>
+<name>Sukhmani Grover</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8402277.Sukhmani_Grover]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>110</ratings_count>
+<text_reviews_count>10</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>42316644</id>
+  <uri>kca://work/amzn1.gr.work.v1.149bXsgVFOCl47wGszCp0A</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jan 10 17:47:51 -0800 2018</date_added>
+  <date_updated>Fri Sep 07 18:14:58 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>1</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2252789865]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2252789865]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1593675408</id>
+    <book>
+  <id type="integer">28109949</id>
+  <isbn>1496703804</isbn>
+  <isbn13>9781496703804</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.inmKdfGWb7DWX7hYTlUWKw</uri>
+  <title>The Healing Powers Of Vinegar</title>
+  <title_without_series>The Healing Powers Of Vinegar</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057019l/28109949._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453057019l/28109949._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28109949-the-healing-powers-of-vinegar</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Kensington</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>157</ratings_count>
+  <description>&lt;b&gt;REVISED AND UPDATED THIRD EDITION &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;New Recipes * New Health Research * New Home Cures&lt;br /&gt;&lt;br /&gt;&lt;b&gt;With a New Foreword by Dr. Will Clower, CEO Mediterranean Wellness&lt;/b&gt;&lt;br /&gt;&lt;b&gt; &lt;/b&gt;&lt;br /&gt; "A practical, health-oriented book that everyone who wants to stay healthy and live longer should read." --Patricia Bragg, N.D., Ph.D., author of &lt;i&gt;Apple Cider Vinegar&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;"The essential book on vinegar--the number-one superfood of all time!" --Ann Louise Gittleman, Ph.D., author of &lt;i&gt;The Fat Flush Plan&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;From Folk Medicine to 21st-Century Favorite--Discover the Amazing Powers of Vinegar!&lt;/b&gt;&lt;br /&gt;&lt;b&gt; &lt;/b&gt;&lt;br /&gt; Revised and updated, this comprehensive book draws on the latest scientific studies and interviews with top health researchers to reveal how apple cider and red wine vinegars--as well as balsamic, fruit, rice, and herb-infused vinegars--can help you stay healthy. You'll also find proven home health cures, innovative cosmetic secrets, lively anecdotes, and environmentally friendly household hints--from making countertops sparkle to cleaning up kids and pets.&lt;br /&gt;&lt;br /&gt;*Take advantage of vinegar's natural therapeutic, antioxidant, and culinary virtues as this 5,000-year-old healer evolves in new uses and products--from sipping vinegars to home-cooked foods.&lt;br /&gt;&lt;br /&gt;* Learn how vinegar helps lower the risk of heart disease, diabetes, obesity, cancer, and bone loss.&lt;br /&gt;&lt;br /&gt;*Discover how vinegar's acetic acid kills bacteria, and may help prevent tuberculosis and combat antibiotic-resistant superbugs.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;* &lt;/b&gt;Create home cures to treat allergies, arthritis, toothaches, sunburn, swimmer's ear, sore throat, and other pesky ailments.&lt;br /&gt;&lt;br /&gt;...and discover much more in this invaluable resource to help you slim down, shape up, and enhance longevity!&lt;br /&gt;&lt;br /&gt;"Vinegar is right there in your cupboard--waiting for you to open its health properties for you and your family. Cal Orey's book can show you how." --Dr. Will Clower, CEO Mediterranean Wellness</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>1149449</id>
+  <uri>kca://work/amzn1.gr.work.v1.Z1Ia7HPp9R91UTgfRyqONg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by><![CDATA[http://www.kensingtonbooks.com/book.aspx/33390]]></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Mar 28 20:24:24 -0700 2016</date_added>
+  <date_updated>Fri Jul 20 03:48:02 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1593675408]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1593675408]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1399557780</id>
+    <book>
+  <id type="integer">26802390</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">26</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.sYQui72Cm13xeEqpzdVP3A</uri>
+  <title>Red Waves (The Waves Trilogy, #1)</title>
+  <title_without_series>Red Waves</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26802390-red-waves</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>49</ratings_count>
+  <description>Audrey Brown is an intelligent Registered Nurse living in Surf City, USA, who puts her career ahead of her love life. That is until pro-surfer, Chad Slater, gets wheeled into her emergency room and shakes down her formidable walls. But can her sex life go from zero to 69 with an ex-husband seeking revenge for her sending him to prison? &lt;br /&gt; &lt;br /&gt;Chad has just the right mix of sexual charisma and determination to make all of Audrey’s dreams come true. This upbeat story includes humorous undertones with nail-biting suspense and enough sexual heat to make you stay up all night reading. Readers' romantic partners will find benefits, too! &lt;br /&gt; &lt;br /&gt;“Baby, this is our night and you’re mine to heal. I’ll pick up the pieces of your shattered heart and put it back together. A piece of you I’ll keep for myself and replace it with a piece of me. I love you.” I kiss her quivering lips. &lt;br /&gt;</description>
+<authors>
+<author>
+<id>14190165</id>
+<name>Shannon O&apos;Connor</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1443107100p5/14190165.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1443107100p2/14190165.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14190165.Shannon_O_Connor]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>165</ratings_count>
+<text_reviews_count>73</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>45920598</id>
+  <uri>kca://work/amzn1.gr.work.v1.koTaoK1YxP-vJyAYghdiiA</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 23 16:27:26 -0700 2015</date_added>
+  <date_updated>Wed Sep 23 16:55:03 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1399557780]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1399557780]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1174217770</id>
+    <book>
+  <id type="integer">18167613</id>
+  <isbn>1628870184</isbn>
+  <isbn13>9781628870183</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xrLejsbk2RgbwbvLMGA8OA</uri>
+  <title>Frommer's EasyGuide to Montreal and Quebec City 2014</title>
+  <title_without_series>Frommer's EasyGuide to Montreal and Quebec City 2014</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384949688l/18167613._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384949688l/18167613._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18167613-frommer-s-easyguide-to-montreal-and-quebec-city-2014</link>
+  <num_pages>224</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>FrommerMedia</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>15</ratings_count>
+  <description>Selling for a lower price than any similar guidebook, and deliberately limited to a short 256 pages, this EasyGuide is an exercise in creating easily-absorbed travel information. It emphasizes the authentic experiences in each destination:the most important attractions, the classic method of approaching a particular destination; the best choices for accommodations and meals; the best ways to maximize the enjoyment of your stay. Because it is "quick to read, light to carry", it is called an "EasyGuide", and reflects Arthur Frommer's lifetime of experience in presenting clear and concise travel advice.</description>
+<authors>
+<author>
+<id>463314</id>
+<name>Leslie Brokaw</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/463314.Leslie_Brokaw]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>111</ratings_count>
+<text_reviews_count>17</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>25533965</id>
+  <uri>kca://work/amzn1.gr.work.v1.N1aWr6nakafXTZT-DhaxJA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jan 19 20:51:37 -0800 2015</date_added>
+  <date_updated>Mon Jan 19 20:51:37 -0800 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1174217770]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1174217770]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1174217743</id>
+    <book>
+  <id type="integer">922568</id>
+  <isbn>0486280837</isbn>
+  <isbn13>9780486280837</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qeicGqEEVSGHr5CQZm2xMQ</uri>
+  <title>Easy French Phrase Book: Over 750 Phrases for Everyday Use</title>
+  <title_without_series>Easy French Phrase Book: Over 750 Phrases for Everyday Use</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/922568.Easy_French_Phrase_Book</link>
+  <num_pages>64</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Dover Publications</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1994</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.43</average_rating>
+  <ratings_count>42</ratings_count>
+  <description>Designed as a quick reference tool and an easy aid to study, this volume features over 750 basic phrases that cover most everyday situations. Subjects include travel and transportation; shopping and stores; food; medical and emergency situations; entertainment; and postal, banking, and other services. Includes a phonetic pronunciation guide and an index.</description>
+<authors>
+<author>
+<id>386083</id>
+<name>Dover Publications Inc.</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/386083.Dover_Publications_Inc_]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>2198</ratings_count>
+<text_reviews_count>99</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+<work>  <id>907594</id>
+  <uri>kca://work/amzn1.gr.work.v1.R1UH5U8mOSHGlts9s6DU2A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jan 19 20:51:35 -0800 2015</date_added>
+  <date_updated>Mon Jan 19 20:51:35 -0800 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1174217743]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1174217743]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1087093292</id>
+    <book>
+  <id type="integer">10406499</id>
+  <isbn>0738723290</isbn>
+  <isbn13>9780738723297</isbn13>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.cR9jbfQwIpFWqqjLqy35tg</uri>
+  <title>Tea Leaf Reading for Beginners: Your Fortune in a Tea Cup</title>
+  <title_without_series>Tea Leaf Reading for Beginners: Your Fortune in a Tea Cup</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10406499-tea-leaf-reading-for-beginners</link>
+  <num_pages>312</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Llewellyn Publications</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.57</average_rating>
+  <ratings_count>70</ratings_count>
+  <description>With a cup of freshly brewed tea, you can indulge in an age-old custom that brings you deep relaxation, healthful rejuvenation--and a sense of wonder as you see what the leaves reveal.&lt;br /&gt;&lt;br /&gt;In six simple steps, you'll learn to read tea leaves like a pro. Four sample readings with photos will help you interpret tea-leaf patterns even more easily. You'll also find hundreds of symbols and their meanings, grouped by theme--from animals and sun signs to travel and trees.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Prepare herbal infusions for better health Give tea-leaf readings Host a tea party Master tea-taking etiquette Brew the perfect pot</description>
+<authors>
+<author>
+<id>4630739</id>
+<name>Caroline Dow</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4630739.Caroline_Dow]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>100</ratings_count>
+<text_reviews_count>13</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>15310539</id>
+  <uri>kca://work/amzn1.gr.work.v1.c9Roo11FSz47ySA2cPRr6g</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Oct 22 21:22:22 -0700 2014</date_added>
+  <date_updated>Wed Oct 22 21:22:27 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1087093292]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1087093292]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1087093275</id>
+    <book>
+  <id type="integer">19487635</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2bnoGO8OT6NPqKm7uJYF_Q</uri>
+  <title>Tea Leaf Reading For Beginners: Your Fortune in a Tea Cup</title>
+  <title_without_series>Tea Leaf Reading For Beginners: Your Fortune in a Tea Cup</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19487635-tea-leaf-reading-for-beginners</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.57</average_rating>
+  <ratings_count>70</ratings_count>
+  <description>&lt;p&gt;With a cup of freshly brewed tea, you can indulge in an age-old custom that brings you deep relaxation, healthful rejuvenation—and a sense of wonder as you see what the leaves reveal.&lt;/p&gt; &lt;p&gt;In six simple steps, you'll learn to read tea leaves like a pro. Four sample readings with photos will help you interpret tea-leaf patterns even more easily. You'll also find hundreds of symbols and their meanings, grouped by theme—from animals and sun signs to travel and trees.&lt;/p&gt; &lt;p&gt;—Prepare herbal infusions for better health &lt;br /&gt;—Give tea-leaf readings&lt;br /&gt;—Host a tea party&lt;br /&gt;—Master tea-taking etiquette&lt;br /&gt;—Brew the perfect pot&lt;/p&gt;</description>
+<authors>
+<author>
+<id>4630739</id>
+<name>Caroline Dow</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4630739.Caroline_Dow]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>100</ratings_count>
+<text_reviews_count>13</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>15310539</id>
+  <uri>kca://work/amzn1.gr.work.v1.c9Roo11FSz47ySA2cPRr6g</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Oct 22 21:22:19 -0700 2014</date_added>
+  <date_updated>Tue Feb 23 05:47:06 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1087093275]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1087093275]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1087093228</id>
+    <book>
+  <id type="integer">20605421</id>
+  <isbn>0738740330</isbn>
+  <isbn13>9780738740331</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.mu3M1PfxRGZaXrUlNrGWQw</uri>
+  <title>The Healing Power of Tea: Simple Teas &amp; Tisanes to Remedy and Rejuvenate Your Health</title>
+  <title_without_series>The Healing Power of Tea: Simple Teas &amp; Tisanes to Remedy and Rejuvenate Your Health</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391407596l/20605421._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391407596l/20605421._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20605421-the-healing-power-of-tea</link>
+  <num_pages>264</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Llewellyn Publications</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>30</ratings_count>
+  <description>&lt;strong&gt;Improve Your Health &amp;amp; Wellness with the Power of Tea&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;Filled with "tea-riffic" knowledge, this comprehensive guide to the healing world of teas and tisanes helps you live a healthier and happier life. From black to green to oolong, discover detailed chapters on different tea types, their advantages, and an extensive list of ailments and what blends will alleviate them.&lt;br /&gt;&lt;br /&gt;Whether you're an expert tea drinker or a new convert, author Caroline Dow teaches you the many delicious benefits of tea and herbal infusions. Discover tea's fascinating history, recipes, and an easy-to-use reference guide. Learn about blending, preparation and consumption, and how to grow your own herb garden. With both healing and preventative uses, tea is an ideal choice for healthy living.</description>
+<authors>
+<author>
+<id>4630739</id>
+<name>Caroline Dow</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4630739.Caroline_Dow]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>100</ratings_count>
+<text_reviews_count>13</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>39879469</id>
+  <uri>kca://work/amzn1.gr.work.v1.9BEzebiadyRz1HPliWF25A</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Sep 07 18:13:46 -0700 2018</started_at>
+  <read_at>Mon Sep 10 11:47:04 -0700 2018</read_at>
+  <date_added>Wed Oct 22 21:22:12 -0700 2014</date_added>
+  <date_updated>Mon Sep 10 11:47:04 -0700 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1087093228]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1087093228]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>974630863</id>
+    <book>
+  <id type="integer">21535306</id>
+  <isbn>1617734535</isbn>
+  <isbn13>9781617734533</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.cwK9fFc_Y0bEeBrtoUg1NA</uri>
+  <title>The Healing Powers Of Olive Oil:: A Complete Guide to Nature's Liquid Gold</title>
+  <title_without_series>The Healing Powers Of Olive Oil:: A Complete Guide to Nature's Liquid Gold</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403199034l/21535306._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403199034l/21535306._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21535306-the-healing-powers-of-olive-oil</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Kensington</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.33</average_rating>
+  <ratings_count>3</ratings_count>
+  <description>"A fascinating read--olive oil is not only delicious--it is good medicine!" --Ann Louise Gittleman, Ph.D.&lt;br /&gt;&lt;br /&gt;"One of our most important foods. This book deserves to be in everybody's home library." --Elson M. Haas, M.D., author of &lt;i&gt;Staying Healthy with Nutrition&lt;/i&gt;, 21st Century Edition&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Discover Olive Oil's Extraordinary Powers!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Revised and updated, this indispensible book reveals why chefs, doctors, and nutritionists all love extra virgin olive oil, a key ingredient in the Mediterranean Diet--and why other healthful oils from vegetables, fruits, and nuts are not far behind. You'll find easy recipes for satisfying foods like Pizza Baguettes with Garlic Oil, Fudgy Coconut Oil Brownies, Honey-Citrus-Olive Oil Fruit Kabobs, and Macadamia Nut Oil Cookies. Also included: home cures that beat colds and reduce pain, beauty and household secrets, and pet care tips that really work! &lt;br /&gt;&lt;br /&gt;&lt;b&gt; Deliciously healing surprises. . ..&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;The art of using olive oil for mind, body, and spirit goes back 6,000 years. Hippocrates, "the father of medicine," used olive oil in over 60 healing remedies. &lt;br /&gt;&lt;br /&gt;New research confirms that olive oil can help lower the risk of heart disease, cancer, and type 2 diabetes, and it can stall age-related diseases. &lt;br /&gt;&lt;br /&gt;Combining olive oil with other oils (like coconut and macadamia nut oils), can help combat fatigue, infections, and insomnia, and help you fight fat and shape up! &lt;br /&gt;&lt;br /&gt;Bring on the butter--especially the right kind and right amount. When paired with oils, this twentieth-century "forbidden" saturated fat is a new twenty-first-century health food. &lt;br /&gt;&lt;br /&gt;"Orey gives kudos to olive oil--and people of all ages will benefit from her words of wisdom." --Dr. Will Clower, CEO Mediterranean Wellness</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>40864284</id>
+  <uri>kca://work/amzn1.gr.work.v1.2wGZtCxCB7CTcBojvz5Uuw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jun 22 12:46:33 -0700 2014</date_added>
+  <date_updated>Sun Jun 22 12:46:42 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/974630863]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/974630863]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>379239633</id>
+    <book>
+  <id type="integer">119322</id>
+  <isbn>0679879242</isbn>
+  <isbn13>9780679879244</isbn13>
+  <text_reviews_count type="integer">13881</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oNiecDQ9-Jdo4cl8NKpegA</uri>
+  <title>The Golden Compass (His Dark Materials, #1)</title>
+  <title_without_series>The Golden Compass</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203l/119322._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203l/119322._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/119322.The_Golden_Compass</link>
+  <num_pages>399</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Alfred A. Knopf Books for Young Readers</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>1176242</ratings_count>
+  <description>Lyra is rushing to the cold, far North, where witch clans and armored bears rule. North, where the Gobblers take the children they steal--including her friend Roger. North, where her fearsome uncle Asriel is trying to build a bridge to a parallel world.&lt;br /&gt;&lt;br /&gt;Can one small girl make a difference in such great and terrible endeavors? This is Lyra: a savage, a schemer, a liar, and as fierce and true a champion as Roger or Asriel could want--but what Lyra doesn't know is that to help one of them will be to betray the other.</description>
+<authors>
+<author>
+<id>3618</id>
+<name>Philip Pullman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1396622492p5/3618.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1396622492p2/3618.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3618.Philip_Pullman]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>2145907</ratings_count>
+<text_reviews_count>59185</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+<work>  <id>1536771</id>
+  <uri>kca://work/amzn1.gr.work.v1.AlR_HRV99vYxLu4zftM-ZQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jul 28 21:00:09 -0700 2012</date_added>
+  <date_updated>Sat Jul 28 21:00:13 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/379239633]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/379239633]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>379239567</id>
+    <book>
+  <id type="integer">19321</id>
+  <isbn>0723247706</isbn>
+  <isbn13>9780723247708</isbn13>
+  <text_reviews_count type="integer">1524</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Kebw-OPAk-VWRhEdpDJliA</uri>
+  <title>The Tale of Peter Rabbit</title>
+  <title_without_series>The Tale of Peter Rabbit</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485118382l/19321._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1485118382l/19321._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19321.The_Tale_of_Peter_Rabbit</link>
+  <num_pages>72</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Warne</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>187874</ratings_count>
+  <description>In this original edition, Peter and his sisters are told to go gather blackberries and not to go into MacGregor's garden because Peter's father was made into a pie by MacGregor after being found in the garden. Peter, who is wearing a new coat, promptly disobeys his mother, stuffs himself with vegetables, gets spotted by MacGregor, loses his coat and barely makes it out of the garden alive. When Peter gets home, he is given chamomile tea for dinner. Peter's sisters, who listened to their mother and stayed out of the forbidden garden have a regular dinner.</description>
+<authors>
+<author>
+<id>11593</id>
+<name>Beatrix Potter</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1560035067p5/11593.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1560035067p2/11593.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11593.Beatrix_Potter]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>378301</ratings_count>
+<text_reviews_count>6554</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>644171</id>
+  <uri>kca://work/amzn1.gr.work.v1.yX53LNNTd46hBFskNbMQhw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jul 28 20:59:59 -0700 2012</date_added>
+  <date_updated>Sat Jul 28 21:00:07 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/379239567]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/379239567]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>376627348</id>
+    <book>
+  <id type="integer">73126</id>
+  <isbn>140130169X</isbn>
+  <isbn13>9781401301699</isbn13>
+  <text_reviews_count type="integer">120</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.QOH1FM4IEhqaMGxUh4eF0A</uri>
+  <title>Life's Journeys According to Mister Rogers: Things to Remember Along the Way</title>
+  <title_without_series>Life's Journeys According to Mister Rogers: Things to Remember Along the Way</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/73126.Life_s_Journeys_According_to_Mister_Rogers</link>
+  <num_pages>161</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Hachette Books</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.42</average_rating>
+  <ratings_count>959</ratings_count>
+  <description>An inspiring collection of thoughts to take with us on the paths we travel in life.&lt;br /&gt;&lt;br /&gt;For all the roads we choose to travel, and even those we don't, Fred Rogers has an observation, a story, some insights to share. Whether you're facing graduation, a new job, a new baby, marriage, any change in your life--expected or not--the wisdom that Mister Rogers offers can contribute mightily to the grace with which you handle the change.&lt;br /&gt;&lt;br /&gt;With sections titled Who You Are Right Now, Loving and Being Loved, and Guided Drift, Fred addresses the scope of human transitions. It all comes down to knowing we're valuable, and that we're worthy of that value. As Fred would say, "You don't have to be anything more than who you are right now."&lt;br /&gt;&lt;br /&gt;In her Foreward, Joanne Rogers shares the Fred she knew. With stories from their life together, the joys as well as the struggles, Joanne shows how Fred looked at life as a journey--with the ups and downs and in-betweens.&lt;br /&gt;&lt;br /&gt;Known as "America's favorite neighbor," &lt;b&gt;Fred Rogers&lt;/b&gt; dedicated his life to serving children through public television as creator, composer, writer, puppeteer, and host of &lt;i&gt;Mister Rogers' Neighborhood&lt;/i&gt;. He studied at the University of Pittsburgh Graduate School of Child Development and was ordained a Presbyterian minister, with the unique charge of working with children and families through television. Fred Rogers' relentless commitment to all that is best in people led to an astonishing array of honors, from induction into the Television Hall of Fame to the Presidential Medal of Freedom. Fred Rogers passed away in February 2003.&lt;br /&gt;&lt;br /&gt;Family Communications, Inc. (FCI), founded by the late Fred Rogers in 1971 to produce &lt;i&gt;Mister Rogers' Neighborhood&lt;/i&gt; and related projects, continues to expand its reach through early childhood trainings, publishing, and new technologies--perpetuating the values and philosophy of its founder.</description>
+<authors>
+<author>
+<id>32106</id>
+<name>Fred Rogers</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208803867p5/32106.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208803867p2/32106.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/32106.Fred_Rogers]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>7768</ratings_count>
+<text_reviews_count>1318</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>353797</id>
+  <uri>kca://work/amzn1.gr.work.v1.gMmLHKrQZ9O6VGCYPxMKcw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jul 25 08:30:59 -0700 2012</date_added>
+  <date_updated>Wed Jul 25 08:31:04 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/376627348]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/376627348]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>376625948</id>
+    <book>
+  <id type="integer">9166877</id>
+  <isbn>0373210337</isbn>
+  <isbn13>9780373210336</isbn13>
+  <text_reviews_count type="integer">2146</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4q8p3TAZ0Zyr8-EFoQO8yA</uri>
+  <title>The Girl in the Steel Corset (Steampunk Chronicles, #1)</title>
+  <title_without_series>The Girl in the Steel Corset</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297987541l/9166877._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1297987541l/9166877._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9166877-the-girl-in-the-steel-corset</link>
+  <num_pages>473</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harlequin Teen</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>20816</ratings_count>
+  <description>In 1897 England, 16-year-old Finley Jayne is convinced she's a freak. No normal Victorian girl has a darker side that makes her capable of knocking out a full-grown man with one punch. Only Griffin King sees the magical darkness inside her that says she's special . . . that she's one of "them."</description>
+<authors>
+<author>
+<id>4308706</id>
+<name>Kady Cross</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1444020264p5/4308706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1444020264p2/4308706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4308706.Kady_Cross]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>52431</ratings_count>
+<text_reviews_count>6000</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>14046028</id>
+  <uri>kca://work/amzn1.gr.work.v1.piX61O9IQLwD80CZiBMA-A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jul 25 08:28:47 -0700 2012</date_added>
+  <date_updated>Wed Jul 25 08:28:52 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/376625948]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/376625948]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>376106194</id>
+    <book>
+  <id type="integer">14654987</id>
+  <isbn>1937273350</isbn>
+  <isbn13>9781937273354</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.vIm9MzL_TxbEA5FAqrJDPg</uri>
+  <title>The Railroad</title>
+  <title_without_series>The Railroad</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340833049l/14654987._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340833049l/14654987._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14654987-the-railroad</link>
+  <num_pages>386</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Martin Sisters Publishing</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.48</average_rating>
+  <ratings_count>40</ratings_count>
+  <description>There are killers plaguing New York, taking the lives of children and their parents. At the scene of each murder the numbers 4-5-1 are written in the victim's own blood. The killings become known as the Chapter and Verse murders. For Mike Dobbs these murders are nothing more than a few gory sound bytes on the evening news; his thoughts are elsewhere. After years as a successful player on Wall Street, Mike is caught underground in the subwayas the Twin Towers collapse above him. In a deep depression, Mike runs away to a lonely existence in upstate New York. Shortly after, he takes in Eileen and Megan Benoit, both running from Eileen's sexually abusive husband; the three become an unlikely family. When Eileen is suddenly forced to run, Mike undertakes a dangerous journey to find her. What he finds is the shocking meaning of the Chapter and Verse murders.</description>
+<authors>
+<author>
+<id>3317117</id>
+<name>Neil Douglas Newton</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3317117.Neil_Douglas_Newton]]></link>
+<average_rating>4.44</average_rating>
+<ratings_count>43</ratings_count>
+<text_reviews_count>27</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>20300171</id>
+  <uri>kca://work/amzn1.gr.work.v1.PADvdljcIzVlGYyhM0J2pQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 24 15:21:31 -0700 2012</date_added>
+  <date_updated>Tue Jul 24 15:21:53 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/376106194]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/376106194]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>376106050</id>
+    <book>
+  <id type="integer">537070</id>
+  <isbn>043979143X</isbn>
+  <isbn13>9780439791434</isbn13>
+  <text_reviews_count type="integer">1576</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.QFvUWTW-thb5SQL5CMmxPA</uri>
+  <title>Gregor and the Code of Claw</title>
+  <title_without_series>Gregor and the Code of Claw</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365854331l/537070._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1365854331l/537070._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/537070.Gregor_and_the_Code_of_Claw</link>
+  <num_pages>412</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>39404</ratings_count>
+  <description>&lt;div&gt;The stunning conclusion to the riveting Gregor the Overlander series.&lt;br /&gt;&lt;br /&gt;Everyone in the Underland has been taking great pains to keep The Prophecy of Time from Gregor. Gregor knows it must say something awful but he never imagined just how awful: It calls for the warrior's death. Now, with an army of rats approaching, and his mom and sister still in Regalia, Gregor the warrior must gather up his courage to help defend Regalia and get his family home safely. The entire existence of the Underland is in Gregor's hands, and time is running out. There is a code to be cracked, a mysterious new princess, Gregor's burgeoning dark side, and a war to end all wars.&lt;/div&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Book Details:&lt;/b&gt; 
+   Format: Hardcover 
+   Publication Date: 4/3/2007 
+   Pages: 416 
+   Reading Level: Age 8 and Up 
+ </description>
+<authors>
+<author>
+<id>153394</id>
+<name>Suzanne Collins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1530308375p5/153394.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1530308375p2/153394.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/153394.Suzanne_Collins]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>10651532</ratings_count>
+<text_reviews_count>377123</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2432390</id>
+  <uri>kca://work/amzn1.gr.work.v1.c70LDVIFhd2YHo0aH_DHZQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 24 15:21:17 -0700 2012</date_added>
+  <date_updated>Tue Jul 24 15:21:21 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/376106050]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/376106050]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>376105961</id>
+    <book>
+  <id type="integer">13540215</id>
+  <isbn>006218850X</isbn>
+  <isbn13>9780062188502</isbn13>
+  <text_reviews_count type="integer">5264</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.YlP6pPVda_PKFut9I24Fkg</uri>
+  <title>The Orchardist</title>
+  <title_without_series>The Orchardist</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335562453l/13540215._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335562453l/13540215._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13540215-the-orchardist</link>
+  <num_pages>426</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.77</average_rating>
+  <ratings_count>40610</ratings_count>
+  <description>Set in the untamed American West, a highly original and haunting debut novel about a makeshift family whose dramatic lives are shaped by violence, love, and an indelible connection to the land.&lt;br /&gt;&lt;br /&gt;You belong to the earth, and the earth is hard.&lt;br /&gt;&lt;br /&gt;At the turn of the twentieth century, in a rural stretch of the Pacific Northwest in the foothills of the Cascade Mountains, a solitary orchardist named Talmadge carefully tends the grove of fruit trees he has cultivated for nearly half a century. A gentle, solitary man, he finds solace and purpose in the sweetness of the apples, apricots, and plums he grows, and in the quiet, beating heart of the land--the valley of yellow grass bordering a deep canyon that has been his home since he was nine years old. Everything he is and has known is tied to this patch of earth. It is where his widowed mother is buried, taken by illness when he was just thirteen, and where his only companion, his beloved teenaged sister Elsbeth, mysteriously disappeared. It is where the horse wranglers--native men, mostly Nez Perce--pass through each spring with their wild herds, setting up camp in the flowering meadows between the trees.&lt;br /&gt;&lt;br /&gt;One day, while in town to sell his fruit at the market, two girls, barefoot and dirty, steal some apples. Later, they appear on his homestead, cautious yet curious about the man who gave them no chase. Feral, scared, and very pregnant, Jane and her sister Della take up on Talmadage's land and indulge in his deep reservoir of compassion. Yet just as the girls begin to trust him, brutal men with guns arrive in the orchard, and the shattering tragedy that follows sets Talmadge on an irrevocable course not only to save and protect them, putting himself between the girls and the world, but to reconcile the ghosts of his own troubled past.&lt;br /&gt;&lt;br /&gt;Writing with breathtaking precision and empathy, Amanda Coplin has crafted an astonishing debut novel about a man who disrupts the lonely harmony of an ordered life when he opens his heart and lets the world in. Transcribing America as it once was before railways and roads connected its corners, she weaves a tapestry of solitary souls who come together in the wake of unspeakable cruelty and misfortune, bound by their search to discover the place they belong. At once intimate and epic, evocative and atmospheric, filled with haunting characters both vivid and true to life, and told in a distinctive narrative voice, The Orchardist marks the beginning of a stellar literary career.&lt;br /&gt;&lt;br /&gt;The National Book Foundation selected Amanda Coplin as one of the authors being honored as "5 Under 35" in 2013.</description>
+<authors>
+<author>
+<id>5774116</id>
+<name>Amanda Coplin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1338537019p5/5774116.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1338537019p2/5774116.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5774116.Amanda_Coplin]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>40723</ratings_count>
+<text_reviews_count>5778</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>19102940</id>
+  <uri>kca://work/amzn1.gr.work.v1.WTILbF4-SobPTX0n2rbcaA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 24 15:21:10 -0700 2012</date_added>
+  <date_updated>Tue Jul 24 15:21:16 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/376105961]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/376105961]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>376105882</id>
+    <book>
+  <id type="integer">14058730</id>
+  <isbn nil="true"/>
+  <isbn13>9781469791661</isbn13>
+  <text_reviews_count type="integer">13</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.iktAfArq9INmUuhNBRVvmA</uri>
+  <title>FOG</title>
+  <title_without_series>FOG</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337558367l/14058730._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337558367l/14058730._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14058730-fog</link>
+  <num_pages>240</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>iUniverse</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>37</ratings_count>
+  <description>FOG is the rare adventure that jolts the heart and mind, a tale of unconquerable spirit and menace, and the vaporous line between good and evil that exists in us all.&lt;br /&gt;&lt;br /&gt;When the Asia sinks in a storm along the harsh winter shores of 1882 Cape Cod, the crew, the captain, and the captain’s young daughter are cast into the midnight sea. Swept ashore, the Asia’s captain meets an unforeseen end. His child makes landfall, and dies not far away. With dawn’s arrival, all that remains are the jagged hulk of the Asia and the whispers of a secret. So begins a race to find a history-altering treasure, and a contest that pits keeper Daniel Cole and his fellow Peaked Hill Bars lifesavers against a philosophical killer, a mooncusser who walks a stoic horse along the ridge line of the Cape’s towering beach cliffs, bending fate to his aims.&lt;br /&gt; &lt;br /&gt;Hope and despair, love and loss, sacrifice and sin, riddle and answer, blur and intertwine in a tale that calls into question our own moral compass, and the very nature of progress and civilization.</description>
+<authors>
+<author>
+<id>289974</id>
+<name>Ken McAlpine</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1368655728p5/289974.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1368655728p2/289974.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/289974.Ken_McAlpine]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>286</ratings_count>
+<text_reviews_count>86</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>19270064</id>
+  <uri>kca://work/amzn1.gr.work.v1.7iokIn7nR199hitBhB5N-A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 24 15:21:02 -0700 2012</date_added>
+  <date_updated>Tue Jul 24 15:21:07 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/376105882]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/376105882]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>376104076</id>
+    <book>
+  <id type="integer">7056203</id>
+  <isbn>0595307094</isbn>
+  <isbn13>9780595307098</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.mjIoAjev2zZHwAfvblikfw</uri>
+  <title>Just Cook It!: How to Get Culinary Fit...1-2-3</title>
+  <title_without_series>Just Cook It!: How to Get Culinary Fit...1-2-3</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7056203-just-cook-it</link>
+  <num_pages>92</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>iUniverse</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>0.0</average_rating>
+  <ratings_count>0</ratings_count>
+  <description>Discover the revolutionary way of "Thinking Differently" about cooking and eating. Learn how getting back-to-the-basics yet throwing out the rules can motivate you to hit the kitchen. Find out how you can create whimsical dishes for yourself, family and friends. Cook to your mood. Wow everyone with magical leftovers. Think of cooking as an art. Forget following strict recipes. Enjoy tasty meal ideas-without measurements. &lt;i&gt;Just Cook It!&lt;/i&gt; will help you shed unwanted pounds and body fat and stay healthy forever. Isn't that the bottom line? (You are what you eat. It's about changing your eating habits.)&lt;br /&gt;&lt;br /&gt;Inside, you'll find unique and wonderful ways to enjoy cooking so you can be your own personal chef.&lt;br /&gt;&lt;br /&gt;It's time to retrain your brain and learn to cook.&lt;br /&gt;Get kitchen-friendly with Cooking Smarts 101.&lt;br /&gt;Be bold, resourceful and budget-wise.&lt;br /&gt;Kill the grocery shopping jitters and dance down the aisles.&lt;br /&gt;Find your groove in the kitchen, and much more!&lt;br /&gt;Roe Valenti is a veteran chef and caterer who cooks for herself, family and friends. A culinary goddess, she works hard at making cooking creative and easy for everyone, at any age. Cooking is her calling and she wants to share her one-of-a-kind recipe with you.</description>
+<authors>
+<author>
+<id>3141248</id>
+<name>Roe Valenti</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3141248.Roe_Valenti]]></link>
+<average_rating>0.0</average_rating>
+<ratings_count>0</ratings_count>
+<text_reviews_count>0</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>7307576</id>
+  <uri>kca://work/amzn1.gr.work.v1.cKRBNQF08hFWu49hCkq-hQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 24 15:18:23 -0700 2012</date_added>
+  <date_updated>Fri May 18 20:18:35 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/376104076]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/376104076]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>376104025</id>
+    <book>
+  <id type="integer">2854679</id>
+  <isbn>1889540331</isbn>
+  <isbn13>9781889540337</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7GygenWvveh7YUZlVnNxwA</uri>
+  <title>Arthritis: The Essential Guide to Natural Pet Care</title>
+  <title_without_series>Arthritis: The Essential Guide to Natural Pet Care</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2854679-arthritis</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Lumina Media</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>5.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>Finally, a book that discusses the pros and cons of the plethora of natural treatment options for arthritis.</description>
+<authors>
+<author>
+<id>368563</id>
+<name>Joan Hustace Walker</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/368563.Joan_Hustace_Walker]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>255</ratings_count>
+<text_reviews_count>16</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>2880813</id>
+  <uri>kca://work/amzn1.gr.work.v1.FrKc0xmq2ZOjCzY442eixQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 24 15:18:18 -0700 2012</date_added>
+  <date_updated>Tue Jul 24 15:18:58 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/376104025]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/376104025]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>376103993</id>
+    <book>
+  <id type="integer">2832236</id>
+  <isbn>1889540366</isbn>
+  <isbn13>9781889540368</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.IcvY0212vcsqdFNB49z0kw</uri>
+  <title>Hip Dysplasia: The Essential Guide to Natural Pet Care</title>
+  <title_without_series>Hip Dysplasia: The Essential Guide to Natural Pet Care</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2832236-hip-dysplasia</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Lumina Media</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>5.00</average_rating>
+  <ratings_count>2</ratings_count>
+  <description>The Essential Guide to Natural Pet Care series covers gentle, natural treatments for common diseases affecting cats and dogs. Each book offers in-depth solutions such as vet-approved dietary changes, supplements, herbs and homeopathy, acupuncture, etc.'</description>
+<authors>
+<author>
+<id>368563</id>
+<name>Joan Hustace Walker</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/368563.Joan_Hustace_Walker]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>255</ratings_count>
+<text_reviews_count>16</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>2858342</id>
+  <uri>kca://work/amzn1.gr.work.v1.TJGTNt9DceZhaVfGNqeu-g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 24 15:18:13 -0700 2012</date_added>
+  <date_updated>Tue Jul 24 15:18:52 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/376103993]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/376103993]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>376103282</id>
+    <book>
+  <id type="integer">1607680</id>
+  <isbn>0758201303</isbn>
+  <isbn13>9780758201300</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.8-nGIna32Ymih8p64rEkDg</uri>
+  <title>Doctors' Orders: What 101 Doctors Do to Stay Healthy</title>
+  <title_without_series>Doctors' Orders: What 101 Doctors Do to Stay Healthy</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1607680.Doctors_Orders</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Kensington</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>5.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>In this informative and lively book, 101 top physicians, medical researchers, and health experts share with the reader what they do to keep themselves and their families healthy.&lt;p&gt;Each chapter focuses on a specific disorder and features a primary doctor and one or more "second opinions." The disorder is defined by the primary doctor, the common symptoms are detailed, and up-to-the-minute research confirming the doctor's findings are presented. The doctor offers his or her personal nutritional, supplemental, and/or lifestyle measures. Q&amp;amp;A's, lists, charts, round-ups, and profiles complement the entry; and chapter wrap-ups highlight the most important points readers should remember.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>1601132</id>
+  <uri>kca://work/amzn1.gr.work.v1.y6ArCCixoRMcMywiuWm2LA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 24 15:17:10 -0700 2012</date_added>
+  <date_updated>Tue Jul 24 15:17:15 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/376103282]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/376103282]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>376103219</id>
+    <book>
+  <id type="integer">1035846</id>
+  <isbn>1425969437</isbn>
+  <isbn13>9781425969431</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.styb0fiIB4zOtHxMaWy4HA</uri>
+  <title>The Sky Is Falling!: A Global Warming Survival Guide</title>
+  <title_without_series>The Sky Is Falling!: A Global Warming Survival Guide</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1035846.The_Sky_Is_Falling_</link>
+  <num_pages>108</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Authorhouse</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>5.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>Ever wonder if global warming is something to be afraid about-really afraid about? Take an up close and personal look at how the world's erratic climate may be affecting you. Written from the perspective of a nature-loving author, a stand-up comic, and the ones who matter the most - intelligent whales: * This book gives a new and different eye-view on effects of Earth's changing climate. * This book pokes fun at the media, scientists, politicians, and celebrities while giving the most up-to-date scoop on everything from the melting ice caps to twisters on the West Coast. * This book also includes the opposing points of view of two whales, Harmony and Hamlet. * The book is written in a warm and witty style. The Sky is Falling! A Global Warming Survival Guide, is a must-read for every two-legger on the planet! The Sky is Falling! will help you get a real grip on what's going on with Mother Nature, and how those changes will affect you, your children and their children in the years to come. Journalist-author Cal Orey is the author of bestseller The Healing Powers of Vinegar, 202 Pets Peeves, and The Man Who Predicts Earthquakes. Mark Jabo is a New York-based writer, comic and financial consultant who has lived and worked all over the world including Tokyo, London and Australia.</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>1022181</id>
+  <uri>kca://work/amzn1.gr.work.v1.Cl2tZbTMmIBjDkp4I6XhCA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 24 15:17:04 -0700 2012</date_added>
+  <date_updated>Tue Jul 24 15:17:08 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/376103219]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/376103219]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>376103151</id>
+    <book>
+  <id type="integer">1625962</id>
+  <isbn>1889540358</isbn>
+  <isbn13>9781889540351</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.eu_RGD7oz-M3UM8-vPwO-g</uri>
+  <title>Cancer: The Essential Guide to Natural Pet Care</title>
+  <title_without_series>Cancer: The Essential Guide to Natural Pet Care</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1625962.Cancer</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>BowTie Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>5.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description>Cancer lays out a step-by-step plan to prevent cancer or minimize the ravaging effects of this often fatal disease through diet and natural remedies.</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>1619998</id>
+  <uri>kca://work/amzn1.gr.work.v1.xc-QBNBkEK3WXTajZvlUzA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 24 15:16:58 -0700 2012</date_added>
+  <date_updated>Tue Jul 24 15:17:02 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/376103151]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/376103151]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>376103038</id>
+    <book>
+  <id type="integer">1625960</id>
+  <isbn>188954034X</isbn>
+  <isbn13>9781889540344</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.yXqTLE1nQnii26ylytmExw</uri>
+  <title>Epilepsy: The Essential Guide to Natural Pet Care</title>
+  <title_without_series>Epilepsy: The Essential Guide to Natural Pet Care</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1625960.Epilepsy</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Lumina Media</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.67</average_rating>
+  <ratings_count>3</ratings_count>
+  <description>The Essential Guide to Natural Pet Care series covers gentle, natural treatments for common diseases affecting cats and dogs. Each book offers in-depth solutions such as vet-approved dietary changes, supplements, herbs and homeopathy, acupuncture, etc.'</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>1619996</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZZTXsrltwX-csnOi0jLgRQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 24 15:16:50 -0700 2012</date_added>
+  <date_updated>Tue Jul 24 15:16:53 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/376103038]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/376103038]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>376102961</id>
+    <book>
+  <id type="integer">1171577</id>
+  <isbn>0806524421</isbn>
+  <isbn13>9780806524429</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.eG9WBquaoW9tg49taWi_Pw</uri>
+  <title>202 Pets' Peeves: Cats and Dogs Speak Out on Pesky Human Behavior</title>
+  <title_without_series>202 Pets' Peeves: Cats and Dogs Speak Out on Pesky Human Behavior</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1171577.202_Pets_Peeves</link>
+  <num_pages>214</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Citadel</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>4</ratings_count>
+  <description>Even the fairest feline fancier or most delightful dog doter can unwittingly push their pet's buttons and drive their furry friends up a wall. Now, finally, here is a book that addresses what dog and cat lovers really need to know to please their cherished pets, 202 Pets' Peeves explores how even the coolest cat and friendliest dog can become peeved when subjected to annoyances. Based on her research at the country's top pet-food companies, veterinary colleges, and pet-product companies, author Cal Orey discovered the real truth about cats and dogs. Writing from a pet's point of view, she divulges what four-legged friends don't like and how their human companions can correct these improprieties. These 202 pets' peeves are divided into three easy-to-follow sections: Your Feline's 101 Pet Peeves, Your Canine's 101 Pet Peeves, and Pet Peeves Between Cats and Dogs. More importantly, pet owners will find out what their pets do like, and how to avoid some common pet care faux pas, such as: &lt;br /&gt;-- Choosin the wrong food and unhealthy treats (No-name kibble)&lt;br /&gt;-- Wrong exercise or zero exercise (Ignoring Kitty Aerobics)&lt;br /&gt;-- Cat litter ignorance (Getting the Wrong Stuff)&lt;br /&gt;-- Dog Toy Ignorance (No Bones or Balls)&lt;br /&gt;-- Too much or too little attention (Being a Latchkey Dog)&lt;br /&gt;-- Inept training (Absurd Pet Tricks)Complete with anecdotes, boxes and charts on information such as dog bakeries and low-cal cat treats from dog friendly parks and cat B&amp;amp;B lodging, 202 Pets' Peeves provides the key to raising a happier feline or canine.</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>1159329</id>
+  <uri>kca://work/amzn1.gr.work.v1.XRjUHiYEavowIu74NNu8hg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 24 15:16:43 -0700 2012</date_added>
+  <date_updated>Tue Jul 24 15:16:48 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/376102961]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/376102961]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>375492009</id>
+    <book>
+  <id type="integer">6177974</id>
+  <isbn>0758238053</isbn>
+  <isbn13>9780758238054</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.8dKYGzX7elJIV_AAwKrCQA</uri>
+  <title>The Healing Powers of Olive Oil: A Complete Guide To</title>
+  <title_without_series>The Healing Powers of Olive Oil: A Complete Guide To</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6177974-the-healing-powers-of-olive-oil</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Kensington</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>47</ratings_count>
+  <description>From the author of The Healing Powers of Vinegar comes the definitive guide to one of nature's most miraculous foods. This practical resource details the health benefits, home uses, and dozens of delicious recipes using olive oil.</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>2771612</id>
+  <uri>kca://work/amzn1.gr.work.v1._r5628y8hXzb3AbfoK0QSw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jul 23 19:54:09 -0700 2012</date_added>
+  <date_updated>Mon Jul 23 19:54:15 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/375492009]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/375492009]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>375491774</id>
+    <book>
+  <id type="integer">99812</id>
+  <isbn>1591810361</isbn>
+  <isbn13>9781591810360</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.j88Uq1qkJIYLFSt9j2VX8g</uri>
+  <title>The Man Who Predicts Earthquakes: Jim Berkland, Maverick Geologist--How His Quake Warnings Can Save Lives</title>
+  <title_without_series>The Man Who Predicts Earthquakes: Jim Berkland, Maverick Geologist--How His Quake Warnings Can Save Lives</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/99812.The_Man_Who_Predicts_Earthquakes</link>
+  <num_pages>282</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Sentient Publications</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>11</ratings_count>
+  <description>It just might. Berkland has accurately predicted at least six significant quakes around the world, an impressive record and invaluable asset in natural disasters. After all, scientists say that they aren't able to reliably predict earthquakes. Berkland hopes that someday earthquake warnings will be announced along with the weather, saving countless people's lives around the world. This is the first book to document one geologist's uncanny ability to foretell earthquakes around the world. The California geologist forecasted the famous Loma Prieta Earthquake that rumbled through the San Francisco Bay Area, and he was right on the money. Many of Jim Berkland's theories - based on tides, moons, geyser activity, magnetic-field changes, and strange animal behavior (disoriented pets, lost cats and dogs) - were linked to the great Indian Ocean quake-tsunami disaster on 26 December 2004.</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>96225</id>
+  <uri>kca://work/amzn1.gr.work.v1.fF_99Wio0CEUBKL-Wfte9A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jul 23 19:53:50 -0700 2012</date_added>
+  <date_updated>Mon Jul 23 19:53:58 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/375491774]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/375491774]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>375491603</id>
+    <book>
+  <id type="integer">10189272</id>
+  <isbn>075826755X</isbn>
+  <isbn13>9780758267559</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VigocLdi8_7zSDcmJNYv8g</uri>
+  <title>The Healing Powers Of Vinegar</title>
+  <title_without_series>The Healing Powers Of Vinegar</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10189272-the-healing-powers-of-vinegar</link>
+  <num_pages>352</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Kensington</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>157</ratings_count>
+  <description>&lt;b&gt;From Folk Medicine to Modern Miracle-- Discover the Amazing Powers of Vinegar! &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;   • Discover the healing powers of apple cider vinegar--now widely recognized as a valuable weight loss tool and a potent elixir.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;   • Find out how vinegar's curative powers can also help prevent age-related diseases like cancer, heart disease, and bone loss. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;   • Learn how red wine vinegar contains the same important antioxidants as red wine--without the alcohol. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;   • Put dozens more home remedies to work for treating allergies, arthritis, toothache, sunburn, swimmer's ear, sore throat, and other pesky ailments.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt; You'll also find a wealth of natural beauty treatments and environment-friendly household hints--from making kitchen countertops sparkle to cleaning up kids and pets. &lt;br /&gt;&lt;br /&gt; Incorporating the latest scientific evidence, plus Mediterranean-style heart-healthy "fisheterian" recipes, &lt;i&gt;The Healing Powers of Vinegar&lt;/i&gt; is a must-have, invaluable resource that will show you how to make the most of this proven powerful healer! &lt;br /&gt;&lt;br /&gt; "Wonderfully useful for everyone interested in health." --Elson Haas, M.D., author of &lt;i&gt;Staying Healthy with Nutrition&lt;/i&gt;</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>1149449</id>
+  <uri>kca://work/amzn1.gr.work.v1.Z1Ia7HPp9R91UTgfRyqONg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jul 23 19:53:39 -0700 2012</date_added>
+  <date_updated>Sat Apr 20 14:48:09 -0700 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/375491603]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/375491603]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>375491424</id>
+    <book>
+  <id type="integer">9064697</id>
+  <isbn>0758265077</isbn>
+  <isbn13>9780758265074</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xno827G9a4zstahs858lcw</uri>
+  <title>Healing Powers of Vinegar</title>
+  <title_without_series>Healing Powers of Vinegar</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9064697-healing-powers-of-vinegar</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>157</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>1149449</id>
+  <uri>kca://work/amzn1.gr.work.v1.Z1Ia7HPp9R91UTgfRyqONg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jul 23 19:53:26 -0700 2012</date_added>
+  <date_updated>Sat Apr 20 14:48:10 -0700 2013</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/375491424]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/375491424]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>375491299</id>
+    <book>
+  <id type="integer">4162065</id>
+  <isbn>0758238045</isbn>
+  <isbn13>9780758238047</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.dWXmIS1CK6qfn4Q9_uYFwg</uri>
+  <title>The Healing Powers of Vinegar: A Complete Guide to Nature's Most Remarkable Remedy</title>
+  <title_without_series>The Healing Powers of Vinegar: A Complete Guide to Nature's Most Remarkable Remedy</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4162065-the-healing-powers-of-vinegar</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Kensington Publishing Corporation</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>157</ratings_count>
+  <description>&lt;b&gt;From Folk Medicine to Modern Miracle-- Discover the Amazing Powers of Vinegar! &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;- Discover the healing powers of apple cider vinegar--now widely recognized as a valuable weight loss tool and a potent elixir.&lt;br /&gt;&lt;br /&gt;- Find out how vinegar's curative powers can also help prevent age-related diseases like cancer, heart disease, and bone loss.&lt;br /&gt;&lt;br /&gt;- Learn how red wine vinegar contains the same important antioxidants as red wine--without the alcohol.&lt;br /&gt;&lt;br /&gt;- Put dozens more home remedies to work for treating allergies, arthritis, toothache, sunburn, swimmer's ear, sore throat, and other pesky ailments.&lt;br /&gt;&lt;br /&gt;You'll also find a wealth of natural beauty treatments and environment-friendly household hints--from making kitchen countertops sparkle to cleaning up kids and pets.&lt;br /&gt;&lt;br /&gt;Incorporating the latest scientific evidence, plus Mediterranean-style heart-healthy "fisheterian" recipes, &lt;i&gt;The Healing Powers of Vinegar&lt;/i&gt; is a must-have, invaluable resource that will show you how to make the most of this proven powerful healer!&lt;br /&gt;&lt;br /&gt;"Wonderfully useful for everyone interested in health." --Elson Haas, M.D., author of &lt;i&gt;Staying Healthy with Nutrition&lt;/i&gt;</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>1149449</id>
+  <uri>kca://work/amzn1.gr.work.v1.Z1Ia7HPp9R91UTgfRyqONg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jul 23 19:53:16 -0700 2012</date_added>
+  <date_updated>Thu Dec 11 20:52:28 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/375491299]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/375491299]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>375491190</id>
+    <book>
+  <id type="integer">6764242</id>
+  <isbn>0758238207</isbn>
+  <isbn13>9780758238207</isbn13>
+  <text_reviews_count type="integer">8</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.QItGmi4wOxyEGNZ-rhGCEA</uri>
+  <title>The Healing Powers of Chocolate</title>
+  <title_without_series>The Healing Powers of Chocolate</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6764242-the-healing-powers-of-chocolate</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Kensington</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.20</average_rating>
+  <ratings_count>25</ratings_count>
+  <description>From the author of "The Healing Powers of Vinegar" comes a complete guide to chocolate and its unique powers for improving health and well-being. Includes dozens of health-boosting recipes, all made with this delicious wonder food.</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>6962264</id>
+  <uri>kca://work/amzn1.gr.work.v1.U3iqOsCDhdspkuGYGsrH5A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jul 23 19:53:07 -0700 2012</date_added>
+  <date_updated>Mon Jul 23 19:53:12 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/375491190]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/375491190]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>375490952</id>
+    <book>
+  <id type="integer">11443563</id>
+  <isbn>0758261594</isbn>
+  <isbn13>9780758261595</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.JOBNtbZqTzEMbVYtg3YiBw</uri>
+  <title>The Healing Powers of Honey</title>
+  <title_without_series>The Healing Powers of Honey</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11443563-the-healing-powers-of-honey</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Dafina</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.55</average_rating>
+  <ratings_count>58</ratings_count>
+  <description>Did you know?...&lt;br /&gt;&lt;br /&gt;Known as Mother Nature's "nectar of the gods," honey was praised for its healing powers as far back as 5,000 years ago by Egyptians.&lt;br /&gt;&lt;br /&gt;Eating honey can help lower the risk of heart disease, cancer , diabetes--even help reduce body fat and unwanted weight!--and increase longevity.&lt;br /&gt;&lt;br /&gt;Pure, raw, unprocessed honey is a healthier sweetener than table sugar and high fructose corn syrup. It's chock-full of antioxidants, minerals, and vitamins--and only has 21 calories per teaspoon.&lt;br /&gt;&lt;br /&gt;Super "bee foods" (including nutrient-rich bee pollen, propolis, and royal jelly) are used and touted for their healing powers by beekeepers and medical experts in the present-day.&lt;br /&gt;&lt;br /&gt;Honey can relieve a variety of ailments, including allergies, coughs, fatigue, pain, and stress, as well as boost libido.&lt;br /&gt;&lt;br /&gt;The honey bee pollinates about one-third of the food we consume (including nutritious fruits and nuts).&lt;br /&gt;&lt;br /&gt;Drawing on the latest honey buzz and interviews with medical doctors, beekeepers, and researchers, this charming and enlightening book (sweetened with stories about honey bees and humans) reveals 30 healing honey varieties paired with cinnamon and teas, tells you how to incorporate honey into Mediterranean-style, heart-healthy recipes like Honey Custard French Toast, Honey-Glazed Game Hen, and Filo Pear and Honey Tarts, and provides more than 50 home cures that combat digestive woes to skin woes. You'll also enjoy Cleopatra's milk-and-honey beauty treatments and eco-friendly&lt;br /&gt;beeswax household uses--all made with the amazing honey bee's gifts!</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>16377327</id>
+  <uri>kca://work/amzn1.gr.work.v1.iRKXPi26xp8pN5DWrRpU3w</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jul 23 19:52:48 -0700 2012</date_added>
+  <date_updated>Mon Jul 23 19:52:52 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/375490952]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/375490952]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>375490431</id>
+    <book>
+  <id type="integer">22122864</id>
+  <isbn>130667963X</isbn>
+  <isbn13>9781306679633</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.vzllVMxiRTOKg7YplIifGA</uri>
+  <title>The Healing Powers of Coffee</title>
+  <title_without_series>The Healing Powers of Coffee</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410797402l/22122864._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410797402l/22122864._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22122864-the-healing-powers-of-coffee</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Kensington Publishing Corporation</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.50</average_rating>
+  <ratings_count>14</ratings_count>
+  <description>A cup or two of Joe every day is a good way to boost mood, energy and overall health. --Julian Whitaker, M.D., founder of the Whitaker Wellness InstituteWake Up To The Amazing Perks Of Coffee!&lt;br /&gt;&lt;br /&gt;Java facts you didn't know...&lt;br /&gt;&lt;br /&gt;According to legend, an Ethiopian goat herder was the first to discover the energizing benefits of the coffee bean plant centuries ago.&lt;br /&gt;&lt;br /&gt;Drinking freshly ground coffee from whole beans can help lower the risk of heart disease, cancer (including breast, prostate and skin), cirrhosis, type 2 diabetes, Alzheimer's and Parkinson's disease!&lt;br /&gt;&lt;br /&gt;Coffee is the number #1 source of antioxidants in the U.S. diet.&lt;br /&gt;&lt;br /&gt;Two antioxidants key to coffee's health buzz are chlorogenic acid and caffeic acid; and coffee boasts more antioxidants than cocoa and tea!&lt;br /&gt;&lt;br /&gt;Coffee can relieve a host of ailments, including asthma, dental woes, gallstones, headaches, short term memory loss, muscle pain, as well as help you slim down and shape up!&lt;br /&gt;&lt;br /&gt;Percolating with information about the world's favorite "new" health food, as well as interviews with medical doctors, researchers, and coffee roasters, this intriguing book (with a jolt of past and present coffee culture) reveals coffee types and blends, and flavored varieties (both regular and decaf), like chocolate, fruits, nuts, and spices. Discover why this potent elixir has gone from vice to virtue and how to incorporate coffee in Mediterranean-style, healthful recipes like Cappuccino Biscotti, Thai Coffee Spice Chicken Sates, Coffee Cheesecake and Maple Espresso Pudding (plus DIY espresso drinks). Also included are more than 50 home cures that fight seasonal affective disorder to fatigue, plus beauty and anti-aging treatments, and eco-friendly household uses--all made with coffee's magical beans!&lt;br /&gt;&lt;br /&gt;"For heart, mind, and body, Cal Orey shows us why coffee is the most comforting health food on the planet." --Will Clower, Ph.D., founder and president of Mediterranean Wellness, Inc.&lt;br /&gt;&lt;br /&gt;"Can coffee be a fountain of youth? Yes! This book can help you add years to your life." --Karlis Ullis, M.D., Medical Director of Sports Medicine and Anti-Aging Medical Group in Santa Monica, California&lt;br /&gt;&lt;br /&gt;"This book is a wake-up call to show coffee, an emerging ancient remedy, is now the newest' health food." Ann Louise Gittleman, Ph.D."</description>
+<authors>
+<author>
+<id>57519</id>
+<name>Cal Orey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p5/57519.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520092861p2/57519.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/57519.Cal_Orey]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>385</ratings_count>
+<text_reviews_count>81</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>19172763</id>
+  <uri>kca://work/amzn1.gr.work.v1.f4K2qg_i1cZLAZLJ8SoQUA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="36533961" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='37114883' name='the-healing-powers-of-coffee' review_shelf_id='250220890' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Jul 23 19:52:08 -0700 2012</date_added>
+  <date_updated>Sun Jun 22 12:45:00 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/375490431]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/375490431]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

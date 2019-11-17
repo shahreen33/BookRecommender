@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='14704574' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="7" total="7">
+    <review>
+  <id>1547061371</id>
+    <book>
+  <id type="integer">527176</id>
+  <isbn>0345335872</isbn>
+  <isbn13>9780345335876</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.IgCJ0IkyL3jn_QV46V3Rjw</uri>
+  <title>Collected Stories</title>
+  <title_without_series>Collected Stories</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/527176.Collected_Stories</link>
+  <num_pages>611</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Ballantine Books</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>1986</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.32</average_rating>
+  <ratings_count>699</ratings_count>
+  <description>Tennessee Williams was famous for insisting he write every morning. Even during his darkest days, while mourning a lover, or abusing some substance -- and he abused most of them at one time or another -- he'd write. The stories in this volume, arranged chronologically, are from every period of his long life, and recreate the milieux Williams knew and chronicled so movingly -- from his gypsy youth in St. Louis and New Orleans to his days of celebrity in Hollywood and New York. Some are studies for his plays, and like them, their language can suddenly surprise you with a poetic image that shines like a jewel. This edition includes a useful publishing history for each of the fifty stories.&lt;br /&gt;"One overpowering impression emerges from all these stories put together: Tennessee Williams knew more about the hidden life of far-flung America than any of us really suspected." -- Seymour Krim, Washington Post Book World&lt;br /&gt;"By turns disturbing, moving, and funny; these stories help amplify Williams's tragic vision, for like the plays, they underline his preoccupation and insight into the conflicts of the human heart."&lt;br /&gt;-- Michiko Kakutani, The New York Times</description>
+<authors>
+<author>
+<id>7751</id>
+<name>Tennessee Williams</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206504901p5/7751.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206504901p2/7751.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7751.Tennessee_Williams]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>444237</ratings_count>
+<text_reviews_count>8982</text_reviews_count>
+</author>
+</authors>
+  <published>1986</published>
+<work>  <id>858568</id>
+  <uri>kca://work/amzn1.gr.work.v1.hItNwYjxpV9iF7zk92wEoA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="14704574" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Feb 13 07:43:34 -0800 2016</date_added>
+  <date_updated>Sat Feb 13 07:43:35 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1547061371]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1547061371]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>477902953</id>
+    <book>
+  <id type="integer">13548968</id>
+  <isbn>4047280836</isbn>
+  <isbn13>9784047280830</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2_2RqfCse_kn11piIBgg7A</uri>
+  <title>乙嫁語り 4 [Otoyomegatari 4] (A Bride's Story, #4)</title>
+  <title_without_series>乙嫁語り 4 [Otoyomegatari 4]</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341868095l/13548968._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341868095l/13548968._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13548968-4-otoyomegatari-4</link>
+  <num_pages>192</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>エンターブレイン</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.24</average_rating>
+  <ratings_count>2070</ratings_count>
+  <description>第３の乙嫁、ライラとレイリが登場！&lt;br /&gt;&lt;br /&gt;英国人スミスは、タラスと別れたあとも目的地アンカラへの旅を続けていく。旅の疲れなのか、馬の上から水面にドボンと落ちてしまったスミスを助けに向かったのは……!?　現在のウズベキスタンにある巨大な塩湖"アラル海"近郊、漁村に暮らす人々の生活と文化を描き上げる『乙嫁語り』第３シーズン。本巻は作者・森薫の新たな魅力が大爆発する一冊です。</description>
+<authors>
+<author>
+<id>13022</id>
+<name>Kaoru Mori</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371245497p5/13022.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371245497p2/13022.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13022.Kaoru_Mori]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>38109</ratings_count>
+<text_reviews_count>2965</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>19114628</id>
+  <uri>kca://work/amzn1.gr.work.v1.pw8KC0wOCMQDtf7966lvmg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="14704574" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Dec 14 20:03:17 -0800 2012</date_added>
+  <date_updated>Fri Dec 14 20:03:17 -0800 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/477902953]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/477902953]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>477901428</id>
+    <book>
+  <id type="integer">12413203</id>
+  <isbn>031621034X</isbn>
+  <isbn13>9780316210348</isbn13>
+  <text_reviews_count type="integer">164</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UVUQ3UHsEk0XhdX86accbA</uri>
+  <title>A Bride's Story, Vol. 3 (A Bride's Story, #3)</title>
+  <title_without_series>A Bride's Story, Vol. 3</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328148250l/12413203._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328148250l/12413203._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12413203-a-bride-s-story-vol-3</link>
+  <num_pages>207</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Orbit/Yen Press</publisher>
+  <publication_day/>
+  <publication_year>2012</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.28</average_rating>
+  <ratings_count>2670</ratings_count>
+  <description>Acclaimed creator Kaoru Mori's tale of life on the nineteenth-century Silk Road continues, this time introducing a new would-be bride--Talas. A young widow, Talas opens her home to the researcher Mr. Smith, who has ventured to her town to continue his studies. However, when Talas's uncle begins to see Smith as an impediment to his plans to wed his son to Talas, the old man's schemes land the Englishman in prison! Far from friends and even farther from home, Smith's outlook seems grim...</description>
+<authors>
+<author>
+<id>13022</id>
+<name>Kaoru Mori</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371245497p5/13022.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371245497p2/13022.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13022.Kaoru_Mori]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>38109</ratings_count>
+<text_reviews_count>2965</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>16444904</id>
+  <uri>kca://work/amzn1.gr.work.v1.IIdBWb-fJblhrNcBO9Ehng</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="14704574" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Dec 14 20:00:23 -0800 2012</date_added>
+  <date_updated>Fri Dec 14 20:00:23 -0800 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/477901428]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/477901428]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>375763596</id>
+    <book>
+  <id type="integer">38502</id>
+  <isbn>0872860744</isbn>
+  <isbn13>9780872860742</isbn13>
+  <text_reviews_count type="integer">322</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.nmtpmowGV4nDdrsdNbG5MQ</uri>
+  <title>Notes of a Dirty Old Man</title>
+  <title_without_series>Notes of a Dirty Old Man</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329635507l/38502._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329635507l/38502._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38502.Notes_of_a_Dirty_Old_Man</link>
+  <num_pages>208</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>City Lights Books</publisher>
+  <publication_day/>
+  <publication_year>2001</publication_year>
+  <publication_month/>
+  <average_rating>3.95</average_rating>
+  <ratings_count>19621</ratings_count>
+  <description>"People come to my door—too many of them really—and knock to tell me Notes of a Dirty Old Man turns them on. A bum off the road brings in a gypsy and his wife and we talk . . . . drink half the night. A long distance operator from Newburgh, N.Y. sends me money. She wants me to give up drinking beer and to eat well. I hear from a madman who calls himself 'King Arthur' and lives on Vine Street in Hollywood and wants to help me write my column. A doctor comes to my door: 'I read your column and think I can help you. I used to be a psychiatrist.' I send him away . . ."</description>
+<authors>
+<author>
+<id>13275</id>
+<name>Charles Bukowski</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1501509674p5/13275.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1501509674p2/13275.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13275.Charles_Bukowski]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>540787</ratings_count>
+<text_reviews_count>23279</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+<work>  <id>1759323</id>
+  <uri>kca://work/amzn1.gr.work.v1.QViVlJwFejVAtLHveA9fEA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="14704574" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Jul 24 07:07:38 -0700 2012</date_added>
+  <date_updated>Tue Jul 24 07:07:38 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/375763596]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/375763596]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>317836426</id>
+    <book>
+  <id type="integer">12220</id>
+  <isbn>0822210894</isbn>
+  <isbn13>9780822210894</isbn13>
+  <text_reviews_count type="integer">2357</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.TUMJrpSyEPeB3xFgONTcyw</uri>
+  <title>A Streetcar Named Desire</title>
+  <title_without_series>A Streetcar Named Desire</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12220.A_Streetcar_Named_Desire</link>
+  <num_pages>107</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Dramatists Play Service</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1952</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.98</average_rating>
+  <ratings_count>248460</ratings_count>
+  <description>The Pulitzer Prize and Drama Critics Circle Award winning play—reissued with an introduction by Arthur Miller (&lt;i&gt;Death of a Salesman&lt;/i&gt; and &lt;i&gt;The Crucible&lt;/i&gt;), and Williams’ essay “The World I Live In.”&lt;br /&gt;&lt;br /&gt;It is a very short list of 20th-century American plays that continue to have the same power and impact as when they first appeared—57 years after its Broadway premiere, Tennessee Williams’ &lt;i&gt;A Streetcar Named Desire&lt;/i&gt; is one of those plays. The story famously recounts how the faded and promiscuous Blanche DuBois is pushed over the edge by her sexy and brutal brother-in-law, Stanley Kowalski. &lt;i&gt;Streetcar&lt;/i&gt; launched the careers of Marlon Brando, Jessica Tandy, Kim Hunter, and Karl Malden, and solidified the position of Tennessee Williams as one of the most important young playwrights of his generation, as well as that of Elia Kazan as the greatest American stage director of the ’40s and ’50s.</description>
+<authors>
+<author>
+<id>7751</id>
+<name>Tennessee Williams</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206504901p5/7751.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206504901p2/7751.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7751.Tennessee_Williams]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>444237</ratings_count>
+<text_reviews_count>8982</text_reviews_count>
+</author>
+</authors>
+  <published>1952</published>
+<work>  <id>142449</id>
+  <uri>kca://work/amzn1.gr.work.v1.la-QrN_Qnq0Yb7xb8ABggQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="14704574" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Apr 23 20:44:33 -0700 2012</date_added>
+  <date_updated>Mon Apr 23 20:44:33 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/317836426]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/317836426]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>317835098</id>
+    <book>
+  <id type="integer">394425</id>
+  <isbn>0811202259</isbn>
+  <isbn13>9780811202251</isbn13>
+  <text_reviews_count type="integer">22</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.rNc0ekOKgb_HzNoIgPQDcg</uri>
+  <title>27 Wagons Full of Cotton and Other Plays</title>
+  <title_without_series>27 Wagons Full of Cotton and Other Plays</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/394425.27_Wagons_Full_of_Cotton_and_Other_Plays</link>
+  <num_pages>238</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>New Directions</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>1966</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>621</ratings_count>
+  <description>They are full of the perception of life as it is, and the passion for life as it ought to be, which have made &lt;em&gt;The Glass Menagerie&lt;/em&gt; and &lt;em&gt;A Streetcar Named Desire&lt;/em&gt; classics of the American theater.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Only one of these plays (&lt;em&gt;The Purification&lt;/em&gt;) is written in verse, but in all of them the approach to character is by way of poetic revelation. Whether Williams is writing of derelict roomers in a New Orleans boarding house (&lt;em&gt;The Lady of Larkspur Lotion&lt;/em&gt;) or the memories of a venerable traveling salesman (&lt;em&gt;The Last of My Solid Gold Watches&lt;/em&gt;) or of delinquent children (&lt;em&gt;This Property is Condemned&lt;/em&gt;), his insight into human nature is that of the poet. He can compress the basic meaning of life—its pathos or its tragedy, its bravery or the quality of its love—into one small scene or a few moments of dialogue.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Mr. Williams's views on the role of the little theater in American culture are contained in a stimulating essay, "Something wild...," which serves as an introduction to this collection.</description>
+<authors>
+<author>
+<id>7751</id>
+<name>Tennessee Williams</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206504901p5/7751.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206504901p2/7751.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7751.Tennessee_Williams]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>444237</ratings_count>
+<text_reviews_count>8982</text_reviews_count>
+</author>
+</authors>
+  <published>1966</published>
+<work>  <id>383964</id>
+  <uri>kca://work/amzn1.gr.work.v1.GqmeBGq6ZJ8o0hSRtAf7yA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="14704574" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Apr 23 20:41:33 -0700 2012</date_added>
+  <date_updated>Sat Feb 13 07:44:52 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/317835098]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/317835098]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>317708788</id>
+    <book>
+  <id type="integer">9557</id>
+  <isbn>0099448475</isbn>
+  <isbn13>9780099448471</isbn13>
+  <text_reviews_count type="integer">3370</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.frtz01_lqbMUN7Fj2wk6Yg</uri>
+  <title>Sputnik Sweetheart</title>
+  <title_without_series>Sputnik Sweetheart</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508082438l/9557._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1508082438l/9557._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9557.Sputnik_Sweetheart</link>
+  <num_pages>229</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>95985</ratings_count>
+  <description>&lt;i&gt;alternate cover can be found &lt;a href="https://www.goodreads.com/book/show/18806499-sputnik-sweetheart" rel="nofollow"&gt;here&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Sumire is in love with a woman seventeen years her senior. But whereas Miu is glamorous and successful, Sumire is an aspiring writer who dresses in an oversized second-hand coat and heavy boots like a character in a Kerouac novel.&lt;br /&gt;&lt;br /&gt;Sumire spends hours on the phone talking to her best friend K about the big questions in life: what is sexual desire, and should she ever tell Miu how she feels for her? Meanwhile K wonders whether he should confess his own unrequited love for Sumire.&lt;br /&gt;&lt;br /&gt;Then, a desperate Miu calls from a small Greek island: Sumire has mysteriously vanished...</description>
+<authors>
+<author>
+<id>3354</id>
+<name>Haruki Murakami</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539035376p5/3354.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539035376p2/3354.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3354.Haruki_Murakami]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>2076424</ratings_count>
+<text_reviews_count>151856</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>1813695</id>
+  <uri>kca://work/amzn1.gr.work.v1.rXj0b8NsIFpQgARX9yFbFQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="14704574" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Apr 23 16:56:07 -0700 2012</date_added>
+  <date_updated>Mon Apr 23 16:56:07 -0700 2012</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/317708788]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/317708788]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

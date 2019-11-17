@@ -1,0 +1,2271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='206557413' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="28" total="28">
+    <review>
+  <id>2080400805</id>
+    <book>
+  <id type="integer">17255034</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">23</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.J0wbng7x1WNuPm07QXrYiQ</uri>
+  <title>El aula 19</title>
+  <title_without_series>El aula 19</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358390223l/17255034._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358390223l/17255034._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17255034-el-aula-19</link>
+  <num_pages>398</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Federico Axat</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.59</average_rating>
+  <ratings_count>209</ratings_count>
+  <description>En plena noche, cinco extraños son convocados de manera peculiar a una escuela para niños ricos en las afueras de la ciudad. Una vez dentro, y todavía sin conocer el propósito real de la reunión, comprenderán que todos ellos están relacionados de una u otra manera con una tragedia que tuvo lugar una década atrás: la muerte de catorce niños en el aula 19. En un juego de desconfianzas y complicidades, deberán desentrañar el misterio de aquellas muertes y sus implicaciones en el presente. En la escuela se esconde la verdad, pero también alguien peligroso que ha esperado mucho tiempo para mostrar su verdadera naturaleza.</description>
+<authors>
+<author>
+<id>4806021</id>
+<name>Federico Axat</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1454545611p5/4806021.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1454545611p2/4806021.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4806021.Federico_Axat]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>5096</ratings_count>
+<text_reviews_count>1021</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>23847429</id>
+  <uri>kca://work/amzn1.gr.work.v1.tZNmzTliI-M7iAaTPNVrQA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1735180465' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844668' name='thriller' review_shelf_id='1735180572' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Aug 04 15:05:52 -0700 2017</started_at>
+  <read_at>Sun Oct 13 21:26:53 -0700 2019</read_at>
+  <date_added>Wed Aug 02 14:03:30 -0700 2017</date_added>
+  <date_updated>Sun Oct 13 21:27:00 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2080400805]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2080400805]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2080398915</id>
+    <book>
+  <id type="integer">19446567</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">15</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.-FQxIFRMSVij6RI2YH4v5A</uri>
+  <title>Trilogía La biblioteca de los muertos</title>
+  <title_without_series>Trilogía La biblioteca de los muertos</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19446567-trilog-a-la-biblioteca-de-los-muertos</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>365</ratings_count>
+  <description>Bretaña, siglo VII. En la abadía de Vectis crece Octavus, un niño al que le auguran poderes diabólicos. Octavus no tarda en empezar a escribir una lista de nombres y fechas sin ningún sentido aparente. Pero poco después, cuando una muerte en la abadía coincide con un nombre y una fecha de la lista, el miedo se apodera de los monjes. Nueva York, en la actualidad. Un asesino en serie tiene atemorizada a toda la ciudad. Poco antes de morir, las víctimas reciben una postal con la fecha de su muerte escrita. ¿Quién está detrás de estas muertes? Un secreto escalofriante, oculto desde hace siglos, está a punto de ser revelado. Un thriller soberbio dotado de una intriga estremecedora que ya ha conquistado a más de un millón de lectores en todo el mundo.&lt;br /&gt;&lt;br /&gt;«Un libro increíble.»&lt;br /&gt;Katherine Neville&lt;br /&gt;&lt;br /&gt;«Un thriller inteligente, una novela inolvidable.»&lt;br /&gt;Book Reporter&lt;br /&gt;&lt;br /&gt;«La biblioteca de los muertos no pierde ritmo ni tan siquiera cuando se aventura en busca de los secretos de un convento que recuerda al de Umberto Eco.»&lt;br /&gt;Corriere della Sera</description>
+<authors>
+<author>
+<id>2902232</id>
+<name>Glenn Cooper</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1323687067p5/2902232.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1323687067p2/2902232.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2902232.Glenn_Cooper]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>31833</ratings_count>
+<text_reviews_count>2921</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>27533847</id>
+  <uri>kca://work/amzn1.gr.work.v1.SV1YTHlXwUuor5j3EgbjGw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1733121540' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844668' name='thriller' review_shelf_id='1733122592' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Aug 02 14:01:36 -0700 2017</started_at>
+  <read_at>Sun Oct 13 21:28:20 -0700 2019</read_at>
+  <date_added>Wed Aug 02 14:01:35 -0700 2017</date_added>
+  <date_updated>Sun Oct 13 21:28:20 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2080398915]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2080398915]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2080397584</id>
+    <book>
+  <id type="integer">12969140</id>
+  <isbn>6070708989</isbn>
+  <isbn13>9786070708985</isbn13>
+  <text_reviews_count type="integer">1792</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.shxr5CHMoj-kQj0pODg1EA</uri>
+  <title>Persona normal</title>
+  <title_without_series>Persona normal</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568953640l/12969140._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568953640l/12969140._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12969140-persona-normal</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Destino</publisher>
+  <publication_day/>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>13680</ratings_count>
+  <description>Una grandiosa e increíble aventura para ser todo... excepto normal.&lt;br /&gt; 	&lt;br /&gt;Tenía un par de padres divertidos y jóvenes, llenos de sueños y de planes. Pero a mis doce años, cinco meses, tres días y dos horas y cuarto, aproximadamente, me quedé sin ellos&lt;br /&gt;&lt;br /&gt;Desde que el tío Paco se hizo cargo de él, Sebastián ha vivido aventuras increíbles: tuvo un encuentro inesperado con un enorme felino, conoció a uno de los últimos vampiros que viven en el DF; frente a su casa vio a un mítico personaje saltar de la góndola en la que viajaba, para rescatar a una joven de una inundación; consiguió un mapa estelar para un pobre extraterrestre perdido en la Tierra, sobrevivió el embate de un enorme monstruo marino, peleó al lado de los sioux para defender su territorio de los colonizadores? ¿Qué pasa con Sebastián? ¿Acaso no es una «persona normal»?</description>
+<authors>
+<author>
+<id>4501692</id>
+<name>Benito Taibo</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1369073699p5/4501692.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1369073699p2/4501692.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4501692.Benito_Taibo]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>25718</ratings_count>
+<text_reviews_count>4796</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>18127317</id>
+  <uri>kca://work/amzn1.gr.work.v1.xT9iU6eiYjmJ5rpLrZpbhA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1733120330' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='217159256' name='otros' review_shelf_id='1733120610' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Aug 02 00:00:00 -0700 2017</started_at>
+  <read_at>Tue Aug 08 00:00:00 -0700 2017</read_at>
+  <date_added>Wed Aug 02 14:00:15 -0700 2017</date_added>
+  <date_updated>Fri Aug 11 15:14:29 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Para ser un libro de 224 pág. encierra mucho aprendizaje tanto de vida como cultural, tal vez algunas reflexiones ya las hemos oído, otras las hemos aprendido en el camino que llamamos vida.<br />Lo que más me gusto fueron las menciones de autores y libros, incluso algunos poemas (no soy muy de l...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2080397584]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2080397584]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2065464470</id>
+    <book>
+  <id type="integer">15741537</id>
+  <isbn nil="true"/>
+  <isbn13>9788498005981</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.bb9Rf0rTZnFomDLQeGRNZw</uri>
+  <title>Los secretos del club Lázaro</title>
+  <title_without_series>Los secretos del club Lázaro</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341736547l/15741537._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341736547l/15741537._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15741537-los-secretos-del-club-l-zaro</link>
+  <num_pages>382</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>La factoría de ideas</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.23</average_rating>
+  <ratings_count>459</ratings_count>
+  <description>Londres, 1857. Unos cadáveres terriblemente mutilados aparecen en el río Támesis. La policía, desconcertada, solicita la ayuda del cirujano George Phillips, pero este no tardará en convertirse en su principal sospechoso. Mientras tanto, una sociedad secreta se reúne. En ella se dan cita algunas de las mentes más brillantes de la época (Isambard Kingdom Brunel, Charles Babbage, Charles Darwin…), genios que desean hacer uso de sus descubrimientos para cambiar el mundo. Pero hay quienes se valen de esa sociedad secreta para sus propios fines. La vida y la reputación del doctor Phillips penden de un hilo, por lo que tendrá que desenmascarar a los conspiradores antes de que estos desaten su increíble poder sobre el mundo... Cruentos asesinatos. Magníficos avances tecnológicos... Tony Pollard ha encerrado en este libro lo mejor y lo peor de la ciudad de Londres en la época victoriana.</description>
+<authors>
+<author>
+<id>447111</id>
+<name>Tony Pollard</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/447111.Tony_Pollard]]></link>
+<average_rating>3.42</average_rating>
+<ratings_count>644</ratings_count>
+<text_reviews_count>67</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>3785397</id>
+  <uri>kca://work/amzn1.gr.work.v1.m29HfeDurwm_geMDV4upzg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1727151445' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844668' name='thriller' review_shelf_id='1727152862' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='228074106' name='historica' review_shelf_id='1727152789' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jun 18 00:00:00 -0700 2017</started_at>
+  <read_at>Wed Jul 26 00:00:00 -0700 2017</read_at>
+  <date_added>Wed Jul 19 11:25:39 -0700 2017</date_added>
+  <date_updated>Thu Jul 27 18:43:07 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA["Cruentos asesinatos. Magníficos avances tecnológicos..." son unas de las cosas que contiene este thriller histórico, ambientado en la época victoriana, Londres será el escenario de los momentos más cruciales de la ciencia y estos serán protagonizados por algunos de los pioneros más importante de...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2065464470]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2065464470]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2026689636</id>
+    <book>
+  <id type="integer">18391767</id>
+  <isbn>846665383X</isbn>
+  <isbn13>9788466653831</isbn13>
+  <text_reviews_count type="integer">14</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.zju7493CyU7MQsV8ZtNGTw</uri>
+  <title>El doctor cadáver</title>
+  <title_without_series>El doctor cadáver</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381663128l/18391767._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381663128l/18391767._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18391767-el-doctor-cad-ver</link>
+  <num_pages>345</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Ediciones B</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.66</average_rating>
+  <ratings_count>997</ratings_count>
+  <description>En 1894, en la ciudad francesa de Varburgo aparece el cadáver de una joven. Uno de los médicos de la localidad, Albert Karno, conocido como el Doctor Cadáver, descubre la presencia de unos ácaros en las fosas nasales de la difunta. Karno deberá establecer la causa de la muerte, pero la familia de la muchacha y el sacerdote de la ciudad se niegan a autorizar la autopsia. Será el inicio de una serie de acontecimientos dramáticos que conducirá al médico, a su hija y al comisario del lugar hasta un convento cercano, custodiado por lobos, y los miembros de la burguesía local.</description>
+<authors>
+<author>
+<id>3116926</id>
+<name>Lene Kaaberbøl</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1406556125p5/3116926.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1406556125p2/3116926.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3116926.Lene_Kaaberb_l]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>67006</ratings_count>
+<text_reviews_count>5302</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>14623047</id>
+  <uri>kca://work/amzn1.gr.work.v1.M_KFJ59liuQ2gbgDzv0RMw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1681049963' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844668' name='thriller' review_shelf_id='1684022672' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jun 09 00:00:00 -0700 2017</started_at>
+  <read_at>Sun Jun 11 00:00:00 -0700 2017</read_at>
+  <date_added>Sun Jun 11 15:39:44 -0700 2017</date_added>
+  <date_updated>Wed Aug 02 19:33:00 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA["Una mujer cuya pasión por la ciencia y la medicina la enfrenta a la sociedad de su época"<br />Realmente eso fue lo que me atrajo del libro (a parte de la portada que tiene un aura de misterioso y antiguo), la historia se desarrolla en Europa del siglo XIX donde los conocimientos de la medicina...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2026689636]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2026689636]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2005620445</id>
+    <book>
+  <id type="integer">6193565</id>
+  <isbn>8466617752</isbn>
+  <isbn13>9788466617758</isbn13>
+  <text_reviews_count type="integer">52</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KsnkXjQhnrGLCZyaw0nu8g</uri>
+  <title>La sombra</title>
+  <title_without_series>La sombra</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566689517l/6193565._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566689517l/6193565._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6193565-la-sombra</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Ediciones B</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>3842</ratings_count>
+  <description>En el Berlín de 1943 pocos vieron su cara, y nadie supo su nombre. Entre susurros era conocido como "Der Schattenmann", La Sombra, un despiadado delator judío que colaboraba con la Gestapo. Miami, finales del siglo XX. La vida del detective retirado Simon Winter da un giro repentino cuando recibe la visita de una aterrorizada vecina, una anciana cree haber visto a un fantasma del pasado. Cuando a la mañana siguiente aparece estrangulada, Winter es el único que sospecha la terrible verdad: un escurridizo asesino está exterminando a los supervivientes del Holocausto que viven en Miami.</description>
+<authors>
+<author>
+<id>27804</id>
+<name>John Katzenbach</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1325670824p5/27804.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1325670824p2/27804.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/27804.John_Katzenbach]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>69633</ratings_count>
+<text_reviews_count>5651</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>65865</id>
+  <uri>kca://work/amzn1.gr.work.v1.NYuY0biwnFRuE6IhUZy-uw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1726998163' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844846' name='ciencia-ficción' review_shelf_id='1726998158' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat May 20 15:27:55 -0700 2017</started_at>
+  <read_at>Mon Jul 17 17:18:43 -0700 2017</read_at>
+  <date_added>Sat May 20 15:27:54 -0700 2017</date_added>
+  <date_updated>Thu Jul 27 14:41:25 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<br />La mayoría conocemos a John Katzenbach por su tan famoso libro El Psicoanalista, que fue publicado en el 2002 y antes de este llevaba ya varias publicaciones entre ellas La Sombra que fue publicada en 1995. <br />La Sombra fue de uno de esos libros que me gusto pero no me encanto, lo que más me atraía...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2005620445]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2005620445]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1965959210</id>
+    <book>
+  <id type="integer">57891</id>
+  <isbn>156931778X</isbn>
+  <isbn13>9781569317785</isbn13>
+  <text_reviews_count type="integer">3310</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.evCp0TnjSs8RQNL4Hfhmug</uri>
+  <title>Battle Royale</title>
+  <title_without_series>Battle Royale</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331235272l/57891._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331235272l/57891._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/57891.Battle_Royale</link>
+  <num_pages>617</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>VIZ, LLC</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>49661</ratings_count>
+  <description>Dans un pays asiatique imaginaire existe un programme gouvernemental connu sous le nom de « Battle Royale ». Chaque année, une classe de 3ͤ est choisie au hasard, emmenée sur une île coupée du monde, et les collégiens doivent combattre entre eux jusqu'à ce qu'il ne reste qu'un survivant...&lt;br /&gt;&lt;br /&gt;Ceci afin de servir d'exemple à la population, à la jeunesse particulièrement, et aussi de recueillir des statistiques sur le temps mis par le champion à éliminer ses camarades.&lt;br /&gt;&lt;br /&gt;Version contemporaine survitaminée de &lt;i&gt;Sa Majesté des Mouches&lt;/i&gt;, de William Golding, &lt;i&gt;Battle Royale&lt;/i&gt; a défrayé la chronique à sa publication, avant de devenir l'un des plus grands best-sellers de l'édition nippone.&lt;br /&gt;&lt;br /&gt;</description>
+<authors>
+<author>
+<id>32595</id>
+<name>Koushun Takami</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309551623p5/32595.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309551623p2/32595.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/32595.Koushun_Takami]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>74899</ratings_count>
+<text_reviews_count>5493</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>2786327</id>
+  <uri>kca://work/amzn1.gr.work.v1.rRiUdaynw1AGm2SHUM92xg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1628693011' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844846' name='ciencia-ficción' review_shelf_id='1628692945' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Apr 16 16:55:37 -0700 2017</started_at>
+  <read_at>Sun Apr 30 17:26:29 -0700 2017</read_at>
+  <date_added>Sat Apr 08 15:07:10 -0700 2017</date_added>
+  <date_updated>Sun Apr 30 17:26:57 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[¡Guao! Este libro me ha encantado, se ha convertido en mi favorito y uno de los mejores del año. Nunca he leído una novela que tenga tanta dosis de acción, adrenalina, sangre y tripas y que ha la vez escritor tenga la magia de narrarlos de una forma que al lector se el acelere el corazón con cada...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1965959210]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1965959210]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1964374316</id>
+    <book>
+  <id type="integer">18068486</id>
+  <isbn>8420414069</isbn>
+  <isbn13>9788420414065</isbn13>
+  <text_reviews_count type="integer">692</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.I2DXzB5olWJ2FWXMoO07Kg</uri>
+  <title>La verdad sobre el caso Harry Quebert</title>
+  <title_without_series>La verdad sobre el caso Harry Quebert</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370971227l/18068486._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370971227l/18068486._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18068486-la-verdad-sobre-el-caso-harry-quebert</link>
+  <num_pages>672</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Alfaguara</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>71137</ratings_count>
+  <description>Una novela de suspense a tres tiempos -1975, 1998 y 2008- acerca del asesinato de una joven de quince años en la pequeña ciudad de Aurora, en New Hampshire.&lt;br /&gt;&lt;br /&gt;En 2008, Marcus Goldman, un joven escritor, visita a su mentor -Harry Quebert, autor de una aclamada novela- y descubre que éste tuvo una relación secreta con Nola Kellergan. Poco después, Harry es arrestado y acusado de asesinato al encontrarse el cadáver de Nola enterrado en su jardín.&lt;br /&gt;&lt;br /&gt;Marcus comienza a investigar y a escribir un libro sobre el caso. Mientras busca demostrar la inocencia de Harry, una trama de secretos sale a la luz. La verdad sólo llega al final de un largo, intrincado y apasionante recorrido</description>
+<authors>
+<author>
+<id>6535186</id>
+<name>Joël Dicker</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474439170p5/6535186.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474439170p2/6535186.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6535186.Jo_l_Dicker]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>99591</ratings_count>
+<text_reviews_count>11349</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>21805083</id>
+  <uri>kca://work/amzn1.gr.work.v1.AgVb04KjI1xrOMhNqT5C0Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>4</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1619787208' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844694' name='novela-negra-y-policiaca' review_shelf_id='1628692193' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Apr 06 00:00:00 -0700 2017</started_at>
+  <read_at>Tue Apr 11 00:00:00 -0700 2017</read_at>
+  <date_added>Thu Apr 06 20:14:44 -0700 2017</date_added>
+  <date_updated>Sun Apr 16 16:54:30 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Dosis de misterio, suspenso e intriga con un fondo de historia de amor que se ve empañado por la desaparición de una joven de 15 años Nolan Kellergan, prácticamente esto es una pequeñísima parte de lo que va la trama.<br />El libro se divide en 31 capítulos los cuales van en cuenta regresiva y en...]]>
+  </body>
+
+  
+
+  <comments_count>1</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1964374316]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1964374316]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1964274542</id>
+    <book>
+  <id type="integer">1579317</id>
+  <isbn>8466622071</isbn>
+  <isbn13>9788466622073</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Yfq1Wq_E6pDcXzwsV9LzoA</uri>
+  <title>Los brujos del oeste</title>
+  <title_without_series>Los brujos del oeste</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328837293l/1579317._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328837293l/1579317._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1579317.Los_brujos_del_oeste</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Ediciones B</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.73</average_rating>
+  <ratings_count>285</ratings_count>
+  <description>In order to get their hands on a substance that will make their spells more powerful than ever before, Wolfbane, Abby, Spike, and the Light Witches will need to track down the ancient sword of Merlin. This mission takes them to the Wild West, where the sword is hidden. The adventures and comrades encountered are unlike any that the witches have met before: they run into Buffalo Bill, the hero of the West and find themselves face-to-face with Stoneheart and his gang.&lt;br /&gt; &lt;br /&gt;Para obtener la sustancia capaz de potenciar los hechizos hasta lo inimaginable, Wolfbane, Abby, Spike y las brujas de la luz necesitan la espada legendaria llamada Excalibur. Esta misión los llevará hasta el Lejano Oeste, donde permanece oculta la fabulosa espada. Las aventuras y los compañeros que los aguardan allí no se parecen a nada a lo que han conocido antes: se toparán con Búfalo Bill, el héroe del Oeste; conocerán la sabiduría de la águila que habla y se enfrentarán a Stoneheart y su banda de bandidos.</description>
+<authors>
+<author>
+<id>6735</id>
+<name>Michael Molloy</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6735.Michael_Molloy]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>2402</ratings_count>
+<text_reviews_count>148</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2173161</id>
+  <uri>kca://work/amzn1.gr.work.v1.PtIpBl_C52ZtZgrrxCN2Ag</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='213844644' name='fantasia' review_shelf_id='1647123799' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='220529932' name='infantil-juvenil' review_shelf_id='1647123949' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jun 06 00:00:00 -0700 2010</started_at>
+  <read_at>Wed Jun 09 00:00:00 -0700 2010</read_at>
+  <date_added>Thu Apr 06 18:09:30 -0700 2017</date_added>
+  <date_updated>Wed Aug 02 19:34:33 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Cumpliendo con el reto del mes de abril: releer un libro, escogí Los Brujos del Oeste que fue una de mis primeras lecturas, siendo este el tercero de una trilogía y el único que he leído ya que no he conseguido los otros dos.<br /> Es una novela enfocada más al público infantil/juvenil, los prota...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1964274542]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1964274542]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1951496021</id>
+    <book>
+  <id type="integer">3421809</id>
+  <isbn>8483835045</isbn>
+  <isbn13>9788483835043</isbn13>
+  <text_reviews_count type="integer">976</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2VvUxaySI8LJdGr_cbhBEQ</uri>
+  <title>Tokio blues. Norwegian Wood</title>
+  <title_without_series>Tokio blues. Norwegian Wood</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3421809-tokio-blues-norwegian-wood</link>
+  <num_pages>384</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Tusquets Editores S.A.</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>294428</ratings_count>
+  <description>Mientras aterriza en un aeropuerto europeo, Toru Watanabe escucha una vieja canción de los Beatles que le hace retroceder a su juventud, al turbulento Tokio de los años sesenta. Recuerda entonces con melancolía a la misteriosa Naoko, la novia de su mejor amigo de la adolescencia. El suicidio de éste les distanció durante un año, hasta que se reencontraron e iniciaron una relación íntima. Sin embargo, la aparición de otra mujer en su vida lleva a Toru a experimentar el deslumbramiento y el desengaño allí donde todo debería cobrar sentido: el sexo, el amor y la muerte.</description>
+<authors>
+<author>
+<id>3354</id>
+<name>Haruki Murakami</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539035376p5/3354.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539035376p2/3354.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3354.Haruki_Murakami]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>2076497</ratings_count>
+<text_reviews_count>151861</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2956680</id>
+  <uri>kca://work/amzn1.gr.work.v1.3EVbzGfvXUWo3YZcXtQLMw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1607291595' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='217159256' name='otros' review_shelf_id='1614671547' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Mar 24 00:00:00 -0700 2017</started_at>
+  <read_at>Sat Apr 01 00:00:00 -0700 2017</read_at>
+  <date_added>Fri Mar 24 17:46:50 -0700 2017</date_added>
+  <date_updated>Sat Apr 01 17:33:31 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Me resulta refrescante salirme de mi zona de confort ya que no suelo leer esta clase de libro, desde que he oído hablar de Murakami siempre he tenido curiosidad por sus libros sin embargo nunca me animaba a leerlos porque pensé que no son del tipo que me iban a gustar y estaba en lo cierto a medi...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1951496021]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1951496021]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1923765175</id>
+    <book>
+  <id type="integer">26845666</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">53</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.OB_fcBCccGfowt67etVzZQ</uri>
+  <title>El pasajero 23</title>
+  <title_without_series>El pasajero 23</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26845666-el-pasajero-23</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>6498</ratings_count>
+  <description>Martin Schwartz, psicólogo de la policía, perdió hace cinco años a su mujer y a su hijo durante unas vacaciones en el crucero Sultan of the Seas. Nunca se supo con certeza lo ocurrido. Martin no ha logrado recuperarse y busca refugio en su trabajo como agente encubierto en operaciones suicidas.&lt;br /&gt;&lt;br /&gt;En el transcurso de una misión, recibe la llamada de una anciana dama algo extravagante, que se presenta como autora de novelas de suspense. La mujer afirma que existen pruebas relacionadas con la desaparición de la familia de Martin, y urge a este a que vuelva a embarcarse en el Sultan. Él, que había jurado no volver a poner un pie en un barco, acata sus indicaciones y se entera de que una niña desaparecida semanas atrás en el Sultan ha aparecido… con el osito de peluche del hijo de Martin bajo el brazo.&lt;br /&gt;&lt;br /&gt;Un crucero es una pequeña ciudad en la que todos los años desparecen decenas de pasajeros: el lugar para el crimen perfecto.&lt;br /&gt;&lt;br /&gt;Best seller en Alemania, con más de 500.000 ejemplares vendidos.&lt;br /&gt;&lt;br /&gt; Se ha dicho sobre la novela:&lt;br /&gt;&lt;br /&gt;«Una novela de suspense muy potente, que atrapa desde la primera hasta la última página. Ninguna escena es superflua, ningún giro es previsible.» Der Spiegel&lt;br /&gt;&lt;br /&gt;«Un thriller muy emocionante, cuyo voltaje es comparable con el de cualquiera de los grandes nombres internacionales del género.» Krimi-Couch&lt;br /&gt;&lt;br /&gt;«Sebastian Fitzek rebasa no solo las fronteras de la realidad, sino también las de la imaginación.» Neue Zürcher Zeitung&lt;br /&gt;&lt;br /&gt;«Exquisito y estremecedor.» Hörzu&lt;br /&gt;&lt;br /&gt;«Si tienes previsto viajar en un crucero próximamente, ¡mejor no leas este libro! O plantéate viajar en avión o en tren...» Laviva&lt;br /&gt;&lt;br /&gt;«Un Fitzek auténtico, intrincado, cautivador. Una fascinante novela de suspense, con un escenario genial y un final muy sorprendente.» Irmi Bennet &lt;br /&gt;&lt;br /&gt;«Sebastian Fitzek ha conseguido una espléndida novela de suspense psicológico.» Jen&lt;br /&gt;&lt;br /&gt;«Grandiosa, adictiva… ¡Una novela de suspense con clase!» Sweery</description>
+<authors>
+<author>
+<id>190305</id>
+<name>Sebastian Fitzek</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1240566387p5/190305.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1240566387p2/190305.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/190305.Sebastian_Fitzek]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>79230</ratings_count>
+<text_reviews_count>7318</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>41340454</id>
+  <uri>kca://work/amzn1.gr.work.v1.GPvIKgyOrfnTPPtUyuVAbQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1628693652' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844668' name='thriller' review_shelf_id='1628693580' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Apr 16 00:00:00 -0700 2017</started_at>
+  <read_at>Thu Apr 27 00:00:00 -0700 2017</read_at>
+  <date_added>Fri Feb 24 14:05:30 -0800 2017</date_added>
+  <date_updated>Thu Apr 27 18:03:41 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Un escritor que no decepciona en absoluto, realmente se ha convertido en uno de mis favoritos por su manera de escribir thriller psicológico, es una lástima que en mi país no lleguen todos sus libros.<br />El curioso nombre del libro viene dado cuando en los cruceros desaparece un pasajero sin de...]]>
+  </body>
+
+  
+
+  <comments_count>2</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1923765175]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1923765175]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1923764335</id>
+    <book>
+  <id type="integer">1612509</id>
+  <isbn>8496748162</isbn>
+  <isbn13>9788496748163</isbn13>
+  <text_reviews_count type="integer">217</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.gyLiALo3XQm53mQ2DAvvBA</uri>
+  <title>La princesa de hielo</title>
+  <title_without_series>La princesa de hielo</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432806706l/1612509._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432806706l/1612509._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1612509.La_princesa_de_hielo</link>
+  <num_pages>376</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Maeva</publisher>
+  <publication_day/>
+  <publication_year>2007</publication_year>
+  <publication_month/>
+  <average_rating>3.72</average_rating>
+  <ratings_count>52712</ratings_count>
+  <description>En un pueblo que esconde muchos secretos es peligroso saber la verdad.&lt;br /&gt;Se llamaba Alexandra, era joven, rica y guapa, y nadie en el pueblo se puede explicar su muerte. Por pura casualidad, Erica, amiga de la infancia y autora de biografías, se ve involucrada en el caso. Había regresado a su pueblo natal para hacerse cargo de la casa que acababa de heredar de sus padres, recientemente fallecidos en un accidente, y para trabajar en su próximo libro.&lt;br /&gt;Cuando la familia de Alex le pide que escriba un recordatorio para el funeral, Erica, todavía conmocionada por la repentina muerte de su amiga, comienza a investigar la vida de la víctima.&lt;br /&gt;Con la ayuda del comisario Patrik, otro viejo conocido que pronto se convertirá en algo más que un amigo, descubre un oscuro secreto, largamente guardado. Alguien conoció a Alex desde su infancia y le preparó un helado lecho mortuorio.&lt;br /&gt;Camilla Läckberg dibuja finamente el retrato de la sociedad cerrada de una pequeña ciudad, en la que todos lo saben todo de todo el mundo, pero en la cual las apariencias son fundamentales.</description>
+<authors>
+<author>
+<id>72887</id>
+<name>Camilla Läckberg</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1548222269p5/72887.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1548222269p2/72887.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/72887.Camilla_L_ckberg]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>199756</ratings_count>
+<text_reviews_count>14868</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>1395190</id>
+  <uri>kca://work/amzn1.gr.work.v1.8OotxCHxL8AfuJ0WW7Lttw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1733119401' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844694' name='novela-negra-y-policiaca' review_shelf_id='1733119484' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jul 26 00:00:00 -0700 2017</started_at>
+  <read_at>Tue Aug 01 00:00:00 -0700 2017</read_at>
+  <date_added>Fri Feb 24 14:04:28 -0800 2017</date_added>
+  <date_updated>Wed Aug 02 17:18:07 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[La princesa del hielo forma parte de la serie Los crímenes de Fjällbacka, que se desarrolla en una pequeña ciudad costera llamada Fjällbacka, que por cierto es el mismo lugar de nacimiento de la autora de este libro, y tiene como protagonistas a la escritora Erica Falck y al detective Patrik Heds...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1923764335]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1923764335]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1919399587</id>
+    <book>
+  <id type="integer">96924</id>
+  <isbn>0451200101</isbn>
+  <isbn13>9780451200105</isbn13>
+  <text_reviews_count type="integer">46</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4VnTI0QQ0n3P8T7xwFMcYQ</uri>
+  <title>The Experiment</title>
+  <title_without_series>The Experiment</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309285829l/96924._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1309285829l/96924._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/96924.The_Experiment</link>
+  <num_pages>481</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Signet</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.56</average_rating>
+  <ratings_count>680</ratings_count>
+  <description>In an isolated laboratory, a test subject discovers a human corpse with its heart removed...In New York City, a journalist investigates a homicide victim with its face and fingerprints removed...&lt;br /&gt;&lt;br /&gt;Drawn together by medicine and murder, these two men are about to make a discovery that will change everything they think about science, nature, and themselves...&lt;br /&gt;&lt;br /&gt;They share the same face.</description>
+<authors>
+<author>
+<id>55751</id>
+<name>John Darnton</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/55751.John_Darnton]]></link>
+<average_rating>3.39</average_rating>
+<ratings_count>6009</ratings_count>
+<text_reviews_count>695</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>1449403</id>
+  <uri>kca://work/amzn1.gr.work.v1.emSYOWXy-2CCX6gpdPLwsw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1605686297' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844668' name='thriller' review_shelf_id='1605686824' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Feb 20 09:44:02 -0800 2017</started_at>
+  <read_at>Wed Mar 22 16:56:47 -0700 2017</read_at>
+  <date_added>Mon Feb 20 09:44:01 -0800 2017</date_added>
+  <date_updated>Wed Mar 22 22:10:29 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[La novela comienza con dos historias paralelas, que a primera vista no tienen relación en sí, narrado desde el punto de vista de los dos personajes principales: Jude y Skyller que a pesar de encontrarse a miles de kilómetros sus destinos se terminan entrecruzando y descubren un gran secreto, que...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1919399587]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1919399587]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1919399071</id>
+    <book>
+  <id type="integer">13500985</id>
+  <isbn>8408003496</isbn>
+  <isbn13>9788408003496</isbn13>
+  <text_reviews_count type="integer">72</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2M_8eDhsJFgCfpD7ptrRsQ</uri>
+  <title>El experimento</title>
+  <title_without_series>El experimento</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330258062l/13500985._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330258062l/13500985._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13500985-el-experimento</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Booket</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.11</average_rating>
+  <ratings_count>5880</ratings_count>
+  <description>De la mano de su profesor, dos estudiantes de psicología participan en un experimento que consiste en estudiar el expediente médico de un paciente de una clínica psiquiátrica privada de Berlín, donde hace años tuvieron lugar escenas de horror y que, actualmente, se mantiene cerrada al público. En medio de los acontecimientos se hallan el joven Caspar, un paciente que sufre amnesia, incapaz de recordar quién es, y también un asesino en serie conocido como el Destructor de almas. Tras el ataque a tres mujeres, el Destructor de almas centrará ahora su objetivo en el centro psiquiátrico. Cualquiera puede ser la próxima víctima...</description>
+<authors>
+<author>
+<id>190305</id>
+<name>Sebastian Fitzek</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1240566387p5/190305.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1240566387p2/190305.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/190305.Sebastian_Fitzek]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>79230</ratings_count>
+<text_reviews_count>7318</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>4907692</id>
+  <uri>kca://work/amzn1.gr.work.v1.YZRPKdNMEJsv4B_O557hqw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1601295121' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844668' name='thriller' review_shelf_id='1601295190' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Feb 20 09:43:26 -0800 2017</started_at>
+  <read_at>Fri Mar 03 16:25:20 -0800 2017</read_at>
+  <date_added>Mon Feb 20 09:43:25 -0800 2017</date_added>
+  <date_updated>Sat Mar 18 10:54:19 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[¡El mejor thriller psicológico que he leído en mi vida! Este libro le arrebato el lugar de favorito que tenía Terapia, me muero por contarles muchas cosas que me gustaron pero terminaría haciendo spoiler, y prefiero que ustedes lean y disfruten igual o más que yo de este estupendo thriller, así q...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1919399071]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1919399071]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1919395550</id>
+    <book>
+  <id type="integer">12160859</id>
+  <isbn>0312641745</isbn>
+  <isbn13>9780312641740</isbn13>
+  <text_reviews_count type="integer">247</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.DwGHv07NyZnyuU3qeMXmNw</uri>
+  <title>Ashes to Dust (Þóra Guðmundsdóttir, #3)</title>
+  <title_without_series>Ashes to Dust</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344314693l/12160859._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344314693l/12160859._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12160859-ashes-to-dust</link>
+  <num_pages>360</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Minotaur Books</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.70</average_rating>
+  <ratings_count>3942</ratings_count>
+  <description>In 1973, a volcanic eruption buried an entire Icelandic village in lava and ash. Now this macabre tourist attraction proves deadly once again—when the discovery of fresh bodies casts a shadow of suspicion onto Markús Magnússon, a man accused of killing his childhood sweetheart. His attorney Þóra Guðmundsdóttir finds that her client has a most inventive story to tell. But the locals seem oddly reluctant to back him up...</description>
+<authors>
+<author>
+<id>747437</id>
+<name>Yrsa Sigurðardóttir</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1267305974p5/747437.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1267305974p2/747437.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/747437.Yrsa_Sigur_ard_ttir]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>42828</ratings_count>
+<text_reviews_count>4708</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>6235726</id>
+  <uri>kca://work/amzn1.gr.work.v1.kmrNkpfcUcsySXjXabrQaQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1586206203' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844668' name='thriller' review_shelf_id='1586206470' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Feb 20 09:39:30 -0800 2017</started_at>
+  <read_at>Thu Mar 02 15:53:22 -0800 2017</read_at>
+  <date_added>Mon Feb 20 09:39:15 -0800 2017</date_added>
+  <date_updated>Thu Mar 02 15:53:22 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Éste es el tercer libro que me leo de esta autora que se ha convertido en mi favorita, esta vez nos encontramos en unas islas cerca de Islandia y Zóra, nuestra protagonista, se encuentra trabajando en un caso que a simple vista podría ser muy sencillo y es ayudar a su cliente a recuperar un objet...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1919395550]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1919395550]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1919390114</id>
+    <book>
+  <id type="integer">101865</id>
+  <isbn>8433969757</isbn>
+  <isbn13>9788433969750</isbn13>
+  <text_reviews_count type="integer">90</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Guf16k7rjhkZvFac98AjSA</uri>
+  <title>Expiación</title>
+  <title_without_series>Expiación</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1285668957l/101865._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1285668957l/101865._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/101865.Expiaci_n</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Anagrama</publisher>
+  <publication_day/>
+  <publication_year>2002</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>411536</ratings_count>
+  <description>En la gran casa de campo de la familia Tallis todo parece fluir con apacible elegancia en el dia más caluroso del verano de 1935. Pero si el lector ha agudizado el oído, ya habrá percibido unas sutiles notas disonantes, y comienza a esperar el instante en que el gusano que habita en la deliciosa manzana asome la cabeza. La tensión estallará después de que Cecilia, la hija mayor de los Tallis, salga empapada de una fuente, vestida solamente con su ropa interior, mientras Robbie, el brillante hijo de la criada y protegido de la familia Tallis, la contempla…&lt;br /&gt;&lt;br /&gt;Un libro prodigioso, que va abriéndose como un juego de cajas chinas y que contiene muchas novelas: una romántica historia de amor imposible, una durísima narración de guerra y la novela que dentro de la novela escribe uno de los personajes.&lt;br /&gt;&lt;br /&gt;McEwan ha escrito su obra maestra.</description>
+<authors>
+<author>
+<id>2408</id>
+<name>Ian McEwan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1404240951p5/2408.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1404240951p2/2408.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2408.Ian_McEwan]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>888516</ratings_count>
+<text_reviews_count>60180</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>2307233</id>
+  <uri>kca://work/amzn1.gr.work.v1.UBpzJ8mEiqZfWPXpcSRFmw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1601294928' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844725' name='romance' review_shelf_id='1601294978' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Feb 20 00:00:00 -0800 2017</started_at>
+  <read_at>Sun Mar 12 00:00:00 -0800 2017</read_at>
+  <date_added>Mon Feb 20 09:32:54 -0800 2017</date_added>
+  <date_updated>Sat Mar 18 10:54:04 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Una apasionante historia de amor y los horrores de una guerra se reflejan en las 435 páginas de este libro las cuales se divide en cuatro capítulos, en el primer capítulo nos adentramos en el hogar de la familia Tallis, donde en el día más caluroso del verano de 1935 ocurre un crimen y se condena...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1919390114]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1919390114]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1911193964</id>
+    <book>
+  <id type="integer">15700469</id>
+  <isbn>8498724813</isbn>
+  <isbn13>9788498724813</isbn13>
+  <text_reviews_count type="integer">288</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.r9n4g-JnJAtqai__S4XQXA</uri>
+  <title>Donde termina el arco iris</title>
+  <title_without_series>Donde termina el arco iris</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344379100l/15700469._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344379100l/15700469._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15700469-donde-termina-el-arco-iris</link>
+  <num_pages>429</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Zeta Bolsillo</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.94</average_rating>
+  <ratings_count>94952</ratings_count>
+  <description>Rosie Dunne y Alex Stewart, amigos desde la infancia, siguen siendo inseparables a través de los años. Necesitan compartir tanto los momentos importantes como los cotidianos, y se intercambian cartas, postales y correos electrónicos. Sus vidas han tomado rumbos muy distintos: Alex estudia medicina en Boston mientras que Rosie, en Dublín, se esfuerza por sacar adelante a su bebé, fruto de una loca noche de pasión. "Donde termina el arco iris" nos presenta una selección de los divertidos y frescos diálogos que Rosie y Alex intercambian, y que nos llevan a conocer en profundidad sus respectivas vidas: sus complicados matrimonios, los esfuerzos por hacer sus sueños realidad... y la realidad de unos sentimientos que nunca se han atrevido a revelar. Una novela conmovedora, que pronto se convertirá en película.</description>
+<authors>
+<author>
+<id>7116</id>
+<name>Cecelia Ahern</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414058421p5/7116.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414058421p2/7116.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7116.Cecelia_Ahern]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>697582</ratings_count>
+<text_reviews_count>41629</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>3423015</id>
+  <uri>kca://work/amzn1.gr.work.v1.fU-lsINYSYne7D4yFBAnyA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1579291454' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844725' name='romance' review_shelf_id='1584106256' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Feb 12 00:00:00 -0800 2017</started_at>
+  <read_at>Thu Feb 23 00:00:00 -0800 2017</read_at>
+  <date_added>Sun Feb 12 09:19:40 -0800 2017</date_added>
+  <date_updated>Tue Feb 28 15:56:06 -0800 2017</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[Me gustó la forma en como la autora contó la historia utilizando el formato de cartas y de emails, esto hace de la historia un tanto más amena y fresca para el lector y para mí fue divertido ver el cambio de palabras de cada uno de los personajes y las ocurrecias que contaba una de las protagonis...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1911193964]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1911193964]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1911191868</id>
+    <book>
+  <id type="integer">28941944</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">76</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Jt-eNPMrAvk_vULwGvZVwQ</uri>
+  <title>París es siempre una buena idea</title>
+  <title_without_series>París es siempre una buena idea</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28941944-par-s-es-siempre-una-buena-idea</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.62</average_rating>
+  <ratings_count>2359</ratings_count>
+  <description>¿Quién no tiene un sueño por cumplir? ¿Quién no aspira, en el fondo, a encontrar el amor perfecto?París es siempre una buena idea para buscar la verdad y encontrar el amor… La propietaria de una pequeña y adorable papelería. Un atractivo profesor de literatura norteamericano. Dos vidas paralelas unidas por un libro infantil con una dedicatoria que esconde un misterio.&lt;br /&gt;«Cómo algo que empieza con una pelea y una mentira puede acabar con una sinfonía de sentimientos auténticos.» Jolie</description>
+<authors>
+<author>
+<id>1258963</id>
+<name>Nicolas Barreau</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1338287801p5/1258963.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1338287801p2/1258963.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1258963.Nicolas_Barreau]]></link>
+<average_rating>3.49</average_rating>
+<ratings_count>13480</ratings_count>
+<text_reviews_count>2071</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>41869199</id>
+  <uri>kca://work/amzn1.gr.work.v1.7PWh26VXTp6Kyt-n31zsow</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1574127291' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844725' name='romance' review_shelf_id='1584106158' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Feb 12 00:00:00 -0800 2017</started_at>
+  <read_at>Sat Feb 18 15:30:45 -0800 2017</read_at>
+  <date_added>Sun Feb 12 09:17:36 -0800 2017</date_added>
+  <date_updated>Tue Feb 28 15:55:59 -0800 2017</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[Nunca había leído algo de Barreau asi que para ser el primero me ha gustado, es una historia sencilla y corta apenas de 320 páginas y se lee de una volada, esta gira entorno al misterio que oculta el cuento tras sus líneas, tiene su pizca de romance y no es para nada empalagoso, otra cosa que me...]]>
+  </body>
+
+  
+
+  <comments_count>3</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1911191868]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1911191868]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1880567063</id>
+    <book>
+  <id type="integer">32142607</id>
+  <isbn>1537700561</isbn>
+  <isbn13>9781537700564</isbn13>
+  <text_reviews_count type="integer">17</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.EgaMKRTzeobxMKYTjpTRTg</uri>
+  <title>El Retrato de Dorian Gray</title>
+  <title_without_series>El Retrato de Dorian Gray</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474724396l/32142607._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474724396l/32142607._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32142607-el-retrato-de-dorian-gray</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Createspace Independent Publishing Platform</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.07</average_rating>
+  <ratings_count>850664</ratings_count>
+  <description>La novela cuenta la historia de un joven llamado Dorian Gray, retratado por el artista Basilio Hallward, quien queda enormemente impresionado por la belleza fisica de Dorian y comienza a encapricharse con el, creyendo que esta belleza es la responsable de la nueva forma de su arte. Charlando en el jardin de Basil, Dorian conoce a Lord Henry Wotton, un amigo de Basil, y empieza a cautivarse por la vision del mundo de Lord Henry. Exponiendo un nuevo tipo de hedonismo, Lord Henry indica que "lo unico que vale la pena en la vida es la belleza, y la satisfaccion de los sentidos." Al darse cuenta de que un dia su belleza se desvanecera, Dorian desea tener siempre la edad de cuando le pinto en el cuadro Basil."</description>
+<authors>
+<author>
+<id>3565</id>
+<name>Oscar Wilde</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521044377p5/3565.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521044377p2/3565.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3565.Oscar_Wilde]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>1522488</ratings_count>
+<text_reviews_count>50625</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>1858012</id>
+  <uri>kca://work/amzn1.gr.work.v1.gXJHa3LhEx7l4V2-nnzgHw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>4</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1607290075' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='216366464' name='clasico' review_shelf_id='1614671369' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Mar 24 00:00:00 -0700 2017</started_at>
+  <read_at>Tue Apr 04 00:00:00 -0700 2017</read_at>
+  <date_added>Sun Jan 15 13:28:36 -0800 2017</date_added>
+  <date_updated>Tue Apr 04 17:19:12 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Como la gran mayoría lo conoce éste es un clásico de la literatura escrito en 1890, ambientado en el siglo XIX en la antigua Inglaterra donde Dorian Gray, es un joven adolescente que tiene una belleza inigualable que al darse cuenta de que esta no durará toda la eternidad pide con anhelante deseo...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1880567063]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1880567063]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1880563042</id>
+    <book>
+  <id type="integer">27209293</id>
+  <isbn>1101972238</isbn>
+  <isbn13>9781101972236</isbn13>
+  <text_reviews_count type="integer">312</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Stq9at8pf0gL0r-9II0F5Q</uri>
+  <title>Omnia: todo lo que puedas soñar</title>
+  <title_without_series>Omnia: todo lo que puedas soñar</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452262399l/27209293._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452262399l/27209293._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/27209293-omnia</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage Espanol</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.61</average_rating>
+  <ratings_count>1749</ratings_count>
+  <description>Todo el mundo sabe que en Omnia, la gran tienda virtual, puedes comprar cualquier cosa. En su catálogo encontrarás todo lo que puedas imaginar, e incluso objetos que ni siquiera sabías que existían. Por eso, cuando Nico tira a la basura por accidente el peluche favorito de su hermana pequeña, no duda en buscar en su web uno igual para reemplazarlo. Pero un error informático inesperado lo conducirá hasta el mismo corazón de Omnia, un inmenso y extraordinario almacén en el que la búsqueda del peluche será solo el comienzo de una emocionante aventura.</description>
+<authors>
+<author>
+<id>228898</id>
+<name>Laura Gallego García</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1398792330p5/228898.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1398792330p2/228898.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/228898.Laura_Gallego_Garc_a]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>115445</ratings_count>
+<text_reviews_count>8916</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>47250790</id>
+  <uri>kca://work/amzn1.gr.work.v1.C6aUQVEjbVFPuQ-ZUGXGKA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1584105814' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844644' name='fantasia' review_shelf_id='1584105828' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Feb 21 09:47:16 -0800 2017</started_at>
+  <read_at>Sat Feb 25 16:28:16 -0800 2017</read_at>
+  <date_added>Sun Jan 15 13:25:39 -0800 2017</date_added>
+  <date_updated>Tue Feb 28 15:55:32 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Una historia super corta con una fantástica trama acompañada de unas bellas ilustraciones, nuestro protagonista Nicolás se da a la aventura de buscar el peluche de su hermana que se perdió por accidente así que decide recurrir a Omnia que puede conseguir todo lo que deseas y sueñas, así es hasta...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1880563042]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1880563042]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1878415052</id>
+    <book>
+  <id type="integer">574205</id>
+  <isbn>9875800147</isbn>
+  <isbn13>9789875800144</isbn13>
+  <text_reviews_count type="integer">68</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VM8gv8yUxXLXN73FUauXhQ</uri>
+  <title>Navidades trágicas (Hercule Poirot, #20)</title>
+  <title_without_series>Navidades trágicas</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/574205.Navidades_tr_gicas</link>
+  <num_pages>188</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Booket</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.94</average_rating>
+  <ratings_count>32617</ratings_count>
+  <description>El mismo día en que todos los miembros de la familia del multimillonario Simeon Lee se encuentran en la mansión de este, dispuestos a celebrar la Navidad, se produce el brutal asesinato del anfitrión. Así, todos los parientes se vuelven sospechosos de ser culpables de este misterio que solo Poirot podrá develar.</description>
+<authors>
+<author>
+<id>123715</id>
+<name>Agatha Christie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p5/123715.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p2/123715.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>3475422</ratings_count>
+<text_reviews_count>176981</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>6568307</id>
+  <uri>kca://work/amzn1.gr.work.v1.jwL_xXjH_qQKV12-oeaboQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1542061015' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844694' name='novela-negra-y-policiaca' review_shelf_id='1584106398' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jan 13 00:00:00 -0800 2017</started_at>
+  <read_at>Sun Jan 22 00:00:00 -0800 2017</read_at>
+  <date_added>Fri Jan 13 17:55:19 -0800 2017</date_added>
+  <date_updated>Tue Feb 28 15:56:16 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Una trama bien planteada, un detective bastante interesante que sin duda seguiré leyendo, unos personajes muy peculiares cada uno con una personalidad muy interesante que a pesar de ser una historia corta se desarrollan bastante bien y un crimen un poco difícil de resolver, la escritora tira unas...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1878415052]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1878415052]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1869355946</id>
+    <book>
+  <id type="integer">12646256</id>
+  <isbn>8432228818</isbn>
+  <isbn13>9788432228810</isbn13>
+  <text_reviews_count type="integer">26</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.sL33b5dXBLQMltqu_-hYtw</uri>
+  <title>La senda oscura (Rebecka Martinsson, #3)</title>
+  <title_without_series>La senda oscura</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335193614l/12646256._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1335193614l/12646256._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12646256-la-senda-oscura</link>
+  <num_pages>462</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Seix Barral</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>5656</ratings_count>
+  <description>Una mujer aparece muerta en un lago helado. Su cuerpo está torturado y presenta una extraña quemadura alrededor del tobillo. Desde el primer instante, la inspectora Anna-Maria Mella sabe que necesita ayuda. El cadáver es de una de las ejecutivas de una compañía minera cuyos tentáculos se extienden por todo el mundo. Anna-Maria necesita que una abogada le explique algunas cosas acerca del negocio, y conoce a la mejor. La abogada Rebecka Martinsson está desesperada por volver al trabajo después de un caso que la ha destrozado, y acepta la propuesta de Anna-Maria Mella. Sus investigaciones revelan una compleja y siniestra relación entre la víctima, su hermano y el director de la empresa. Todo parece indicar un móvil sexual, pero los negocios turbios de Kallis Mining abrirán otra vía de investigación.</description>
+<authors>
+<author>
+<id>168255</id>
+<name>Åsa Larsson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301791855p5/168255.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301791855p2/168255.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/168255._sa_Larsson]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>39756</ratings_count>
+<text_reviews_count>2952</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>2124052</id>
+  <uri>kca://work/amzn1.gr.work.v1.28UUqHd8VyAxa8CElm4V0Q</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='213844694' name='novela-negra-y-policiaca' review_shelf_id='1586112051' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jan 19 00:00:00 -0800 2017</started_at>
+  <read_at>Sun Oct 13 21:28:02 -0700 2019</read_at>
+  <date_added>Fri Jan 06 20:44:20 -0800 2017</date_added>
+  <date_updated>Sun Oct 13 21:28:02 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1869355946]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1869355946]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1869354569</id>
+    <book>
+  <id type="integer">13266989</id>
+  <isbn nil="true"/>
+  <isbn13>9788408111696</isbn13>
+  <text_reviews_count type="integer">135</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.WSyhJiVS8hqcNKbsv1oDow</uri>
+  <title>El circo de la noche</title>
+  <title_without_series>El circo de la noche</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324384476l/13266989._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324384476l/13266989._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13266989-el-circo-de-la-noche</link>
+  <num_pages>576</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Planeta internacional</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>599679</ratings_count>
+  <description>El circo llega sin avisar.&lt;br /&gt;&lt;br /&gt;No viene precedido de ningún anuncio, no se cuelga cartel alguno en los postes o vallas publicitarias del centro ni tampoco aparecen notas ni menciones en los periódicos locales. Sencillamente, está ahí, en un sitio en el que ayer no había nada. Abre sólo de noche y no es un circo cualquiera… &lt;br /&gt;&lt;br /&gt;Le Cirque des Rêves, pues ése es su nombre, es en realidad el escenario de una feroz competición: un terrible duelo entre dos jóvenes magos, Celia y Marco, entrenados desde pequeños para este propósito; un desafío que sus entrenadores llevan preparando desde hace años. Lo que no saben, y pronto descubrirán, es que éste es un juego mortal en el que sólo puede haber un vencedor. Un precio muy alto para dos jóvenes que acaban de descubrir el amor, un amor mágico y profundo que ilumina todo lo que tocan. &lt;br /&gt;&lt;br /&gt;Pero la partida debe continuar, y Marco y Celia sólo podrán confiar en el destino…&lt;br /&gt;&lt;br /&gt;La novela, que levantó grandes expectativas en la última Feria literaria de Frankfurt, se centra en el ambiente gótico de un circo del siglo XIX , en el que todos esos personajes circenses tienen poderes especiales, incluidos Marco y Celia, que protagonizarán el reto de los magos y se enamorarán.</description>
+<authors>
+<author>
+<id>4370565</id>
+<name>Erin Morgenstern</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1552589582p5/4370565.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1552589582p2/4370565.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4370565.Erin_Morgenstern]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>602838</ratings_count>
+<text_reviews_count>66976</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>14245059</id>
+  <uri>kca://work/amzn1.gr.work.v1.IzoeETdoCBWf_cxRZU_R_Q</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1726997832' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844644' name='fantasia' review_shelf_id='1726997856' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat May 20 00:00:00 -0700 2017</started_at>
+  <read_at>Wed May 31 00:00:00 -0700 2017</read_at>
+  <date_added>Fri Jan 06 20:42:57 -0800 2017</date_added>
+  <date_updated>Thu Jul 27 14:41:04 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Sabes que fue un gran libro cuando sientes nostalgia al terminarlo y sabes que algo en ti cambio cuando leíste ese libro y esa es la verdadera magia que ocurre con los libros, ellos tiene el poder de enamorarte, enseñarte, de llenarte de sentimientos y al mismo tiempo hacerte soñar.<br />Le Cirqu...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1869354569]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1869354569]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1869351333</id>
+    <book>
+  <id type="integer">9827945</id>
+  <isbn>8466640630</isbn>
+  <isbn13>9788466640633</isbn13>
+  <text_reviews_count type="integer">17</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.WoEPlGcnUWoZBwCAm0igdg</uri>
+  <title>El almacén</title>
+  <title_without_series>El almacén</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393221339l/9827945._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393221339l/9827945._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9827945-el-almac-n</link>
+  <num_pages>496</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Ediciones B</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.88</average_rating>
+  <ratings_count>6097</ratings_count>
+  <description>En Juniper, Arizona, nunca ocurre nada extraordinario. De modo que el anuncio de la apertura de El almacén supone una gran novedad. Todo lo que uno pueda querer estará bajo un mismo techo y a un precio increíble. Pero conviene tener cuidado con lo que uno quiere... Bill David es el único en el pueblo que es capaz de percibir el mal que bulle en torno a El almacén. El proceso de construcción ha estado rodeado de extrañas irregularidades, y la influencia y el poder de la empresa están adquiriendo dimensiones espeluznantes. Pese a todo, Bill no puede impedir que sus dos hijas adolescentes busquen trabajo en El almacén. Y entonces empiezan a ocurrir cosas extrañas. ¿Qué pasa exactamente en los sótanos de la tienda? ¿Quiénes son los misteriosos jefes nocturnos? Cuando por fin Bill toma cartas en el asunto, conseguirá ir más allá de lo que había imaginado, aunque a un precio aterrador. Ahora El almacén está dispuesto a negociar, y Bill deberá enfrentarse a su misterioso propietario para salvar a su familia, su pueblo y su vida.</description>
+<authors>
+<author>
+<id>2998</id>
+<name>Bentley Little</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1356801399p5/2998.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1356801399p2/2998.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2998.Bentley_Little]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>60662</ratings_count>
+<text_reviews_count>4346</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>202948</id>
+  <uri>kca://work/amzn1.gr.work.v1.bL4vDD8hX5rb0_8BjabCHw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1569441631' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844668' name='thriller' review_shelf_id='1584107978' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jan 22 00:00:00 -0800 2017</started_at>
+  <read_at>Mon Feb 13 19:42:52 -0800 2017</read_at>
+  <date_added>Fri Jan 06 20:39:45 -0800 2017</date_added>
+  <date_updated>Tue Feb 28 15:58:16 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Es una novela del género de terror, con un misterio que ronda alrededor de la cadena de supermercados "El Almacén". Con una escritura sencilla el autor mantiene en vilo al lector para descubrir el misterio que se oculta detrás de los muros de "El Almacén", una lucha del bien contra el mal resumir...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1869351333]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1869351333]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1869319296</id>
+    <book>
+  <id type="integer">6652478</id>
+  <isbn>9786071300</isbn>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">49</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qu72vjn8aVmd-DYtpIlkPQ</uri>
+  <title>El quinto dragón</title>
+  <title_without_series>El quinto dragón</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6652478-el-quinto-drag-n</link>
+  <num_pages>183</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Norma Editorial</publisher>
+  <publication_day/>
+  <publication_year>2009</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>443</ratings_count>
+  <description>"Ahí estaba Jan. Éste era el encuentro que debimos haber tenido, la primera vez que nos veíamos de verdad después de tres años. Me estaba comiendo la angustia. No tenía nada que ofrecerle. Nada. No tenía un hogar ni un futuro ni siquiera la posibilidad de una vida normal y aceptar eso, confesárselo, hacía que me temblaran las rodillas, las manos y la garganta. ¿Cómo podía confesar lo que era a una persona que no creía en las historias fantásticas?&lt;br /&gt;&lt;br /&gt;Premio Nacional de Novela Juvenil Fenal - Norma 2009</description>
+<authors>
+<author>
+<id>2999124</id>
+<name>Paulina Aguilar Gutiérrez</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1368219452p5/2999124.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1368219452p2/2999124.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2999124.Paulina_Aguilar_Guti_rrez]]></link>
+<average_rating>4.29</average_rating>
+<ratings_count>443</ratings_count>
+<text_reviews_count>52</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>6847063</id>
+  <uri>kca://work/amzn1.gr.work.v1.MfEP3FVUIUn68tQZNtkFoQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jan 06 20:12:06 -0800 2017</date_added>
+  <date_updated>Fri Jan 06 20:12:20 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1869319296]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1869319296]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1867709717</id>
+    <book>
+  <id type="integer">7743316</id>
+  <isbn>8432228591</isbn>
+  <isbn13>9788432228599</isbn13>
+  <text_reviews_count type="integer">35</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.HbWl07jT40aZOqGNTjF7TQ</uri>
+  <title>Sangre derramada (Rebecka Martinsson, #2)</title>
+  <title_without_series>Sangre derramada</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455974648l/7743316._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455974648l/7743316._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7743316-sangre-derramada</link>
+  <num_pages>468</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Seix Barral</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.66</average_rating>
+  <ratings_count>7412</ratings_count>
+  <description>Es verano en Suecia, cuando brilla el sol de medianoche y el largo invierno ha sido olvidado. En este tiempo mágico, una sacerdotisa luterana, Mildred, es hallada muerta con signos de tortura en la ciudad de Kiruna. Mildred era una declarada feminista, una luchadora amada y odiada por igual. Esta claro que no todos en Kiruna aceptan que una mujer sea sacerdote, pero tres meses después del brutal asesinato la policía sigue sin tener una pista. Rebecka Martinsson vuelve a Kiruna, el lugar donde creció, a realizar una gestión para el bufete del abogados de Estocolmo en el que trabaja. Sin embargo, pronto se ve envuelta en este misterioso caso: Anna-Maria Mella, la policía local de Kiruna, acude a Rebecka en busca de ayuda; sabe que sólo ella es capaz de desenmascarar la oscura verdad que esconden los habitantes de esta gélida ciudad. Åsa Larsson sorprendió a los lectores con &lt;i&gt;Aurora boreal&lt;/i&gt;, un éxito que la encumbró como la autora revelación de la novela negra escandinava. Con &lt;i&gt;Sangre derramada&lt;/i&gt;, novela galardonada con el Premio a la Mejor Novela Sueca del Año, Larsson vuelve a sumergirnos en la inolvidable e inquietante atmósfera de Kiruna.</description>
+<authors>
+<author>
+<id>168255</id>
+<name>Åsa Larsson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301791855p5/168255.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301791855p2/168255.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/168255._sa_Larsson]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>39756</ratings_count>
+<text_reviews_count>2952</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>1705532</id>
+  <uri>kca://work/amzn1.gr.work.v1.OAMu97W1LAIxvY6Ja1-8cg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='213844694' name='novela-negra-y-policiaca' review_shelf_id='1586111656' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jan 19 19:57:14 -0800 2017</started_at>
+  <read_at>Sun Oct 13 21:27:16 -0700 2019</read_at>
+  <date_added>Thu Jan 05 16:32:19 -0800 2017</date_added>
+  <date_updated>Sun Oct 13 21:27:16 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1867709717]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1867709717]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1866500634</id>
+    <book>
+  <id type="integer">6456519</id>
+  <isbn nil="true"/>
+  <isbn13>9788483650448</isbn13>
+  <text_reviews_count type="integer">158</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.G-XqFWVbGJR-YBf_aR6dTg</uri>
+  <title>La huésped (The Host, #1)</title>
+  <title_without_series>La huésped</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6456519-la-hu-sped</link>
+  <num_pages>760</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Suma de Letras</publisher>
+  <publication_day/>
+  <publication_year>2009</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>841520</ratings_count>
+  <description>Wanderer es una alienígena invasora de cuerpos y ha llegado a la Tierra junto con otras «almas» para cumplir con su misión. Pero su anfitriona, Melanie Stryder, se resiste a abandonar su cuerpo sin oponer resistencia. Dos seres de dos especies diferentes que comparten un mismo cuerpo pero por desgracia para ellas también un mismo corazón. Los recuerdos de la vida de Melanie hacen que Wanderer se enamore del mismo hombre que ella, Jared, convirtiendo su relación en el primer triángulo amoroso que sólo implica a dos cuerpos.&lt;br /&gt;&lt;br /&gt;¿Podrá el amor de Melanie por Jared sobrevivir al fin del mundo?&lt;br /&gt;&lt;br /&gt;¿Y a su huésped?</description>
+<authors>
+<author>
+<id>941441</id>
+<name>Stephenie Meyer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p5/941441.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1477924095p2/941441.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/941441.Stephenie_Meyer]]></link>
+<average_rating>3.65</average_rating>
+<ratings_count>9910466</ratings_count>
+<text_reviews_count>308745</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>3328799</id>
+  <uri>kca://work/amzn1.gr.work.v1.k-XVU0HYntbKgbo_M7PTMg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1572337599' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844846' name='ciencia-ficción' review_shelf_id='1584107734' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Feb 08 00:00:00 -0800 2017</started_at>
+  <read_at>Thu Feb 16 18:05:27 -0800 2017</read_at>
+  <date_added>Wed Jan 04 20:10:54 -0800 2017</date_added>
+  <date_updated>Tue Feb 28 15:57:58 -0800 2017</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[En esta ocasión Meyer nos sorprendió con un escenario donde la Tierra es invadida por alienígenas que se hacen llamar Almas, estos son seres puros, pacíficos y amigables que necesitan de un cuerpo anfitrión para poder vivir teniendo como propósito convertirlo en un mundo "mejor" lo único que inte...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1866500634]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1866500634]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1864588841</id>
+    <book>
+  <id type="integer">25821603</id>
+  <isbn nil="true"/>
+  <isbn13>9789804120374</isbn13>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.XNALf1n5vpr58ruyOLT6Hg</uri>
+  <title>Identidad compartida</title>
+  <title_without_series>Identidad compartida</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435627157l/25821603._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1435627157l/25821603._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25821603-identidad-compartida</link>
+  <num_pages>197</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Ediciones B </publisher>
+  <publication_day/>
+  <publication_year>20155</publication_year>
+  <publication_month/>
+  <average_rating>3.66</average_rating>
+  <ratings_count>64</ratings_count>
+  <description>Historias que pertenezcan al género de la ciencia ficción no son habituales en la literatura nacional. Por eso estamos de enhorabuena en Ediciones B de Venezuela: porque todos los seguidores de este tipo de narrativa descubrirán a un nuevo autor que los mantendrá en vilo hasta el final del relato.&lt;br /&gt;&lt;br /&gt;Rafael Baralt Lovera publica su primera novela y, con ella, no dejará indiferente a nadie. Un relato futurista en el que la clonación de seres enfrentará dos posturas de vida: el valor y el peso del amor versus el poder y el dinero.&lt;br /&gt;&lt;br /&gt;Una historia trepidante de dobles identidades, huidas y enamoramientos. Un relato profuso de imágenes apabullantes en las que la tecnología determina la existencia humana. Identidad compartida supone el descubrimiento de una nueva y fresca voz en las letras de nuestro país. Baralt Lovera llegó para quedarse y lo mismo ocurrirá con esta historia en la mente de todos sus lectores: no la olvidarán.</description>
+<authors>
+<author>
+<id>15490865</id>
+<name>Rafael Baralt Lovera</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15490865.Rafael_Baralt_Lovera]]></link>
+<average_rating>3.66</average_rating>
+<ratings_count>64</ratings_count>
+<text_reviews_count>30</text_reviews_count>
+</author>
+</authors>
+  <published>20155</published>
+<work>  <id>45678957</id>
+  <uri>kca://work/amzn1.gr.work.v1.YcRVYlNbM_-gFHgHTPwHjw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="206557413" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='207313609' name='2017' review_shelf_id='1530337083' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='213844846' name='ciencia-ficción' review_shelf_id='1584108582' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jan 04 00:00:00 -0800 2017</started_at>
+  <read_at>Sun Jan 08 00:00:00 -0800 2017</read_at>
+  <date_added>Tue Jan 03 16:30:27 -0800 2017</date_added>
+  <date_updated>Tue Feb 28 15:59:02 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Comencé este año con una muy buena lectura, como lo es Identidad Compartida y ya veo porque tan buenas opiniones, la trama tiene unos cambios de giro bastantes sorprendentes que dejan al lector alucinando por un momento, ya que uno se imagina hacia donde va encaminada la historia pero luego ocurr...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1864588841]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1864588841]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

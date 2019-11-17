@@ -1,0 +1,1762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='253488969' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="23" total="23">
+    <review>
+  <id>2343863122</id>
+    <book>
+  <id type="integer">32075671</id>
+  <isbn>0062498533</isbn>
+  <isbn13>9780062498533</isbn13>
+  <text_reviews_count type="integer">37053</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.cg0sQ6X1Am_3YVErD7n3Sw</uri>
+  <title>The Hate U Give</title>
+  <title_without_series>The Hate U Give</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476284759l/32075671._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476284759l/32075671._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32075671-the-hate-u-give</link>
+  <num_pages>464</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Balzer + Bray</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.52</average_rating>
+  <ratings_count>364056</ratings_count>
+  <description>&lt;b&gt;A three-time winner of Goodreads Choice Awards&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Sixteen-year-old Starr Carter moves between two worlds: the poor neighborhood where she lives and the fancy suburban prep school she attends. The uneasy balance between these worlds is shattered when Starr witnesses the fatal shooting of her childhood best friend Khalil at the hands of a police officer. Khalil was unarmed.&lt;br /&gt;&lt;br /&gt;Soon afterward, his death is a national headline. Some are calling him a thug, maybe even a drug dealer and a gangbanger. Protesters are taking to the streets in Khalil’s name. Some cops and the local drug lord try to intimidate Starr and her family. What everyone wants to know is: what really went down that night? And the only person alive who can answer that is Starr.&lt;br /&gt;&lt;br /&gt;But what Starr does—or does not—say could upend her community. It could also endanger her life.</description>
+<authors>
+<author>
+<id>15049422</id>
+<name>Angie Thomas</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1471998209p5/15049422.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1471998209p2/15049422.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15049422.Angie_Thomas]]></link>
+<average_rating>4.50</average_rating>
+<ratings_count>405110</ratings_count>
+<text_reviews_count>54769</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>49638190</id>
+  <uri>kca://work/amzn1.gr.work.v1.f0HczHU50q_OdBoXYH0uUA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 29 15:47:25 -0700 2018</date_added>
+  <date_updated>Wed May 02 17:13:57 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2343863122]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2343863122]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2311037286</id>
+    <book>
+  <id type="integer">20696032</id>
+  <isbn>1623363586</isbn>
+  <isbn13>9781623363581</isbn13>
+  <text_reviews_count type="integer">766</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.D5qc9ldF2CDJaN_qRx8tTw</uri>
+  <title>Thug Kitchen: The Official Cookbook: Eat Like You Give a F*ck</title>
+  <title_without_series>Thug Kitchen: The Official Cookbook: Eat Like You Give a F*ck</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408325061l/20696032._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408325061l/20696032._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20696032-thug-kitchen</link>
+  <num_pages>240</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Rodale Books</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>24283</ratings_count>
+  <description>Thug Kitchen started their wildly popular web site to inspire people to eat some Goddamn vegetables and adopt a healthier lifestyle. Beloved by Gwyneth Paltrow ("This might be my favorite thing ever") and named &lt;i&gt;Saveur's&lt;/i&gt; Best New Food blog of 2013—with half a million Facebook fans and counting—Thug Kitchen wants to show everyone how to take charge of their plates and cook up some real f*cking food.&lt;br /&gt;&lt;br /&gt;Yeah, plenty of blogs and cookbooks preach about how to eat more kale, why ginger fights inflammation, and how to cook with microgreens and nettles. But they are dull or pretentious as hell—and most people can't afford the hype.&lt;br /&gt;&lt;br /&gt;Thug Kitchen lives in the real world. In their first cookbook, they're throwing down more than 100 recipes for their best-loved meals, snacks, and sides for beginning cooks to home chefs. (Roasted Beer and Lime Cauliflower Tacos? Pumpkin Chili? Grilled Peach Salsa? Believe that sh*t.) Plus they're going to arm you with all the info and techniques you need to shop on a budget and go and kick a bunch of ass on your own.&lt;br /&gt;&lt;br /&gt;This book is an invitation to everyone who wants to do better to elevate their kitchen game. No more ketchup and pizza counting as vegetables. No more drive-thru lines. No more avoiding the produce corner of the supermarket. Sh*t is about to get real.</description>
+<authors>
+<author>
+<id>7811273</id>
+<name>Thug Kitchen</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7811273.Thug_Kitchen]]></link>
+<average_rating>4.10</average_rating>
+<ratings_count>26968</ratings_count>
+<text_reviews_count>1112</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>40015553</id>
+  <uri>kca://work/amzn1.gr.work.v1.mRcHP0SHz56iUaqsx1f05Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 27 17:53:04 -0800 2018</date_added>
+  <date_updated>Tue Feb 27 17:53:04 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2311037286]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2311037286]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295380330</id>
+    <book>
+  <id type="integer">26200563</id>
+  <isbn>1455539740</isbn>
+  <isbn13>9781455539741</isbn13>
+  <text_reviews_count type="integer">4510</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KVwVbguYP1odBQZu66DfQQ</uri>
+  <title>Hamilton: The Revolution</title>
+  <title_without_series>Hamilton: The Revolution</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451400644l/26200563._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451400644l/26200563._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26200563-hamilton</link>
+  <num_pages>285</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Grand Central Publishing</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>38061</ratings_count>
+  <description>Lin-Manuel Miranda's groundbreaking musical &lt;i&gt;Hamilton&lt;/i&gt; is as revolutionary as its subject, the poor kid from the Caribbean who fought the British, defended the Constitution, and helped to found the United States. Fusing hip-hop, pop, R&amp;amp;B, and the best traditions of theater, this once-in-a-generation show broadens the sound of Broadway, reveals the storytelling power of rap, and claims our country's origins for a diverse new generation.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Hamilton: The Revolution&lt;/i&gt; gives readers an unprecedented view of both revolutions, from the only two writers able to provide it. Miranda and Jeremy McCarter, a cultural critic and theater artist who was involved in the project from its earliest stages--"since before this was even a show," according to Miranda--trace its development from an improbable perfor­mance at the White House to its landmark opening night on Broadway six years later. In addition, Miranda has written more than 200 funny, revealing footnotes for his award-winning libretto, the full text of which is published here.&lt;br /&gt;&lt;br /&gt;Their account features photos by the renowned Frank Ockenfels and veteran Broadway photographer Joan Marcus; exclusive looks at notebooks and emails; interviews with Questlove, Stephen Sond­heim, leading political commentators, and more than 40 people involved with the production; and multiple appearances by Presi­dent Obama himself. The book does more than tell the surprising story of how a Broadway musical became a national phenomenon: It demonstrates that America has always been renewed by the brash upstarts and brilliant outsiders, the men and women who don't throw away their shot.</description>
+<authors>
+<author>
+<id>5725556</id>
+<name>Lin-Manuel Miranda</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1471633042p5/5725556.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1471633042p2/5725556.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5725556.Lin_Manuel_Miranda]]></link>
+<average_rating>4.42</average_rating>
+<ratings_count>53948</ratings_count>
+<text_reviews_count>7749</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>46177490</id>
+  <uri>kca://work/amzn1.gr.work.v1.oTZjww7pLuKGlyVub_TFmw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 20:00:47 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 20:00:47 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295380330]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295380330]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295377493</id>
+    <book>
+  <id type="integer">19288043</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">26494</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hMn5n6jrUjkoQowRb4-yqw</uri>
+  <title>Gone Girl</title>
+  <title_without_series>Gone Girl</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19288043-gone-girl</link>
+  <num_pages>415</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Broadway Books</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>2058625</ratings_count>
+  <description>Marriage can be a real killer.&lt;br /&gt;&lt;br /&gt;On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne’s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick’s clever and beautiful wife disappears from their rented McMansion on the Mississippi River. Husband-of-the-Year Nick isn’t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife’s head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge. Under mounting pressure from the police and the media—as well as Amy’s fiercely doting parents—the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he’s definitely bitter—but is he really a killer?&lt;br /&gt;&lt;br /&gt;As the cops close in, every couple in town is soon wondering how well they know the one that they love. With his twin sister, Margo, at his side, Nick stands by his innocence. Trouble is, if Nick didn’t do it, where is that beautiful wife? And what was in that silvery gift box hidden in the back of her bedroom closet?&lt;br /&gt;&lt;br /&gt;With her razor-sharp writing and trademark psychological insight, Gillian Flynn delivers a fast-paced, devilishly dark, and ingeniously plotted thriller that confirms her status as one of the hottest writers around.&lt;br /&gt;&lt;br /&gt;One of the most critically acclaimed suspense writers of our time, New York Times bestseller Gillian Flynn takes that statement to its darkest place in this unputdownable masterpiece about a marriage gone terribly, terribly wrong. The Chicago Tribune proclaimed that her work “draws you in and keeps you reading with the force of a pure but nasty addiction.” Gone Girl’s toxic mix of sharp-edged wit and deliciously chilling prose creates a nerve-fraying thriller that confounds you at every turn.&lt;br /&gt;&lt;br /&gt;Source: gillian-flynn.com</description>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p5/2383.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p2/2383.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>3348575</ratings_count>
+<text_reviews_count>226127</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>13306276</id>
+  <uri>kca://work/amzn1.gr.work.v1.t8-NZJ8l4PHhZRkiKjYdtg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:57:37 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:57:37 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295377493]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295377493]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295375094</id>
+    <book>
+  <id type="integer">29447874</id>
+  <isbn>1594139830</isbn>
+  <isbn13>9781594139833</isbn13>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.smoD-FcdlBuQzvbwf7KMsg</uri>
+  <title>A Man Called Ove</title>
+  <title_without_series>A Man Called Ove</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482891968l/29447874._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1482891968l/29447874._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29447874-a-man-called-ove</link>
+  <num_pages>475</num_pages>
+  <format>Paperback</format>
+  <edition_information>Large Print</edition_information>
+  <publisher>Large Print Press</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.36</average_rating>
+  <ratings_count>469274</ratings_count>
+  <description>At first sight, Ove is almost certainly the grumpiest man you will ever meet. He thinks himself surrounded by idiots - neighbours who can't reverse a trailer properly, joggers, shop assistants who talk in code, and the perpetrators of the vicious coup d'etat that ousted him as Chairman of the Residents' Association. He will persist in making his daily inspection rounds of the local streets. But isn't it rare, these days, to find such old-fashioned clarity of belief and deed? Such unswerving conviction about what the world should be, and a lifelong dedication to making it just so? In the end, you will see, there is something about Ove that is quite irresistible... The word-of-mouth bestseller causing a sensation across Europe, Fredrik Backman's heartwarming debut is a funny, moving, uplifting tale of love and community that will leave you with a spring in your step - and less ready to judge on first impressions a man you might one day wish to have as your dearest friend.</description>
+<authors>
+<author>
+<id>6485178</id>
+<name>Fredrik Backman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1493098924p5/6485178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1493098924p2/6485178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6485178.Fredrik_Backman]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>952574</ratings_count>
+<text_reviews_count>123063</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>21619954</id>
+  <uri>kca://work/amzn1.gr.work.v1.Ppm3CqpJkIo_m6rg3juMgw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Feb 13 19:55:03 -0800 2018</started_at>
+  <read_at>Tue Feb 27 17:40:29 -0800 2018</read_at>
+  <date_added>Tue Feb 13 19:55:02 -0800 2018</date_added>
+  <date_updated>Tue Feb 27 17:40:30 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295375094]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295375094]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295342610</id>
+    <book>
+  <id type="integer">899962</id>
+  <isbn>0395181585</isbn>
+  <isbn13>9780395181584</isbn13>
+  <text_reviews_count type="integer">142</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.9bACxhc8MoWUie1gwDw_Vg</uri>
+  <title>Curious George Goes to the Hospital</title>
+  <title_without_series>Curious George Goes to the Hospital</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/899962.Curious_George_Goes_to_the_Hospital</link>
+  <num_pages>48</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HMH Books for Young Readers</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>1973</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>35551</ratings_count>
+  <description>Readers learn all about the hospital as George goes in for an operation to remove a puzzle piece he has eaten.</description>
+<authors>
+<author>
+<id>6608</id>
+<name>Margret Rey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1202524847p5/6608.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1202524847p2/6608.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6608.Margret_Rey]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>150781</ratings_count>
+<text_reviews_count>2376</text_reviews_count>
+</author>
+</authors>
+  <published>1973</published>
+<work>  <id>885147</id>
+  <uri>kca://work/amzn1.gr.work.v1.6cDnyx9xBS9ZmN229FxOqw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:20:11 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:20:11 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295342610]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295342610]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295342564</id>
+    <book>
+  <id type="integer">270067</id>
+  <isbn>067056172X</isbn>
+  <isbn13>9780670561728</isbn13>
+  <text_reviews_count type="integer">284</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.RTC6Wk4XeYIGUbhk4a45ZA</uri>
+  <title>A Pocket for Corduroy</title>
+  <title_without_series>A Pocket for Corduroy</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/270067.A_Pocket_for_Corduroy</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Viking Books for Young Readers</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>1978</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.31</average_rating>
+  <ratings_count>53029</ratings_count>
+  <description>&lt;b&gt;Don Freeman&lt;/b&gt;'s classic character, Corduroy, is even more popular today then he was when he first came on the scene over thirty years ago. These favorite titles are ready for another generation of children to love.</description>
+<authors>
+<author>
+<id>20730</id>
+<name>Don Freeman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1302406880p5/20730.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1302406880p2/20730.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/20730.Don_Freeman]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>247915</ratings_count>
+<text_reviews_count>4173</text_reviews_count>
+</author>
+</authors>
+  <published>1978</published>
+<work>  <id>261916</id>
+  <uri>kca://work/amzn1.gr.work.v1.KwfgU4PqIdP0cuXvRGjknA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:20:08 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:20:08 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295342564]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295342564]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295342455</id>
+    <book>
+  <id type="integer">767680</id>
+  <isbn>0060245867</isbn>
+  <isbn13>9780060245863</isbn13>
+  <text_reviews_count type="integer">3640</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.SsJM05CJv0RcW5IhVt0JCA</uri>
+  <title>If You Give a Mouse a Cookie</title>
+  <title_without_series>If You Give a Mouse a Cookie</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1276046901l/767680._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1276046901l/767680._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/767680.If_You_Give_a_Mouse_a_Cookie</link>
+  <num_pages>40</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>232678</ratings_count>
+  <description>If a hungry little traveler shows up at your house, you might want to give him a cookie. If you give him a cookie, he's going to ask for a glass of milk. He'll want to look in a mirror to make sure he doesn't have a milk mustache, and then he'll ask for a pair of scissors to give himself a trim....&lt;br /&gt;&lt;br /&gt;The consequences of giving a cookie to this energetic mouse run the young host ragged, but young readers will come away smiling at the antics that tumble like dominoes through the pages of this delightful picture book.</description>
+<authors>
+<author>
+<id>87184</id>
+<name>Laura Joffe Numeroff</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1508372317p5/87184.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1508372317p2/87184.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/87184.Laura_Joffe_Numeroff]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>451145</ratings_count>
+<text_reviews_count>9434</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>3132746</id>
+  <uri>kca://work/amzn1.gr.work.v1.WbPGHMH1QRE98bB6PNwT7A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:20:01 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:20:01 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295342455]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295342455]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295342208</id>
+    <book>
+  <id type="integer">386421</id>
+  <isbn>0307119394</isbn>
+  <isbn13>9780307119391</isbn13>
+  <text_reviews_count type="integer">201</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qpoBovJ3oLaHxr1IgIBzQQ</uri>
+  <title>I Was So Mad (A Golden Look-Look Book)</title>
+  <title_without_series>I Was So Mad</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/386421.I_Was_So_Mad</link>
+  <num_pages>24</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Random House Books for Young Readers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.22</average_rating>
+  <ratings_count>17465</ratings_count>
+  <description>Mercer Mayer’s Little Critter is having quite the grumpy day in this classic, funny, and heartwarming book. Whether he’s cranky on the slide or stubborn in the sandbox, both parents and children alike will relate to this beloved story. A perfect way to teach children about their emotions!</description>
+<authors>
+<author>
+<id>692</id>
+<name>Mercer Mayer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245185581p5/692.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1245185581p2/692.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/692.Mercer_Mayer]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>307467</ratings_count>
+<text_reviews_count>7023</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>558538</id>
+  <uri>kca://work/amzn1.gr.work.v1.ug6rhyHCNP0e-0r5tmMLRw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:19:46 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:19:46 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295342208]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295342208]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295342126</id>
+    <book>
+  <id type="integer">774001</id>
+  <isbn>0064441555</isbn>
+  <isbn13>9780064441551</isbn13>
+  <text_reviews_count type="integer">915</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.-AIjnLPGxQKk0Hv1e1GiXg</uri>
+  <title>Amelia Bedelia  (Amelia Bedelia, #1)</title>
+  <title_without_series>Amelia Bedelia</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353400157l/774001._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353400157l/774001._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/774001.Amelia_Bedelia</link>
+  <num_pages>64</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Greenwillow Books</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.16</average_rating>
+  <ratings_count>80092</ratings_count>
+  <description>From dressing the chicken to dusting the furniture, Amelia Bedelia does exactly what Mr. and Mrs. Rogers tell her. ...But somehow things never turn out quite right.</description>
+<authors>
+<author>
+<id>9002</id>
+<name>Peggy Parish</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1421933902p5/9002.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1421933902p2/9002.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9002.Peggy_Parish]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>153935</ratings_count>
+<text_reviews_count>2582</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>888927</id>
+  <uri>kca://work/amzn1.gr.work.v1.wcpJSQHZURbOIUynu7u3Ow</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:19:40 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:19:40 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295342126]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295342126]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295341964</id>
+    <book>
+  <id type="integer">537296</id>
+  <isbn>0064440206</isbn>
+  <isbn13>9780064440202</isbn13>
+  <text_reviews_count type="integer">1223</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2FKKK_k2u48Wt6HmtrdRtQ</uri>
+  <title>Frog and Toad Are Friends (Frog and Toad, #1)</title>
+  <title_without_series>Frog and Toad Are Friends</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/537296.Frog_and_Toad_Are_Friends</link>
+  <num_pages>64</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.19</average_rating>
+  <ratings_count>78505</ratings_count>
+  <description>&lt;strong&gt;Celebrate the power of friendship in these five adventurous stories starring Frog and Toad—a Caldecott Honor Book!&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;From writing letters to going swimming, telling stories to finding lost buttons, Frog and Toad are always there for each other—just as best friends should be. &lt;em&gt;Frog and Toad Are Friends &lt;/em&gt;is a Level Two I Can Read book, geared for kids who read on their own but still need a little help.&lt;br /&gt;&lt;br /&gt;The classic Frog and Toad stories by Arnold Lobel have won numerous awards and honors, including a Newbery Honor (&lt;em&gt;Frog and Toad Together&lt;/em&gt;), a Caldecott Honor (&lt;em&gt;Frog and Toad are Friends&lt;/em&gt;), ALA Notable Children’s Book, Fanfare Honor List &lt;em&gt;(The Horn Book), School Library Journal &lt;/em&gt;Best Children’s Book, and Library of Congress Children’s Book.</description>
+<authors>
+<author>
+<id>12447</id>
+<name>Arnold Lobel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201019183p5/12447.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201019183p2/12447.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12447.Arnold_Lobel]]></link>
+<average_rating>4.24</average_rating>
+<ratings_count>230105</ratings_count>
+<text_reviews_count>5598</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>1231880</id>
+  <uri>kca://work/amzn1.gr.work.v1.cQOiHH_v__Zg7X2M6T8DzA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:19:29 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:19:29 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295341964]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295341964]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295341805</id>
+    <book>
+  <id type="integer">147732</id>
+  <isbn>0395401461</isbn>
+  <isbn13>9780395401460</isbn13>
+  <text_reviews_count type="integer">1295</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.DFiUhGx5576azNw391LCkg</uri>
+  <title>Miss Nelson Is Missing!</title>
+  <title_without_series>Miss Nelson Is Missing!</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546976385l/147732._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546976385l/147732._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/147732.Miss_Nelson_Is_Missing_</link>
+  <num_pages>32</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Sandpiper Books</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>1985</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.28</average_rating>
+  <ratings_count>94514</ratings_count>
+  <description>The kids in Room 207 were misbehaving again. Spitballs stuck to the ceiling. Paper planes whizzing through the air. They were the worst-behaved class in the whole school.&lt;br /&gt;&lt;br /&gt;So begins this quirky classic, first published in 1977 and still relevant today as a lighthearted reminder to show our appreciation to those we value. The students don’t proffer a shred of respect for their good-natured teacher Miss Nelson, but when the witchy substitute Miss Viola Swamp appears on the scene, they start to regret their own wicked ways. James Marshall’s scritchy, cartoonish full-color ink and wash illustrations are hilarious. A back-to-school perennial!</description>
+<authors>
+<author>
+<id>66186</id>
+<name>Harry Allard</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/66186.Harry_Allard]]></link>
+<average_rating>4.29</average_rating>
+<ratings_count>130622</ratings_count>
+<text_reviews_count>2068</text_reviews_count>
+</author>
+</authors>
+  <published>1985</published>
+<work>  <id>142568</id>
+  <uri>kca://work/amzn1.gr.work.v1.fv4wpecBAZtmiitEEi9fdQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:19:19 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:19:19 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295341805]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295341805]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295341686</id>
+    <book>
+  <id type="integer">370493</id>
+  <isbn>0060256656</isbn>
+  <isbn13>9780060256654</isbn13>
+  <text_reviews_count type="integer">15994</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.owh-MzJGy2vUtcA_CvGqMQ</uri>
+  <title>The Giving Tree</title>
+  <title_without_series>The Giving Tree</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174210942l/370493._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1174210942l/370493._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/370493.The_Giving_Tree</link>
+  <num_pages>64</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins Publishers</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>1964</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.37</average_rating>
+  <ratings_count>837245</ratings_count>
+  <description>"Once there was a tree...and she loved a little boy."&lt;br /&gt;&lt;br /&gt;So begins a story of unforgettable perception, beautifully written and illustrated by the gifted and versatile Shel Silverstein.&lt;br /&gt;&lt;br /&gt;Every day the boy would come to the tree to eat her apples, swing from her branches, or slide down her trunk...and the tree was happy. But as the boy grew older he began to want more from the tree, and the tree gave and gave and gave.&lt;br /&gt;&lt;br /&gt;This is a tender story, touched with sadness, aglow with consolation. Shel Silverstein has created a moving parable for readers of all ages that offers an affecting interpretation of the gift of giving and a serene acceptance of another's capacity to love in return.</description>
+<authors>
+<author>
+<id>435477</id>
+<name>Shel Silverstein</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p5/435477.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201029128p2/435477.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/435477.Shel_Silverstein]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>2505141</ratings_count>
+<text_reviews_count>35442</text_reviews_count>
+</author>
+</authors>
+  <published>1964</published>
+<work>  <id>30530</id>
+  <uri>kca://work/amzn1.gr.work.v1.iqYS4UpCfd8IR8w7om4WXQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:19:10 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:19:16 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295341686]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295341686]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295341639</id>
+    <book>
+  <id type="integer">19543</id>
+  <isbn>0099408392</isbn>
+  <isbn13>9780099408390</isbn13>
+  <text_reviews_count type="integer">10070</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.m7-CXs_O5UsviAo-JM-Qew</uri>
+  <title>Where the Wild Things Are</title>
+  <title_without_series>Where the Wild Things Are</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384434560l/19543._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384434560l/19543._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19543.Where_the_Wild_Things_Are</link>
+  <num_pages>37</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Red Fox</publisher>
+  <publication_day/>
+  <publication_year>2000</publication_year>
+  <publication_month/>
+  <average_rating>4.22</average_rating>
+  <ratings_count>748454</ratings_count>
+  <description>&lt;i&gt;One night Max puts on his wolf suit and makes mischief of one kind and another, so his mother calls him 'Wild Thing' and sends him to bed without his supper. &lt;/i&gt;&lt;br /&gt;&lt;br /&gt;That night a forest begins to grow in Max's room and an ocean rushes by with a boat to take Max to the place where the wild things are.&lt;br /&gt;&lt;br /&gt;Max tames the wild things and crowns himself as their king, and then &lt;b&gt;the wild rumpus begins!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;But when Max has sent the monsters to bed, and everything is quiet, he starts to feel lonely and realises it is time to sail home to the place where someone loves him best of all.</description>
+<authors>
+<author>
+<id>4489</id>
+<name>Maurice Sendak</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201028880p5/4489.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201028880p2/4489.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4489.Maurice_Sendak]]></link>
+<average_rating>4.21</average_rating>
+<ratings_count>991264</ratings_count>
+<text_reviews_count>19501</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>3020535</id>
+  <uri>kca://work/amzn1.gr.work.v1.n4C8wTAYm06xi-APB210Jw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:19:07 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:19:07 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295341639]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295341639]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295341453</id>
+    <book>
+  <id type="integer">3</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">72241</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tJT_00n8UPpvWa-zWHEAXg</uri>
+  <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone</link>
+  <num_pages>322</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Inc</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>6200979</ratings_count>
+  <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936323</ratings_count>
+<text_reviews_count>550487</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>4640799</id>
+  <uri>kca://work/amzn1.gr.work.v1.TbpxJa2CwiSSz_9W2FruoA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:18:56 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:18:56 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295341453]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295341453]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295341213</id>
+    <book>
+  <id type="integer">91248</id>
+  <isbn>0192751077</isbn>
+  <isbn13>9780192751072</isbn13>
+  <text_reviews_count type="integer">530</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._PiX2YRv3G5OVH3RTmsM9A</uri>
+  <title>Ramona the Brave (Ramona, #3)</title>
+  <title_without_series>Ramona the Brave</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408925322l/91248._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408925322l/91248._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/91248.Ramona_the_Brave</link>
+  <num_pages>160</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher> Oxford University Press</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.11</average_rating>
+  <ratings_count>52075</ratings_count>
+  <description>Ramona tries her hardest to be brave and fearless, but now she has her own bedroom it's sometimes a little difficult to be brave - you never know what could be lurking under the bed.</description>
+<authors>
+<author>
+<id>403</id>
+<name>Beverly Cleary</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1197935108p5/403.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1197935108p2/403.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/403.Beverly_Cleary]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>758431</ratings_count>
+<text_reviews_count>18384</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>632895</id>
+  <uri>kca://work/amzn1.gr.work.v1.NH0Wqn7opO4W-X5P_U-Fgw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:18:41 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:18:41 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295341213]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295341213]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295340962</id>
+    <book>
+  <id type="integer">551876</id>
+  <isbn>0312367481</isbn>
+  <isbn13>9780312367480</isbn13>
+  <text_reviews_count type="integer">862</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.L-i6iHoz5zttoLcLHEjqiw</uri>
+  <title>Tikki Tikki Tembo</title>
+  <title_without_series>Tikki Tikki Tembo</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317064300l/551876._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317064300l/551876._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/551876.Tikki_Tikki_Tembo</link>
+  <num_pages>48</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Square Fish</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>60571</ratings_count>
+  <description>&lt;i&gt;Tikki tikki tembo-no sa rembo-&lt;/i&gt;&lt;br /&gt;&lt;i&gt;chari bari ruchi-pip peri pembo!&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Three decades and more than one million copies later children still love hearing about the boy with the long name who fell down the well. Arlene Mosel and Blair Lent's classic re-creation of an ancient Chinese folktale has hooked legions of children, teachers, and parents, who return, generation after generation, to learn about the danger of having such an honorable name as Tikki tikki tembo-no sa rembo-chari bari ruchi-pip peri pembo.</description>
+<authors>
+<author>
+<id>46204</id>
+<name>Arlene Mosel</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/46204.Arlene_Mosel]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>63946</ratings_count>
+<text_reviews_count>1241</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>539116</id>
+  <uri>kca://work/amzn1.gr.work.v1.zPE_EabG_KLukiD4Ydz2dQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:18:25 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:18:25 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295340962]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295340962]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295340846</id>
+    <book>
+  <id type="integer">475339</id>
+  <isbn>0590133373</isbn>
+  <isbn13>9780590133371</isbn13>
+  <text_reviews_count type="integer">1667</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qGtctoLAAoud1dJVMgps-Q</uri>
+  <title>Madeline</title>
+  <title_without_series>Madeline</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/475339.Madeline</link>
+  <num_pages>44</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>London: Hippo</publisher>
+  <publication_day/>
+  <publication_year>1989</publication_year>
+  <publication_month/>
+  <average_rating>4.23</average_rating>
+  <ratings_count>181587</ratings_count>
+  <description>Madeline is one of the best-loved characters in children's literature. Set in picturesque Paris, this tale of a brave little girl's trip to the hospital was a Caldecott Honor Book in 1940 and has as much appeal today as it did then. The combination of a spirited heroine, timelessly appealing art, cheerful humor, and rhythmic text makes Madeline a perennial favorite with children of all ages.</description>
+<authors>
+<author>
+<id>64280</id>
+<name>Ludwig Bemelmans</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1212084745p5/64280.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1212084745p2/64280.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/64280.Ludwig_Bemelmans]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>247407</ratings_count>
+<text_reviews_count>3414</text_reviews_count>
+</author>
+</authors>
+  <published>1989</published>
+<work>  <id>2666907</id>
+  <uri>kca://work/amzn1.gr.work.v1.T6fz7EZgbiUk9PCqh5NJ2g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:18:17 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:18:17 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295340846]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295340846]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295340798</id>
+    <book>
+  <id type="integer">37741</id>
+  <isbn>0425193799</isbn>
+  <isbn13>9780425193792</isbn13>
+  <text_reviews_count type="integer">2118</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jy47qNbAVLse6PpOobqUfg</uri>
+  <title>Tales of a Fourth Grade Nothing (Fudge, #1)</title>
+  <title_without_series>Tales of a Fourth Grade Nothing</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390836483l/37741._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390836483l/37741._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/37741.Tales_of_a_Fourth_Grade_Nothing</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Berkley</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>126525</ratings_count>
+  <description>Life with his little brother, Fudge, makes Peter Hatcher feel like a fourth grade nothing. Whether Fudge is throwing a temper tantrum in a shoe store, smearing mashed potatoes on the walls at Hamburger Heaven, or trying to fly, he’s never far from trouble. He’s an almost three-year-old terror who gets away with everything, and Peter’s had it up to here!When Fudge walks off with Dribble, Peter’s pet turtle, it’s the last straw. Peter has put up with Fudge for too long. Way too long! How can he get his parents to pay attention to him for a change?</description>
+<authors>
+<author>
+<id>12942</id>
+<name>Judy Blume</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430843076p5/12942.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1430843076p2/12942.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/12942.Judy_Blume]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>824606</ratings_count>
+<text_reviews_count>34968</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>879886</id>
+  <uri>kca://work/amzn1.gr.work.v1.LstyNC3zXR6uqbdXtjuFww</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:18:14 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:18:14 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295340798]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295340798]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295340654</id>
+    <book>
+  <id type="integer">24178</id>
+  <isbn>0064410935</isbn>
+  <isbn13>9780064410939</isbn13>
+  <text_reviews_count type="integer">14322</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.-3kSw9en_4pNo5tVmbKj8g</uri>
+  <title>Charlotte's Web</title>
+  <title_without_series>Charlotte's Web</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439632243l/24178._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1439632243l/24178._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24178.Charlotte_s_Web</link>
+  <num_pages>184</num_pages>
+  <format>Paperback</format>
+  <edition_information>Full Color Edition</edition_information>
+  <publisher>HarperCollinsPublishers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>1292290</ratings_count>
+  <description>This beloved book by E. B. White, author of Stuart Little and The Trumpet of the Swan, is a classic of children's literature that is "just about perfect." This high-quality paperback features vibrant illustrations colorized by Rosemary Wells!&lt;br /&gt;&lt;br /&gt;Some Pig. Humble. Radiant. These are the words in Charlotte's Web, high up in Zuckerman's barn. Charlotte's spiderweb tells of her feelings for a little pig named Wilbur, who simply wants a friend. They also express the love of a girl named Fern, who saved Wilbur's life when he was born the runt of his litter.&lt;br /&gt;&lt;br /&gt;E. B. White's Newbery Honor Book is a tender novel of friendship, love, life, and death that will continue to be enjoyed by generations to come. This edition contains newly color illustrations by Garth Williams, the acclaimed illustrator of E. B. White's Stuart Little and Laura Ingalls Wilder's Little House series, among many other books.&lt;br /&gt;&lt;br /&gt;--harpercollins.com</description>
+<authors>
+<author>
+<id>988142</id>
+<name>E.B. White</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1198519412p5/988142.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1198519412p2/988142.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/988142.E_B_White]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>1547328</ratings_count>
+<text_reviews_count>26331</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+<work>  <id>987048</id>
+  <uri>kca://work/amzn1.gr.work.v1.cG9p_zAXsGI5Bz6-5OtD3g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:18:05 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:18:05 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295340654]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295340654]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295336256</id>
+    <book>
+  <id type="integer">15815333</id>
+  <isbn>1594488398</isbn>
+  <isbn13>9781594488399</isbn13>
+  <text_reviews_count type="integer">9795</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.EFArDijxw_SSarRdZMrQ9A</uri>
+  <title>The Interestings</title>
+  <title_without_series>The Interestings</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451446889l/15815333._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451446889l/15815333._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15815333-the-interestings</link>
+  <num_pages>468</num_pages>
+  <format>Hardcover</format>
+  <edition_information>USA / Canada</edition_information>
+  <publisher>Riverhead Books</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.56</average_rating>
+  <ratings_count>99829</ratings_count>
+  <description>The Interestings explores the meaning of talent; the nature of envy; the roles of class, art, money, and power; and how all of it can shift and tilt precipitously over the course of a friendship and a life.&lt;br /&gt;&lt;br /&gt;The summer that Nixon resigns, six teenagers at a summer camp for the arts become inseparable. Decades later the bond remains powerful, but so much else has changed. In The Interestings, Wolitzer follows these characters from the height of youth through middle age, as their talents, fortunes, and degrees of satisfaction diverge. &lt;br /&gt;&lt;br /&gt;The kind of creativity that is rewarded at age fifteen is not always enough to propel someone through life at age thirty; not everyone can sustain, in adulthood, what seemed so special in adolescence. Jules Jacobson, an aspiring comic actress, eventually resigns herself to a more practical occupation and lifestyle. Her friend Jonah, a gifted musician, stops playing the guitar and becomes an engineer. But Ethan and Ash, Jules's now-married best friends, become shockingly successful—true to their initial artistic dreams, with the wealth and access that allow those dreams to keep expanding. The friendships endure and even prosper, but also underscore the differences in their fates, in what their talents have become and the shapes their lives have taken. &lt;br /&gt;&lt;br /&gt;Wide in scope, ambitious, and populated by complex characters who come together and apart in a changing New York City, The Interestings explores the meaning of talent; the nature of envy; the roles of class, art, money, and power; and how all of it can shift and tilt precipitously over the course of a friendship and a life.</description>
+<authors>
+<author>
+<id>113936</id>
+<name>Meg Wolitzer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510237393p5/113936.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510237393p2/113936.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/113936.Meg_Wolitzer]]></link>
+<average_rating>3.53</average_rating>
+<ratings_count>198697</ratings_count>
+<text_reviews_count>24458</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>21541829</id>
+  <uri>kca://work/amzn1.gr.work.v1.ivDvgy-hS_PUEiti5yDrrw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:13:12 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:13:12 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295336256]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295336256]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295335427</id>
+    <book>
+  <id type="integer">615570</id>
+  <isbn>1585421464</isbn>
+  <isbn13>9781585421466</isbn13>
+  <text_reviews_count type="integer">1971</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.yCiq1_5xbOryX_dNXHmFug</uri>
+  <title>The Artist's Way</title>
+  <title_without_series>The Artist's Way</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440952332l/615570._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440952332l/615570._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/615570.The_Artist_s_Way</link>
+  <num_pages>237</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>TarcherPerigee</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>88070</ratings_count>
+  <description>&lt;i&gt;The Artist’s Way&lt;/i&gt; is the seminal book on the subject of creativity. An international bestseller, millions of readers have found it to be an invaluable guide to living the artist’s life. Still as vital today—or perhaps even more so—than it was when it was first published one decade ago, it is a powerfully provocative and inspiring work. In a new introduction to the book, Julia Cameron reflects upon the impact of &lt;i&gt;The Artist’s Way&lt;/i&gt; and describes the work she has done during the last decade and the new insights into the creative process that she has gained. Updated and expanded, this anniversary edition reframes &lt;i&gt;The Artist’s Way&lt;/i&gt; for a new century.</description>
+<authors>
+<author>
+<id>13229</id>
+<name>Julia Cameron</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215643047p5/13229.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215643047p2/13229.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13229.Julia_Cameron]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>114999</ratings_count>
+<text_reviews_count>3950</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>2210934</id>
+  <uri>kca://work/amzn1.gr.work.v1.Wo_VDYPGJogcD6WbnHkRAQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:12:23 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:12:23 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295335427]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295335427]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2295334093</id>
+    <book>
+  <id type="integer">627206</id>
+  <isbn>0874774241</isbn>
+  <isbn13>9780874774245</isbn13>
+  <text_reviews_count type="integer">551</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.bFMVQp1fISAylV1ccwA5rg</uri>
+  <title>The New Drawing on the Right Side of the Brain</title>
+  <title_without_series>The New Drawing on the Right Side of the Brain</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/627206.The_New_Drawing_on_the_Right_Side_of_the_Brain</link>
+  <num_pages>291</num_pages>
+  <format></format>
+  <edition_information>Third Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>272200</ratings_count>
+  <description>When &lt;b&gt;Drawing on the Right Side of the Brain&lt;/b&gt; was first published in 1979, it hit the &lt;b&gt;New York Times&lt;/b&gt; bestseller list within two weeks and stayed there for more than a year. In 1989, when Dr. Betty Edwards revised the book, it went straight to the Times list again. Now Dr. Edwards celebrates the twentieth anniversary of her classic book with a second revised edition.Over the last decade, Dr. Edwards has refined her material through teaching hundreds of workshops and seminars. Truly &lt;b&gt;The New Drawing on the Right Side of the Brain&lt;/b&gt;, this edition includes:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;the very latest developments in brain research&lt;br /&gt;new material on using drawing techniques in the corporate world and in education&lt;br /&gt;instruction on self-expression through drawing&lt;br /&gt;an updated section on using color&lt;br /&gt;detailed information on using the five basic skills of drawing for problem solving</description>
+<authors>
+<author>
+<id>42010</id>
+<name>Betty Edwards</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1421590229p5/42010.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1421590229p2/42010.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/42010.Betty_Edwards]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>283051</ratings_count>
+<text_reviews_count>814</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>1763052</id>
+  <uri>kca://work/amzn1.gr.work.v1.2an4yV5G31ij3y1RPWIKwg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="253488969" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 13 19:10:49 -0800 2018</date_added>
+  <date_updated>Tue Feb 13 19:10:49 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2295334093]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2295334093]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

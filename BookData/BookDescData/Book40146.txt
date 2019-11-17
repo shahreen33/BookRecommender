@@ -1,0 +1,1 @@
+With the same insight and authority that made their book The Unix programming Environment a classic, Brian Kernighan and Rob Pike have written The Practice of Programming to help make individual programmers more effective and productive.

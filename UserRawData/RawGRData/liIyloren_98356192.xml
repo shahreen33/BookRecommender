@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='319431284' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="11" total="11">
+    <review>
+  <id>3026708416</id>
+    <book>
+  <id type="integer">18479451</id>
+  <isbn>0990622509</isbn>
+  <isbn13>9780990622505</isbn13>
+  <text_reviews_count type="integer">617</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.DbBEPIcFfj4KOqKmT4h2FA</uri>
+  <title>Thrive (Addicted, #2.5)</title>
+  <title_without_series>Thrive</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400804103l/18479451._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400804103l/18479451._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18479451-thrive</link>
+  <num_pages>425</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>K.B. Ritchie</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.26</average_rating>
+  <ratings_count>6705</ratings_count>
+  <description>&lt;b&gt;Two years will change them forever.&lt;/b&gt; &lt;br /&gt;&lt;br /&gt;When rumors spread like wildfire—like having three-ways with her boyfriend’s rock climbing brother—Lily Calloway spirals into a dark place. Her bedroom. Loren Hale is more confident and determined to keep their sex life private, even from their friends, and he helps Lily in the only way he knows how. But how much love is &lt;i&gt;too&lt;/i&gt; much? &lt;br /&gt;&lt;br /&gt;Their lives are filmed, watched, and criticized. And through it all, Lily and Loren have to face enemies they never thought they’d see, demons they don’t know if they should bury, and setbacks they didn’t think they’d meet. Not this soon. &lt;br /&gt;&lt;br /&gt;And one rumor could be too much for them to handle. It will test their greatest limitations, and if they don’t hold onto each other, someone is going to drown. &lt;br /&gt;&lt;br /&gt;A full-length New Adult Romance that bridges the gap between the second and third books. &lt;b&gt;&lt;i&gt;Thrive&lt;/i&gt; must be read before &lt;i&gt;Addicted After All&lt;/i&gt; if you have not read the Calloway Sisters spin-off series.&lt;/b&gt;</description>
+<authors>
+<author>
+<id>7056935</id>
+<name>Krista Ritchie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p5/7056935.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p2/7056935.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7056935.Krista_Ritchie]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>133348</ratings_count>
+<text_reviews_count>16971</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>26152432</id>
+  <uri>kca://work/amzn1.gr.work.v1.oLZyKPjXg6ggFc3MbHqK3A</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="319431284" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Nov 01 08:21:37 -0700 2019</started_at>
+  <read_at>Thu Nov 07 10:03:46 -0800 2019</read_at>
+  <date_added>Sun Oct 27 02:47:57 -0700 2019</date_added>
+  <date_updated>Thu Nov 07 10:03:46 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3026708416]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3026708416]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3024785989</id>
+    <book>
+  <id type="integer">22024901</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">711</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6w1gD632HbfTKWMjc6kVIQ</uri>
+  <title>Fuel the Fire (Calloway Sisters, #3; Addicted, #3.1)</title>
+  <title_without_series>Fuel the Fire</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401317131l/22024901._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401317131l/22024901._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22024901-fuel-the-fire</link>
+  <num_pages>462</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>6120</ratings_count>
+  <description>&lt;i&gt;Protect your family. At all costs.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;It’d take the impossible to hurt Connor Cobalt, even for a moment.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Protect your family. At all costs.&lt;/i&gt; &lt;br /&gt;&lt;br /&gt;At twenty-six, his narcissistic tendencies have made room for the people he loves.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Protect your family. At all costs.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;And he loves Rose. But when his love is threatened, when his greatest dreams with her are compromised — what is the cost then? &lt;br /&gt;&lt;br /&gt;&lt;i&gt;Protect your family. At all costs.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Love will guide his choices. &lt;br /&gt;For the first time in his life. &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;***Authors' Note***&lt;/b&gt;&lt;br /&gt;It's possible to only read the Calloway Sisters spin-off series without reading the Addicted series, but you MUST read Hothouse Flower (Calloway Sisters #2) before reading Fuel the Fire (Calloway Sisters #3). &lt;br /&gt;&lt;br /&gt;It's highly recommended to read the books in the recommended reading order, which is in tangent with the Addicted series. &lt;b&gt;If you choose not to read Addicted After All before Fuel the Fire, there will be a time jump.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Fuel the Fire picks up in the Addicted Timeline where Addicted After All ended. FTF will &lt;u&gt;not&lt;/u&gt; retell past events from Addicted After All in Rose &amp;amp; Connor's POV. All new material.&lt;/i&gt;</description>
+<authors>
+<author>
+<id>7056935</id>
+<name>Krista Ritchie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p5/7056935.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p2/7056935.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7056935.Krista_Ritchie]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>133348</ratings_count>
+<text_reviews_count>16971</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>41343031</id>
+  <uri>kca://work/amzn1.gr.work.v1.32mgqPESWKTkvKTABM22sQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="319431284" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Nov 11 10:34:16 -0800 2019</started_at>
+  <read_at>Sun Nov 17 08:27:54 -0800 2019</read_at>
+  <date_added>Fri Oct 25 07:38:09 -0700 2019</date_added>
+  <date_updated>Sun Nov 17 08:27:54 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3024785989]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3024785989]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3024785723</id>
+    <book>
+  <id type="integer">18308270</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">744</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.wXTcJN52O2QPbnZNDO58EA</uri>
+  <title>Addicted After All (Addicted, #3)</title>
+  <title_without_series>Addicted After All</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400804166l/18308270._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400804166l/18308270._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18308270-addicted-after-all</link>
+  <num_pages>457</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.46</average_rating>
+  <ratings_count>7128</ratings_count>
+  <description>&lt;i&gt;Two addicts. One epic love story.&lt;/i&gt; &lt;br /&gt;&lt;br /&gt;Prepare for the worst. &lt;br /&gt;&lt;br /&gt;That’s what Lily and Lo try to do when Jonathan Hale schedules an “important” meeting. The problem: after being swept into the public eye and battling their addictions, they’re not sure what the worst is anymore. &lt;br /&gt;&lt;br /&gt;In a sea of many changes—including Ryke &amp;amp; Daisy living with them—Lily realizes that the best part of her fluctuating hormones might just be the worst. &lt;br /&gt;&lt;br /&gt;Her sex drive is out of control. &lt;br /&gt;&lt;br /&gt;Loren knows that she’s insatiable, but he’s not giving up on her. She’s too much a part of him. And as he carries more and more responsibility, some of the people that he loves doubt his resolve. &lt;br /&gt;&lt;br /&gt;In the conclusion to their love story, Lily &amp;amp; Lo stand side-by-side to fight, one last time, for their happily ever after. &lt;br /&gt;&lt;br /&gt;**AUTHORS' NOTE**&lt;br /&gt;Due to the 2-year gap between Addicted for Now (Addicted #2) and Addicted After All (Addicted #3), you must read Thrive (Addicted #2.5) &lt;u&gt;or&lt;/u&gt; the Calloway Sisters spin-off series before reading Addicted After All.</description>
+<authors>
+<author>
+<id>7056935</id>
+<name>Krista Ritchie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p5/7056935.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p2/7056935.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7056935.Krista_Ritchie]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>133348</ratings_count>
+<text_reviews_count>16971</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>25803546</id>
+  <uri>kca://work/amzn1.gr.work.v1._z1LuP944GxsG7FunO8ndA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="319431284" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Nov 07 10:06:01 -0800 2019</started_at>
+  <read_at>Mon Nov 11 05:45:58 -0800 2019</read_at>
+  <date_added>Fri Oct 25 07:37:50 -0700 2019</date_added>
+  <date_updated>Mon Nov 11 05:45:58 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3024785723]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3024785723]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3024785619</id>
+    <book>
+  <id type="integer">20658510</id>
+  <isbn>0989339289</isbn>
+  <isbn13>9780989339285</isbn13>
+  <text_reviews_count type="integer">932</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.PRpV51kVrHa7kAf1UPt2DQ</uri>
+  <title>Kiss the Sky (Calloway Sisters, #1; Addicted, #2.1)</title>
+  <title_without_series>Kiss the Sky</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393090096l/20658510._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393090096l/20658510._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20658510-kiss-the-sky</link>
+  <num_pages>442</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>K.B. Ritchie</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>14424</ratings_count>
+  <description>&lt;i&gt;Virgin. Sex addict. Daredevil. Alcoholic. Smartass … Jackass. Her five friends are about to be filmed. Reality TV, be prepared.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Rose Calloway thought she had everything under control. At twenty-three, she’s a Princeton graduate, an Academic Bowl champion, a fashion designer and the daughter of a Fortune 500 mogul. But with a sex addict as a sister and roommate, nothing comes easy. &lt;br /&gt;&lt;br /&gt;After accepting help from a producer, Rose agrees to have her life filmed for a reality television show. The Hollywood exec is her last chance to revive her struggling fashion line, and boundaries begin to blur as she’s forced to make nice with a man who always has his way. &lt;br /&gt;&lt;br /&gt;Twenty-four-year-old Connor Cobalt is a guy who bulldozes weak men. He’s confident, smart-as-hell and lives with his equally ambitious girlfriend, Rose Calloway. Connor has to find a way to protect Rose without ruining the show. Or else the producer will get what Connor has always wanted—Rose’s virginity. &lt;br /&gt;&lt;br /&gt;&lt;i&gt;This New Adult Romance can be described as Friends meets The Real World. Expect fist fights, drugs, sex of varying degrees, crude humor and competitive alpha males. Definitely for mature readers audiences only.&lt;/i&gt;</description>
+<authors>
+<author>
+<id>7056935</id>
+<name>Krista Ritchie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p5/7056935.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p2/7056935.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7056935.Krista_Ritchie]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>133348</ratings_count>
+<text_reviews_count>16971</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>25803531</id>
+  <uri>kca://work/amzn1.gr.work.v1.ST1fxwXhHgr7mz3MZ5Tv_g</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="319431284" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Oct 27 13:46:50 -0700 2019</started_at>
+  <read_at>Fri Nov 01 05:23:51 -0700 2019</read_at>
+  <date_added>Fri Oct 25 07:37:42 -0700 2019</date_added>
+  <date_updated>Fri Nov 01 05:23:51 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3024785619]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3024785619]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3024785594</id>
+    <book>
+  <id type="integer">18308266</id>
+  <isbn>0989339262</isbn>
+  <isbn13>9780989339261</isbn13>
+  <text_reviews_count type="integer">1095</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.bl8ITB0nS2TAvQ3BYmWMkw</uri>
+  <title>Hothouse Flower (Calloway Sisters, #2; Addicted, #2.2)</title>
+  <title_without_series>Hothouse Flower</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388724159l/18308266._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388724159l/18308266._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18308266-hothouse-flower</link>
+  <num_pages>479</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.33</average_rating>
+  <ratings_count>11512</ratings_count>
+  <description>&lt;i&gt;Ryke Meadows, meet Daisy Calloway ... she’s all grown up.&lt;/i&gt; &lt;br /&gt;&lt;br /&gt;Twenty-five-year-old Ryke Meadows knows he’s hard to love. With a billion-dollar inheritance, a track-star resume, and an alpha-male personality—he redefines the term &lt;i&gt;likable asshole&lt;/i&gt;. But he’s not living to make friends. Or enemies. He just wants to free climb three of the toughest mountains in Yosemite without drama or interruption.&lt;br /&gt; &lt;br /&gt;And then he receives a distressed call from a girl in Paris—a girl that he has never been allowed to have.&lt;br /&gt; &lt;br /&gt;Daisy Calloway is eighteen. Finally. With her newfound independence, she can say goodbye to her overbearing mother and continue her modeling career. Next stop, Paris. Fashion Week begins with a bang, and Daisy uncovers the ugly reality of the industry. She wants to prove to her family that she can live on her own, but when everything spirals out of control, she turns to Ryke to keep her secrets. &lt;br /&gt;&lt;br /&gt;As Daisy struggles to make sense of this new world and her freedom, she pushes the limits and fearlessly rides the edge. Ryke knows there’s deep hurt beneath every impulsive action. He must keep up with Daisy, and if he lets her go, her favorite motto—“&lt;i&gt;live as if you’ll die today&lt;/i&gt;”—may just come true.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;New Adult Romance: recommended for readers 18+ for mature content&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;***Authors' Note***&lt;/b&gt;&lt;br /&gt;&lt;i&gt;Hothouse Flower&lt;/i&gt; is a spin-off of the Addicted series. &lt;i&gt;Kiss the Sky&lt;/i&gt; is required before reading, and we strongly recommend reading the Addicted series before this spin-off. &lt;br /&gt;&lt;br /&gt;&lt;b&gt; Addicted Series Recommended Reading Order&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Addicted to You (Addicted #1)&lt;br /&gt;Ricochet (Addicted #1.5) &amp;lt;--- The main characters meet here.&lt;br /&gt;Addicted for Now (Addicted #2)&lt;br /&gt;Kiss the Sky (Spin-Off)(Calloway Sisters #1)&lt;br /&gt;Hothouse Flower (Spin-Off)(Calloway Sisters #2)&lt;br /&gt;Thrive (Addicted #2.5)&lt;br /&gt;Addicted After All (Addicted #3)</description>
+<authors>
+<author>
+<id>7056935</id>
+<name>Krista Ritchie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p5/7056935.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p2/7056935.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7056935.Krista_Ritchie]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>133348</ratings_count>
+<text_reviews_count>16971</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>25803541</id>
+  <uri>kca://work/amzn1.gr.work.v1.rNIw6ymGE5CNTLLPZX_bdw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="319431284" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Nov 01 08:30:50 -0700 2019</started_at>
+  <read_at>Sun Nov 03 08:37:36 -0800 2019</read_at>
+  <date_added>Fri Oct 25 07:37:40 -0700 2019</date_added>
+  <date_updated>Sun Nov 03 08:37:36 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3024785594]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3024785594]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3022725230</id>
+    <book>
+  <id type="integer">22296819</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">644</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.uPi1TFDifrVNHQGG5RwiqQ</uri>
+  <title>Addicted for Now (Addicted, #2)</title>
+  <title_without_series>Addicted for Now</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400804068l/22296819._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400804068l/22296819._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22296819-addicted-for-now</link>
+  <num_pages>488</num_pages>
+  <format>ebook</format>
+  <edition_information>2014 Edition</edition_information>
+  <publisher>K.B. Ritchie</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.26</average_rating>
+  <ratings_count>11738</ratings_count>
+  <description>&lt;b&gt;He's addicted to booze. She's addicted to sex... staying sober is only half the battle.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;No. More. Sex. &lt;br /&gt;&lt;br /&gt;Those are the three words Lily Calloway fears the most. But Loren Hale is determined to be with Lily without enabling her dangerous compulsions. With their new living situation—sleeping in the same bed, for real, together—Lily has new battles. Like not jumping Lo’s bones every night. Not being consumed by sex and his body.&lt;br /&gt;&lt;br /&gt;Loren plans to stay sober, to right all of his wrongs. So when someone threatens to expose Lily’s secret to her family and the public, he promises that he’ll do anything to protect her. But with old enemies surfacing, Lo has more at stake than his sobriety.&lt;br /&gt;&lt;br /&gt;They will torment Lily until Lo breaks. &lt;br /&gt;&lt;br /&gt;And his worst fear isn’t relapsing. He hears the end. He sees it. The one thing that could change everything. Just three words. &lt;br /&gt;&lt;br /&gt;No. More. &lt;i&gt;Us.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;New Adult Romance recommended for readers 18+ for mature content&lt;/b&gt;</description>
+<authors>
+<author>
+<id>7056935</id>
+<name>Krista Ritchie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p5/7056935.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p2/7056935.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7056935.Krista_Ritchie]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>133348</ratings_count>
+<text_reviews_count>16971</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>25187515</id>
+  <uri>kca://work/amzn1.gr.work.v1.8H58EBUITvL-8ssM13_-Ww</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="319431284" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Oct 23 00:00:00 -0700 2019</started_at>
+  <read_at>Sun Oct 27 00:00:00 -0700 2019</read_at>
+  <date_added>Wed Oct 23 10:00:34 -0700 2019</date_added>
+  <date_updated>Mon Nov 04 02:59:15 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[i love this family with my whole heart]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3022725230]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3022725230]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3021187743</id>
+    <book>
+  <id type="integer">22296725</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">553</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Hp0uwm_D4h_47WxsgOcVKg</uri>
+  <title>Ricochet (Addicted, #1.5)</title>
+  <title_without_series>Ricochet</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400803843l/22296725._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400803843l/22296725._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22296725-ricochet</link>
+  <num_pages>260</num_pages>
+  <format>ebook</format>
+  <edition_information>2014 Edition</edition_information>
+  <publisher>K.B. Ritchie</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>10122</ratings_count>
+  <description>As a sex addict, Lily Calloway must do the impossible. Stay celibate for 90 days. &lt;br /&gt;&lt;br /&gt;Cravings and fantasies become her new routine, but while Loren Hale recovers from his alcohol addiction, Lily wonders if he’ll realize what a monster she really is. After all, her sexual compulsions begin to rule her life the longer she stays faithful to him. &lt;br /&gt;&lt;br /&gt;Progress. That’s what Lily’s striving for. But by trying to become closer to her family—people who aren’t aware of her addiction—she creates larger obstacles. When she spends time with her youngest sister, she learns more about her than she ever imagined and senses an unsettling connection between Daisy and Ryke Meadows. &lt;br /&gt;&lt;br /&gt;With Lily and Lo’s dysfunctional relationship teetering and unbalanced, they will need to find a way to reconnect from miles apart. But the inability to “touch” proves to be one of the hardest tests on their road to recovery. Some love brushes the surface. Some love is deeper than skin. &lt;br /&gt;&lt;br /&gt;Lily and Lo have three months to discover just how deep their love really goes.&lt;br /&gt;&lt;br /&gt;------&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Includes the first chapter to the sequel Addicted for Now.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;A full-length New Adult Romance that continues where Addicted to You left off. As a companion novel, it bridges the gap between the first and second book. It is highly recommended to be read before Addicted for Now.&lt;/b&gt;</description>
+<authors>
+<author>
+<id>7056935</id>
+<name>Krista Ritchie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p5/7056935.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p2/7056935.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7056935.Krista_Ritchie]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>133348</ratings_count>
+<text_reviews_count>16971</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>25187508</id>
+  <uri>kca://work/amzn1.gr.work.v1.562vRUxhKFehFqbLzmFXAA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="319431284" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Oct 22 00:00:00 -0700 2019</started_at>
+  <read_at>Wed Oct 23 00:00:00 -0700 2019</read_at>
+  <date_added>Tue Oct 22 02:41:23 -0700 2019</date_added>
+  <date_updated>Sat Nov 02 06:33:35 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      cutest flashbacks of lilo
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3021187743]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3021187743]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3020326912</id>
+    <book>
+  <id type="integer">22296542</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1517</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.EV3ZxuqUyUJWPN81bOskDw</uri>
+  <title>Addicted to You (Addicted, #1)</title>
+  <title_without_series>Addicted to You</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400803526l/22296542._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400803526l/22296542._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22296542-addicted-to-you</link>
+  <num_pages>324</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.88</average_rating>
+  <ratings_count>24958</ratings_count>
+  <description>&lt;b&gt;She’s addicted to sex. He’s addicted to booze…the only way out is rock bottom.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;No one would suspect shy Lily Calloway’s biggest secret. While everyone is dancing at college bars, Lily stays in the bathroom. To get laid. Her compulsion leads her to one-night stands, steamy hookups and events she shamefully regrets. The only person who knows her secret happens to have one of his own.&lt;br /&gt;&lt;br /&gt;Loren Hale’s best friend is his bottle of bourbon. Lily comes at a close second. For three years, they’ve pretended to be in a real relationship, hiding their addictions from their families. They’ve mastered the art of concealing flasks and random guys that filter in and out of their apartment.&lt;br /&gt;&lt;br /&gt;But as they sink beneath the weight of their addictions, they cling harder to their destructive relationship and wonder if a life together, for real, is better than a lie. Strangers and family begin to infiltrate their guarded lives, and with new challenges, they realize they may not just be addicted to alcohol and sex.&lt;br /&gt;&lt;br /&gt;Their real vice may be each other. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;New Adult Romance recommended for readers 18+ for mature content&lt;/b&gt;</description>
+<authors>
+<author>
+<id>7056935</id>
+<name>Krista Ritchie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p5/7056935.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1402845455p2/7056935.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7056935.Krista_Ritchie]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>133348</ratings_count>
+<text_reviews_count>16971</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>24945287</id>
+  <uri>kca://work/amzn1.gr.work.v1.kpvozRj7fynJo3n9cUE5JA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="319431284" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Oct 21 00:00:00 -0700 2019</started_at>
+  <read_at>Tue Oct 22 00:00:00 -0700 2019</read_at>
+  <date_added>Mon Oct 21 09:50:56 -0700 2019</date_added>
+  <date_updated>Sat Nov 02 06:34:09 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      i love lilo 
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3020326912]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3020326912]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2908519342</id>
+    <book>
+  <id type="integer">23594461</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2173</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.x5z0Rdrc_wfbm_xkBktZig</uri>
+  <title>The King's Men (All for the Game, #3)</title>
+  <title_without_series>The King's Men</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417587954l/23594461._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417587954l/23594461._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23594461-the-king-s-men</link>
+  <num_pages>556</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.63</average_rating>
+  <ratings_count>18725</ratings_count>
+  <description>Neil Josten is out of time. He knew when he came to PSU he wouldn't survive the year, but with his death right around the corner he's got more reasons than ever to live.&lt;br /&gt;&lt;br /&gt;Befriending the Foxes was inadvisable. Kissing one is unthinkable. Neil should know better than to get involved with anyone this close to the end, but Andrew's never been the easiest person to walk away from. If they both say it doesn't mean anything, maybe Neil won't regret losing it, but the one person Neil can't lie to is himself.&lt;br /&gt;&lt;br /&gt;He's got promises to keep and a team to get to championships if he can just outrun Riko a little longer, but Riko's not the only monster in Neil's life. The truth might get them all killed—or be Neil's one shot at getting out of this alive.</description>
+<authors>
+<author>
+<id>6896843</id>
+<name>Nora Sakavic</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371512666p5/6896843.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371512666p2/6896843.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6896843.Nora_Sakavic]]></link>
+<average_rating>4.38</average_rating>
+<ratings_count>60962</ratings_count>
+<text_reviews_count>8267</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>43196898</id>
+  <uri>kca://work/amzn1.gr.work.v1.M3HKc_dBDWxegn_K9Y3Nhw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="319431284" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Oct 04 04:42:37 -0700 2019</started_at>
+  <read_at>Thu Oct 10 16:54:46 -0700 2019</read_at>
+  <date_added>Tue Jul 23 17:50:21 -0700 2019</date_added>
+  <date_updated>Thu Oct 10 16:54:46 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2908519342]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2908519342]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2908519277</id>
+    <book>
+  <id type="integer">18187013</id>
+  <isbn nil="true"/>
+  <isbn13>9781301824298</isbn13>
+  <text_reviews_count type="integer">1703</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hFg6R7UumvR-qynrh8o4wA</uri>
+  <title>The Raven King (All for the Game, #2)</title>
+  <title_without_series>The Raven King</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373489255l/18187013._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373489255l/18187013._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18187013-the-raven-king</link>
+  <num_pages>423</num_pages>
+  <format>ebook</format>
+  <edition_information>Smashwords Edition</edition_information>
+  <publisher>Smashwords Edition</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.46</average_rating>
+  <ratings_count>18538</ratings_count>
+  <description>The Foxes are a fractured mess, but their latest disaster might be the miracle they've always needed to come together as a team. The one person standing in their way is Andrew, and the only one who can break through his personal barriers is Neil.&lt;br /&gt;&lt;br /&gt;Except Andrew doesn't give up anything for free and Neil is terrible at trusting anyone but himself. The two don't have much time to come to terms with their situation before outside forces start tearing them apart. Riko is intent on destroying Neil's fragile new life, and the Foxes have just become collateral damage.&lt;br /&gt;&lt;br /&gt;Neil's days are numbered, but he's learning the hard way to go down fighting for what he believes in, and Neil believes in Andrew even if Andrew won't believe in himself.</description>
+<authors>
+<author>
+<id>6896843</id>
+<name>Nora Sakavic</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371512666p5/6896843.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371512666p2/6896843.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6896843.Nora_Sakavic]]></link>
+<average_rating>4.38</average_rating>
+<ratings_count>60962</ratings_count>
+<text_reviews_count>8267</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>25571658</id>
+  <uri>kca://work/amzn1.gr.work.v1.Oj-C9dgt1m8qJzBEnuOKAw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="319431284" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Sep 24 15:56:41 -0700 2019</started_at>
+  <read_at>Fri Oct 04 04:40:38 -0700 2019</read_at>
+  <date_added>Tue Jul 23 17:50:17 -0700 2019</date_added>
+  <date_updated>Fri Oct 04 04:40:38 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2908519277]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2908519277]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2908519210</id>
+    <book>
+  <id type="integer">17259690</id>
+  <isbn nil="true"/>
+  <isbn13>9781301529049</isbn13>
+  <text_reviews_count type="integer">2741</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ERWPyQHKXdcslO5Iu8X_dQ</uri>
+  <title>The Foxhole Court (All for the Game, #1)</title>
+  <title_without_series>The Foxhole Court</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358594228l/17259690._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358594228l/17259690._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17259690-the-foxhole-court</link>
+  <num_pages>237</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Nora Sakavic</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.12</average_rating>
+  <ratings_count>23560</ratings_count>
+  <description>Neil Josten is the newest addition to the Palmetto State University Exy team. He's short, he's fast, he's got a ton of potential—and he's the runaway son of the murderous crime lord known as The Butcher.&lt;br /&gt;&lt;br /&gt;Signing a contract with the PSU Foxes is the last thing a guy like Neil should do. The team is high profile and he doesn't need sports crews broadcasting pictures of his face around the nation. His lies will hold up only so long under this kind of scrutiny and the truth will get him killed.&lt;br /&gt;&lt;br /&gt;But Neil's not the only one with secrets on the team. One of Neil's new teammates is a friend from his old life, and Neil can't walk away from him a second time. Neil has survived the last eight years by running. Maybe he's finally found someone and something worth fighting for.</description>
+<authors>
+<author>
+<id>6896843</id>
+<name>Nora Sakavic</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371512666p5/6896843.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371512666p2/6896843.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6896843.Nora_Sakavic]]></link>
+<average_rating>4.38</average_rating>
+<ratings_count>60962</ratings_count>
+<text_reviews_count>8267</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>23855134</id>
+  <uri>kca://work/amzn1.gr.work.v1.LQb3jQuoiw_ccmNk6tXPNg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="319431284" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Aug 24 16:14:17 -0700 2019</started_at>
+  <read_at>Tue Sep 24 15:57:29 -0700 2019</read_at>
+  <date_added>Tue Jul 23 17:50:14 -0700 2019</date_added>
+  <date_updated>Sat Nov 02 06:25:12 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2908519210]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2908519210]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

@@ -1,0 +1,2675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='233839498' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="35" total="35">
+    <review>
+  <id>2527216672</id>
+    <book>
+  <id type="integer">41677247</id>
+  <isbn>194472897X</isbn>
+  <isbn13>9781944728977</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hrOOxWklF8uqpgulnZLmEg</uri>
+  <title>Chasing Destiny</title>
+  <title_without_series>Chasing Destiny</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536107400l/41677247._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1536107400l/41677247._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41677247-chasing-destiny</link>
+  <num_pages>246</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>City Owl Press</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>12</ratings_count>
+  <description>&lt;strong&gt;Meet Akantha. Protector. Destined. Cursed. &lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;If there was anything Akantha hated more than the Nazis, it was Damianos. &lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;For twenty-four hundred years, Akantha has dedicated her life to defending mortals from destruction, yet the Nazis are determined not just to rule the world but destroy it. Working as a spy for one of Hitler's highest ranking officers, she learns that the Nazis are set to get their hands on the ultimate weapon, the Spear of Destiny. She will need the help of the one man she hoped she'd never see again to stop them.&lt;br /&gt;&lt;br /&gt;Loving Damianos was never a problem. Trusting him is another story. Forgiving him is impossible.&lt;br /&gt;&lt;br /&gt;Akantha is the Nazis' most wanted as she races them through Europe to locate the spear. The road is lined with bullets, betrayal, soldiers, and heartbreak. She must navigate it all, along with her past with Damianos, if she is to find the spear. Her life and the fate of the world hang on her success...or failure.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Fans of Indiana Jones and Wonder Woman are sure to love this fast-paced adventure about a new form of immortal hero. Not quite a goddess, not a mere mortal. A woman with a curse and a destiny she isn't sure she is ready to face.&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;AUTHOR INTERVIEW&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Q: Why do you co-write?&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;A: &lt;/strong&gt; We had such different schedules when we met in a comic book chatroom that we were often the only people awake in the middle of the night. We started out co-writing to do something creative and discovered that our different views and writing strengths complimented each other and made the stories better. We wanted to write what we liked to read. The bonus is that our solo projects are better as well. We each have an available first reader to take a look and make suggestions.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Q: What do you co-write?&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;A: &lt;/strong&gt; Paranormal urban romance for adult and new adult genre. Our main focus has always been paranormal romance fantasies. Our books take normal, everyday life happening in everyday places and add a dash of paranormal flavor. Everyone is hiding something. Some secrets are bigger than others. Some are more dangerous. We explore those secrets and how they affect the people around them, and find a little romance while we're at it.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Q: Why should readers pick up your books?&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;A: &lt;/strong&gt; Our books will appeal to a wide variety of readers looking for a good story with touches of&lt;br /&gt; paranormal fantasy. Romance will abound, but the heroines and heroes have to work for it. Nothing worthwhile comes easy. We think readers will appreciate the twists and turns along the way. Hopefully they'll fall in love with the characters for the same reasons we do.&lt;br /&gt;&lt;br /&gt;Be sure to scroll up and hit that BUY NOW button to jump into a world of adventure, fantasy, paranormal, and of course, romance!</description>
+<authors>
+<author>
+<id>18383918</id>
+<name>Sydney Ashcroft</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564625512p5/18383918.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564625512p2/18383918.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18383918.Sydney_Ashcroft]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>12</ratings_count>
+<text_reviews_count>6</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>65020093</id>
+  <uri>kca://work/amzn1.gr.work.v1.hsluYPquFlMaDm239v4Rig</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Sep 11 17:39:46 -0700 2018</date_added>
+  <date_updated>Wed Sep 26 18:12:15 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[<u> <b>Disclaimer</b> </u>: Per Goodreads’ rules, reviewers must disclose if they received an advanced reader copy. To comply with those rules, I disclose that I received an advanced reader copy of Sydney Ashcroft’s and Dani Nichols’ debut novel Chasing Destiny, but not in exchange for a review. After reading the novel,...</b>]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2527216672]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2527216672]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2450041624</id>
+    <book>
+  <id type="integer">7767021</id>
+  <isbn>075640617X</isbn>
+  <isbn13>9780756406172</isbn13>
+  <text_reviews_count type="integer">1764</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.wLHlilu4WMXx0nsdTyGjsw</uri>
+  <title>Who Fears Death (Who Fears Death, #1)</title>
+  <title_without_series>Who Fears Death</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7767021-who-fears-death</link>
+  <num_pages>386</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>DAW Hardcover</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>15426</ratings_count>
+  <description>&lt;b&gt;An award-winning literary author presents her first foray into supernatural fantasy with a novel of post-apocalyptic Africa. &lt;/b&gt;&lt;br /&gt;&lt;br /&gt; In a far future, post-nuclear-holocaust Africa, genocide plagues one region. The aggressors, the Nuru, have decided to follow the Great Book and exterminate the Okeke. But when the only surviving member of a slain Okeke village is brutally raped, she manages to escape, wandering farther into the desert. She gives birth to a baby girl with hair and skin the color of sand and instinctively knows that her daughter is different. She names her daughter Onyesonwu, which means "Who Fears Death?" in an ancient African tongue.&lt;br /&gt;&lt;br /&gt; Reared under the tutelage of a mysterious and traditional shaman, Onyesonwu discovers her magical destiny – to end the genocide of her people. The journey to fulfill her destiny will force her to grapple with nature, tradition, history, true love, the spiritual mysteries of her culture – and eventually death itself.</description>
+<authors>
+<author>
+<id>588356</id>
+<name>Nnedi Okorafor</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1507148868p5/588356.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1507148868p2/588356.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/588356.Nnedi_Okorafor]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>136703</ratings_count>
+<text_reviews_count>21548</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>7036603</id>
+  <uri>kca://work/amzn1.gr.work.v1.Kq82bQg-vhzYwWuLj9jKsw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jul 20 17:42:55 -0700 2018</started_at>
+  <read_at>Tue Aug 14 20:50:34 -0700 2018</read_at>
+  <date_added>Sun Jul 08 14:05:02 -0700 2018</date_added>
+  <date_updated>Tue Aug 14 20:51:19 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2450041624]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2450041624]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2447889644</id>
+    <book>
+  <id type="integer">33784373</id>
+  <isbn>031655166X</isbn>
+  <isbn13>9780316551663</isbn13>
+  <text_reviews_count type="integer">3138</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.pVjp8mqnGS7pMywTjGUgoQ</uri>
+  <title>Hunting Prince Dracula (Stalking Jack the Ripper, #2)</title>
+  <title_without_series>Hunting Prince Dracula</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489420853l/33784373._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489420853l/33784373._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/33784373-hunting-prince-dracula</link>
+  <num_pages>435</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown &amp; Company</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.32</average_rating>
+  <ratings_count>19085</ratings_count>
+  <description>In this New York Times bestselling sequel to Kerri Maniscalco's haunting #1 debut Stalking Jack the Ripper, bizarre murders are discovered in the castle of Prince Vlad the Impaler, otherwise known as Dracula. Could it be a copycat killer...or has the depraved prince been brought back to life?&lt;br /&gt;&lt;br /&gt;Following the grief and horror of her discovery of Jack the Ripper's true identity, Audrey Rose Wadsworth has no choice but to flee London and its memories. Together with the arrogant yet charming Thomas Cresswell, she journeys to the dark heart of Romania, home to one of Europe's best schools of forensic medicine...and to another notorious killer, Vlad the Impaler, whose thirst for blood became legend.&lt;br /&gt;&lt;br /&gt;But her life's dream is soon tainted by blood-soaked discoveries in the halls of the school's forbidding castle, and Audrey Rose is compelled to investigate the strangely familiar murders. What she finds brings all her terrifying fears to life once again.</description>
+<authors>
+<author>
+<id>14584166</id>
+<name>Kerri Maniscalco</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1463933725p5/14584166.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1463933725p2/14584166.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14584166.Kerri_Maniscalco]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>78076</ratings_count>
+<text_reviews_count>15738</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>50890346</id>
+  <uri>kca://work/amzn1.gr.work.v1.eBAtxvH1PII4t6R-USxCIw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jul 06 15:35:32 -0700 2018</started_at>
+  <read_at>Fri Jul 06 15:36:21 -0700 2018</read_at>
+  <date_added>Fri Jul 06 15:33:21 -0700 2018</date_added>
+  <date_updated>Fri Jul 06 15:36:21 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2447889644]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2447889644]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2346297166</id>
+    <book>
+  <id type="integer">35197948</id>
+  <isbn>1632365995</isbn>
+  <isbn13>9781632365996</isbn13>
+  <text_reviews_count type="integer">29</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.OMixJGqTwAH-7qM9wdNpZA</uri>
+  <title>Battle Angel Alita Deluxe Edition 2</title>
+  <title_without_series>Battle Angel Alita Deluxe Edition 2</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513335902l/35197948._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1513335902l/35197948._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35197948-battle-angel-alita-deluxe-edition-2</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>376</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>3450</id>
+<name>Yukito Kishiro</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1273227843p5/3450.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1273227843p2/3450.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3450.Yukito_Kishiro]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>33888</ratings_count>
+<text_reviews_count>1471</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>56534689</id>
+  <uri>kca://work/amzn1.gr.work.v1.E8Q--RO_V81ms2iuq_OhKg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Mar 31 21:18:10 -0700 2018</date_added>
+  <date_updated>Sat Mar 31 21:18:28 -0700 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2346297166]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2346297166]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2346295736</id>
+    <book>
+  <id type="integer">35197945</id>
+  <isbn>1632365987</isbn>
+  <isbn13>9781632365989</isbn13>
+  <text_reviews_count type="integer">102</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.mV7HYOqChHqdHvgPdHRMRw</uri>
+  <title>Battle Angel Alita Deluxe Edition Volume 1</title>
+  <title_without_series>Battle Angel Alita Deluxe Edition Volume 1</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501703980l/35197945._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501703980l/35197945._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35197945-battle-angel-alita-deluxe-edition-volume-1</link>
+  <num_pages>430</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Kodansha Comics</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>914</ratings_count>
+  <description>After more than a decade out of print, the original cyberpunk action classic returns in glorious 400-page hardcover deluxe editions, featuring an all-new translation, color pages, and new cover designs!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt; In a dump in the lawless settlement of Scrapyard, far beneath the mysterious space city of Zalem, disgraced cyber-doctor Daisuke Ido makes a strange find: the detached head of a cyborg woman who has lost all her memories. He names her Alita and equips her with a powerful new body, the Berserker. While Alita remembers no details of her former life, a moment of desperation reawakens in her nerves the legendary school of martial arts known as Panzer Kunst. In a place where there is no justice but what people make for themselves, Alita decides to become a hunter-killer, tracking down and taking out those who prey on the weak. But can she hold onto her humanity as she begins to revel in her own bloodlust?</description>
+<authors>
+<author>
+<id>3450</id>
+<name>Yukito Kishiro</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1273227843p5/3450.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1273227843p2/3450.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3450.Yukito_Kishiro]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>33888</ratings_count>
+<text_reviews_count>1471</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>56534686</id>
+  <uri>kca://work/amzn1.gr.work.v1.-_7BVrr7wT_MaMwaDOdQoQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Mar 31 21:16:14 -0700 2018</date_added>
+  <date_updated>Sat Mar 31 21:16:36 -0700 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2346295736]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2346295736]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2342880254</id>
+    <book>
+  <id type="integer">3974</id>
+  <isbn>0316017442</isbn>
+  <isbn13>9780316017442</isbn13>
+  <text_reviews_count type="integer">3210</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.nHjys6yJYgxTM73BpQTycg</uri>
+  <title>The Terror</title>
+  <title_without_series>The Terror</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3974.The_Terror</link>
+  <num_pages>769</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>37231</ratings_count>
+  <description>The men on board HMS &lt;i&gt;Terror&lt;/i&gt; have every expectation of triumph. As part of the 1845 Franklin Expedition, the first steam-powered vessels ever to search for the legendary Northwest Passage, they are as scientifically supported an enterprise as has ever set forth. As they enter a second summer in the Arctic Circle without a thaw, though, they are stranded in a nightmarish landscape of encroaching ice and darkness. Endlessly cold, with diminishing rations, 126 men fight to survive with poisonous food, a dwindling supply of coal, and ships buckling in the grip of crushing ice. But their real enemy is far more terrifying. There is something out there in the frigid darkness: an unseen predator stalking their ship, a monstrous terror constantly clawing to get in.&lt;br /&gt;&lt;br /&gt;When the expedition's leader, Sir John Franklin, meets a terrible death, Captain Francis Crozier takes command and leads his surviving crewmen on a last, desperate attempt to flee south across the ice. With them travels an Inuit woman who cannot speak and who may be the key to survival, or the harbinger of their deaths. But as another winter approaches, as scurvy and starvation grow more terrible, and as the terror on the ice stalks them southward, Crozier and his men begin to fear that there is no escape.</description>
+<authors>
+<author>
+<id>2687</id>
+<name>Dan Simmons</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1427999015p5/2687.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1427999015p2/2687.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2687.Dan_Simmons]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>547863</ratings_count>
+<text_reviews_count>30423</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>3025639</id>
+  <uri>kca://work/amzn1.gr.work.v1.CuVwfWcM3wHZYvgjNpu6mw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 28 16:30:26 -0700 2018</started_at>
+  <read_at>Tue Aug 14 20:51:41 -0700 2018</read_at>
+  <date_added>Wed Mar 28 16:30:26 -0700 2018</date_added>
+  <date_updated>Tue Aug 14 20:51:57 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2342880254]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2342880254]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2342879866</id>
+    <book>
+  <id type="integer">28962906</id>
+  <isbn>031627349X</isbn>
+  <isbn13>9780316273497</isbn13>
+  <text_reviews_count type="integer">4993</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.518U3WLZu-cEjIFqor5gow</uri>
+  <title>Stalking Jack the Ripper (Stalking Jack the Ripper, #1)</title>
+  <title_without_series>Stalking Jack the Ripper</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471010109l/28962906._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471010109l/28962906._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28962906-stalking-jack-the-ripper</link>
+  <num_pages>327</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Jimmy Patterson</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>41590</ratings_count>
+  <description>Presented by James Patterson's new children's imprint, this deliciously creepy horror novel has a storyline inspired by the Ripper murders and an unexpected, blood-chilling conclusion...&lt;br /&gt;&lt;br /&gt;Seventeen-year-old Audrey Rose Wadsworth was born a lord's daughter, with a life of wealth and privilege stretched out before her. But between the social teas and silk dress fittings, she leads a forbidden secret life.&lt;br /&gt;&lt;br /&gt;Against her stern father's wishes and society's expectations, Audrey often slips away to her uncle's laboratory to study the gruesome practice of forensic medicine. When her work on a string of savagely killed corpses drags Audrey into the investigation of a serial murderer, her search for answers brings her close to her own sheltered world.&lt;br /&gt;&lt;br /&gt;The story's shocking twists and turns, augmented with real, sinister period photos, will make this dazzling, #1 New York Times bestselling debut from author Kerri Maniscalco impossible to forget.</description>
+<authors>
+<author>
+<id>14584166</id>
+<name>Kerri Maniscalco</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1463933725p5/14584166.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1463933725p2/14584166.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14584166.Kerri_Maniscalco]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>78076</ratings_count>
+<text_reviews_count>15738</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>47434536</id>
+  <uri>kca://work/amzn1.gr.work.v1.hyThrkqgTolmvX-q5VKLMw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 28 16:29:58 -0700 2018</started_at>
+  <read_at>Wed Apr 04 22:34:56 -0700 2018</read_at>
+  <date_added>Wed Mar 28 16:29:57 -0700 2018</date_added>
+  <date_updated>Wed Apr 04 22:35:32 -0700 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2342879866]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2342879866]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2300813267</id>
+    <book>
+  <id type="integer">34840092</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">720</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UGkeTVc1trRPTiiJB-sR2Q</uri>
+  <title>Bingo Love</title>
+  <title_without_series>Bingo Love</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512450347l/34840092._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1512450347l/34840092._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34840092-bingo-love</link>
+  <num_pages>92</num_pages>
+  <format>ebook</format>
+  <edition_information>Kickstarter</edition_information>
+  <publisher>Inclusive Press</publisher>
+  <publication_day/>
+  <publication_year>2017</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>5404</ratings_count>
+  <description>Bingo Love is a story of a same-sex romance that spans over 60 years. A chance meeting at church bingo in 1963 brings Hazel Johnson and Mari McCray together. Through their formative years, these two women develop feelings for each other and finally profess their love for one another.&lt;br /&gt;&lt;br /&gt;Forced apart by their families and society, Hazel and Mari both married young men and had families. Decades later, now in their mid 60’s, Hazel and Mari are reunited again at a bingo hall. Realizing their love for each other is still alive, what these grandmothers do next takes absolute strength and courage.&lt;br /&gt;&lt;br /&gt;From TEE FRANKLIN (NAILBITER’s “THE OUTFIT,” Love is Love) and JENN ST-ONGE (Jem &amp;amp; the Misfits), BINGO LOVE is a touching story of love, family, and resiliency that spans over 60 years.</description>
+<authors>
+<author>
+<id>14557694</id>
+<name>Tee Franklin</name>
+<role>Writer</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14557694.Tee_Franklin]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>9393</ratings_count>
+<text_reviews_count>1874</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>56071681</id>
+  <uri>kca://work/amzn1.gr.work.v1.k_q4IURTC5gBEZlEsdS4SQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Feb 18 20:35:11 -0800 2018</date_added>
+  <date_updated>Sun Feb 18 20:35:37 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2300813267]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2300813267]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2280150229</id>
+    <book>
+  <id type="integer">32470949</id>
+  <isbn>1506700403</isbn>
+  <isbn13>9781506700403</isbn13>
+  <text_reviews_count type="integer">202</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.yWOezxGREuq-hnVp7wf0cA</uri>
+  <title>The Legend of Korra: Turf Wars, Part Two (The Legend of Korra: Turf Wars #2)</title>
+  <title_without_series>The Legend of Korra: Turf Wars, Part Two</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494028846l/32470949._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494028846l/32470949._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32470949-the-legend-of-korra</link>
+  <num_pages>76</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Dark Horse Comics</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>2312</ratings_count>
+  <description>Recovering from the fight and furious for revenge, Triple Threats member Tokuga solidifies his ties with the duplicitous Wonyong. Meanwhile, when Republic City’s housing crisis reaches its peak, Zhu Li sets her sights on the biggest public figure in the city—President Raiko—in a bid for the presidency! With her friend’s success, the future of the spirit portal, and the wellbeing of Republic City’s citizens at stake, can Korra remain neutral and fulfill her duties as the Avatar?&lt;br /&gt;&lt;br /&gt;Written by series co-creator Michael Dante DiMartino and drawn by Irene Koh (Teenage Mutant Ninja Turtles, Afrina and the Glass Coffin), with consultation by Bryan Konietzko, this is the official continuation of The Legend of Korra!</description>
+<authors>
+<author>
+<id>90808</id>
+<name>Michael Dante DiMartino</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1515271771p5/90808.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1515271771p2/90808.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/90808.Michael_Dante_DiMartino]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>169825</ratings_count>
+<text_reviews_count>7099</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>53061519</id>
+  <uri>kca://work/amzn1.gr.work.v1.MXy6xZVAlcilJWGDOsjEjQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jan 31 22:17:29 -0800 2018</date_added>
+  <date_updated>Wed Jan 31 22:18:32 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2280150229]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2280150229]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2256592509</id>
+    <book>
+  <id type="integer">35056997</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.V03J7Jl833DOrKBKpepH0Q</uri>
+  <title>Malika - Warrior Queen Part One: An African Historical Fantasy Graphic Novel</title>
+  <title_without_series>Malika - Warrior Queen Part One: An African Historical Fantasy Graphic Novel</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493822480l/35056997._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493822480l/35056997._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35056997-malika---warrior-queen-part-one</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>YouNeek Studios</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>112</ratings_count>
+  <description>Set in fifteenth-century West Africa, Malika: Warrior Queen Part One follows the exploits of queen and military commander Malika, who struggles to keep the peace in her ever-expanding empire. Growing up as a prodigy, Malika inherited the crown from her father in the most unusual of circumstances, splitting the kingdom of Azzaz in half. After years of civil war, Malika was able to unite all of Azzaz, expanding it into one of the largest empires in all of West Africa. But expansion would not come without its costs. Enemies begin to rise within her council, and Azzaz grabbed the attention of one of the most feared superpowers the world has ever known: the Ming Dynasty. As Malika fights to win the clandestine war within the walls of her empire, she must now turn her attentions to an indomitable and treacherous foe with plans to vanquish her entire people. The story takes place in the same universe (the YouNeek YouNiverse) as the E.X.O. series, roughly 500 years before the events of Lagoon City.</description>
+<authors>
+<author>
+<id>14192779</id>
+<name>Roye Okupe</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1448477556p5/14192779.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1448477556p2/14192779.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14192779.Roye_Okupe]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>299</ratings_count>
+<text_reviews_count>74</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>56347310</id>
+  <uri>kca://work/amzn1.gr.work.v1.tWS_pN8BvHx3XxAhFeLr2A</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jan 13 16:06:24 -0800 2018</date_added>
+  <date_updated>Sat Jan 13 16:07:03 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2256592509]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2256592509]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2243901853</id>
+    <book>
+  <id type="integer">29396738</id>
+  <isbn>1632157098</isbn>
+  <isbn13>9781632157096</isbn13>
+  <text_reviews_count type="integer">4227</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.u6n9nPDB4yQL89724vFCmQ</uri>
+  <title>Monstress, Vol. 1: Awakening</title>
+  <title_without_series>Monstress, Vol. 1: Awakening</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471648131l/29396738._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471648131l/29396738._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29396738-monstress-vol-1</link>
+  <num_pages>235</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Image Comics</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>38607</ratings_count>
+  <description>Set in an alternate matriarchal 1900's Asia, in a richly imagined world of art deco-inflected steam punk, MONSTRESS tells the story of a teenage girl who is struggling to survive the trauma of war, and who shares a mysterious psychic link with a monster of tremendous power, a connection that will transform them both and make them the target of both human and otherworldly powers. Collects MONSTRESS #1-6</description>
+<authors>
+<author>
+<id>35022</id>
+<name>Marjorie M. Liu</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1566487769p5/35022.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1566487769p2/35022.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/35022.Marjorie_M_Liu]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>176676</ratings_count>
+<text_reviews_count>15504</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>51531861</id>
+  <uri>kca://work/amzn1.gr.work.v1.PWrmVySqi69FwFQsUyIqpA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jan 04 23:02:02 -0800 2018</date_added>
+  <date_updated>Tue Jan 09 18:11:04 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2243901853]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2243901853]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2243719111</id>
+    <book>
+  <id type="integer">35031085</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3962</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.21GvfWvotjWsRqb6TzH_Vw</uri>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498841231l/35031085._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498841231l/35031085._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35031085-frankenstein</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information>The 1818 Text</edition_information>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>1056093</ratings_count>
+  <description>&lt;b&gt;Mary Shelley&lt;/b&gt; began writing &lt;i&gt;Frankenstein&lt;/i&gt; when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, &lt;i&gt;Frankenstein&lt;/i&gt; tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Frankenstein&lt;/i&gt;, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>1086385</ratings_count>
+<text_reviews_count>30799</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>4836639</id>
+  <uri>kca://work/amzn1.gr.work.v1.HYrCHs2hgbojzi9917_vCg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jan 04 20:23:38 -0800 2018</started_at>
+  <read_at>Sun Jan 07 20:21:46 -0800 2018</read_at>
+  <date_added>Thu Jan 04 20:23:37 -0800 2018</date_added>
+  <date_updated>Sun Jan 07 20:21:46 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2243719111]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2243719111]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129365977</id>
+    <book>
+  <id type="integer">153795</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">557</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.mEDYK_KFGShWMhdteqSN6g</uri>
+  <title>Squire (Protector of the Small, #3)</title>
+  <title_without_series>Squire</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/153795.Squire</link>
+  <num_pages>400</num_pages>
+  <format/>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.28</average_rating>
+  <ratings_count>45467</ratings_count>
+  <description>Fourteen-year-old Keladry of Mindelan is not your average squire. For one thing, she's a girl. For another, she's almost six feet tall. And most important of all, her ability to pass the Ordeal that soon confronts her may determine her kingdom's future. &lt;br /&gt;&lt;br /&gt;When Kel is chosen by the legendary Lord Raoul to be his squire, the conservatives of the realm hardly think she’s up to the job. Kel earns respect and admiration among the men, as well as the affection of a fellow squire.&lt;br /&gt;&lt;br /&gt;“This feminist fantasy is a delightful read.”—KLIATT</description>
+<authors>
+<author>
+<id>8596</id>
+<name>Tamora Pierce</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1209044273p5/8596.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1209044273p2/8596.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8596.Tamora_Pierce]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>1290357</ratings_count>
+<text_reviews_count>34331</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>1142883</id>
+  <uri>kca://work/amzn1.gr.work.v1.JIgcGk1Z_n-IkJ4GEpnjIg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:07:22 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:07:22 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129365977]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129365977]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129365949</id>
+    <book>
+  <id type="integer">47624</id>
+  <isbn>0060590165</isbn>
+  <isbn13>9780060590161</isbn13>
+  <text_reviews_count type="integer">1888</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.XEVT5P6smnzAXJR0QH0YtQ</uri>
+  <title>Lirael (Abhorsen, #2)</title>
+  <title_without_series>Lirael</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/47624.Lirael</link>
+  <num_pages>464</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Eos</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>100271</ratings_count>
+  <description>Lirael has never felt like a true daughter of the Clayr. Now, two years past the time when she should have received the Sight that is the Clayr's birthright, she feels alone, abandoned, unsure of who she is. Nevertheless, the fate of the Old Kingdom lies in her hands. With only her faithful companion, the Disreputable Dog, Lirael must undertake a desperate mission under the growing shadow of an ancient evil.&lt;br /&gt;&lt;br /&gt;In this sequel to Sabriel, winner of the Aurealis Award for Excellence in Australian Science Fiction, New York Times best-selling author Garth Nix weaves a spellbinding tale of discovery, destiny, and danger.</description>
+<authors>
+<author>
+<id>8347</id>
+<name>Garth Nix</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1207583754p5/8347.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1207583754p2/8347.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8347.Garth_Nix]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>746434</ratings_count>
+<text_reviews_count>36638</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>2067752</id>
+  <uri>kca://work/amzn1.gr.work.v1.qtzQZhpA6wOEf8aA3h7RWw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:07:18 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:07:18 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129365949]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129365949]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129365900</id>
+    <book>
+  <id type="integer">77767</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3450</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.AcaK2753klyko27hikiGhQ</uri>
+  <title>Little House on the Prairie (Laura Years, #2)</title>
+  <title_without_series>Little House on the Prairie</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559209202l/77767._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559209202l/77767._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/77767.Little_House_on_the_Prairie</link>
+  <num_pages>335</num_pages>
+  <format>Paperback</format>
+  <edition_information>65th Anniversary Edition (US/CAN)</edition_information>
+  <publisher>HarperTrophy</publisher>
+  <publication_day/>
+  <publication_year>1994</publication_year>
+  <publication_month/>
+  <average_rating>4.19</average_rating>
+  <ratings_count>241549</ratings_count>
+  <description>Meet Laura Ingalls, the little girl who would grow up to write the Little House books.&lt;br /&gt;&lt;br /&gt;Pa Ingalls decides to sell the little log house, and the family sets out for Indian country! They travel from Wisconsin to Kansas, and there, finally, Pa builds their little house on the prairie. Sometimes farm life is difficult, even dangerous, but Laura and her family are kept busy and are happy with the promise of their new life on the prairie.&lt;br /&gt;&lt;br /&gt;LITTLE HOUSE ON THE PRAIRIE is the second book in the Laura Years series.&lt;br /&gt;--back cover</description>
+<authors>
+<author>
+<id>5300</id>
+<name>Laura Ingalls Wilder</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1347574987p5/5300.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1347574987p2/5300.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5300.Laura_Ingalls_Wilder]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>1090715</ratings_count>
+<text_reviews_count>23890</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+<work>  <id>2884161</id>
+  <uri>kca://work/amzn1.gr.work.v1.SDTzPNi3Z2VGCG-tF8uVwA</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:07:08 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:07:08 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129365900]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129365900]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129365645</id>
+    <book>
+  <id type="integer">183656</id>
+  <isbn>0060575808</isbn>
+  <isbn13>9780060575809</isbn13>
+  <text_reviews_count type="integer">2009</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ml56OCYLUTiYBWYwl7j8KA</uri>
+  <title>The Two Princesses of Bamarre (The Two Princesses of Bamarre, #1)</title>
+  <title_without_series>The Two Princesses of Bamarre</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442734248l/183656._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442734248l/183656._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/183656.The_Two_Princesses_of_Bamarre</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Eos</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>65184</ratings_count>
+  <description>Twelve-year-old Addie admires her older sister Meryl, who aspires to rid the kingdom of Bamarre of gryphons, specters, and ogres. Addie, on the other hand, is fearful even of spiders and depends on Meryl for courage and protection. Waving her sword Bloodbiter, the older girl declaims in the garden from the heroic epic of Drualt to a thrilled audience of Addie, their governess, and the young sorcerer Rhys. &lt;br /&gt;&lt;br /&gt;But when Meryl falls ill with the dreaded Gray Death, Addie must gather her courage and set off alone on a quest to find the cure and save her beloved sister. Addie takes the seven-league boots and magic spyglass left to her by her mother and the enchanted tablecloth and cloak given to her by Rhys - along with a shy declaration of his love. She prevails in encounters with tricky specters (spiders too) and outwits a wickedly personable dragon in adventures touched with romance and a bittersweet ending.</description>
+<authors>
+<author>
+<id>13677</id>
+<name>Gail Carson Levine</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1432495575p5/13677.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1432495575p2/13677.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13677.Gail_Carson_Levine]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>616004</ratings_count>
+<text_reviews_count>23804</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>3155307</id>
+  <uri>kca://work/amzn1.gr.work.v1.rWtz6XgL6ncKri7gSa0Yqg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:06:25 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:06:25 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129365645]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129365645]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129365608</id>
+    <book>
+  <id type="integer">100915</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">14329</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.bTpunK9LhLneojBwpPB9iQ</uri>
+  <title>The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)</title>
+  <title_without_series>The Lion, the Witch and the Wardrobe</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353029077l/100915._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353029077l/100915._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/100915.The_Lion_the_Witch_and_the_Wardrobe</link>
+  <num_pages>206</num_pages>
+  <format>Paperback</format>
+  <edition_information>Film Tie-in Edition (US/CAN)</edition_information>
+  <publisher>HarperCollins Publishers</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month/>
+  <average_rating>4.21</average_rating>
+  <ratings_count>1948264</ratings_count>
+  <description>There are a thousand stories in the land of Narnia, and the first is about to be told in an extraordinary motion picture, The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, from Walt Disney Pictures and Walden Media.&lt;br /&gt;&lt;br /&gt;In the never-ending war between good and evil, The Chronicles of Narnia set the stage for battles of epic proportions. Some take place in vast fields, where the forces of light and darkness clash. But other battles occur within the small chambers of the heart and are equally decisive.&lt;br /&gt;&lt;br /&gt;Journeys to the ends of the world, fantastic creatures, betrayals, heroic deeds and friendships won and lost -- all come together in an unforgettable world of magic. So join the battle to end all battles.&lt;br /&gt;&lt;br /&gt;The second volume in&lt;br /&gt;The Chronicles of Narnia®&lt;br /&gt;The Lion, the Witch and the Wardrobe&lt;br /&gt;&lt;br /&gt;Narnia .... a land frozen in eternal winter ... a country waiting to be set free.&lt;br /&gt;&lt;br /&gt;Four adventurers step through a wardrobe door and into the land of Narnia -- a land enslaved by the power of the White Witch. But when almost all hope is lost, the return of the Great Lion, Aslan, signals a great change ... and a great sacrifice.&lt;br /&gt;(back cover)</description>
+<authors>
+<author>
+<id>1069006</id>
+<name>C.S. Lewis</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564671804p5/1069006.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564671804p2/1069006.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1069006.C_S_Lewis]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>5331287</ratings_count>
+<text_reviews_count>121201</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>4790821</id>
+  <uri>kca://work/amzn1.gr.work.v1.rqpJlzO5rS559vW35rJa1w</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:06:18 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:06:18 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129365608]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129365608]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129365508</id>
+    <book>
+  <id type="integer">11324166</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1881</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.1dtfdmOwU0_1vucDFTPHnQ</uri>
+  <title>Timeless (Parasol Protectorate, #5)</title>
+  <title_without_series>Timeless</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327890901l/11324166._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327890901l/11324166._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11324166-timeless</link>
+  <num_pages>407</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Orbit</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.12</average_rating>
+  <ratings_count>25716</ratings_count>
+  <description>Alexia Tarabotti, Lady Maccon, has settled into domestic bliss. Of course, being Alexia, such bliss involves integrating werewolves into London High society, living in a vampire's second best closet, and coping with a precocious toddler who is prone to turning supernatural willy-nilly. Even Ivy Tunstell's acting troupe's latest play, disastrous to say the least, cannot put a dampener on Alexia's enjoyment of her new London lifestyle.&lt;br /&gt;&lt;br /&gt;Until, that is, she receives a summons from Alexandria that cannot be ignored. With husband, child and Tunstells in tow, Alexia boards a steamer to cross the Mediterranean. But Egypt may hold more mysteries than even the indomitable Lady Maccon can handle. What does the vampire Queen of the Alexandria Hive really want from her? Why is the God-Breaker Plague suddenly expanding? And how has Ivy Tunstell suddenly become the most popular actress in all the British Empire?</description>
+<authors>
+<author>
+<id>2891665</id>
+<name>Gail Carriger</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1476925456p5/2891665.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1476925456p2/2891665.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2891665.Gail_Carriger]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>373428</ratings_count>
+<text_reviews_count>41162</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>13210557</id>
+  <uri>kca://work/amzn1.gr.work.v1.19rVfGhNNQTEDIwPk8azuA</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:06:01 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:06:01 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129365508]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129365508]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129365352</id>
+    <book>
+  <id type="integer">256683</id>
+  <isbn>1416914285</isbn>
+  <isbn13>9781416914280</isbn13>
+  <text_reviews_count type="integer">46881</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.JuGuBT4zHCkHppMdgwcxkg</uri>
+  <title>City of Bones (The Mortal Instruments, #1)</title>
+  <title_without_series>City of Bones</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730315l/256683._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730315l/256683._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/256683.City_of_Bones</link>
+  <num_pages>485</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Margaret K. McElderry Books</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.11</average_rating>
+  <ratings_count>1483860</ratings_count>
+  <description>When fifteen-year-old Clary Fray heads out to the Pandemonium Club in New York City, she hardly expects to witness a murder― much less a murder committed by three teenagers covered with strange tattoos and brandishing bizarre weapons. Then the body disappears into thin air. It's hard to call the police when the murderers are invisible to everyone else and when there is nothing―not even a smear of blood―to show that a boy has died. Or was he a boy?&lt;br /&gt;&lt;br /&gt;This is Clary's first meeting with the Shadowhunters, warriors dedicated to ridding the earth of demons. It's also her first encounter with Jace, a Shadowhunter who looks a little like an angel and acts a lot like a jerk. Within twenty-four hours Clary is pulled into Jace's world with a vengeance when her mother disappears and Clary herself is attacked by a demon. But why would demons be interested in ordinary mundanes like Clary and her mother? And how did Clary suddenly get the Sight? The Shadowhunters would like to know...</description>
+<authors>
+<author>
+<id>150038</id>
+<name>Cassandra Clare</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1270502031p5/150038.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1270502031p2/150038.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/150038.Cassandra_Clare]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>6273627</ratings_count>
+<text_reviews_count>351248</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2267189</id>
+  <uri>kca://work/amzn1.gr.work.v1.KiHHT1zl2VQcLxd5UJLFGQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:05:36 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:05:36 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129365352]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129365352]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129365252</id>
+    <book>
+  <id type="integer">18131</id>
+  <isbn>0440498058</isbn>
+  <isbn13>9780440498056</isbn13>
+  <text_reviews_count type="integer">18507</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.o4DBk1zCPy-z8cL1YZ5x8w</uri>
+  <title>A Wrinkle in Time (Time Quintet, #1)</title>
+  <title_without_series>A Wrinkle in Time</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329061522l/18131._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329061522l/18131._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18131.A_Wrinkle_in_Time</link>
+  <num_pages>211</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Yearling Books</publisher>
+  <publication_day/>
+  <publication_year>1973</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>979069</ratings_count>
+  <description>&lt;b&gt;It was a dark and stormy night.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Out of this wild night, a strange visitor comes to the Murry house and beckons Meg, her brother Charles Wallace, and their friend Calvin O'Keefe on a most dangerous and extraordinary adventure - one that will threaten their lives and our universe.&lt;br /&gt;&lt;br /&gt;Winner of the 1963 Newbery Medal, &lt;i&gt;A Wrinkle in Time&lt;/i&gt; is the first book in Madeleine L'Engle's classic Time Quintet.</description>
+<authors>
+<author>
+<id>106</id>
+<name>Madeleine L&apos;Engle</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1305256804p5/106.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1305256804p2/106.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/106.Madeleine_L_Engle]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>1395708</ratings_count>
+<text_reviews_count>50140</text_reviews_count>
+</author>
+</authors>
+  <published>1973</published>
+<work>  <id>948387</id>
+  <uri>kca://work/amzn1.gr.work.v1.yle9k3DDlsFvzJETidF13g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:05:20 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:05:20 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129365252]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129365252]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129365192</id>
+    <book>
+  <id type="integer">10596</id>
+  <isbn>0451191013</isbn>
+  <isbn13>9780451191014</isbn13>
+  <text_reviews_count type="integer">800</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.9F297oTe9oBNw2HYDPK_bg</uri>
+  <title>The Regulators</title>
+  <title_without_series>The Regulators</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554402378l/10596._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554402378l/10596._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10596.The_Regulators</link>
+  <num_pages>512</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>US/CAN/UK</edition_information>
+  <publisher>Signet</publisher>
+  <publication_day/>
+  <publication_year>1997</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.70</average_rating>
+  <ratings_count>67561</ratings_count>
+  <description>There's a place in Wentworth, Ohio, where summer is in full swing. It's called Poplar Street. Up until now it's been a nice place to live. The idling red van around the corner is about to change all that. Let the battle against evil begin. Here come...The Regulators</description>
+<authors>
+<author>
+<id>5858</id>
+<name>Richard Bachman</name>
+<role>Pseudonym</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1289702449p5/5858.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1289702449p2/5858.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5858.Richard_Bachman]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>587154</ratings_count>
+<text_reviews_count>17196</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>955346</id>
+  <uri>kca://work/amzn1.gr.work.v1.3hXLFTan1xGnmXTwJA8ZXQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:05:10 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:05:10 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129365192]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129365192]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129365122</id>
+    <book>
+  <id type="integer">13829</id>
+  <isbn>037581468X</isbn>
+  <isbn13>9780375814686</isbn13>
+  <text_reviews_count type="integer">1596</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.PmSKDqO2_GAfU1pXkHjc8Q</uri>
+  <title>Terrier (Beka Cooper, #1)</title>
+  <title_without_series>Terrier</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398029898l/13829._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398029898l/13829._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13829.Terrier</link>
+  <num_pages>581</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Random House</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>58348</ratings_count>
+  <description>Hundreds of years before Alanna first drew her sword in Tamora Pierce's memorable debut, &lt;i&gt;Alanna: The First Adventure&lt;/i&gt;, Tortall had a heroine named Beka Cooper - a fierce young woman who fights crime in a world of magic. This is the beginning of her story, her legend, and her legacy....&lt;br /&gt;&lt;br /&gt;Beka Cooper is a rookie with the law-enforcing Provost's Guard, commonly known as "the Provost's Dogs," in Corus, the capital city of Tortall. To the surprise of both the veteran "Dogs" and her fellow "puppies," Beka requests duty in the Lower City. The Lower City is a tough beat. But it's also where Beka was born, and she's comfortable there.&lt;br /&gt;&lt;br /&gt;Beka gets her wish. She's assigned to work with Mattes and Clary, famed veterans among the Provost's Dogs. They're tough, they're capable, and they're none too happy about the indignity of being saddled with a puppy for the first time in years. What they don't know is that Beka has something unique to offer. Never much of a talker, Beka is a good listener. So good, in fact, that she hears things that Mattes and Clary never could - information that is passed in murmurs when flocks of pigeons gather ... murmurs that are the words of the dead.&lt;br /&gt;&lt;br /&gt;In this way, Beka learns of someone in the Lower City who has overturned the power structure of the underworld and is terrorizing its citizens into submission and silence. Beka's magical listening talent is the only way for the Provost's Dogs to find out the identity of this brutal new underlord, for the dead are beyond fear. And the ranks of the dead will be growing if the Dogs can't stop a crime wave the likes of which has never been seen. Luckily for the people of the Lower City, the new puppy is a true terrier!</description>
+<authors>
+<author>
+<id>8596</id>
+<name>Tamora Pierce</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1209044273p5/8596.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1209044273p2/8596.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8596.Tamora_Pierce]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>1290357</ratings_count>
+<text_reviews_count>34331</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>3056999</id>
+  <uri>kca://work/amzn1.gr.work.v1.TN1AoQsjcMcpF517Q7Fe2g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:04:54 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:04:54 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129365122]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129365122]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129364892</id>
+    <book>
+  <id type="integer">5907</id>
+  <isbn>0618260307</isbn>
+  <isbn13>9780618260300</isbn13>
+  <text_reviews_count type="integer">32254</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7HhPxEJT1NiirAiej27XwA</uri>
+  <title>The Hobbit, or There and Back Again</title>
+  <title_without_series>The Hobbit, or There and Back Again</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again</link>
+  <num_pages>366</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Houghton Mifflin</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>2596219</ratings_count>
+  <description>&lt;i&gt;In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.&lt;br /&gt;&lt;br /&gt;&lt;/i&gt;Written for J.R.R. Tolkien’s own children, &lt;i&gt;The Hobbit&lt;/i&gt; met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001). Unforgettable!&lt;br /&gt;</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564399522p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564399522p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>7642345</ratings_count>
+<text_reviews_count>116803</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>1540236</id>
+  <uri>kca://work/amzn1.gr.work.v1.Upx53g0wmFL_YBYIGV2Lzg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:04:11 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:04:11 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129364892]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129364892]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129364794</id>
+    <book>
+  <id type="integer">518848</id>
+  <isbn>0064471837</isbn>
+  <isbn13>9780064471831</isbn13>
+  <text_reviews_count type="integer">5462</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UeGUF52dft-6RUhY5BkwYw</uri>
+  <title>Sabriel (Abhorsen,  #1)</title>
+  <title_without_series>Sabriel</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293655399l/518848._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1293655399l/518848._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/518848.Sabriel</link>
+  <num_pages>491</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>First American Edition</edition_information>
+  <publisher>Harper Collins</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>169221</ratings_count>
+  <description>Sent to a boarding school in Ancelstierre as a young child, Sabriel has had little experience with the random power of Free Magic or the Dead who refuse to stay dead in the Old Kingdom. But during her final semester, her father, the Abhorsen, goes missing, and Sabriel knows she must enter the Old Kingdom to find him. &lt;br /&gt;&lt;br /&gt;With Sabriel, the first installment in the Abhorsen series, Garth Nix exploded onto the fantasy scene as a rising star, in a novel that takes readers to a world where the line between the living and the dead isn't always clear—and sometimes disappears altogether.</description>
+<authors>
+<author>
+<id>8347</id>
+<name>Garth Nix</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1207583754p5/8347.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1207583754p2/8347.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8347.Garth_Nix]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>746434</ratings_count>
+<text_reviews_count>36638</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+<work>  <id>3312237</id>
+  <uri>kca://work/amzn1.gr.work.v1.ks5EWpGiZM6lKHqfoo_WtA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:03:51 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:03:51 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129364794]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129364794]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129364718</id>
+    <book>
+  <id type="integer">24337</id>
+  <isbn>0590920685</isbn>
+  <isbn13>9780590920681</isbn13>
+  <text_reviews_count type="integer">8634</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hjtmxVKieXHa-y4kRMkbvg</uri>
+  <title>Ella Enchanted (Ella Enchanted #1)</title>
+  <title_without_series>Ella Enchanted</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410727190l/24337._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410727190l/24337._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24337.Ella_Enchanted</link>
+  <num_pages>232</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Scholastic Edition</edition_information>
+  <publisher>Scholastic Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.98</average_rating>
+  <ratings_count>369577</ratings_count>
+  <description>At birth, Ella is inadvertently cursed by an imprudent young fairy named Lucinda, who bestows on her the "gift" of obedience. Anything anyone tells her to do, Ella must obey. Another girl might have been cowed by this affliction, but not feisty Ella: "Instead of making me docile, Lucinda's curse made a rebel of me. Or perhaps I was that way naturally." When her beloved mother dies, leaving her in the care of a mostly absent and avaricious father, and later, a loathsome stepmother and two treacherous stepsisters, Ella's life and well-being seem to be in grave peril. But her intelligence and saucy nature keep her in good stead as she sets out on a quest for freedom and self-discovery as she tries to track down Lucinda to undo the curse, fending off ogres, befriending elves, and falling in love with a prince along the way. Yes, there is a pumpkin coach, a glass slipper, and a happily ever after, but this is the most remarkable, delightful, and profound version of Cinderella you'll ever read.&lt;br /&gt;&lt;br /&gt;Gail Carson Levine's examination of traditional female roles in fairy tales takes some satisfying twists and deviations from the original. Ella is bound by obedience against her will, and takes matters in her own hands with ambition and verve. Her relationship with the prince is balanced and based on humor and mutual respect; in fact, it is she who ultimately rescues &lt;i&gt;him&lt;/i&gt;. Ella Enchanted has won many well-deserved awards, including a Newbery Honor.</description>
+<authors>
+<author>
+<id>13677</id>
+<name>Gail Carson Levine</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1432495575p5/13677.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1432495575p2/13677.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13677.Gail_Carson_Levine]]></link>
+<average_rating>3.93</average_rating>
+<ratings_count>616004</ratings_count>
+<text_reviews_count>23804</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+<work>  <id>2485462</id>
+  <uri>kca://work/amzn1.gr.work.v1.2kFOJSnz-9-k8AORk9jgGg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:03:39 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:03:39 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129364718]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129364718]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129364426</id>
+    <book>
+  <id type="integer">43615</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">12409</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.MMrx31hlUfPQ9Kb0bdy7xw</uri>
+  <title>The Gunslinger (The Dark Tower, #1)</title>
+  <title_without_series>The Gunslinger</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554220416l/43615._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554220416l/43615._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/43615.The_Gunslinger</link>
+  <num_pages>231</num_pages>
+  <format></format>
+  <edition_information>Plume Revised Edition (USA/CAN)</edition_information>
+  <publisher>Plume</publisher>
+  <publication_day/>
+  <publication_year>2003</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>472762</ratings_count>
+  <description>In the first book of this brilliant series, Stephen King introduces readers to one of his most enigmatic heroes, Roland of Gilead, The Last Gunslinger. He is a haunting figure, a loner on a spellbinding journey into good and evil. In his desolate world, which frighteningly mirrors our own, Roland pursues The Man in Black, encounters an alluring woman named Alice, and begins a friendship with the Kid from Earth called Jake. Both grippingly realistic and eerily dreamlike, The Gunslinger leaves readers eagerly awaiting the next chapter.&lt;br /&gt;&lt;br /&gt;(back cover)</description>
+<authors>
+<author>
+<id>3389</id>
+<name>Stephen King</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1362814142p5/3389.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1362814142p2/3389.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3389.Stephen_King]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>13085516</ratings_count>
+<text_reviews_count>499074</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>46575</id>
+  <uri>kca://work/amzn1.gr.work.v1.CBAUnWiUF-enUQzzFcFGog</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:02:49 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:02:49 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129364426]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129364426]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129364388</id>
+    <book>
+  <id type="integer">8490112</id>
+  <isbn>0316134023</isbn>
+  <isbn13>9780316134026</isbn13>
+  <text_reviews_count type="integer">20315</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.MVSNR2zvBqSdo5KNJRpWFg</uri>
+  <title>Daughter of Smoke &amp; Bone (Daughter of Smoke &amp; Bone, #1)</title>
+  <title_without_series>Daughter of Smoke &amp; Bone</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461353773l/8490112._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461353773l/8490112._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8490112-daughter-of-smoke-bone</link>
+  <num_pages>422</num_pages>
+  <format>Hardcover</format>
+  <edition_information>US</edition_information>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>283770</ratings_count>
+  <description>Around the world, black hand prints are appearing on doorways, scorched there by winged strangers who have crept through a slit in the sky.&lt;br /&gt;&lt;br /&gt;In a dark and dusty shop, a devil’s supply of human teeth grows dangerously low.&lt;br /&gt;&lt;br /&gt;And in the tangled lanes of Prague, a young art student is about to be caught up in a brutal otherworldly war.&lt;br /&gt;&lt;br /&gt;Meet Karou. She fills her sketchbooks with monsters that may or may not be real, she’s prone to disappearing on mysterious "errands", she speaks many languages - not all of them human - and her bright blue hair &lt;i&gt;actually&lt;/i&gt; grows out of her head that color. Who is she? That is the question that haunts her, and she’s about to find out.&lt;br /&gt;&lt;br /&gt;When beautiful, haunted Akiva fixes fiery eyes on her in an alley in Marrakesh, the result is blood and starlight, secrets unveiled, and a star-crossed love whose roots drink deep of a violent past. But will Karou live to regret learning the truth about herself?</description>
+<authors>
+<author>
+<id>324620</id>
+<name>Laini Taylor</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1224474224p5/324620.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1224474224p2/324620.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/324620.Laini_Taylor]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>659703</ratings_count>
+<text_reviews_count>83488</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>13355552</id>
+  <uri>kca://work/amzn1.gr.work.v1._doqs3rj_Q6dyGC7-2eXEg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:02:43 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:02:43 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129364388]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129364388]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129364342</id>
+    <book>
+  <id type="integer">12067</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">17357</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7RUNqxz5r2etxmmOQNCR6g</uri>
+  <title>Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch</title>
+  <title_without_series>Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392528568l/12067._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392528568l/12067._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12067.Good_Omens</link>
+  <num_pages>491</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>William Morrow</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>463854</ratings_count>
+  <description>&lt;i&gt;This is a previously-published edition - ISBN13: &lt;a href="https://www.goodreads.com/book/show/46386445-good-omens" rel="nofollow"&gt;9780060853983&lt;/a&gt;&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;According to &lt;i&gt;The Nice and Accurate Prophecies of Agnes Nutter&lt;/i&gt;, &lt;i&gt;Witch&lt;/i&gt; (the world's only &lt;i&gt;completely&lt;/i&gt; accurate book of prophecies, written in 1655, before she exploded), the world will end on a Saturday. Next Saturday, in fact. Just before dinner.&lt;br /&gt;&lt;br /&gt;So the armies of Good and Evil are amassing, Atlantis is rising, frogs are falling, tempers are flaring. Everything appears to be going according to Divine Plan. Except a somewhat fussy angel and a fast-living demon—both of whom have lived amongst Earth's mortals since The Beginning and have grown rather fond of the lifestyle—are not actually looking forward to the coming Rapture.&lt;br /&gt;&lt;br /&gt;And someone seems to have misplaced the Antichrist . . . </description>
+<authors>
+<author>
+<id>1654</id>
+<name>Terry Pratchett</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1235562205p5/1654.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1235562205p2/1654.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1654.Terry_Pratchett]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>3919565</ratings_count>
+<text_reviews_count>137074</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>4110990</id>
+  <uri>kca://work/amzn1.gr.work.v1.tqQYtFsBAMT4gl8zB5Lulw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:02:35 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:02:35 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129364342]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129364342]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129364302</id>
+    <book>
+  <id type="integer">9361589</id>
+  <isbn>0385534639</isbn>
+  <isbn13>9780385534635</isbn13>
+  <text_reviews_count type="integer">53558</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tPpWGC7kuUxtvkvPBpeniA</uri>
+  <title>The Night Circus</title>
+  <title_without_series>The Night Circus</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387124618l/9361589._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387124618l/9361589._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9361589-the-night-circus</link>
+  <num_pages>391</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>Doubleday</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>599665</ratings_count>
+  <description>The circus arrives without warning. No announcements precede it. It is simply there, when yesterday it was not. Within the black-and-white striped canvas tents is an utterly unique experience full of breathtaking amazements. It is called Le Cirque des Rêves, and it is only open at night. &lt;br /&gt;&lt;br /&gt;But behind the scenes, a fierce competition is underway—a duel between two young magicians, Celia and Marco, who have been trained since childhood expressly for this purpose by their mercurial instructors. Unbeknownst to them, this is a game in which only one can be left standing, and the circus is but the stage for a remarkable battle of imagination and will. Despite themselves, however, Celia and Marco tumble headfirst into love—a deep, magical love that makes the lights flicker and the room grow warm whenever they so much as brush hands. &lt;br /&gt;&lt;br /&gt;True love or not, the game must play out, and the fates of everyone involved, from the cast of extraordinary circus performers to the patrons, hang in the balance, suspended as precariously as the daring acrobats overhead. &lt;br /&gt;&lt;br /&gt;Written in rich, seductive prose, this spell-casting novel is a feast for the senses and the heart.</description>
+<authors>
+<author>
+<id>4370565</id>
+<name>Erin Morgenstern</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1552589582p5/4370565.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1552589582p2/4370565.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4370565.Erin_Morgenstern]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>602782</ratings_count>
+<text_reviews_count>66971</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>14245059</id>
+  <uri>kca://work/amzn1.gr.work.v1.IzoeETdoCBWf_cxRZU_R_Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:02:29 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:05:50 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129364302]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129364302]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129364238</id>
+    <book>
+  <id type="integer">13836</id>
+  <isbn>1416903437</isbn>
+  <isbn13>9781416903437</isbn13>
+  <text_reviews_count type="integer">1414</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.CIWxVj_uijMkHeISYeWwDA</uri>
+  <title>Wild Magic (Immortals, #1)</title>
+  <title_without_series>Wild Magic</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554192590l/13836._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554192590l/13836._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13836.Wild_Magic</link>
+  <num_pages>362</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Simon Pulse</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.32</average_rating>
+  <ratings_count>66441</ratings_count>
+  <description>Young Daine's knack with horses gets her a job helping the royal horsemistress drive a herd of ponies to Tortall. Soon it becomes clear that Daine's talent, as much as she struggles to hide it, is downright magical. Horses and other animals not only obey, but listen to her words. Daine, though, will have to learn to trust humans before she can come to terms with her powers, her past, and herself.</description>
+<authors>
+<author>
+<id>8596</id>
+<name>Tamora Pierce</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1209044273p5/8596.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1209044273p2/8596.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8596.Tamora_Pierce]]></link>
+<average_rating>4.23</average_rating>
+<ratings_count>1290357</ratings_count>
+<text_reviews_count>34331</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>1171314</id>
+  <uri>kca://work/amzn1.gr.work.v1.vTxbrCebG_xWnEe1ZmOdMg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:02:16 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:02:16 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129364238]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129364238]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129364176</id>
+    <book>
+  <id type="integer">30165203</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">9393</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.OK_r3aW0xrqTyA_Gf-Cvyw</uri>
+  <title>American Gods (American Gods, #1)</title>
+  <title_without_series>American Gods</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462924585l/30165203._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462924585l/30165203._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30165203-american-gods</link>
+  <num_pages>635</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information>Tenth Anniversary Edition</edition_information>
+  <publisher>William Morrow</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.11</average_rating>
+  <ratings_count>690007</ratings_count>
+  <description>Days before his release from prison, Shadow's wife, Laura, dies in a mysterious car crash. Numbly, he makes his way back home. On the plane, he encounters the enigmatic Mr Wednesday, who claims to be a refugee from a distant war, a former god and the king of America.&lt;br /&gt; &lt;br /&gt;Together they embark on a profoundly strange journey across the heart of the USA, whilst all around them a storm of preternatural and epic proportions threatens to break.&lt;br /&gt;&lt;br /&gt;Scary, gripping and deeply unsettling, &lt;i&gt;American Gods&lt;/i&gt; takes a long, hard look into the soul of America. You'll be surprised by what - and who - it finds there...&lt;br /&gt;&lt;br /&gt;&lt;i&gt;This is the author's preferred text, never before published in the UK, and is about 12,000 words longer than the previous UK edition.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;</description>
+<authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p5/1221698.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p2/1221698.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>5542289</ratings_count>
+<text_reviews_count>332903</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>1970226</id>
+  <uri>kca://work/amzn1.gr.work.v1.2ReeE8xjf_k3FYjR8QraOg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:02:07 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:02:07 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129364176]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129364176]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129364073</id>
+    <book>
+  <id type="integer">119322</id>
+  <isbn>0679879242</isbn>
+  <isbn13>9780679879244</isbn13>
+  <text_reviews_count type="integer">13881</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oNiecDQ9-Jdo4cl8NKpegA</uri>
+  <title>The Golden Compass (His Dark Materials, #1)</title>
+  <title_without_series>The Golden Compass</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203l/119322._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203l/119322._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/119322.The_Golden_Compass</link>
+  <num_pages>399</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Alfred A. Knopf Books for Young Readers</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>1996</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>1176242</ratings_count>
+  <description>Lyra is rushing to the cold, far North, where witch clans and armored bears rule. North, where the Gobblers take the children they steal--including her friend Roger. North, where her fearsome uncle Asriel is trying to build a bridge to a parallel world.&lt;br /&gt;&lt;br /&gt;Can one small girl make a difference in such great and terrible endeavors? This is Lyra: a savage, a schemer, a liar, and as fierce and true a champion as Roger or Asriel could want--but what Lyra doesn't know is that to help one of them will be to betray the other.</description>
+<authors>
+<author>
+<id>3618</id>
+<name>Philip Pullman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1396622492p5/3618.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1396622492p2/3618.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3618.Philip_Pullman]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>2145907</ratings_count>
+<text_reviews_count>59185</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+<work>  <id>1536771</id>
+  <uri>kca://work/amzn1.gr.work.v1.AlR_HRV99vYxLu4zftM-ZQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:01:55 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:01:55 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129364073]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129364073]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129363911</id>
+    <book>
+  <id type="integer">34</id>
+  <isbn>0618346252</isbn>
+  <isbn13>9780618346257</isbn13>
+  <text_reviews_count type="integer">13219</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hXYxyh2e6v35GVINqBPuBA</uri>
+  <title>The Fellowship of the Ring (The Lord of the Rings, #1)</title>
+  <title_without_series>The Fellowship of the Ring</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298411339l/34._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1298411339l/34._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34.The_Fellowship_of_the_Ring</link>
+  <num_pages>398</num_pages>
+  <format>Paperback</format>
+  <edition_information>Media Tie-In Edition</edition_information>
+  <publisher>Houghton Mifflin Harcourt</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.36</average_rating>
+  <ratings_count>2158191</ratings_count>
+  <description>Alternate Cover Edition ISBN 0618260269 (copyright page ISBN is 0618346252 - different from back cover)&lt;br /&gt;&lt;br /&gt;One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkeness bind them&lt;br /&gt;&lt;br /&gt;In ancient times the Rings of Power were crafted by the Elven-smiths, and Sauron, The Dark Lord, forged the One Ring, filling it with his own power so that he could rule all others. But the One Ring was taken from him, and though he sought it throughout Middle-earth, it remained lost to him. After many ages it fell into the hands of Bilbo Baggins, as told in The Hobbit.&lt;br /&gt;&lt;br /&gt;In a sleepy village in the Shire, young Frodo Baggins finds himself faced with an immense task, as his elderly cousin Bilbo entrusts the Ring to his care. Frodo must leave his home and make a perilous journey across Middle-earth to the Cracks of Doom, there to destroy the Ring and foil the Dark Lord in his evil purpose.&lt;br /&gt;--back cover</description>
+<authors>
+<author>
+<id>656983</id>
+<name>J.R.R. Tolkien</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564399522p5/656983.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1564399522p2/656983.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/656983.J_R_R_Tolkien]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>7642345</ratings_count>
+<text_reviews_count>116803</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>3204327</id>
+  <uri>kca://work/amzn1.gr.work.v1.9REDn-8i069k4tnkJOyIFA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:01:30 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:01:30 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129363911]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129363911]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129363872</id>
+    <book>
+  <id type="integer">13496</id>
+  <isbn>0553588486</isbn>
+  <isbn13>9780553588484</isbn13>
+  <text_reviews_count type="integer">38013</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2TDKEBAExkzaok9ELm7icw</uri>
+  <title>A Game of Thrones (A Song of Ice and Fire, #1)</title>
+  <title_without_series>A Game of Thrones</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13496.A_Game_of_Thrones</link>
+  <num_pages>835</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Bantam</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.45</average_rating>
+  <ratings_count>1824249</ratings_count>
+  <description>Here is the first volume in George R. R. Martin’s magnificent cycle of novels that includes A Clash of Kings and A Storm of Swords. As a whole, this series comprises a genuine masterpiece of modern fantasy, bringing together the best the genre has to offer. Magic, mystery, intrigue, romance, and adventure fill these pages and transport us to a world unlike any we have ever experienced. Already hailed as a classic, George R. R. Martin’s stunning series is destined to stand as one of the great achievements of imaginative fiction.&lt;br /&gt;&lt;br /&gt;A GAME OF THRONES&lt;br /&gt;&lt;br /&gt;Long ago, in a time forgotten, a preternatural event threw the seasons out of balance. In a land where summers can last decades and winters a lifetime, trouble is brewing. The cold is returning, and in the frozen wastes to the north of Winterfell, sinister and supernatural forces are massing beyond the kingdom’s protective Wall. At the center of the conflict lie the Starks of Winterfell, a family as harsh and unyielding as the land they were born to. Sweeping from a land of brutal cold to a distant summertime kingdom of epicurean plenty, here is a tale of lords and ladies, soldiers and sorcerers, assassins and bastards, who come together in a time of grim omens.&lt;br /&gt;&lt;br /&gt;Here an enigmatic band of warriors bear swords of no human metal; a tribe of fierce wildlings carry men off into madness; a cruel young dragon prince barters his sister to win back his throne; and a determined woman undertakes the most treacherous of journeys. Amid plots and counterplots, tragedy and betrayal, victory and terror, the fate of the Starks, their allies, and their enemies hangs perilously in the balance, as each endeavors to win that deadliest of conflicts: the game of thrones.&lt;br /&gt;&lt;br /&gt;source: georgerrmartin.com</description>
+<authors>
+<author>
+<id>346732</id>
+<name>George R.R. Martin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1563055799p5/346732.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1563055799p2/346732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>5149788</ratings_count>
+<text_reviews_count>188701</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>1466917</id>
+  <uri>kca://work/amzn1.gr.work.v1.Vrl4aDtp2T19u85-Xfomzw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:01:26 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:01:26 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129363872]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129363872]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2129363800</id>
+    <book>
+  <id type="integer">3</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">72242</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tJT_00n8UPpvWa-zWHEAXg</uri>
+  <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone</link>
+  <num_pages>322</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Inc</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>6201012</ratings_count>
+  <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936489</ratings_count>
+<text_reviews_count>550492</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>4640799</id>
+  <uri>kca://work/amzn1.gr.work.v1.TbpxJa2CwiSSz_9W2FruoA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="233839498" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Sep 20 00:01:15 -0700 2017</date_added>
+  <date_updated>Wed Sep 20 00:01:15 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2129363800]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2129363800]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

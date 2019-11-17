@@ -1,0 +1,2 @@
+Eradicating Non-Determinism in Tests by Martin Fowler
+Average Rating: 0.0

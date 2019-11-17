@@ -1,0 +1,2112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='142138480' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="27" total="27">
+    <review>
+  <id>2717925173</id>
+    <book>
+  <id type="integer">44039161</id>
+  <isbn nil="true"/>
+  <isbn13>9781620106365</isbn13>
+  <text_reviews_count type="integer">243</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FOJLbcbaCGTd-6SmnvkBbg</uri>
+  <title>The Tea Dragon Society</title>
+  <title_without_series>The Tea Dragon Society</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551956522l/44039161._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551956522l/44039161._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/44039161-the-tea-dragon-society</link>
+  <num_pages>60</num_pages>
+  <format>Paperback</format>
+  <edition_information>Owlcrate Edition</edition_information>
+  <publisher>ONI PRESS, INC</publisher>
+  <publication_day/>
+  <publication_year>2019</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.33</average_rating>
+  <ratings_count>9916</ratings_count>
+  <description>From the award-winning Owlcrate author of&lt;i&gt; Princess Princess Ever After&lt;/i&gt; comes &lt;i&gt;The Tea Dragon Society&lt;/i&gt;, a charming all-ages book that follows the story of Greta, a blacksmith apprentice, and the people she meets as she becomes entwined in the enchanting world of tea dragons. &lt;br /&gt;&lt;br /&gt;After discovering a lost tea dragon in the marketplace, Greta learns about the dying art form of tea dragon care-taking from the kind tea shop owners, Hesekiel and Erik. As she befriends them and their shy ward, Minette, Greta sees how the craft enriches their lives—and eventually her own.</description>
+<authors>
+<author>
+<id>7831390</id>
+<name>Katie O&apos;Neill</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1531160815p5/7831390.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1531160815p2/7831390.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7831390.Katie_O_Neill]]></link>
+<average_rating>4.25</average_rating>
+<ratings_count>20543</ratings_count>
+<text_reviews_count>5370</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>52579959</id>
+  <uri>kca://work/amzn1.gr.work.v1.81JEVC1SmW08qRhuY25RUA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Feb 16 00:00:00 -0800 2019</started_at>
+  <read_at>Sat Feb 16 00:00:00 -0800 2019</read_at>
+  <date_added>Sat Feb 16 13:18:42 -0800 2019</date_added>
+  <date_updated>Sat Mar 02 09:39:41 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[• Things I liked and appreciated:<br /><br />This was a very sweet, caring and wholesome graphic novel story that I really enjoyed my time reading, even more than I had expected going into it.<br />This book has a lot of wonderful diversity with having a character in a wheel chair, and characters...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2717925173]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2717925173]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2693486401</id>
+    <book>
+  <id type="integer">48158230</id>
+  <isbn nil="true"/>
+  <isbn13>9780593108574</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v2.5b1992d4-9294-474f-ba43-cb12f70c8601</uri>
+  <title>Frankly in Love (Frankly in Love, #1)</title>
+  <title_without_series>Frankly in Love</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568560878l/48158230._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1568560878l/48158230._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/48158230-frankly-in-love</link>
+  <num_pages>432</num_pages>
+  <format>Hardcover</format>
+  <edition_information>B&amp;N Exclusive Edition</edition_information>
+  <publisher>Penguin Young Reader's Group</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>4716</ratings_count>
+  <description>High school senior Frank Li is a Limbo–his term for Korean-American kids who find themselves caught between their parents’ traditional expectations and their own Southern California upbringing. His parents have one rule when it comes to romance–“Date Korean”–which proves complicated when Frank falls for Brit Means, who is smart, beautiful–and white. Fellow Limbo Joy Song is in a similar predicament, and so they make a pact: they’ll pretend to date each other in order to gain their freedom. Frank thinks it’s the perfect plan, but in the end, Frank and Joy’s fake-dating maneuver leaves him wondering if he ever really understood love–or himself–at all.</description>
+<authors>
+<author>
+<id>19377275</id>
+<name>David   Yoon</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/19377275.David_Yoon]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>4677</ratings_count>
+<text_reviews_count>1288</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>61616513</id>
+  <uri>kca://work/amzn1.gr.work.v1.je49BPJd2rTkXuMlQDlEAw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Oct 06 00:00:00 -0700 2019</started_at>
+  <read_at>Mon Oct 14 15:26:20 -0700 2019</read_at>
+  <date_added>Mon Jan 28 19:23:30 -0800 2019</date_added>
+  <date_updated>Mon Oct 14 15:26:20 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      3.5 stars
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2693486401]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2693486401]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2630624806</id>
+    <book>
+  <id type="integer">42927338</id>
+  <isbn>1534451560</isbn>
+  <isbn13>9781534451568</isbn13>
+  <text_reviews_count type="integer">124</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.x0NFWcgadB7d60YZj--XZw</uri>
+  <title>Five Feet Apart</title>
+  <title_without_series>Five Feet Apart</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549660945l/42927338._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549660945l/42927338._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/42927338-five-feet-apart</link>
+  <num_pages>288</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon  Schuster Books for Young Readers</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.19</average_rating>
+  <ratings_count>42288</ratings_count>
+  <description>&lt;b&gt;Now a major motion picture starring Cole Sprouse and Haley Lu Richardson!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;In this #1 &lt;i&gt;New York Times &lt;/i&gt;bestselling novel that’s perfect for fans of John Green’s &lt;i&gt;The Fault in Our Stars&lt;/i&gt;, two teens fall in love with just one minor complication—they can’t get within a few feet of each other without risking their lives.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Can you love someone you can never touch?&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Stella Grant likes to be in control—even though her totally out of control lungs have sent her in and out of the hospital most of her life. At this point, what Stella needs to control most is keeping herself away from anyone or anything that might pass along an infection and jeopardize the possibility of a lung transplant. Six feet apart. No exceptions.&lt;br /&gt;&lt;br /&gt;The only thing Will Newman wants to be in control of is getting out of this hospital. He couldn’t care less about his treatments, or a fancy new clinical drug trial. Soon, he’ll turn eighteen and then he’ll be able to unplug all these machines and actually go see the world, not just its hospitals.&lt;br /&gt;&lt;br /&gt;Will’s &lt;i&gt;exactly&lt;/i&gt; what Stella needs to stay away from. If he so much as breathes on Stella she could lose her spot on the transplant list. Either one of them could die. The only way to stay alive is to stay apart. But suddenly six feet doesn’t feel like safety. It feels like punishment.&lt;br /&gt;&lt;br /&gt;What if they could steal back just a little bit of the space their broken lungs have stolen from them? Would five feet apart really be so dangerous if it stops their hearts from breaking too?</description>
+<authors>
+<author>
+<id>17977608</id>
+<name>Rachael Lippincott</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1552528621p5/17977608.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1552528621p2/17977608.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17977608.Rachael_Lippincott]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>42288</ratings_count>
+<text_reviews_count>6187</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>61834577</id>
+  <uri>kca://work/amzn1.gr.work.v1._g1z7BBLTV3tcy6mgNO1Ag</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='217291242' name='favorites' review_shelf_id='2435622619' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 25 00:00:00 -0700 2019</started_at>
+  <read_at>Wed Apr 17 00:00:00 -0700 2019</read_at>
+  <date_added>Tue Dec 18 09:38:14 -0800 2018</date_added>
+  <date_updated>Mon May 20 08:49:07 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I gave this book a rating of 4.75 out of 5 stars. <br /> <br />* Trigger warning for death of loved ones, illness and sometimes gory symptoms of which, and medical care!<br /> <br />• Things I liked and appreciated: <br /> <br />There were many things I enjoyed about this story, but above all the thing I loved the most and ma...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2630624806]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2630624806]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2529830722</id>
+    <book>
+  <id type="integer">40512539</id>
+  <isbn>1780899602</isbn>
+  <isbn13>9781780899602</isbn13>
+  <text_reviews_count type="integer">23</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.STHMzKRY_69X4aJrp73AcA</uri>
+  <title>Stranger Things: Worlds Turned Upside Down: The Official Behind-The-Scenes Companion</title>
+  <title_without_series>Stranger Things: Worlds Turned Upside Down: The Official Behind-The-Scenes Companion</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541102115l/40512539._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541102115l/40512539._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40512539-stranger-things</link>
+  <num_pages>223</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Century</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.51</average_rating>
+  <ratings_count>1387</ratings_count>
+  <description>&lt;b&gt;
+  &lt;u&gt;Welcome to Hawkins, Indiana.&lt;/u&gt;
+&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;The official behind-the-scenes companion guide to the first two seasons of &lt;i&gt;Stranger Things&lt;/i&gt; and beyond, brought to life with exclusive photos and stunning concept art.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Stranger things have happened. . . .&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;When the first season of &lt;i&gt;Stranger Things&lt;/i&gt; debuted on Netflix in the summer of 2016, the show struck a nerve with millions of viewers worldwide and received broad critical acclaim. The series has gone on to win six Emmy Awards, but its success was driven more than anything by word of mouth, resonating across generations. Viewers feel personal connections to the characters. Now fans can immerse themselves in the world—or worlds—of Hawkins, Indiana, like never before. Inside you’ll find&lt;br /&gt;&lt;br /&gt;&lt;b&gt;·&lt;/b&gt; original commentary and a foreword from creators Matt and Ross Duffer&lt;br /&gt;&lt;b&gt;·&lt;/b&gt; exclusive interviews with the stars of the show, including Millie Bobby Brown, Finn Wolfhard, and David Harbour&lt;br /&gt;&lt;b&gt;·&lt;/b&gt; the show’s earliest drafts, pitches to Netflix, and casting calls&lt;br /&gt;&lt;b&gt;·&lt;/b&gt; insights into the Duffers’ creative process from the entire crew—from costume and set designers to composers and visual-effects specialists&lt;br /&gt;&lt;b&gt;·&lt;/b&gt; deep dives into the cultural artifacts and references that inspired the look and feel of the show&lt;br /&gt;&lt;b&gt;·&lt;/b&gt; a map of everyday Hawkins—with clues charting the network of the Upside Down&lt;br /&gt;&lt;b&gt;·&lt;/b&gt; a digital copy of the Morse code disk Eleven uses, so you can decipher secret messages embedded throughout the text&lt;br /&gt;&lt;b&gt;·&lt;/b&gt; a look into the future of the series—including a sneak preview of season three!&lt;br /&gt;&lt;br /&gt;Adding whole new layers to enrich the viewing experience, this keepsake is essential reading for anyone and everyone who loves &lt;i&gt;Stranger Things&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;
+  &lt;i&gt;sn apisui si umop apisdn&lt;/i&gt;
+&lt;/b&gt;&lt;br /&gt;&lt;b&gt;
+  &lt;i&gt;&lt;/i&gt;
+&lt;/b&gt;&lt;br /&gt;&lt;b&gt;
+  &lt;i&gt;&lt;/i&gt;
+&lt;/b&gt;&lt;b&gt;Note: The ebook is best viewed on a colour device with a larger screen.&lt;/b&gt;</description>
+<authors>
+<author>
+<id>16346831</id>
+<name>Gina McIntyre</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16346831.Gina_McIntyre]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>1965</ratings_count>
+<text_reviews_count>279</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>62861936</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZaikwsOMl9ioxTlge1KJqA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jun 01 00:00:00 -0700 2019</started_at>
+  <read_at>Wed Jul 03 00:00:00 -0700 2019</read_at>
+  <date_added>Fri Sep 14 06:17:02 -0700 2018</date_added>
+  <date_updated>Sun Oct 06 18:25:50 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      4.5 stars
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2529830722]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2529830722]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2481903523</id>
+    <book>
+  <id type="integer">30653843</id>
+  <isbn>0062335715</isbn>
+  <isbn13>9780062335715</isbn13>
+  <text_reviews_count type="integer">796</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.5we42-iT3StEYwZug8zBDw</uri>
+  <title>Radio Silence</title>
+  <title_without_series>Radio Silence</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467051579l/30653843._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467051579l/30653843._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30653843-radio-silence</link>
+  <num_pages>496</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperTeen</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>17858</ratings_count>
+  <description>&lt;i&gt;You probably think that Aled Last and I are going to fall in love or something. Since he is a boy and I am a girl.&lt;br /&gt;&lt;br /&gt;I just wanted to say—we don’t.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Frances Janvier spends most of her time studying. When she’s not studying, she’s up in her room making fan art for her favorite podcast, &lt;i&gt;Universe City&lt;/i&gt;.&lt;br /&gt;&lt;br /&gt;Everyone knows Aled Last as that quiet boy who gets straight As. But no one knows he’s the creator of &lt;i&gt;Universe City&lt;/i&gt;, who goes by the name Radio Silence.&lt;br /&gt;&lt;br /&gt;When Frances gets a message from Radio Silence asking if she’ll collaborate with him, everything changes. Frances and Aled spend an entire summer working together and becoming best friends. They get each other when no one else does.&lt;br /&gt;&lt;br /&gt;But when Aled’s identity as Radio Silence is revealed, Frances fears that the future of &lt;i&gt;Universe City&lt;/i&gt;—and their friendship—is at risk. Aled helped her find her voice. Without him, will she have the courage to show the world who she really is? Or will she be met with radio silence?</description>
+<authors>
+<author>
+<id>7789423</id>
+<name>Alice Oseman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1515091539p5/7789423.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1515091539p2/7789423.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7789423.Alice_Oseman]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>56156</ratings_count>
+<text_reviews_count>12897</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>45055773</id>
+  <uri>kca://work/amzn1.gr.work.v1.bU3q2tA6daFw4JU9M4ev8g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jun 26 10:25:05 -0700 2019</started_at>
+  <read_at>Sat Sep 07 19:33:56 -0700 2019</read_at>
+  <date_added>Sat Aug 04 08:47:49 -0700 2018</date_added>
+  <date_updated>Sat Sep 07 19:33:57 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2481903523]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2481903523]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2443939395</id>
+    <book>
+  <id type="integer">41078263</id>
+  <isbn nil="true"/>
+  <isbn13>9781368042123</isbn13>
+  <text_reviews_count type="integer">10</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Ufjs7qeTh_Z-48XXXaLasg</uri>
+  <title>The Darkest Minds (The Darkest Minds, #1)</title>
+  <title_without_series>The Darkest Minds</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533822873l/41078263._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533822873l/41078263._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41078263-the-darkest-minds</link>
+  <num_pages>488</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Hyperion</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>132071</ratings_count>
+  <description>When Ruby woke up on her tenth birthday, something about her had changed. Something frightening enough to make her parents lock her in the garage and call the police. Something that got her sent to Thurmond, a brutal government “rehabilitation camp.” She might have survived the mysterious disease that had killed most of America’s children, but she and the others emerged with something far worse: frightening abilities they could not control.&lt;br /&gt;&lt;br /&gt;Now sixteen, Ruby is one of the dangerous ones. When the truth comes out, Ruby barely escapes Thurmond with her life. She is on the run, desperate to find the only safe haven left for kids like her—East River. She joins a group of kids who have escaped their own camp. Liam, their brave leader, is falling hard for Ruby. But no matter how much she aches for him, Ruby can’t risk getting close. Not after what happened to her parents. When they arrive at East River, nothing is as it seems, least of all its mysterious leader. But there are other forces at work, people who will stop at nothing to use Ruby in their fight against the government. Ruby will be faced with a terrible choice, one that may mean giving up her only chance at having a life worth living.</description>
+<authors>
+<author>
+<id>2973783</id>
+<name>Alexandra Bracken</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1526461581p5/2973783.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1526461581p2/2973783.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2973783.Alexandra_Bracken]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>331340</ratings_count>
+<text_reviews_count>41197</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>15483434</id>
+  <uri>kca://work/amzn1.gr.work.v1.vAlXsM1PAteCZmhnrM7IBA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jul 22 07:08:41 -0700 2019</started_at>
+  <read_at>Sun Sep 01 17:51:57 -0700 2019</read_at>
+  <date_added>Tue Jul 03 03:28:39 -0700 2018</date_added>
+  <date_updated>Sun Sep 01 17:51:58 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2443939395]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2443939395]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2269545185</id>
+    <book>
+  <id type="integer">39344550</id>
+  <isbn>0993589235</isbn>
+  <isbn13>9780993589232</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.PZr20lnmA-ruMBFoq5qP5g</uri>
+  <title>Sanctuary's Fiend</title>
+  <title_without_series>Sanctuary's Fiend</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521704609l/39344550._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521704609l/39344550._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/39344550-sanctuary-s-fiend</link>
+  <num_pages>234</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.86</average_rating>
+  <ratings_count>28</ratings_count>
+  <description>Rel is your average 16 year old high school student. She just wants to hang out with her friends, scrape by in class, and avoid the mean girls.&lt;br /&gt;Her best friend is a siren, the girl who just joined the class is a ghost, and her adoptive parents are succubi that simply don’t understand her - the rest of Sanctuary doesn’t get any less weird!&lt;br /&gt;As she tries to be normal and tell the boy she likes how she feels about him, she experiences a case of sudden onset vampirism.&lt;br /&gt;Let’s see how that works out for Rel, shall we?</description>
+<authors>
+<author>
+<id>480335</id>
+<name>Andrew  Lynch</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520706226p5/480335.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1520706226p2/480335.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/480335.Andrew_Lynch]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>67</ratings_count>
+<text_reviews_count>41</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>53465483</id>
+  <uri>kca://work/amzn1.gr.work.v1.cIdqr2MVe29yT1Xe8hx-tg</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed May 23 00:00:00 -0700 2018</started_at>
+  <read_at>Sun Jul 01 00:00:00 -0700 2018</read_at>
+  <date_added>Tue Jan 23 12:44:19 -0800 2018</date_added>
+  <date_updated>Thu Dec 20 10:22:24 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[(First of all, thank you to Andrew Lynch for sending me a copy of this book in exchange for an honest review!)<br /><br />(Also, if anyone is interested in this book and you think you might want to pick up a copy of it, it is now available on amazon.com)<br /><br /><br /><br />I gave this book a...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2269545185]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2269545185]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2239352143</id>
+    <book>
+  <id type="integer">39344586</id>
+  <isbn nil="true"/>
+  <isbn13>9781250187987</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.v0b1JkqeScfXIrwPc1ehGA</uri>
+  <title>The Handsome Girl &amp; Her Beautiful Boy</title>
+  <title_without_series>The Handsome Girl &amp; Her Beautiful Boy</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521705022l/39344586._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521705022l/39344586._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/39344586-the-handsome-girl-her-beautiful-boy</link>
+  <num_pages>390</num_pages>
+  <format>Paperback</format>
+  <edition_information>Advance Reader's Edition</edition_information>
+  <publisher>Henry Holt and Co. (BYR)</publisher>
+  <publication_day/>
+  <publication_year>2018</publication_year>
+  <publication_month/>
+  <average_rating>3.62</average_rating>
+  <ratings_count>632</ratings_count>
+  <description>Everyone assumes that Zee is a lesbian. Her classmates, her gym buddies, even her so-called best friend. So many people think that Zee likes girls, even Zee is starting to wonder. Could they be onto something?&lt;br /&gt;&lt;br /&gt;Everyone assumes that Art is gay. They take one look at his nice clothes and his pretty face and think: &lt;i&gt;well, obviously.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;But there's more to Zee and Art than anyone realizes. When Art first meets Zee, he knows he's found someone special--someone magical. Zee may not be able to see that magic in herself, but Art is bound and determined to show it to her.&lt;br /&gt;&lt;br /&gt;What develops is a powerful connection between two people who are beautiful in all the ways they've been told are strange. As they explore their own complexities in gender, sexuality, and identity, they fall for the complexities they find in each other. With his trademark frankness, B.T. Gottfred delves inside both characters' heads in this story about love and living authentically.</description>
+<authors>
+<author>
+<id>8384950</id>
+<name>B.T. Gottfred</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1479188501p5/8384950.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1479188501p2/8384950.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8384950.B_T_Gottfred]]></link>
+<average_rating>3.45</average_rating>
+<ratings_count>2673</ratings_count>
+<text_reviews_count>700</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>55736142</id>
+  <uri>kca://work/amzn1.gr.work.v1.MZoEKY9wKlBUcCSkG1SYtg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>4</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue May 01 00:00:00 -0700 2018</started_at>
+  <read_at>Sat May 12 00:00:00 -0700 2018</read_at>
+  <date_added>Tue Jan 02 15:30:22 -0800 2018</date_added>
+  <date_updated>Thu Jun 21 03:32:15 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[(First of all, thank you to B.T. Gottfred and Henry Holt and Company, an imprint of Macmillan Children's Publishing Group for sending me an ARC of this book in exchange for an honest review!)<br /><br />I gave this book a rating of 3.5 out of 5 stars.<br /><br />* Trigger warning for some slightl...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2239352143]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2239352143]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2235448244</id>
+    <book>
+  <id type="integer">33602143</id>
+  <isbn>1250141397</isbn>
+  <isbn13>9781250141392</isbn13>
+  <text_reviews_count type="integer">866</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.yNBW1Z5vrp5LCic3H2UZMw</uri>
+  <title>Pride and Prejudice and Mistletoe</title>
+  <title_without_series>Pride and Prejudice and Mistletoe</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503618736l/33602143._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503618736l/33602143._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/33602143-pride-and-prejudice-and-mistletoe</link>
+  <num_pages>225</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>St. Martin's Press</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>2.67</average_rating>
+  <ratings_count>3701</ratings_count>
+  <description>&lt;b&gt;&lt;i&gt;Pride and Prejudice and Mistletoe&lt;/i&gt;, from &lt;i&gt;New York Times&lt;/i&gt; bestselling author, Melissa de la Cruz, is a sweet, sexy and hilarious gender-swapping, genre-satisfying re-telling, set in contemporary America and featuring one snooty Miss Darcy.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Darcy Fitzwilliam is 29, beautiful, successful, and brilliant. She dates hedge funders and basketball stars and is never without her three cellphones—one for work, one for play, and one to throw at her assistant (just kidding). Darcy’s never fallen in love, never has time for anyone else’s drama, and never goes home for Christmas if she can help it. But when her mother falls ill, she comes home to Pemberley, Ohio, to spend the season with her family.&lt;br /&gt;&lt;br /&gt;Her parents throw their annual Christmas bash, where she meets one Luke Bennet, the smart, sardonic slacker son of their neighbor. Luke is 32-years-old and has never left home. He’s a carpenter and makes beautiful furniture, and is content with his simple life. He comes from a family of five brothers, each one less ambitious than the other. When Darcy and Luke fall into bed after too many eggnogs, Darcy thinks it’s just another one night stand. But why can’t she stop thinking of Luke? What is it about him? And can she fall in love, or will her pride and his prejudice against big-city girls stand in their way?</description>
+<authors>
+<author>
+<id>21911</id>
+<name>Melissa de la Cruz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521600969p5/21911.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521600969p2/21911.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/21911.Melissa_de_la_Cruz]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>615376</ratings_count>
+<text_reviews_count>33443</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>54420999</id>
+  <uri>kca://work/amzn1.gr.work.v1.2lPtp1N6_zWdKq7MovZXJg</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Dec 01 00:00:00 -0800 2017</started_at>
+  <read_at>Mon Jan 01 00:00:00 -0800 2018</read_at>
+  <date_added>Sun Dec 31 21:09:48 -0800 2017</date_added>
+  <date_updated>Sat Feb 16 17:14:20 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[So I rated this book 2 out of 5 stars, but if you want to get really specific it's probably more like a 2.5 stars.<br />I liked this book in a lot of ways, it was easy to get through quickly, I was pretty interested in the story, I liked how the two main romantic interests differed from each othe...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2235448244]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2235448244]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2215024280</id>
+    <book>
+  <id type="integer">23014653</id>
+  <isbn>1250049547</isbn>
+  <isbn13>9781250049544</isbn13>
+  <text_reviews_count type="integer">218</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.zvpIbM7BpvCh1CnejstcuA</uri>
+  <title>Landline</title>
+  <title_without_series>Landline</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428832l/23014653._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428832l/23014653._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23014653-landline</link>
+  <num_pages>320</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.55</average_rating>
+  <ratings_count>145269</ratings_count>
+  <description>Georgie McCool knows her marriage is in trouble; it has been in trouble for a long time. She still loves her husband, Neal, and Neal still loves her, deeply — but that almost seems beside the point now.&lt;br /&gt;&lt;br /&gt;Maybe that was always beside the point.&lt;br /&gt;&lt;br /&gt;Two days before they’re supposed to visit Neal’s family in Omaha for Christmas, Georgie tells Neal that she can’t go. She’s a TV writer, and something’s come up on her show; she has to stay in Los Angeles. She knows that Neal will be upset with her — Neal is always a little upset with Georgie — but she doesn't expect him to pack up the kids and go home without her.&lt;br /&gt;&lt;br /&gt;When her husband and the kids leave for the airport, Georgie wonders if she’s finally done it. If she’s ruined everything.&lt;br /&gt;&lt;br /&gt;That night, Georgie discovers a way to communicate with Neal in the past. It’s not time travel, not exactly, but she feels like she’s been given an opportunity to fix her marriage before it starts...&lt;br /&gt;&lt;br /&gt;Is that what she’s supposed to do?&lt;br /&gt;&lt;br /&gt;Or would Georgie and Neal be better off if their marriage never happened?</description>
+<authors>
+<author>
+<id>4208569</id>
+<name>Rainbow Rowell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342324527p5/4208569.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342324527p2/4208569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4208569.Rainbow_Rowell]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>1843262</ratings_count>
+<text_reviews_count>191711</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>25391048</id>
+  <uri>kca://work/amzn1.gr.work.v1.G1-Ekwn0oZz_gY43vUMWjg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jun 13 00:00:00 -0700 2019</started_at>
+  <read_at>Tue Sep 17 00:00:00 -0700 2019</read_at>
+  <date_added>Fri Dec 15 07:40:54 -0800 2017</date_added>
+  <date_updated>Sun Oct 06 18:31:44 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      3.75 stars
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2215024280]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2215024280]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2158556501</id>
+    <book>
+  <id type="integer">23395098</id>
+  <isbn>1250073804</isbn>
+  <isbn13>9781250073808</isbn13>
+  <text_reviews_count type="integer">598</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oeoEX5VzVqt5fULUKr90fA</uri>
+  <title>Fangirl</title>
+  <title_without_series>Fangirl</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497632323l/23395098._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497632323l/23395098._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23395098-fangirl</link>
+  <num_pages>457</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Special Edition</edition_information>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>506518</ratings_count>
+  <description>&lt;b&gt;
+  &lt;i&gt;A coming-of-age tale of fan fiction, family and first love.&lt;/i&gt;
+&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Cath is a Simon Snow fan.&lt;br /&gt;&lt;br /&gt;Okay, the whole world is a Simon Snow fan..&lt;br /&gt;&lt;br /&gt;But for Cath, being a fan is her life—and she’s really good at it. She and her twin sister, Wren, ensconced themselves in the Simon Snow series when they were just kids; it’s what got them through their mother leaving. Reading. Rereading. Hanging out in Simon Snow forums, writing Simon Snow fan fiction, dressing up like the characters for every movie premiere.&lt;br /&gt;&lt;br /&gt;Cath’s sister has mostly grown away from fandom, but Cath can’t let go. She doesn’t want to.&lt;br /&gt;&lt;br /&gt;Now that they’re going to college, Wren has told Cath she doesn’t want to be roommates. Cath is on her own, completely outside of her comfort zone. She’s got a surly roommate with a charming, always-around boyfriend, a fiction-writing professor who thinks fan fiction is the end of the civilized world, a handsome classmate who only wants to talk about words... And she can’t stop worrying about her dad, who’s loving and fragile and has never really been alone.&lt;br /&gt;&lt;br /&gt;For Cath, the question is: Can she do this? Can she make it without Wren holding her hand? Is she ready to start living her own life? Writing her own stories?&lt;br /&gt;&lt;br /&gt;And does she even want to move on if it means leaving Simon Snow behind?</description>
+<authors>
+<author>
+<id>4208569</id>
+<name>Rainbow Rowell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342324527p5/4208569.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342324527p2/4208569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4208569.Rainbow_Rowell]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>1843262</ratings_count>
+<text_reviews_count>191711</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>21861351</id>
+  <uri>kca://work/amzn1.gr.work.v1.Q2HoVL6gew7JQvLLCLyvgw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='217291242' name='favorites' review_shelf_id='2477941150' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Apr 28 00:00:00 -0700 2019</started_at>
+  <read_at>Wed May 15 00:00:00 -0700 2019</read_at>
+  <date_added>Fri Oct 20 01:24:46 -0700 2017</date_added>
+  <date_updated>Sat May 25 11:02:51 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[* Trigger warning for anxiety, other mental health issues, alcohol abuse and some inappropriate jokes and remarks that involve eating disorders and other sensitive topics and serious subjects!<br /><br /> <br />• Things I liked and appreciated: <br /> <br />I read this book simultaneously with both the physical bo...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2158556501]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2158556501]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2090786485</id>
+    <book>
+  <id type="integer">23310156</id>
+  <isbn>0142425834</isbn>
+  <isbn13>9780142425831</isbn13>
+  <text_reviews_count type="integer">382</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Q9MzqKh3YcLJuUTGIcvbGQ</uri>
+  <title>The 5th Wave (The 5th Wave, #1)</title>
+  <title_without_series>The 5th Wave</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417983249l/23310156._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417983249l/23310156._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23310156-the-5th-wave</link>
+  <num_pages>457</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Speak</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>356741</ratings_count>
+  <description>After the 1st wave, only darkness remains. After the 2nd, only the lucky escape. And after the 3rd, only the &lt;i&gt;un&lt;/i&gt;lucky survive. After the 4th wave, only one rule applies: trust no one.&lt;br /&gt;&lt;br /&gt;Now, it's the dawn of the 5th wave, and on a lonely stretch of highway, Cassie runs from Them. The beings who only look human, who roam the countryside killing anyone they see. Who have scattered Earth's last survivors. To stay alone is to stay alive, Cassie believes, until she meets Evan Walker.&lt;br /&gt;&lt;br /&gt;Beguiling and mysterious, Evan Walker may be Cassie's only hope for rescuing her brother—or even saving herself. But Cassie must choose: between trust and despair, between defiance and surrender, between life and death. To give up or to get up.</description>
+<authors>
+<author>
+<id>3377941</id>
+<name>Rick Yancey</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1267926830p5/3377941.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1267926830p2/3377941.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3377941.Rick_Yancey]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>560932</ratings_count>
+<text_reviews_count>53323</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>19187812</id>
+  <uri>kca://work/amzn1.gr.work.v1.TA0eq_LM-Pr7ESLlC8Jz-A</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu May 17 00:00:00 -0700 2018</started_at>
+  <read_at>Wed Jan 02 00:00:00 -0800 2019</read_at>
+  <date_added>Sat Aug 12 17:57:46 -0700 2017</date_added>
+  <date_updated>Sun Jun 09 07:02:45 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[*** Trigger warnings for gore, graphic detailed violence, and death, all involving both adults and children, and one scene of an unconsented act of kissing between adolescents in this book! ***<br /><br />• Things I liked and appreciated:<br /><br />I think the writing of this book was very artis...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2090786485]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2090786485]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2042414487</id>
+    <book>
+  <id type="integer">11310465</id>
+  <isbn>014241977X</isbn>
+  <isbn13>9780142419779</isbn13>
+  <text_reviews_count type="integer">709</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.kqGhZ7NVXsqjqCURRVuQpg</uri>
+  <title>Matched (Matched, #1)</title>
+  <title_without_series>Matched</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416386259l/11310465._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1416386259l/11310465._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11310465-matched</link>
+  <num_pages>366</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Speak</publisher>
+  <publication_day>20</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.67</average_rating>
+  <ratings_count>609141</ratings_count>
+  <description>Cassia has always trusted the Society to make the right choices for her: what to read, what to watch, what to believe. So when Xander's face appears on-screen at her Matching ceremony, Cassia knows with complete certainty that he is her ideal mate . . . until she sees Ky Markham's face flash for an instant before the screen fades to black.&lt;br /&gt;&lt;br /&gt;The Society tells her it's a glitch, a rare malfunction, and that she should focus on the happy life she's destined to lead with Xander. But Cassia can't stop thinking about Ky, and as they slowly fall in love, Cassia begins to doubt the Society's infallibility and is faced with an impossible choice: between Xander and Ky, between the only life she's known and a path that no one else has dared to follow.</description>
+<authors>
+<author>
+<id>1304470</id>
+<name>Ally Condie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361564387p5/1304470.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361564387p2/1304470.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1304470.Ally_Condie]]></link>
+<average_rating>3.62</average_rating>
+<ratings_count>974794</ratings_count>
+<text_reviews_count>63750</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>9631645</id>
+  <uri>kca://work/amzn1.gr.work.v1.ypVMFNvPryRV_EFt-cm2Tg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Oct 16 00:00:00 -0700 2019</started_at>
+  <read_at>Thu Oct 24 09:23:15 -0700 2019</read_at>
+  <date_added>Tue Jun 27 17:18:59 -0700 2017</date_added>
+  <date_updated>Thu Oct 24 09:23:15 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      3.5 stars
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2042414487]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2042414487]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2038330768</id>
+    <book>
+  <id type="integer">35504431</id>
+  <isbn>0525555366</isbn>
+  <isbn13>9780525555360</isbn13>
+  <text_reviews_count type="integer">23240</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.wHL63dC5eYNxi-yJPzd3fw</uri>
+  <title>Turtles All the Way Down</title>
+  <title_without_series>Turtles All the Way Down</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503002776l/35504431._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503002776l/35504431._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35504431-turtles-all-the-way-down</link>
+  <num_pages>288</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books for Young Readers</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.98</average_rating>
+  <ratings_count>243790</ratings_count>
+  <description>It all begins with a fugitive billionaire and the promise of a cash reward. &lt;i&gt;Turtles All the Way Down&lt;/i&gt; is about lifelong friendship, the intimacy of an unexpected reunion, Star Wars fan fiction, and tuatara. But at its heart is Aza Holmes, a young woman navigating daily existence within the ever-tightening spiral of her own thoughts.&lt;br /&gt;&lt;br /&gt;In his long-awaited return, John Green shares Aza's story with shattering, unflinching clarity.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>6073833</ratings_count>
+<text_reviews_count>335662</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>21576687</id>
+  <uri>kca://work/amzn1.gr.work.v1.Ad5YzQex0ffkU2G8bE_RkA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>2</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jun 08 00:00:00 -0700 2018</started_at>
+  <read_at>Tue Jun 26 00:00:00 -0700 2018</read_at>
+  <date_added>Fri Jun 23 15:24:27 -0700 2017</date_added>
+  <date_updated>Fri Jun 29 15:07:10 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I gave this book a rating of 4.5 out of 5 stars.<br /><br />* Trigger warnings for OCD, anxiety and somewhat of self harm in this book!<br /><br />Turtles All The Way Down is the second John Green book that I've ever read, I read his first book, Looking For Alaska last year and enjoyed it, but I...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2038330768]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2038330768]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1962010388</id>
+    <book>
+  <id type="integer">6404960</id>
+  <isbn>1411415957</isbn>
+  <isbn13>9781411415959</isbn13>
+  <text_reviews_count type="integer">58</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.kBXKVCDeGibk5lEKDZliyg</uri>
+  <title>Dr. Jekyll and Mr. Hyde (Illustrated Classics): A Graphic Novel</title>
+  <title_without_series>Dr. Jekyll and Mr. Hyde (Illustrated Classics): A Graphic Novel</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344704671l/6404960._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344704671l/6404960._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6404960-dr-jekyll-and-mr-hyde-illustrated-classics</link>
+  <num_pages>128</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Sterling</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.62</average_rating>
+  <ratings_count>516</ratings_count>
+  <description>The idea for &lt;i&gt;The Strange Case of Dr. Jekyll and Mr. Hyde&lt;/i&gt; famously came to Robert Louis Stevenson one night in a dream. This graphic novel adaptation by Andrzej Klimowski and Danusia Schejbal has transformed that dream into an exquisite nightmare. Their faithful adaptation combines an already-chilling tale with truly haunting artwork.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Dr. Jekyll and Mr. Hyde&lt;/i&gt; is the story of a respectable London doctor who ends up leading a dreadful double life—as a doctor, and as a cold-blooded murderer. Fans of Stevenson’s original novel and new readers will be riveted by this fascinating moral thriller.&lt;br /&gt;&lt;br /&gt; </description>
+<authors>
+<author>
+<id>9868148</id>
+<name>Andrzej Klimowski</name>
+<role>Illustrator</role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1547582799p5/9868148.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1547582799p2/9868148.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9868148.Andrzej_Klimowski]]></link>
+<average_rating>3.53</average_rating>
+<ratings_count>1728</ratings_count>
+<text_reviews_count>226</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>61662616</id>
+  <uri>kca://work/amzn1.gr.work.v1.cvvjCMAnAhFjLDeG5wGEDA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue May 02 00:00:00 -0700 2017</started_at>
+  <read_at>Tue May 02 00:00:00 -0700 2017</read_at>
+  <date_added>Tue Apr 04 11:28:06 -0700 2017</date_added>
+  <date_updated>Wed Jan 03 15:57:43 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[The wonderfully creepy sketch illustrations were well done and went well with the story, and even already having general knowledge of how the story would go, I was both pleasantly and unpleasantly surprised about how different the story was than I had expected.<br />And because this is a graphic...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1962010388]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1962010388]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1952105207</id>
+    <book>
+  <id type="integer">20821174</id>
+  <isbn>014242417X</isbn>
+  <isbn13>9780142424179</isbn13>
+  <text_reviews_count type="integer">743</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jGADoqaZeHDwI6ixmXhuyg</uri>
+  <title>The Fault in Our Stars</title>
+  <title_without_series>The Fault in Our Stars</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405435243l/20821174._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405435243l/20821174._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/20821174-the-fault-in-our-stars</link>
+  <num_pages>318</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>3143641</ratings_count>
+  <description>Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel’s story is about to be completely rewritten.&lt;br /&gt;&lt;br /&gt; Insightful, bold, irreverent, and raw, &lt;i&gt;The Fault in Our Stars&lt;/i&gt; brilliantly explores the funny, thrilling, and tragic business of being alive and in love.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>6073833</ratings_count>
+<text_reviews_count>335662</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>16827462</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZWeA15QphzWjRB87CLg-TA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jul 02 00:00:00 -0700 2018</started_at>
+  <read_at>Tue Aug 21 00:00:00 -0700 2018</read_at>
+  <date_added>Sat Mar 25 11:41:46 -0700 2017</date_added>
+  <date_updated>Fri Nov 30 19:36:06 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[* Trigger warning for alcohol abuse and a little bit of gore in this book!<br /><br /><br />• Things I liked and appreciated:<br /><br />First of all, I just want to say how accomplished I feel that I’ve now finally read one of the most obligatory YA reads out there! :)<br /><br />The Fault in Ou...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1952105207]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1952105207]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1952102952</id>
+    <book>
+  <id type="integer">22396149</id>
+  <isbn>1250064872</isbn>
+  <isbn13>9781250064875</isbn13>
+  <text_reviews_count type="integer">254</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.BZ5k6frVEMdBMOyX993S5w</uri>
+  <title>Eleanor and Park</title>
+  <title_without_series>Eleanor and Park</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401772972l/22396149._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401772972l/22396149._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22396149-eleanor-and-park</link>
+  <num_pages>336</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Exclusive Collector's Edition</edition_information>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day/>
+  <publication_year>2014</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>766247</ratings_count>
+  <description>Two misfits.&lt;br /&gt;One extraordinary love.&lt;br /&gt;&lt;br /&gt;Eleanor... Red hair, wrong clothes. Standing behind him until he turns his head. Lying beside him until he wakes up. Making everyone else seem drabber and flatter and never good enough...Eleanor.&lt;br /&gt;&lt;br /&gt;Park... He knows she'll love a song before he plays it for her. He laughs at her jokes before she ever gets to the punch line. There's a place on his chest, just below his throat, that makes her want to keep promises...Park.&lt;br /&gt;&lt;br /&gt;Set over the course of one school year, this is the story of two star-crossed sixteen-year-olds—smart enough to know that first love almost never lasts, but brave and desperate enough to try.&lt;br /&gt;&lt;br /&gt;Limited collector’s edition of Eleanor &amp;amp; Park features a new jacket, an exclusive Q&amp;amp;A with author Rainbow Rowell, and several stunning pieces of fan art.</description>
+<authors>
+<author>
+<id>4208569</id>
+<name>Rainbow Rowell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342324527p5/4208569.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342324527p2/4208569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4208569.Rainbow_Rowell]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>1843262</ratings_count>
+<text_reviews_count>191711</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>17225055</id>
+  <uri>kca://work/amzn1.gr.work.v1.urcxn2ghJ-hmk9Aa-LDHLQ</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu May 16 00:00:00 -0700 2019</started_at>
+  <read_at>Fri May 31 00:00:00 -0700 2019</read_at>
+  <date_added>Sat Mar 25 11:38:46 -0700 2017</date_added>
+  <date_updated>Sun Oct 06 18:26:28 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      2.5 stars
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1952102952]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1952102952]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1952085409</id>
+    <book>
+  <id type="integer">30653682</id>
+  <isbn>0062327194</isbn>
+  <isbn13>9780062327192</isbn13>
+  <text_reviews_count type="integer">235</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.w5g9FMe39vlCsVjt3jZhlQ</uri>
+  <title>Dumplin' (Dumplin', #1)</title>
+  <title_without_series>Dumplin'</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496274796l/30653682._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496274796l/30653682._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30653682-dumplin</link>
+  <num_pages>400</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Balzer + Bray</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>62499</ratings_count>
+  <description>Dubbed “Dumplin’” by her former beauty queen mom, Willowdean has always been at home in her own skin. Her thoughts on having the ultimate bikini body? Put a bikini on your body. With her all-American beauty best friend, Ellen, by her side, things have always worked...until Will takes a job at Harpy’s, the local fast-food joint. There she meets Private School Bo, a hot former jock. Will isn’t surprised to find herself attracted to Bo. But she &lt;em&gt;is&lt;/em&gt; surprised when he seems to like her back.  &lt;br /&gt;&lt;br /&gt;Instead of finding new heights of self-assurance in her relationship with Bo, Will starts to doubt herself. So she sets out to take back her confidence by doing the most horrifying thing she can imagine: entering the Miss Clover City beauty pageant—along with several other unlikely candidates—to show the world that she deserves to be up there as much as any girl does. Along the way, she’ll shock the hell out of Clover City—and maybe herself most of all.</description>
+<authors>
+<author>
+<id>6433278</id>
+<name>Julie   Murphy</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1561677712p5/6433278.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1561677712p2/6433278.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6433278.Julie_Murphy]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>106017</ratings_count>
+<text_reviews_count>17811</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>25795642</id>
+  <uri>kca://work/amzn1.gr.work.v1.uuf_wM4Cuf6kXcj31mpM-A</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Dec 04 00:00:00 -0800 2018</started_at>
+  <read_at>Fri Feb 15 00:00:00 -0800 2019</read_at>
+  <date_added>Sat Mar 25 11:17:04 -0700 2017</date_added>
+  <date_updated>Sat Mar 02 17:04:53 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I gave this book a rating of 3.5 out of 5 stars.<br /><br />* Trigger warning for bullying, fat shaming and possibly body dysmorphia!<br /><br />[Review side note: I suppose this is an own voices review for the plus size representation in this book seeing as I am a plus size female and have been...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1952085409]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1952085409]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1952084114</id>
+    <book>
+  <id type="integer">22784968</id>
+  <isbn>1435154703</isbn>
+  <isbn13>9781435154704</isbn13>
+  <text_reviews_count type="integer">60</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.YJsQRiY3nwulC4KYzcFtOg</uri>
+  <title>Peter Pan</title>
+  <title_without_series>Peter Pan</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418791918l/22784968._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418791918l/22784968._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22784968-peter-pan</link>
+  <num_pages>200</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Barnes &amp; Noble Collectible Edition</edition_information>
+  <publisher>Barnes &amp; Noble</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>241426</ratings_count>
+  <description>Neverland is home to Peter Pan, a young boy who has never grown up. On one of his visits to London, Peter makes the acquaintance of young Wendy Darling, whom he invites to travel with him to Neverland and become the mother of his gang of Lost Boys. Flying through the night sky to Neverland, Wendy and her brothers John and Michael soon become caught up in marvelous adventures with the Indian Princess Tiger Lily, the loyal fairy Tinker Bell, and Peter's nemesis, the sinister hook-handed pirate known as Captain Hook.</description>
+<authors>
+<author>
+<id>5255014</id>
+<name>J.M. Barrie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1519029719p5/5255014.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1519029719p2/5255014.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5255014.J_M_Barrie]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>305235</ratings_count>
+<text_reviews_count>11084</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>1358908</id>
+  <uri>kca://work/amzn1.gr.work.v1.l-lg2yQyMg7_5FNTPmbmcA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='217291242' name='favorites' review_shelf_id='2680261751' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Mar 24 20:15:09 -0700 2019</started_at>
+  <read_at>Fri Nov 01 16:27:49 -0700 2019</read_at>
+  <date_added>Sat Mar 25 11:15:24 -0700 2017</date_added>
+  <date_updated>Fri Nov 01 16:27:49 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1952084114]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1952084114]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1952080877</id>
+    <book>
+  <id type="integer">16101144</id>
+  <isbn>0142426040</isbn>
+  <isbn13>9780142426043</isbn13>
+  <text_reviews_count type="integer">468</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.TjWzAG5LOWtUPsVPm0kh0Q</uri>
+  <title>My Life Next Door</title>
+  <title_without_series>My Life Next Door</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479774081l/16101144._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1479774081l/16101144._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16101144-my-life-next-door</link>
+  <num_pages>394</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Speak</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>125128</ratings_count>
+  <description>ON ONE SUMMER NIGHT, EVERYTHING CHANGED.&lt;br /&gt;&lt;br /&gt;Life in Samantha Reed's home is neat and clean and orderly -- precisely planned by her local politician mother. Next door, at the Garretts', things are loud, messy, and irresistible. And when gorgeous Jase Garrett climbs the trellis outside her bedroom and enters her life, she finds herself falling passoonately in love woth him and everything he brings with hin. The only hitch is, she's got to hide it from her mother. Then something unthinkable happens, and Samantha is suddenly faced with an impossible decision. Which perfect family will save her? Or is it time she saved herself?</description>
+<authors>
+<author>
+<id>4660036</id>
+<name>Huntley Fitzpatrick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322025866p5/4660036.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322025866p2/4660036.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4660036.Huntley_Fitzpatrick]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>160111</ratings_count>
+<text_reviews_count>12909</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>17271423</id>
+  <uri>kca://work/amzn1.gr.work.v1.TFZENuFGMMTfpVnpJ6vPiQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Feb 19 00:00:00 -0800 2018</started_at>
+  <read_at>Mon May 21 00:00:00 -0700 2018</read_at>
+  <date_added>Sat Mar 25 11:11:20 -0700 2017</date_added>
+  <date_updated>Wed Jul 11 07:46:00 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[* Trigger warnings for drug and alcohol abuse and some lightly graphic sexual scenes in this book!<br /><br />My Life Next Door is a very well written and realistic contemporary love story not only about the two main love interests, but also their families and friends and their dynamic as a whole...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1952080877]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1952080877]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1952079977</id>
+    <book>
+  <id type="integer">42789136</id>
+  <isbn nil="true"/>
+  <isbn13>9780375978241</isbn13>
+  <text_reviews_count type="integer">27</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.89HUJMkefwe5I6TPLimplw</uri>
+  <title>The Sun Is Also a Star</title>
+  <title_without_series>The Sun Is Also a Star</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551150227l/42789136._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551150227l/42789136._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/42789136-the-sun-is-also-a-star</link>
+  <num_pages>344</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Barnes &amp; Noble Exclusive Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>138652</ratings_count>
+  <description>Natasha: I’m a girl who believes in science and facts. Not fate. Not destiny. Or dreams that will never come true. I’m definitely not the kind of girl who meets a cute boy on a crowded New York City street and falls in love with him. Not when my family is twelve hours away from being deported to Jamaica. Falling in love with him won’t be my story.&lt;br /&gt;&lt;br /&gt;Daniel: I’ve always been the good son, the good student, living up to my parents’ high expectations. Never the poet. Or the dreamer. But when I see her, I forget about all that. Something about Natasha makes me think that fate has something much more extraordinary in store—for both of us.&lt;br /&gt;&lt;br /&gt;The Universe: Every moment in our lives has brought us to this single moment. A million futures lie before us. Which one will come true?</description>
+<authors>
+<author>
+<id>7353006</id>
+<name>Nicola Yoon</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1411143980p5/7353006.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1411143980p2/7353006.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7353006.Nicola_Yoon]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>460771</ratings_count>
+<text_reviews_count>60349</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>48954670</id>
+  <uri>kca://work/amzn1.gr.work.v1.fpdzvRVuIuoXD1g-NRbF8g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Feb 15 00:00:00 -0800 2019</started_at>
+  <read_at>Sun Mar 24 00:00:00 -0700 2019</read_at>
+  <date_added>Sat Mar 25 11:10:14 -0700 2017</date_added>
+  <date_updated>Mon Apr 01 06:32:01 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I gave this book a rating of 4.5 out of 5 stars. <br /> <br />* Trigger warning for racism, suicidal thoughts and actions, and depression! <br /> <br />• Things I liked and appreciated: <br /> <br />This is the second book I’ve read by Nicola Yoon (the first was her debut novel, Everything Everything, which is now my favorite stand...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1952079977]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1952079977]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1945221078</id>
+    <book>
+  <id type="integer">8728403</id>
+  <isbn>1416990666</isbn>
+  <isbn13>9781416990666</isbn13>
+  <text_reviews_count type="integer">591</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.efu3XNt3pcmNzudg-QvV5A</uri>
+  <title>Amy &amp; Roger's Epic Detour</title>
+  <title_without_series>Amy &amp; Roger's Epic Detour</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8728403-amy-roger-s-epic-detour</link>
+  <num_pages>344</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Simon  Schuster Books for Young Readers</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.01</average_rating>
+  <ratings_count>83374</ratings_count>
+  <description>Amy Curry is not looking forward to her summer. Her mother decided to move across the country and now it's Amy's responsibility to get their car from California to Connecticut. The only problem is, since her father died in a car accident, she isn't ready to get behind the wheel. Enter Roger. An old family friend, he also has to make the cross-country trip - and has plenty of baggage of his own. The road home may be unfamiliar - especially with their friendship venturing into uncharted territory - but together, Amy and Roger will figure out how to map their way.</description>
+<authors>
+<author>
+<id>3351454</id>
+<name>Morgan Matson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1281591801p5/3351454.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1281591801p2/3351454.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3351454.Morgan_Matson]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>260563</ratings_count>
+<text_reviews_count>33006</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>10261814</id>
+  <uri>kca://work/amzn1.gr.work.v1.aUTwPxwtyCyCdfhmuYiMWg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='217291242' name='favorites' review_shelf_id='2639342793' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Sep 22 00:00:00 -0700 2019</started_at>
+  <read_at>Fri Sep 27 00:00:00 -0700 2019</read_at>
+  <date_added>Sat Mar 18 07:45:07 -0700 2017</date_added>
+  <date_updated>Tue Oct 01 08:07:08 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      4.5 stars
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1945221078]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1945221078]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1945221014</id>
+    <book>
+  <id type="integer">16127936</id>
+  <isbn>1416990682</isbn>
+  <isbn13>9781416990680</isbn13>
+  <text_reviews_count type="integer">309</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.rqMO03y_6fQ6DA_mn08XWw</uri>
+  <title>Second Chance Summer</title>
+  <title_without_series>Second Chance Summer</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352054379l/16127936._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352054379l/16127936._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16127936-second-chance-summer</link>
+  <num_pages>468</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster Books for Young Readers</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>42482</ratings_count>
+  <description>&lt;b&gt;From the Flying Start author of &lt;i&gt;Amy &amp;amp; Roger’s Epic Detour&lt;/i&gt;, a powerful novel about hope in the face of heartbreak. &lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Taylor Edwards’ family might not be the closest-knit—everyone is a little too busy and overscheduled—but for the most part, they get along just fine. Then Taylor’s dad gets devastating news, and her parents decide that the family will spend one last summer all together at their old lake house in the Pocono Mountains.&lt;br /&gt;&lt;br /&gt;Crammed into a place much smaller and more rustic than they are used to, they begin to get to know each other again. And Taylor discovers that the people she thought she had left behind haven’t actually gone anywhere. Her former best friend is still around, as is her first boyfriend…and he’s much cuter at seventeen than he was at twelve.&lt;br /&gt;&lt;br /&gt;As the summer progresses and the Edwards become more of a family, they’re more aware than ever that they’re battling a ticking clock. Sometimes, though, there is just enough time to get a second chance—with family, with friends, and with love.</description>
+<authors>
+<author>
+<id>3351454</id>
+<name>Morgan Matson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1281591801p5/3351454.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1281591801p2/3351454.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3351454.Morgan_Matson]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>260563</ratings_count>
+<text_reviews_count>33006</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>15992791</id>
+  <uri>kca://work/amzn1.gr.work.v1.FAUdTKDWNEo-ORRlOR0i0w</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Sep 27 00:00:00 -0700 2019</started_at>
+  <read_at>Sun Oct 06 00:00:00 -0700 2019</read_at>
+  <date_added>Sat Mar 18 07:45:02 -0700 2017</date_added>
+  <date_updated>Sun Oct 06 18:24:50 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      3.75 stars
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1945221014]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1945221014]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1941194880</id>
+    <book>
+  <id type="integer">449908</id>
+  <isbn>0312369816</isbn>
+  <isbn13>9780312369811</isbn13>
+  <text_reviews_count type="integer">624</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.B1P5D-8NwiZ2CmfSns8hvg</uri>
+  <title>Tuck Everlasting</title>
+  <title_without_series>Tuck Everlasting</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405924521l/449908._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405924521l/449908._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/449908.Tuck_Everlasting</link>
+  <num_pages>139</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Square Fish</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>208883</ratings_count>
+  <description>Doomed to—or blessed with—eternal life after drinking from a magic spring, the Tuck family wanders about trying to live as inconspicuously and comfortably as they can. When ten-year-old Winnie Foster stumbles on their secret, the Tucks take her home and explain why living forever at one age is less a blessing that it might seem. Complications arise when Winnie is followed by a stranger who wants to market the spring water for a fortune.</description>
+<authors>
+<author>
+<id>1954</id>
+<name>Natalie Babbitt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1226361832p5/1954.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1226361832p2/1954.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1954.Natalie_Babbitt]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>218399</ratings_count>
+<text_reviews_count>9832</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>1955922</id>
+  <uri>kca://work/amzn1.gr.work.v1.DGQaMNyxXLVsDeXqjMMb_Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>true</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='217291242' name='favorites' review_shelf_id='1875234297' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jul 26 00:00:00 -0700 2017</started_at>
+  <read_at>Thu Oct 12 00:00:00 -0700 2017</read_at>
+  <date_added>Mon Mar 13 22:46:11 -0700 2017</date_added>
+  <date_updated>Wed Jan 03 15:54:21 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[SLIGHT SPOILERS FOR BOTH THE BOOK AND MOVIE AHEAD!<br />......................................................................<br /><br />I really liked this book, it gave me a different and the original twist on a story I've known and loved since I was little from watching the movie. And so I mu...]]>
+  </body>
+
+  
+
+  <comments_count>1</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1941194880]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1941194880]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1941191789</id>
+    <book>
+  <id type="integer">18692431</id>
+  <isbn>0553496646</isbn>
+  <isbn13>9780553496642</isbn13>
+  <text_reviews_count type="integer">30299</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.yr1ED6nyAW330JztbdOuew</uri>
+  <title>Everything, Everything</title>
+  <title_without_series>Everything, Everything</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450515891l/18692431._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450515891l/18692431._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18692431-everything-everything</link>
+  <num_pages>306</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Delacorte Books for Young Readers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>305272</ratings_count>
+  <description>My disease is as rare as it is famous. It’s a form of Severe Combined Immunodeficiency, but basically, I’m allergic to the world. I don’t leave my house, have not left my house in fifteen years. The only people I ever see are my mom and my nurse, Carla.&lt;br /&gt;&lt;br /&gt;But then one day, a moving truck arrives. New next door neighbors. I look out the window, and I see him. He’s tall, lean and wearing all black—black t-shirt, black jeans, black sneakers and a black knit cap that covers his hair completely. He catches me looking and stares at me. I stare right back. His name is Olly. I want to learn everything about him, and I do. I learn that he is funny and fierce. I learn that his eyes are Atlantic Ocean-blue and that his vice is stealing silverware. I learn that when I talk to him, my whole world opens up, and I feel myself starting to change—starting to want things. To want out of my bubble. To want everything, everything the world has to offer.&lt;br /&gt;&lt;br /&gt;Maybe we can’t predict the future, but we can predict some things. For example, I am certainly going to fall in love with Olly. It’s almost certainly going to be a disaster.</description>
+<authors>
+<author>
+<id>7353006</id>
+<name>Nicola Yoon</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1411143980p5/7353006.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1411143980p2/7353006.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7353006.Nicola_Yoon]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>460771</ratings_count>
+<text_reviews_count>60349</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>26540216</id>
+  <uri>kca://work/amzn1.gr.work.v1._GL5N1TPK4vNVYo_KrI_ug</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='217291242' name='favorites' review_shelf_id='1696459586' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu May 04 00:00:00 -0700 2017</started_at>
+  <read_at>Sat Jun 03 00:00:00 -0700 2017</read_at>
+  <date_added>Mon Mar 13 22:40:03 -0700 2017</date_added>
+  <date_updated>Mon Nov 13 05:38:41 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I don't have the words for how much I loved this book!<br />...But I'll try anyway.<br />I absolutely loved just about everything in this book! The settings, the characters, the storyline, the writing, the illustrations were all so magnificent, intriguing and consuming from beginning to end that...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1941191789]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1941191789]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1902721297</id>
+    <book>
+  <id type="integer">7619292</id>
+  <isbn>0759529434</isbn>
+  <isbn13>9780759529434</isbn13>
+  <text_reviews_count type="integer">1966</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.P6IMv-ugbh3xftb53fsKbQ</uri>
+  <title>Twilight: The Graphic Novel, Vol. 1 (Twilight: The Graphic Novel, #1)</title>
+  <title_without_series>Twilight: The Graphic Novel, Vol. 1</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317294278l/7619292._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317294278l/7619292._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7619292-twilight</link>
+  <num_pages>224</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Yen Press</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>44829</ratings_count>
+  <description>When Isabella Swan moves to the gloomy town of Forks and meets the mysterious, alluring Edward Cullen, her life takes a thrilling and terrifying turn. With his porcelain skin, golden eyes, mesmerizing voice, and supernatural gifts, Edward is both irresistible and impenetrable. Up until now, he has managed to keep his true identity hidden, but Bella is determined to uncover his dark secret...</description>
+<authors>
+<author>
+<id>4379470</id>
+<name>Young Kim</name>
+<role>Art/Adaptation</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4379470.Young_Kim]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>75626</ratings_count>
+<text_reviews_count>3136</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>10090991</id>
+  <uri>kca://work/amzn1.gr.work.v1.l6_GXU8EZ4e4tWvgPzcPLQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Feb 04 00:00:00 -0800 2017</started_at>
+  <read_at>Wed Feb 08 00:00:00 -0800 2017</read_at>
+  <date_added>Sat Feb 04 12:32:14 -0800 2017</date_added>
+  <date_updated>Wed Dec 13 10:47:33 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Since I didn't write a review about this book before, I'm just going to do it now.<br />I really liked the Twilight book in comic book/ graphic novel form! The illustrations were done very well, I liked the changes in black and white to little bits of color, although at times I had wished there h...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1902721297]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1902721297]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1815013375</id>
+    <book>
+  <id type="integer">28927701</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hcjM-0DrL4mEuhREz8aaEg</uri>
+  <title>Looking for Alaska</title>
+  <title_without_series>Looking for Alaska</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454529615l/28927701._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454529615l/28927701._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28927701-looking-for-alaska</link>
+  <num_pages>221</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Speak</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>1011368</ratings_count>
+  <description>&lt;b&gt;Before.&lt;/b&gt; Miles “Pudge” Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave “the Great Perhaps” even more (Francois Rabelais, poet). He heads off to the sometimes crazy and anything-but-boring world of Culver Creek Boarding School, and his life becomes the opposite of safe. Because down the hall is Alaska Young. The gorgeous, clever, funny, sexy, self-destructive, screwed up, and utterly fascinating Alaska Young. She is an event unto herself. She pulls Pudge into her world, launches him into the Great Perhaps, and steals his heart. Then. . . . &lt;br /&gt;&lt;b&gt;After.&lt;/b&gt; Nothing is ever the same.</description>
+<authors>
+<author>
+<id>1406384</id>
+<name>John Green</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p5/1406384.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353452301p2/1406384.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1406384.John_Green]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>6073833</ratings_count>
+<text_reviews_count>335662</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>919292</id>
+  <uri>kca://work/amzn1.gr.work.v1.wGti9JIz1l1Gy_ji6BzL0Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="142138480" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Oct 12 00:00:00 -0700 2016</started_at>
+  <read_at>Tue May 02 00:00:00 -0700 2017</read_at>
+  <date_added>Thu Nov 17 21:23:29 -0800 2016</date_added>
+  <date_updated>Mon Dec 11 11:00:12 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I very much enjoyed this book!<br />The great perhaps is a wonderful contemplation/hope. And there were many insightful ideas and quotes in this book.<br />And the humor in this book was hilarious! I constantly found myself laughing out loud. The characters were great as well, they were well deve...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1815013375]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1815013375]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

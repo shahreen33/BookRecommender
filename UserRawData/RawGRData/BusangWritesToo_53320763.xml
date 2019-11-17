@@ -1,0 +1,3592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='174255836' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="47" total="47">
+    <review>
+  <id>3042831230</id>
+    <book>
+  <id type="integer">1101837</id>
+  <isbn>0435902296</isbn>
+  <isbn13>9780435902292</isbn13>
+  <text_reviews_count type="integer">40</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.SQnvY1m6lInw90f7xwpGIw</uri>
+  <title>Chaka</title>
+  <title_without_series>Chaka</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1101837.Chaka</link>
+  <num_pages>168</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Heinemann</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1983</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.71</average_rating>
+  <ratings_count>376</ratings_count>
+  <description>Tells the classic story of the Zulu hero Chaka.</description>
+<authors>
+<author>
+<id>544038</id>
+<name>Thomas Mofolo</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/544038.Thomas_Mofolo]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>397</ratings_count>
+<text_reviews_count>45</text_reviews_count>
+</author>
+</authors>
+  <published>1983</published>
+<work>  <id>1088727</id>
+  <uri>kca://work/amzn1.gr.work.v1.3h_JGrno8eVXn8X_qRFZCg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Nov 09 10:56:29 -0800 2019</started_at>
+  <read_at>Sat Nov 09 10:57:46 -0800 2019</read_at>
+  <date_added>Sat Nov 09 10:56:28 -0800 2019</date_added>
+  <date_updated>Sat Nov 09 10:57:46 -0800 2019</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3042831230]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3042831230]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2984393120</id>
+    <book>
+  <id type="integer">22875103</id>
+  <isbn>0316338370</isbn>
+  <isbn13>9780316338370</isbn13>
+  <text_reviews_count type="integer">1394</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.OHHa3d6EBUozl3tW3PjPVQ</uri>
+  <title>The Fishermen</title>
+  <title_without_series>The Fishermen</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451434679l/22875103._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451434679l/22875103._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22875103-the-fishermen</link>
+  <num_pages>304</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown and Company</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>12404</ratings_count>
+  <description>&lt;b&gt;Shortlisted for the Man Booker Prize&lt;br /&gt;&lt;br /&gt;'Astonishing... remarkable, mythic' &lt;br /&gt;Alice Walker, author of &lt;i&gt;The Color Purple&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;'Impressive and beautifully imagined' &lt;i&gt;Economist&lt;/i&gt;&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;In a small town in western Nigeria, four young brothers take advantage of their strict father's absence from home to go fishing at a forbidden local river. They encounter a dangerous local madman who predicts that the oldest boy will be killed by one of his brothers. This prophecy unleashes a tragic chain of events of almost mythic proportions.</description>
+<authors>
+<author>
+<id>8430984</id>
+<name>Chigozie Obioma</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1421211245p5/8430984.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1421211245p2/8430984.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8430984.Chigozie_Obioma]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>14396</ratings_count>
+<text_reviews_count>2179</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>42439392</id>
+  <uri>kca://work/amzn1.gr.work.v1._ewep2oQlj6s6EyMfaXRjA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Sep 20 11:55:05 -0700 2019</date_added>
+  <date_updated>Fri Sep 20 11:56:06 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2984393120]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2984393120]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2910010752</id>
+    <book>
+  <id type="integer">37781</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">10254</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.T3b06-IOoenYlb-51z19Ew</uri>
+  <title>Things Fall Apart (The African Trilogy, #1)</title>
+  <title_without_series>Things Fall Apart</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352082529l/37781._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352082529l/37781._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/37781.Things_Fall_Apart</link>
+  <num_pages>209</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Anchor Books Edition (U.S.)</edition_information>
+  <publisher>Anchor Books</publisher>
+  <publication_day/>
+  <publication_year>1994</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.65</average_rating>
+  <ratings_count>260700</ratings_count>
+  <description>More than two million copies of &lt;i&gt;Things Fall Apart&lt;/i&gt; have been sold in the United States since it was first published here in 1959. Worldwide, there are eight million copies in print in fifty different languages. This is Chinua Achebe's masterpiece and it is often compared to the great Greek tragedies, and currently sells more than one hundred thousand copies a year in the United States.&lt;br /&gt;&lt;br /&gt;A simple story of a "strong man" whose life is dominated by fear and anger, &lt;i&gt;Things Fall Apart&lt;/i&gt; is written with remarkable economy and subtle irony. Uniquely and richly African, at the same time it reveals Achebe's keen awareness of the human qualities common to men of all times and places.</description>
+<authors>
+<author>
+<id>8051</id>
+<name>Chinua Achebe</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1473806077p5/8051.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1473806077p2/8051.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8051.Chinua_Achebe]]></link>
+<average_rating>3.67</average_rating>
+<ratings_count>288060</ratings_count>
+<text_reviews_count>14988</text_reviews_count>
+</author>
+</authors>
+  <published>1994</published>
+<work>  <id>825843</id>
+  <uri>kca://work/amzn1.gr.work.v1.O07zdgQmYuVRYPvaArHi0A</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jul 24 20:10:16 -0700 2019</date_added>
+  <date_updated>Wed Jul 24 20:13:19 -0700 2019</date_updated>
+  <read_count>3</read_count>
+  <body>
+      <![CDATA[Things do in fact, fall apart.<br /><br />"They say if you want to hear God laugh, tell him what you have planned." <br /><br />The story of Okwenkwe's rise and fall is truly one filled with a wealth of lessons to heed; themes of misguided heroism, ambitions, and and the pursuit of a collective self-identity...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2910010752]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2910010752]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2829033809</id>
+    <book>
+  <id type="integer">29780253</id>
+  <isbn>0385689225</isbn>
+  <isbn13>9780385689229</isbn13>
+  <text_reviews_count type="integer">21487</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VGbAzZ0ZqITX1gPOzrjdFw</uri>
+  <title>Born a Crime: Stories From a South African Childhood</title>
+  <title_without_series>Born a Crime: Stories From a South African Childhood</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473867911l/29780253._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473867911l/29780253._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29780253-born-a-crime</link>
+  <num_pages>304</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Doubleday Canada</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.46</average_rating>
+  <ratings_count>251639</ratings_count>
+  <description>The compelling, inspiring, and comically sublime New York Times bestseller about one man’s coming-of-age, set during the twilight of apartheid and the tumultuous days of freedom that followed.&lt;br /&gt; &lt;br /&gt;Trevor Noah’s unlikely path from apartheid South Africa to the desk of The Daily Show began with a criminal act: his birth. Trevor was born to a white Swiss father and a black Xhosa mother at a time when such a union was punishable by five years in prison. Living proof of his parents’ indiscretion, Trevor was kept mostly indoors for the earliest years of his life, bound by the extreme and often absurd measures his mother took to hide him from a government that could, at any moment, steal him away. Finally liberated by the end of South Africa’s tyrannical white rule, Trevor and his mother set forth on a grand adventure, living openly and freely and embracing the opportunities won by a centuries-long struggle.&lt;br /&gt; &lt;br /&gt;Born a Crime is the story of a mischievous young boy who grows into a restless young man as he struggles to find himself in a world where he was never supposed to exist. It is also the story of that young man’s relationship with his fearless, rebellious, and fervently religious mother—his teammate, a woman determined to save her son from the cycle of poverty, violence, and abuse that would ultimately threaten her own life.&lt;br /&gt; &lt;br /&gt;The eighteen personal essays collected here are by turns hilarious, dramatic, and deeply affecting. Whether subsisting on caterpillars for dinner during hard times, being thrown from a moving car during an attempted kidnapping, or just trying to survive the life-and-death pitfalls of dating in high school, Trevor illuminates his curious world with an incisive wit and unflinching honesty. His stories weave together to form a moving and searingly funny portrait of a boy making his way through a damaged world in a dangerous time, armed only with a keen sense of humor and a mother’s unconventional, unconditional love.&lt;br /&gt;&lt;br /&gt;Source: penguinrandomhouse.ca</description>
+<authors>
+<author>
+<id>15149526</id>
+<name>Trevor Noah</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1555600819p5/15149526.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1555600819p2/15149526.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15149526.Trevor_Noah]]></link>
+<average_rating>4.46</average_rating>
+<ratings_count>253050</ratings_count>
+<text_reviews_count>26554</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>50150838</id>
+  <uri>kca://work/amzn1.gr.work.v1.YZHllEcWimlNO4N7eHsM3g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue May 21 10:20:52 -0700 2019</started_at>
+  <read_at>Tue May 21 10:50:30 -0700 2019</read_at>
+  <date_added>Tue May 21 10:20:51 -0700 2019</date_added>
+  <date_updated>Tue May 21 10:50:30 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[True to its title, this brief biography not only tells the story of Trevor's complex heritage, but also offers accurate and relatable context to the experiences of black youths growing up in South Africa, especially in a post-Apartheid era.<br /><br />A great read. Farely deep but not pretentious...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2829033809]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2829033809]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2681442734</id>
+    <book>
+  <id type="integer">18498558</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">10578</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.rDZVevsQQx1FX9pjzCergA</uri>
+  <title>Bird Box (Bird Box, #1)</title>
+  <title_without_series>Bird Box</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383949470l/18498558._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383949470l/18498558._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18498558-bird-box</link>
+  <num_pages>262</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Ecco</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>112544</ratings_count>
+  <description>Something is out there, something terrifying that must not be seen. One glimpse of it, and a person is driven to deadly violence. No one knows what it is or where it came from.&lt;br /&gt;&lt;br /&gt;Five years after it began, a handful of scattered survivors remains, including Malorie and her two young children. Living in an abandoned house near the river, she has dreamed of fleeing to a place where they might be safe. Now that the boy and girl are four, it's time to go, but the journey ahead will be terrifying: twenty miles downriver in a rowboat—blindfolded—with nothing to rely on but her wits and the children's trained ears. One wrong choice and they will die. Something is following them all the while, but is it man, animal, or monster?&lt;br /&gt;&lt;br /&gt;Interweaving past and present, &lt;i&gt;Bird Box&lt;/i&gt; is a snapshot of a world unraveled that will have you racing to the final page.</description>
+<authors>
+<author>
+<id>7271073</id>
+<name>Josh Malerman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1406934112p5/7271073.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1406934112p2/7271073.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7271073.Josh_Malerman]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>131472</ratings_count>
+<text_reviews_count>18751</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>26186624</id>
+  <uri>kca://work/amzn1.gr.work.v1.RSjCU48l4-RQXcNZsoeUww</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jan 19 23:31:57 -0800 2019</date_added>
+  <date_updated>Sat Jan 19 23:31:58 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2681442734]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2681442734]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2319500472</id>
+    <book>
+  <id type="integer">37834399</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">32</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.JtTb7i5xcFozHPV_vky9yA</uri>
+  <title>Promised Land</title>
+  <title_without_series>Promised Land</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/37834399-promised-land</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.58</average_rating>
+  <ratings_count>60</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>357468</id>
+<name>Brenda Hampton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1319335208p5/357468.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1319335208p2/357468.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/357468.Brenda_Hampton]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>7792</ratings_count>
+<text_reviews_count>1252</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>59518222</id>
+  <uri>kca://work/amzn1.gr.work.v1.JDrx7PvFkNfpf2Cd4GaN1g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 07 03:27:29 -0800 2018</started_at>
+  <read_at>Tue Mar 13 15:29:24 -0700 2018</read_at>
+  <date_added>Wed Mar 07 03:27:29 -0800 2018</date_added>
+  <date_updated>Tue Mar 13 15:29:24 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2319500472]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2319500472]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2307071203</id>
+    <book>
+  <id type="integer">23559612</id>
+  <isbn nil="true"/>
+  <isbn13>9781770103948</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.OtdLTcjUBKAevyJ2vx9QNA</uri>
+  <title>White Wahala</title>
+  <title_without_series>White Wahala</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23559612-white-wahala</link>
+  <num_pages>312</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Picador Africa</publisher>
+  <publication_day/>
+  <publication_year>2014</publication_year>
+  <publication_month/>
+  <average_rating>3.93</average_rating>
+  <ratings_count>14</ratings_count>
+  <description>Cash Tshabalala is a notoriously brutal money-lender and snazzy dresser who operates in Scottsville, Soweto, from a kiosk he calls, ‘The Last Best Hope Financial Service’. Unashamedly violent when the need arises, Cash’s willingness to lend where reputable banks fear to tread has earned him a reluctant but steady clientele.&lt;br /&gt;&lt;br /&gt;A chance meeting between Cash and Alasdair Nicholson, a closet drug user and only son of a fabulously wealthy white family, changes both their lives forever. Desperate for a fix, Alasdair drives to Scottsville to buy drugs, only to discover he doesn’t have enough money on him and he has to borrow what he needs from Cash. When Alasdair fails to keep his side of the transaction, Cash declares war on the Nicholson family and events spin dangerously out of control, eventually becoming a matter of national importance when populist activists step in, intent on realising their own agendas.&lt;br /&gt;&lt;br /&gt;The conflict between Cash and the Nicholson family cleverly exposes the seeping wounds that still bedevil South African interactions two decades after the end of apartheid, forcing both communities to recognise the harsh realities of their past.</description>
+<authors>
+<author>
+<id>7962252</id>
+<name>Ekow Duker</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7962252.Ekow_Duker]]></link>
+<average_rating>3.61</average_rating>
+<ratings_count>88</ratings_count>
+<text_reviews_count>13</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>40455369</id>
+  <uri>kca://work/amzn1.gr.work.v1.XZFEZ7RLXrEMUP39p1Cr9Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Feb 24 10:07:13 -0800 2018</date_added>
+  <date_updated>Sat Feb 24 10:08:50 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2307071203]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2307071203]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2236039925</id>
+    <book>
+  <id type="integer">25647498</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.g7j3jHi_U1KCuFvX_ZPy6Q</uri>
+  <title>Summertime (A Novella)</title>
+  <title_without_series>Summertime</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25647498-summertime</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.56</average_rating>
+  <ratings_count>54</ratings_count>
+  <description>&lt;b&gt;An unlikely journey… an unlikely love.&lt;/b&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt; &lt;br /&gt;J'Nay Walker is a talented singer, driven toward success by a promise she made to her late mother. One gloomy day, on the tail of some disappointing news, tragedy strikes, threatening not only to derail her plans, but to end her life. As a result, she soon finds herself on an unlikely journey, but is she ready for an unlikely love?</description>
+<authors>
+<author>
+<id>5051327</id>
+<name>Adrienne Thompson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1384904800p5/5051327.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1384904800p2/5051327.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5051327.Adrienne_Thompson]]></link>
+<average_rating>4.36</average_rating>
+<ratings_count>2755</ratings_count>
+<text_reviews_count>532</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>45306651</id>
+  <uri>kca://work/amzn1.gr.work.v1.o4cJTnXAGgJ99e2eGQg2yw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jan 01 07:24:31 -0800 2018</started_at>
+  <read_at>Thu Jan 04 06:46:45 -0800 2018</read_at>
+  <date_added>Mon Jan 01 07:24:31 -0800 2018</date_added>
+  <date_updated>Thu Jan 04 06:46:45 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2236039925]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2236039925]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2202812327</id>
+    <book>
+  <id type="integer">15840232</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">28</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.M877l0pMG8NaqqKcEcNYsw</uri>
+  <title>Capture</title>
+  <title_without_series>Capture</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349440707l/15840232._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349440707l/15840232._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15840232-capture</link>
+  <num_pages>296</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Tin Town</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.93</average_rating>
+  <ratings_count>587</ratings_count>
+  <description>IN A CITY WHERE THE LINES BETWEEN RICH AND POOR ARE DRAWN IN BLOOD, THE TRUTH IS JUST THE LIE YOU BELIEVE THE MOST.&lt;br /&gt;As four-year-old Sunny Exley drowns in the icy waters off a luxury beach house, her father, Nick, smokes weed on the shore and her mother, Caroline, is lost in the arms of a lover. Hidden on nearby boulders, rent-a-cop Vernon Saul watches the child die and chooses to act only when it is too late. &lt;br /&gt;&lt;br /&gt;In the days following Sunny's death, gutted by grief and guilt, Nick falls under the spell of Vernon who presents himself as a friend in time of need. When the sinister Vernon's true motives are revealed, Nick is drawn into a spiral of manipulation and murder that leaves him fighting for his sanity and his life.</description>
+<authors>
+<author>
+<id>2265629</id>
+<name>Roger  Smith</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1261734709p5/2265629.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1261734709p2/2265629.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2265629.Roger_Smith]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>3249</ratings_count>
+<text_reviews_count>509</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>21441838</id>
+  <uri>kca://work/amzn1.gr.work.v1.E881W8jMvu6I_E39AY-AHg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Dec 03 10:19:40 -0800 2017</started_at>
+  <read_at>Sun Mar 04 17:29:55 -0800 2018</read_at>
+  <date_added>Sun Dec 03 10:19:40 -0800 2017</date_added>
+  <date_updated>Sun Mar 04 17:29:55 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2202812327]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2202812327]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2202380533</id>
+    <book>
+  <id type="integer">28373723</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.v9roxNNYQSnDRBOfl9iSsQ</uri>
+  <title>365 Hip-Hop: Daily Motivational Quotes</title>
+  <title_without_series>365 Hip-Hop: Daily Motivational Quotes</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28373723-365-hip-hop</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.40</average_rating>
+  <ratings_count>10</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>14810869</id>
+<name>Carl Michael</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14810869.Carl_Michael]]></link>
+<average_rating>4.40</average_rating>
+<ratings_count>10</ratings_count>
+<text_reviews_count>3</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>48454567</id>
+  <uri>kca://work/amzn1.gr.work.v1.j0wuwj5XJNerUn9WQ1tvhw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Dec 02 21:37:15 -0800 2017</started_at>
+  <read_at>Thu Dec 07 11:06:37 -0800 2017</read_at>
+  <date_added>Sat Dec 02 21:37:15 -0800 2017</date_added>
+  <date_updated>Thu Dec 07 11:06:37 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2202380533]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2202380533]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2179925266</id>
+    <book>
+  <id type="integer">35053880</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.I4AXnz_w45VfGVqBh6i58A</uri>
+  <title>Mirroring Effect</title>
+  <title_without_series>Mirroring Effect</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35053880-mirroring-effect</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>5.00</average_rating>
+  <ratings_count>7</ratings_count>
+  <description>Desi and Demi Vander shared the bond that only sisters have. Even when they didn't get along, Desi knew that her sister loved her. When Demi dies, Desi's grief overcomes her. She feels like she's drowning in her agony.&lt;br /&gt;&lt;br /&gt;Her psychologist, Dr. Neil, explains the five stages of grief, but Desi doesn't care about working through her emotions. She doesn't care about acceptance. All she wants are answers. She wants to know why her popular, glamorous sister would kill herself. Demi had so many people who loved her. Why did she decide to end her life?&lt;br /&gt;&lt;br /&gt;To find true closure, Desi begins reading her sister's diary and grows closer to the Clique, Demi's tight circle of friends.&lt;br /&gt;&lt;br /&gt;As Desi makes friends with the members of the Clique, she begins distancing herself from her old life. She doesn't have time for her best friend, April, or the strangely irritating guy from her art class, Ryan. Instead, Desi throws herself into having fun and enjoying her newfound popularity.&lt;br /&gt;&lt;br /&gt;Demi's diary entries warn her that the members of the Clique are not who they say they are. Will Desi be true to herself, or will her grief mold her into someone else?</description>
+<authors>
+<author>
+<id>16662118</id>
+<name>C.N. Nash</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1504335172p5/16662118.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1504335172p2/16662118.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16662118.C_N_Nash]]></link>
+<average_rating>5.00</average_rating>
+<ratings_count>7</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>55964689</id>
+  <uri>kca://work/amzn1.gr.work.v1.9Sn3x4Yj4u3NglELoAL3dw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Nov 10 02:38:14 -0800 2017</date_added>
+  <date_updated>Fri Nov 10 23:14:49 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[As someone who has struggled with feelings of anxiety all my life - and, because of my anxiety, having flirted more than occasionally with depression, CN Nash's Mirroring Effect comes as timely consolation and education on mental health.<br /><br />Explored through the five stages of grief, the a...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2179925266]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2179925266]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2079187385</id>
+    <book>
+  <id type="integer">24649482</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">107</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.l2NziQtBUDadN3mZyx44vQ</uri>
+  <title>The Art of Peeling an Orange</title>
+  <title_without_series>The Art of Peeling an Orange</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24649482-the-art-of-peeling-an-orange</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.27</average_rating>
+  <ratings_count>697</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>13141635</id>
+<name>Victoria Avilan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1547690599p5/13141635.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1547690599p2/13141635.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13141635.Victoria_Avilan]]></link>
+<average_rating>3.45</average_rating>
+<ratings_count>1153</ratings_count>
+<text_reviews_count>173</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>44262938</id>
+  <uri>kca://work/amzn1.gr.work.v1.J_X3OlaIa2YXO3EJbNkFag</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jul 01 00:00:00 -0700 2017</started_at>
+  <read_at></read_at>
+  <date_added>Tue Aug 01 13:35:16 -0700 2017</date_added>
+  <date_updated>Tue Aug 01 13:49:34 -0700 2017</date_updated>
+  <read_count>3</read_count>
+  <body>
+      <![CDATA[Imagine an artist; lifetimes spent in craft; colours, textures, imagery and poetry; imagine grief; raging passions waned by ravaging fires; tragic loss and the illusion of closure - only to lose again. An unforgiving tumult: a bungee jump through the abyss. <br /><br />For 345 pages (and a steal on Amazon),...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2079187385]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2079187385]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2078892641</id>
+    <book>
+  <id type="integer">8428317</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.N8kxYL38vrwVp2WCxxzuTQ</uri>
+  <title>Forty Years Later</title>
+  <title_without_series>Forty Years Later</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330785054l/8428317._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330785054l/8428317._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8428317-forty-years-later</link>
+  <num_pages>225</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Schiller &amp; Wells, Ltd. - A Division of Stay Thirsty Media, Inc.</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.00</average_rating>
+  <ratings_count>138</ratings_count>
+  <description>Successful middle-aged publishing executive David Grossman risks everything to fulfill a promise to a woman he has not seen in forty years. When teen sweethearts and now aging Baby Boomers David and Jill reunite after four decades, sparks fly fast and furious, despite his long marriage to Allison and Jill's reputation as a famous, former lesbian.&lt;br /&gt;&lt;br /&gt;Jill Black, a "one hit wonder" Hollywood screenwriter, is consumed with a last chance to write and direct her own film. Success will reinvigorate her career. Failure will end it. When a pompous studio "suit" begins to undermine her authority and threatens to kill her project, the pressure forces her to spin from rage to murderous madness as she ensnares David in her plans.&lt;br /&gt;&lt;br /&gt;Love and betrayal. Revenge and redemption. For some it ends happily. For others it all comes undone in this fast-paced drama of Baby Boomers trying to hang on to their lives, their families, and their Woodstock dreams. A riveting debut novel of suspense and humor, masterfully told by Steven Jay Griffel</description>
+<authors>
+<author>
+<id>3308721</id>
+<name>Steven Jay Griffel</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3308721.Steven_Jay_Griffel]]></link>
+<average_rating>3.12</average_rating>
+<ratings_count>188</ratings_count>
+<text_reviews_count>35</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>13291525</id>
+  <uri>kca://work/amzn1.gr.work.v1.jCaHvSoeFOVyNYY882_hHA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jul 22 00:00:00 -0700 2017</started_at>
+  <read_at></read_at>
+  <date_added>Tue Aug 01 08:31:05 -0700 2017</date_added>
+  <date_updated>Tue Aug 01 08:32:49 -0700 2017</date_updated>
+  <read_count>2</read_count>
+  <body>
+      <![CDATA[I finished reading Forty Years Later. Anticlimax. I was left dissatisfied: the writer spent most of the novel setting the stage for a big reveal; building suspense; flirting with the idea of a climatic bang! But instead, a whimper.<br /><br />I don't know much about the writer, but if the novel w...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2078892641]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2078892641]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2047268850</id>
+    <book>
+  <id type="integer">13505745</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">54</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FfZVET6wDvsiabJ3QVjd5Q</uri>
+  <title>Ishmael Toffee</title>
+  <title_without_series>Ishmael Toffee</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330563773l/13505745._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330563773l/13505745._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13505745-ishmael-toffee</link>
+  <num_pages>97</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Tin Town</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>285</ratings_count>
+  <description>ON A KNIFE-EDGE&lt;br /&gt;Ishmael Toffee has killed more men than he can remember. His knife put him behind bars and kept him there for twenty years as a prison gang assassin until he lost his taste for blood. Paroled, he finds himself with no money and no family. And no knife in his hand.&lt;br /&gt; &lt;br /&gt;He gets a job as a gardener at the luxurious home of a prominent lawyer and makes an unexpected friend--Cindy, the lawyer's six-year-old daughter. When Ishmael discovers that Cindy is being raped by her father he must choose: abandon the girl and walk away, or do what he does best . . .&lt;br /&gt; &lt;br /&gt;A gut-wrenching novella of violence and redemption from the award-winning author of DUST DEVILS, WAKE UP DEAD and MIXED BLOOD.&lt;br /&gt;&lt;br /&gt;BONUS CONTENT: FALLING, a previously unpublished short story.</description>
+<authors>
+<author>
+<id>2265629</id>
+<name>Roger  Smith</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1261734709p5/2265629.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1261734709p2/2265629.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2265629.Roger_Smith]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>3249</ratings_count>
+<text_reviews_count>509</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>19056202</id>
+  <uri>kca://work/amzn1.gr.work.v1.Xx-D8qfY8DexjdSmQ3zLkg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Thu Jun 29 00:00:00 -0700 2017</read_at>
+  <date_added>Sun Jul 02 12:09:37 -0700 2017</date_added>
+  <date_updated>Sun Dec 03 10:21:24 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2047268850]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2047268850]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1990632756</id>
+    <book>
+  <id type="integer">92303</id>
+  <isbn>158049580X</isbn>
+  <isbn13>9781580495806</isbn13>
+  <text_reviews_count type="integer">6091</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qHc6alJKZs3_ua-njT48ew</uri>
+  <title>The Importance of Being Earnest</title>
+  <title_without_series>The Importance of Being Earnest</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/92303.The_Importance_of_Being_Earnest</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Prestwick House</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month/>
+  <average_rating>4.17</average_rating>
+  <ratings_count>281957</ratings_count>
+  <description>Oscar Wilde's madcap farce about mistaken identities, secret engagements, and lovers entanglements still delights readers more than a century after its 1895 publication and premiere performance. The rapid-fire wit and eccentric characters of The Importance of Being Earnest have made it a mainstay of the high school curriculum for decades.&lt;br /&gt;&lt;br /&gt;Cecily Cardew and Gwendolen Fairfax are both in love with the same mythical suitor. Jack Worthing has wooed Gwendolen as Ernest while Algernon has also posed as Ernest to win the heart of Jack's ward, Cecily. When all four arrive at Jack's country home on the same weekend the "rivals" to fight for Ernest's undivided attention and the "Ernests" to claim their beloveds pandemonium breaks loose. Only a senile nursemaid and an old, discarded hand-bag can save the day!&lt;br /&gt;&lt;br /&gt;This Prestwick House Literary Touchstone Edition includes a glossary and reader's notes to help the modern reader appreciate Wilde's wry wit and elaborate plot twists.</description>
+<authors>
+<author>
+<id>3565</id>
+<name>Oscar Wilde</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521044377p5/3565.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521044377p2/3565.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3565.Oscar_Wilde]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>1522437</ratings_count>
+<text_reviews_count>50622</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>649216</id>
+  <uri>kca://work/amzn1.gr.work.v1.AItzkp6XDj-z5tW1h0vubw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon May 01 00:00:00 -0700 2017</read_at>
+  <date_added>Thu May 04 06:01:23 -0700 2017</date_added>
+  <date_updated>Thu May 04 06:04:18 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1990632756]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1990632756]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1990632508</id>
+    <book>
+  <id type="integer">80339</id>
+  <isbn>1419183044</isbn>
+  <isbn13>9781419183041</isbn13>
+  <text_reviews_count type="integer">200</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KSAv6TNK5TJpfUkcxeGnYA</uri>
+  <title>The Soul of Man Under Socialism</title>
+  <title_without_series>The Soul of Man Under Socialism</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428095926l/80339._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428095926l/80339._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/80339.The_Soul_of_Man_Under_Socialism</link>
+  <num_pages>48</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Kessinger Publishing</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>3074</ratings_count>
+  <description>In &lt;i&gt;The Soul of Man under Socialism&lt;/i&gt; Oscar Wilde expounds on an anarchist world view. Wilde argues that under capitalism the majority of people spoil their lives by an unhealthy and exaggerated altruism-are forced, indeed, so to spoil them: instead of realizing their true talents, they waste their time solving the social problems caused by capitalism, without taking their common cause away. Thus, caring people seriously and very sentimentally set themselves to the task of remedying the evils that they see in poverty, but their remedies do not cure the disease: they merely prolong it because, the proper aim is to try and reconstruct society on such a basis that poverty will be impossible.</description>
+<authors>
+<author>
+<id>3565</id>
+<name>Oscar Wilde</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521044377p5/3565.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521044377p2/3565.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3565.Oscar_Wilde]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>1522437</ratings_count>
+<text_reviews_count>50622</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>6534570</id>
+  <uri>kca://work/amzn1.gr.work.v1.pSkayFI9gXDjgKJGPYHpUw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon May 01 00:00:00 -0700 2017</read_at>
+  <date_added>Thu May 04 06:00:55 -0700 2017</date_added>
+  <date_updated>Thu May 04 06:04:37 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1990632508]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1990632508]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1990632100</id>
+    <book>
+  <id type="integer">1</id>
+  <isbn>0439785960</isbn>
+  <isbn13>9780439785969</isbn13>
+  <text_reviews_count type="integer">26868</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.L9KPn9NQyHxsNneS-mDWAg</uri>
+  <title>Harry Potter and the Half-Blood Prince (Harry Potter, #6)</title>
+  <title_without_series>Harry Potter and the Half-Blood Prince</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039191l/1._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039191l/1._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince</link>
+  <num_pages>652</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic Inc.</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.56</average_rating>
+  <ratings_count>2172003</ratings_count>
+  <description>When Harry Potter and the Half-Blood Prince opens, the war against Voldemort has begun. The Wizarding world has split down the middle, and as the casualties mount, the effects even spill over onto the Muggles. Dumbledore is away from Hogwarts for long periods, and the Order of the Phoenix has suffered grievous losses. And yet, as in all wars, life goes on.&lt;br /&gt;&lt;br /&gt;Harry, Ron, and Hermione, having passed their O.W.L. level exams, start on their specialist N.E.W.T. courses. Sixth-year students learn to Apparate, losing a few eyebrows in the process. Teenagers flirt and fight and fall in love. Harry becomes captain of the Gryffindor Quidditch team, while Draco Malfoy pursues his own dark ends. And classes are as fascinating and confounding as ever, as Harry receives some extraordinary help in Potions from the mysterious Half-Blood Prince.&lt;br /&gt;&lt;br /&gt;Most importantly, Dumbledore and Harry work together to uncover the full and complex story of a boy once named Tom Riddle—the boy who became Lord Voldemort. Like Harry, he was the son of one Muggle-born and one Wizarding parent, raised unloved, and a speaker of Parseltongue. But the similarities end there, as the teenaged Riddle became deeply interested in the Dark objects known as Horcruxes: objects in which a wizard can hide part of his soul, if he dares splinter that soul through murder.&lt;br /&gt;&lt;br /&gt;Harry must use all the tools at his disposal to draw a final secret out of one of Riddle’s teachers, the sly Potions professor Horace Slughorn. Finally Harry and Dumbledore hold the key to the Dark Lord’s weaknesses... until a shocking reversal exposes Dumbledore’s own vulnerabilities, and casts Harry’s—and Hogwarts’s—future in shadow.&lt;br /&gt;&lt;br /&gt;Source: &lt;a target="_blank" href="http://harrypotter.scholastic.com" rel="nofollow"&gt;http://harrypotter.scholastic.com&lt;/a&gt;</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22935899</ratings_count>
+<text_reviews_count>550467</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>41335427</id>
+  <uri>kca://work/amzn1.gr.work.v1.txipecnIYua0HbI4GhIAkA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Apr 01 00:00:00 -0700 2017</read_at>
+  <date_added>Thu May 04 06:00:08 -0700 2017</date_added>
+  <date_updated>Thu May 04 06:04:53 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1990632100]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1990632100]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1990632058</id>
+    <book>
+  <id type="integer">2</id>
+  <isbn>0439358078</isbn>
+  <isbn13>9780439358071</isbn13>
+  <text_reviews_count type="integer">28426</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.uGB1cTbG_Dm5BpjL_i7pqw</uri>
+  <title>Harry Potter and the Order of the Phoenix (Harry Potter, #5)</title>
+  <title_without_series>Harry Potter and the Order of the Phoenix</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546910265l/2._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546910265l/2._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix</link>
+  <num_pages>870</num_pages>
+  <format>Paperback</format>
+  <edition_information>US Edition</edition_information>
+  <publisher>Scholastic Inc.</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.49</average_rating>
+  <ratings_count>2226554</ratings_count>
+  <description>There is a door at the end of a silent corridor. And it’s haunting Harry Pottter’s dreams. Why else would he be waking in the middle of the night, screaming in terror?&lt;br /&gt;&lt;br /&gt;Harry has a lot on his mind for this, his fifth year at Hogwarts: a Defense Against the Dark Arts teacher with a personality like poisoned honey; a big surprise on the Gryffindor Quidditch team; and the looming terror of the Ordinary Wizarding Level exams. But all these things pale next to the growing threat of He-Who-Must-Not-Be-Named---a threat that neither the magical government nor the authorities at Hogwarts can stop.&lt;br /&gt;&lt;br /&gt;As the grasp of darkness tightens, Harry must discover the true depth and strength of his friends, the importance of boundless loyalty, and the shocking price of unbearable sacrifice.&lt;br /&gt;&lt;br /&gt;His fate depends on them all.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22935899</ratings_count>
+<text_reviews_count>550467</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>2809203</id>
+  <uri>kca://work/amzn1.gr.work.v1.QBlq2dw4tPMZSuXhlMeXww</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Apr 01 00:00:00 -0700 2017</read_at>
+  <date_added>Thu May 04 06:00:03 -0700 2017</date_added>
+  <date_updated>Thu May 04 06:05:05 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1990632058]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1990632058]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1990632027</id>
+    <book>
+  <id type="integer">6</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">30565</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Qtinlqa0DGyf_iLtfFVrCQ</uri>
+  <title>Harry Potter and the Goblet of Fire (Harry Potter, #4)</title>
+  <title_without_series>Harry Potter and the Goblet of Fire</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554006152l/6._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554006152l/6._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire</link>
+  <num_pages>734</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Scholastic Trade Paperback Edition</edition_information>
+  <publisher>Scholastic</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.55</average_rating>
+  <ratings_count>2281736</ratings_count>
+  <description>Harry Potter is midway through his training as a wizard and his coming of age. Harry wants to get away from the pernicious Dursleys and go to the International Quidditch Cup. He wants to find out about the mysterious event that's supposed to take place at Hogwarts this year, an event involving two other rival schools of magic, and a competition that hasn't happened for a hundred years. He wants to be a normal, fourteen-year-old wizard. But unfortunately for Harry Potter, he's not normal - even by wizarding standards. And in his case, different can be deadly. --back cover</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22935899</ratings_count>
+<text_reviews_count>550467</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>3046572</id>
+  <uri>kca://work/amzn1.gr.work.v1.USb5ObBtcLXUuC3i9aoelA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Apr 01 00:00:00 -0700 2017</read_at>
+  <date_added>Thu May 04 06:00:01 -0700 2017</date_added>
+  <date_updated>Thu May 04 06:05:17 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1990632027]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1990632027]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1990631998</id>
+    <book>
+  <id type="integer">136251</id>
+  <isbn>0545010225</isbn>
+  <isbn13>9780545010221</isbn13>
+  <text_reviews_count type="integer">50505</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.J45EZhldLHRv1GBWdMc7Uw</uri>
+  <title>Harry Potter and the Deathly Hallows (Harry Potter, #7)</title>
+  <title_without_series>Harry Potter and the Deathly Hallows</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474171184l/136251._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474171184l/136251._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows</link>
+  <num_pages>759</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First American Edition</edition_information>
+  <publisher>Arthur A. Levine Books / Scholastic Inc.</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.61</average_rating>
+  <ratings_count>2529567</ratings_count>
+  <description>Harry Potter is leaving Privet Drive for the last time. But as he climbs into the sidecar of Hagrid’s motorbike and they take to the skies, he knows Lord Voldemort and the Death Eaters will not be far behind.&lt;br /&gt;&lt;br /&gt;The protective charm that has kept him safe until now is broken. But the Dark Lord is breathing fear into everything he loves. And he knows he can’t keep hiding.&lt;br /&gt;&lt;br /&gt;To stop Voldemort, Harry knows he must find the remaining Horcruxes and destroy them.&lt;br /&gt;&lt;br /&gt;He will have to face his enemy in one final battle.&lt;br /&gt;--jkrowling.com</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22935899</ratings_count>
+<text_reviews_count>550467</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>2963218</id>
+  <uri>kca://work/amzn1.gr.work.v1.Adr1zpcHTPWrbOovOdZhlA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Apr 01 00:00:00 -0700 2017</read_at>
+  <date_added>Thu May 04 05:59:58 -0700 2017</date_added>
+  <date_updated>Thu May 04 06:05:41 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1990631998]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1990631998]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1990631976</id>
+    <book>
+  <id type="integer">15881</id>
+  <isbn>0439064864</isbn>
+  <isbn13>9780439064866</isbn13>
+  <text_reviews_count type="integer">33621</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KlY-hIN06yK2_7Y8_mQVig</uri>
+  <title>Harry Potter and the Chamber of Secrets (Harry Potter, #2)</title>
+  <title_without_series>Harry Potter and the Chamber of Secrets</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474169725l/15881._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474169725l/15881._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets</link>
+  <num_pages>341</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First American Edition</edition_information>
+  <publisher>Arthur A. Levine Books / Scholastic Inc.</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.41</average_rating>
+  <ratings_count>2395399</ratings_count>
+  <description>The Dursleys were so mean and hideous that summer that all Harry Potter wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he's packing his bags, Harry receives a warning from a strange, impish creature named Dobby who says that if Harry Potter returns to Hogwarts, disaster will strike&lt;br /&gt;&lt;br /&gt;And strike it does. For in Harry's second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor, Gilderoy Lockhart, a spirit named Moaning Myrtle who haunts the girls' bathroom, and the unwanted attentions of Ron Weasley's younger sister, Ginny.&lt;br /&gt;&lt;br /&gt;But each of these seem minor annoyances when the real trouble begins, and someone -- or something -- starts turning Hogwarts students to stone. Could it be Draco Malfoy, a more poisonous rival than ever? Could it possibly be Hagrid, whose mysterious past is finally told? Or could it be the one everyone at Hogwarts most suspects . . . Harry Potter himself?&lt;br /&gt;&lt;br /&gt;--jacket description</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22935899</ratings_count>
+<text_reviews_count>550467</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>6231171</id>
+  <uri>kca://work/amzn1.gr.work.v1.PjwTgn-_w5b0mY40RgNxdw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 01 00:00:00 -0800 2017</read_at>
+  <date_added>Thu May 04 05:59:56 -0700 2017</date_added>
+  <date_updated>Thu May 04 06:06:02 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1990631976]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1990631976]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1990631939</id>
+    <book>
+  <id type="integer">5</id>
+  <isbn>043965548X</isbn>
+  <isbn13>9780439655484</isbn13>
+  <text_reviews_count type="integer">35258</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.om7j-Dd6wInrhO7TVy51Ow</uri>
+  <title>Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)</title>
+  <title_without_series>Harry Potter and the Prisoner of Azkaban</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499277281l/5._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499277281l/5._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban</link>
+  <num_pages>435</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic Inc.</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.56</average_rating>
+  <ratings_count>2438455</ratings_count>
+  <description>Harry Potter's third year at Hogwarts is full of new dangers. A convicted murderer, Sirius Black, has broken out of Azkaban prison, and it seems he's after Harry. Now Hogwarts is being patrolled by the dementors, the Azkaban guards who are hunting Sirius. But Harry can't imagine that Sirius or, for that matter, the evil Lord Voldemort could be more frightening than the dementors themselves, who have the terrible power to fill anyone they come across with aching loneliness and despair. Meanwhile, life continues as usual at Hogwarts. A top-of-the-line broom takes Harry's success at Quidditch, the sport of the Wizarding world, to new heights. A cute fourth-year student catches his eye. And he becomes close with the new Defense of the Dark Arts teacher, who was a childhood friend of his father. Yet despite the relative safety of life at Hogwarts and the best efforts of the dementors, the threat of Sirius Black grows ever closer. But if Harry has learned anything from his education in wizardry, it is that things are often not what they seem. Tragic revelations, heartwarming surprises, and high-stakes magical adventures await the boy wizard in this funny and poignant third installment of the beloved series.&lt;br /&gt;--scholastic.com</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22935899</ratings_count>
+<text_reviews_count>550467</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>2402163</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZkLfli5sQE5ax3qSa7235Q</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 01 00:00:00 -0800 2017</read_at>
+  <date_added>Thu May 04 05:59:52 -0700 2017</date_added>
+  <date_updated>Thu May 04 06:06:13 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1990631939]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1990631939]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1990631913</id>
+    <book>
+  <id type="integer">3</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">72241</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tJT_00n8UPpvWa-zWHEAXg</uri>
+  <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone</link>
+  <num_pages>322</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Inc</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>6200909</ratings_count>
+  <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22935899</ratings_count>
+<text_reviews_count>550467</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>4640799</id>
+  <uri>kca://work/amzn1.gr.work.v1.TbpxJa2CwiSSz_9W2FruoA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Mar 01 00:00:00 -0800 2017</read_at>
+  <date_added>Thu May 04 05:59:50 -0700 2017</date_added>
+  <date_updated>Thu May 04 06:06:28 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1990631913]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1990631913]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1928218067</id>
+    <book>
+  <id type="integer">6150</id>
+  <isbn>074326195X</isbn>
+  <isbn13>9780743261951</isbn13>
+  <text_reviews_count type="integer">2891</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.pV8WPB92Hu9PWiKmF1NlGA</uri>
+  <title>Cry, the Beloved Country</title>
+  <title_without_series>Cry, the Beloved Country</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344182368l/6150._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344182368l/6150._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6150.Cry_the_Beloved_Country</link>
+  <num_pages>316</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scribner</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>61395</ratings_count>
+  <description>Cry, the Beloved Country, the most famous and important novel in South Africa’s history, was an immediate worldwide bestseller in 1948. Alan Paton’s impassioned novel about a black man’s country under white man’s law is a work of searing beauty.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Cry, the beloved country, for the unborn child that is the inheritor of our fear. Let him not love the earth too deeply. Let him not laugh too gladly when the water runs through his fingers, nor stand too silent when the setting sun makes red the veld with fire. Let him not be too moved when the birds of his land are singing, nor give too much of his heart to a mountain or valley. For fear will rob him of all if he gives too much.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;&lt;/i&gt;The eminent literary critic Lewis Gannett wrote, “We have had many novels from statesmen and reformers, almost all bad; many novels from poets, almost all thin. In Alan Paton’s &lt;i&gt;Cry, the Beloved Country&lt;/i&gt; the statesman, the poet and the novelist meet in a unique harmony.” &lt;br /&gt;&lt;br /&gt;&lt;i&gt;Cry, the Beloved Country&lt;/i&gt; is the deeply moving story of the Zulu pastor Stephen Kumalo and his son, Absalom, set against the background of a land and a people riven by racial injustice. Remarkable for its lyricism, unforgettable for character and incident, &lt;i&gt;Cry, the Beloved Country&lt;/i&gt; is a classic work of love and hope, courage and endurance, born of the dignity of man.</description>
+<authors>
+<author>
+<id>3527</id>
+<name>Alan Paton</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206549067p5/3527.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1206549067p2/3527.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3527.Alan_Paton]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>63577</ratings_count>
+<text_reviews_count>3985</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>59082</id>
+  <uri>kca://work/amzn1.gr.work.v1.g3P7LR5nX2EN6IjhhDM9PQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 01 01:45:27 -0800 2017</date_added>
+  <date_updated>Wed Jul 24 20:24:43 -0700 2019</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1928218067]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1928218067]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1896767908</id>
+    <book>
+  <id type="integer">18749</id>
+  <isbn>1400044162</isbn>
+  <isbn13>9781400044160</isbn13>
+  <text_reviews_count type="integer">5314</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.mZzNb3VfcEjbSIgPwlPJdg</uri>
+  <title>Half of a Yellow Sun</title>
+  <title_without_series>Half of a Yellow Sun</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327934717l/18749._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327934717l/18749._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18749.Half_of_a_Yellow_Sun</link>
+  <num_pages>433</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Knopf</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.31</average_rating>
+  <ratings_count>85668</ratings_count>
+  <description>A masterly, haunting new novel from a writer heralded by The Washington Post Book World as “the 21st-century daughter of Chinua Achebe,” Half of a Yellow Sun re-creates a seminal moment in modern African history: Biafra’s impassioned struggle to establish an independent republic in Nigeria in the 1960s, and the chilling violence that followed. &lt;br /&gt;&lt;br /&gt;With astonishing empathy and the effortless grace of a natural storyteller, Chimamanda Ngozi Adichie weaves together the lives of three characters swept up in the turbulence of the decade. Thirteen-year-old Ugwu is employed as a houseboy for a university professor full of revolutionary zeal. Olanna is the professor’s beautiful mistress, who has abandoned her life of privilege in Lagos for a dusty university town and the charisma of her new lover. And Richard is a shy young Englishman in thrall to Olanna’s twin sister, an enigmatic figure who refuses to belong to anyone. As Nigerian troops advance and the three must run for their lives, their ideals are severely tested, as are their loyalties to one another. &lt;br /&gt;&lt;br /&gt;Epic, ambitious, and triumphantly realized, Half of a Yellow Sun is a remarkable novel about moral responsibility, about the end of colonialism, about ethnic allegiances, about class and race—and the ways in which love can complicate them all. Adichie brilliantly evokes the promise and the devastating disappointments that marked this time and place, bringing us one of the most powerful, dramatic, and intensely emotional pictures of modern Africa that we have ever had.</description>
+<authors>
+<author>
+<id>11291</id>
+<name>Chimamanda Ngozi Adichie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474446019p5/11291.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474446019p2/11291.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11291.Chimamanda_Ngozi_Adichie]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>561953</ratings_count>
+<text_reviews_count>55540</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>1651408</id>
+  <uri>kca://work/amzn1.gr.work.v1.M-ZgwCx4X95x_ZHp5A1xhg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue May 21 10:22:37 -0700 2019</started_at>
+  <read_at>Tue Jun 25 09:40:23 -0700 2019</read_at>
+  <date_added>Mon Jan 30 01:48:26 -0800 2017</date_added>
+  <date_updated>Wed Jun 26 09:36:59 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[War is always unkind and patriotism often dire.<br /><br />A biography, lecture, and the timeless story of African politics and Western domination - not to mention the ever-present warning (if I may call it that) on "the danger of a single story."<br /><br />Well worth the read. Highly recommende...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1896767908]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1896767908]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1894232785</id>
+    <book>
+  <id type="integer">886822</id>
+  <isbn nil="true"/>
+  <isbn13>1466223588/97</isbn13>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qC2jz7zvQA_-qLhpxGERFQ</uri>
+  <title>The Book of Man</title>
+  <title_without_series>The Book of Man</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555016778l/886822._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555016778l/886822._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/886822.The_Book_of_Man</link>
+  <num_pages>176</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Cracked Sidewalk Press</publisher>
+  <publication_day/>
+  <publication_year>2011</publication_year>
+  <publication_month/>
+  <average_rating>4.29</average_rating>
+  <ratings_count>49</ratings_count>
+  <description>Set in the Scottish Third World hidden inside the First, this novel takes a savagely uncompromising and unsentimental look at the true nature of love and friendship in a city that, like its troubled characters, has lost all its old certainties. &lt;br /&gt;&lt;br /&gt;London-based writer and single father Kevin Previn returns to his native Glasgow after an absence of ten years, his homecoming prompted by the death of a friend and mentor, junkie writer Mike Illingworth, author of The Book of Man. &lt;br /&gt;&lt;br /&gt;Previn believes he's trawling the streets of Glasgow in order to make sense of his old friend's troubled life and death - but he's on a personal journey, a quest to understand his own childhood brutalities, mental breakdown and lost loves, and the terrifying control the state can exert over the individual. Past and present become one as Previn discovers what he has really left behind.</description>
+<authors>
+<author>
+<id>455866</id>
+<name>Barry Graham</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1538063389p5/455866.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1538063389p2/455866.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/455866.Barry_Graham]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>447</ratings_count>
+<text_reviews_count>72</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>872080</id>
+  <uri>kca://work/amzn1.gr.work.v1._OY4fYt4eAP6bX2DW53dSw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jan 30 00:00:00 -0800 2017</started_at>
+  <read_at>Mon Jan 30 00:00:00 -0800 2017</read_at>
+  <date_added>Fri Jan 27 15:53:22 -0800 2017</date_added>
+  <date_updated>Thu May 04 06:06:36 -0700 2017</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1894232785]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1894232785]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1806889168</id>
+    <book>
+  <id type="integer">12505</id>
+  <isbn>0679642420</isbn>
+  <isbn13>9780679642428</isbn13>
+  <text_reviews_count type="integer">2666</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VYOeNLdTxwD5Uhm9ifAYqA</uri>
+  <title>The Idiot</title>
+  <title_without_series>The Idiot</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327865902l/12505._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327865902l/12505._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12505.The_Idiot</link>
+  <num_pages>667</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Modern Library</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.18</average_rating>
+  <ratings_count>115346</ratings_count>
+  <description>Returning to Russia from a sanitarium in Switzerland, the Christ-like epileptic Prince Myshkin finds himself enmeshed in a tangle of love, torn between two women—the notorious kept woman Nastasya and the pure Aglaia—both involved, in turn, with the corrupt, money-hungry Ganya. In the end, Myshkin’s honesty, goodness, and integrity are shown to be unequal to the moral emptiness of those around him. In her revision of the Garnett translation, Anna Brailovsky has corrected inaccuracies wrought by Garnett’s drastic anglicization of the novel, restoring as much as possible the syntactical structure of the original story.</description>
+<authors>
+<author>
+<id>3137322</id>
+<name>Fyodor Dostoyevsky</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1506003555p5/3137322.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1506003555p2/3137322.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3137322.Fyodor_Dostoyevsky]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>1329193</ratings_count>
+<text_reviews_count>57867</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>6552198</id>
+  <uri>kca://work/amzn1.gr.work.v1.RETyIRCLnSfRJOE2J_I0Pg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Nov 08 00:00:00 -0800 2016</started_at>
+  <read_at>Sun Jan 15 00:00:00 -0800 2017</read_at>
+  <date_added>Tue Nov 08 13:31:28 -0800 2016</date_added>
+  <date_updated>Sun Jan 15 14:59:46 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1806889168]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1806889168]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1746311860</id>
+    <book>
+  <id type="integer">5107</id>
+  <isbn>0316769177</isbn>
+  <isbn13>9780316769174</isbn13>
+  <text_reviews_count type="integer">42627</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.IqM3-G-EAL6pSFPVNq63FQ</uri>
+  <title>The Catcher in the Rye</title>
+  <title_without_series>The Catcher in the Rye</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300l/5107._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye</link>
+  <num_pages>277</num_pages>
+  <format>Paperback</format>
+  <edition_information>First Back Bay Paperback Edition (US/CAN)</edition_information>
+  <publisher>Back Bay Books</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>2493266</ratings_count>
+  <description>The hero-narrator of &lt;i&gt;The Catcher in the Rye&lt;/i&gt; is an ancient child of sixteen, a native New Yorker named Holden Caulfield. Through circumstances that tend to preclude adult, secondhand description, he leaves his prep school in Pennsylvania and goes underground in New York City for three days. The boy himself is at once too simple and too complex for us to make any final comment about him or his story. Perhaps the safest thing we can say about Holden is that he was born in the world not just strongly attracted to beauty but, almost, hopelessly impaled on it. There are many voices in this novel: children's voices, adult voices, underground voices-but Holden's voice is the most eloquent of all. Transcending his own vernacular, yet remaining marvelously faithful to it, he issues a perfectly articulated cry of mixed pain and pleasure. However, like most lovers and clowns and poets of the higher orders, he keeps most of the pain to, and for, himself. The pleasure he gives away, or sets aside, with all his heart. It is there for the reader who can handle it to keep. &lt;br /&gt;&lt;br /&gt;J.D. Salinger's classic novel of teenage angst and rebellion was first published in 1951. The novel was included on &lt;i&gt;Time&lt;/i&gt;'s 2005 list of the 100 best English-language novels written since 1923. It was named by Modern Library and its readers as one of the 100 best English-language novels of the 20th century. It has been frequently challenged in the court for its liberal use of profanity and portrayal of sexuality and in the 1950's and 60's it was the novel that every teenage boy wants to read.</description>
+<authors>
+<author>
+<id>819789</id>
+<name>J.D. Salinger</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1288777679p5/819789.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1288777679p2/819789.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/819789.J_D_Salinger]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>2863182</ratings_count>
+<text_reviews_count>65394</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+<work>  <id>3036731</id>
+  <uri>kca://work/amzn1.gr.work.v1.YHa4gac7IHvOiAUZkxSmsg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Sep 02 00:00:00 -0700 2016</started_at>
+  <read_at>Fri Jan 27 00:00:00 -0800 2017</read_at>
+  <date_added>Fri Sep 02 06:41:22 -0700 2016</date_added>
+  <date_updated>Fri Jan 27 15:56:15 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1746311860]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1746311860]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567811033</id>
+    <book>
+  <id type="integer">2145833</id>
+  <isbn>051508185X</isbn>
+  <isbn13>9780515081855</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.dQkYTQIrTEmRN26oeXeVLQ</uri>
+  <title>Alone and Afraid</title>
+  <title_without_series>Alone and Afraid</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1270318953l/2145833._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1270318953l/2145833._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2145833.Alone_and_Afraid</link>
+  <num_pages>180</num_pages>
+  <format>Paperback</format>
+  <edition_information>Camfield #21</edition_information>
+  <publisher>Jove</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1985</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.45</average_rating>
+  <ratings_count>29</ratings_count>
+  <description>In the exclusive worlds of Paris and London, exquisite Kitrina had little more than the angelic beauty born of her parents scandalous love. Then the handsome, bold worldly wise Marquis of Elkesley knew all too clearly the shining young woman's future: she'd become the child-bride of the fierce, ruthless desert sheikh who imagination she had captivated...</description>
+<authors>
+<author>
+<id>10320</id>
+<name>Barbara Cartland</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1363041660p5/10320.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1363041660p2/10320.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/10320.Barbara_Cartland]]></link>
+<average_rating>3.54</average_rating>
+<ratings_count>29919</ratings_count>
+<text_reviews_count>1592</text_reviews_count>
+</author>
+</authors>
+  <published>1985</published>
+<work>  <id>2151325</id>
+  <uri>kca://work/amzn1.gr.work.v1.LCs1GhHnqUyjq417-Rr5Uw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 07:52:54 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 07:53:03 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567811033]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567811033]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567778865</id>
+    <book>
+  <id type="integer">1024687</id>
+  <isbn>070911608X</isbn>
+  <isbn13>9780709116080</isbn13>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.C-epko9QWY3RqU2qCj9eHA</uri>
+  <title>Like a Hole in the Head</title>
+  <title_without_series>Like a Hole in the Head</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1281368146l/1024687._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1281368146l/1024687._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1024687.Like_a_Hole_in_the_Head</link>
+  <num_pages/>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.76</average_rating>
+  <ratings_count>583</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>63913</id>
+<name>James Hadley Chase</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1325029190p5/63913.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1325029190p2/63913.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/63913.James_Hadley_Chase]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>24156</ratings_count>
+<text_reviews_count>1345</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>1171369</id>
+  <uri>kca://work/amzn1.gr.work.v1.lorrnCQEA652X0QI5sg93g</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 07:16:55 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 07:16:56 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567778865]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567778865]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567778100</id>
+    <book>
+  <id type="integer">613062</id>
+  <isbn>0553287095</isbn>
+  <isbn13>9780553287097</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.XYe34XCL2i18187yMzfo7g</uri>
+  <title>Invasions</title>
+  <title_without_series>Invasions</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370610930l/613062._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1370610930l/613062._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/613062.Invasions</link>
+  <num_pages>336</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Crimeline</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1991</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>37</ratings_count>
+  <description>Eugene Izzi delivers a scorching novel of high-voltage suspense guaranteed to confirm his position among the first rank of crime writers. "Taut, powerful writing . . ".--The New York Times Book Review.</description>
+<authors>
+<author>
+<id>327398</id>
+<name>Eugene Izzi</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1194381520p5/327398.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1194381520p2/327398.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/327398.Eugene_Izzi]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>339</ratings_count>
+<text_reviews_count>15</text_reviews_count>
+</author>
+</authors>
+  <published>1991</published>
+<work>  <id>599518</id>
+  <uri>kca://work/amzn1.gr.work.v1.aAQyQGM6Khd1Pr683N5JiA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 07:16:06 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 07:16:07 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567778100]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567778100]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567775344</id>
+    <book>
+  <id type="integer">1881004</id>
+  <isbn>0439060303</isbn>
+  <isbn13>9780439060301</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Bvr_o-KfVv4Ha-BJu7BuxA</uri>
+  <title>Doomsday (2099, #1)</title>
+  <title_without_series>Doomsday</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1881004.Doomsday</link>
+  <num_pages>180</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Scholastic</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.01</average_rating>
+  <ratings_count>134</ratings_count>
+  <description>When his evil clone begins to build a virus that will be able to destroy everything in the fully computerized world of 2099, Tristan Connor must find a way to disable his creation and put a stop to his clone's horrific plan.</description>
+<authors>
+<author>
+<id>9339</id>
+<name>John Peel</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1328211995p5/9339.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1328211995p2/9339.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/9339.John_Peel]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>12079</ratings_count>
+<text_reviews_count>746</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>1882032</id>
+  <uri>kca://work/amzn1.gr.work.v1.BbT-hNNcI2Kkn3YTMwTGsg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 07:13:06 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 07:13:08 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567775344]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567775344]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567774005</id>
+    <book>
+  <id type="integer">10818853</id>
+  <isbn>1612130291</isbn>
+  <isbn13>9781612130293</isbn13>
+  <text_reviews_count type="integer">68444</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.io4j4oTWOrRgwov3N0d0KQ</uri>
+  <title>Fifty Shades of Grey (Fifty Shades, #1)</title>
+  <title_without_series>Fifty Shades of Grey</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385207843l/10818853._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1385207843l/10818853._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10818853-fifty-shades-of-grey</link>
+  <num_pages>356</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day>25</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.67</average_rating>
+  <ratings_count>1718427</ratings_count>
+  <description>When literature student Anastasia Steele goes to interview young entrepreneur Christian Grey, she encounters a man who is beautiful, brilliant, and intimidating. The unworldly, innocent Ana is startled to realize she wants this man and, despite his enigmatic reserve, finds she is desperate to get close to him. Unable to resist Ana’s quiet beauty, wit, and independent spirit, Grey admits he wants her, too—but on his own terms.&lt;br /&gt; &lt;br /&gt;Shocked yet thrilled by Grey’s singular erotic tastes, Ana hesitates. For all the trappings of success—his multinational businesses, his vast wealth, his loving family—Grey is a man tormented by demons and consumed by the need to control. When the couple embarks on a daring, passionately physical affair, Ana discovers Christian Grey’s secrets and explores her own dark desires.&lt;br /&gt;&lt;br /&gt;Erotic, amusing, and deeply moving, the Fifty Shades Trilogy is a tale that will obsess you, possess you, and stay with you forever.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;This book is intended for mature audiences.&lt;/b&gt;</description>
+<authors>
+<author>
+<id>4725841</id>
+<name>E.L. James</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1549477398p5/4725841.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1549477398p2/4725841.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4725841.E_L_James]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>3380156</ratings_count>
+<text_reviews_count>155692</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>15732562</id>
+  <uri>kca://work/amzn1.gr.work.v1.O_qFmqZYBqGQFb4ExyyyCw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 07:11:31 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 07:11:31 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567774005]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567774005]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567771693</id>
+    <book>
+  <id type="integer">10534</id>
+  <isbn>1590302257</isbn>
+  <isbn13>9781590302255</isbn13>
+  <text_reviews_count type="integer">5629</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.kYPf-NrB9NvXnIdl79xEMQ</uri>
+  <title>The Art of War</title>
+  <title_without_series>The Art of War</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453417993l/10534._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453417993l/10534._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10534.The_Art_of_War</link>
+  <num_pages>273</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Shambhala</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>281880</ratings_count>
+  <description>Twenty-Five Hundred years ago, Sun Tzu wrote this classic book of military strategy based on Chinese warfare and military thought. Since that time, all levels of military have used the teaching on Sun Tzu to warfare and civilization have adapted these teachings for use in politics, business and everyday life. The Art of War is a book which should be used to gain advantage of opponents in the boardroom and battlefield alike.</description>
+<authors>
+<author>
+<id>1771</id>
+<name>Sun Tzu</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1185211202p5/1771.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1185211202p2/1771.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1771.Sun_Tzu]]></link>
+<average_rating>3.97</average_rating>
+<ratings_count>289006</ratings_count>
+<text_reviews_count>9436</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>3200649</id>
+  <uri>kca://work/amzn1.gr.work.v1.Qvp9-uRCX3l7q-ln1MnEKw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 07:08:51 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 07:08:53 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567771693]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567771693]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567769713</id>
+    <book>
+  <id type="integer">865</id>
+  <isbn>0061122416</isbn>
+  <isbn13>9780061122415</isbn13>
+  <text_reviews_count type="integer">55515</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.RhbsHK1g_jvJjhqouJTBvw</uri>
+  <title>The Alchemist</title>
+  <title_without_series>The Alchemist</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483412266l/865._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483412266l/865._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/865.The_Alchemist</link>
+  <num_pages>197</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1993</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.86</average_rating>
+  <ratings_count>1834142</ratings_count>
+  <description>Paulo Coelho's masterpiece tells the mystical story of Santiago, an Andalusian shepherd boy who yearns to travel in search of a worldly treasure. His quest will lead him to riches far different—and far more satisfying—than he ever imagined. Santiago's journey teaches us about the essential wisdom of listening to our hearts, of recognizing opportunity and learning to read the omens strewn along life's path, and, most importantly, to follow our dreams.</description>
+<authors>
+<author>
+<id>566</id>
+<name>Paulo Coelho</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p5/566.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1201840056p2/566.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/566.Paulo_Coelho]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>2801356</ratings_count>
+<text_reviews_count>124752</text_reviews_count>
+</author>
+</authors>
+  <published>1993</published>
+<work>  <id>4835472</id>
+  <uri>kca://work/amzn1.gr.work.v1.syCV9OwBbsfTJL-UYgBmwg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Mar 12 11:07:43 -0800 2016</started_at>
+  <read_at>Wed Mar 16 09:13:11 -0700 2016</read_at>
+  <date_added>Thu Mar 03 07:06:50 -0800 2016</date_added>
+  <date_updated>Wed Mar 16 09:13:11 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567769713]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567769713]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567769175</id>
+    <book>
+  <id type="integer">7613</id>
+  <isbn>0452284244</isbn>
+  <isbn13>9780452284241</isbn13>
+  <text_reviews_count type="integer">29490</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._W5xqHHsgJCKA7skF45m8A</uri>
+  <title>Animal Farm</title>
+  <title_without_series>Animal Farm</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424037542l/7613._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424037542l/7613._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7613.Animal_Farm</link>
+  <num_pages>122</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>NAL</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>2435533</ratings_count>
+  <description>George Orwell's timeless and timely allegorical novel—a scathing satire on a downtrodden society’s blind march towards totalitarianism.&lt;br /&gt;&lt;br /&gt;“All animals are equal, but some animals are more equal than others.”&lt;br /&gt;&lt;br /&gt;A farm is taken over by its overworked, mistreated animals. With flaming idealism and stirring slogans, they set out to create a paradise of progress, justice, and equality. Thus the stage is set for one of the most telling satiric fables ever penned—a razor-edged fairy tale for grown-ups that records the evolution from revolution against tyranny to a totalitarianism just as terrible. &lt;br /&gt; &lt;br /&gt;When Animal Farm was first published, Stalinist Russia was seen as its target. Today it is devastatingly clear that wherever and whenever freedom is attacked, under whatever banner, the cutting clarity and savage comedy of George Orwell’s masterpiece have a meaning and message still ferociously fresh.</description>
+<authors>
+<author>
+<id>3706</id>
+<name>George Orwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p5/3706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p2/3706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>5518069</ratings_count>
+<text_reviews_count>125125</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>2207778</id>
+  <uri>kca://work/amzn1.gr.work.v1.V_MbIpN8vLdVjldwRz26LA</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 07:06:16 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 07:06:19 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567769175]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567769175]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567768083</id>
+    <book>
+  <id type="integer">24583</id>
+  <isbn>0143039563</isbn>
+  <isbn13>9780143039563</isbn13>
+  <text_reviews_count type="integer">6622</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.lWvKpTEcsMswpiBDBWKPBA</uri>
+  <title>The Adventures of Tom Sawyer</title>
+  <title_without_series>The Adventures of Tom Sawyer</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404811979l/24583._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404811979l/24583._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24583.The_Adventures_of_Tom_Sawyer</link>
+  <num_pages>244</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>698078</ratings_count>
+  <description>An adventure story for children, &lt;i&gt;The Adventures of Tom Sawyer&lt;/i&gt; is a fun-filled book that shows life along the Mississippi River in the 1840s. Written by Mark Twain, the book shows masterfully-done satire, racism, childhood, and the importance of loyalty and courage- no matter the cost.</description>
+<authors>
+<author>
+<id>1244</id>
+<name>Mark Twain</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322103868p5/1244.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1322103868p2/1244.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1244.Mark_Twain]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>2234000</ratings_count>
+<text_reviews_count>44647</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>41326609</id>
+  <uri>kca://work/amzn1.gr.work.v1.kXOnOW0-OgOufxLF7vvrCg</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 07:05:06 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 07:05:07 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567768083]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567768083]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567767832</id>
+    <book>
+  <id type="integer">5470</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">42512</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.nqUog6xQ4LAPVhvC1rgNmg</uri>
+  <title>1984</title>
+  <title_without_series>1984</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348990566l/5470._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348990566l/5470._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5470.1984</link>
+  <num_pages>328</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>Signet Classics</edition_information>
+  <publisher>New American Library</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1950</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>2719081</ratings_count>
+  <description>The year 1984 has come and gone, but George Orwell's prophetic, nightmarish vision in 1949 of the world we were becoming is timelier than ever. &lt;i&gt;1984&lt;/i&gt; is still the great modern classic of "negative utopia"—a startlingly original and haunting novel that creates an imaginary world that is completely convincing, from the first sentence to the last four words. No one can deny the novel's hold on the imaginations of whole generations, or the power of its admonitions—a power that seems to grow, not lessen, with the passage of time.</description>
+<authors>
+<author>
+<id>3706</id>
+<name>George Orwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p5/3706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p2/3706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>5518069</ratings_count>
+<text_reviews_count>125125</text_reviews_count>
+</author>
+</authors>
+  <published>1950</published>
+<work>  <id>153313</id>
+  <uri>kca://work/amzn1.gr.work.v1.SgJQSc4-cyFNY1JLB6R9mA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jan 01 00:00:00 -0800 2016</read_at>
+  <date_added>Thu Mar 03 07:04:51 -0800 2016</date_added>
+  <date_updated>Sat Jul 02 12:19:09 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567767832]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567767832]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567765904</id>
+    <book>
+  <id type="integer">8852</id>
+  <isbn>0743477103</isbn>
+  <isbn13>9780743477109</isbn13>
+  <text_reviews_count type="integer">7530</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.IGykeffaBUVsngulib0f8g</uri>
+  <title>Macbeth</title>
+  <title_without_series>Macbeth</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459795224l/8852._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459795224l/8852._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8852.Macbeth</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information>Folger Shakespeare Library Edition</edition_information>
+  <publisher>Simon  Schuster</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>615276</ratings_count>
+  <description>One night on the heath, the brave and respected general Macbeth encounters three witches who foretell that he will become king of Scotland. At first sceptical, he’s urged on by the ruthless, single-minded ambitions of Lady Macbeth, who suffers none of her husband’s doubt. But seeing the prophecy through to the bloody end leads them both spiralling into paranoia, tyranny, madness, and murder.&lt;br /&gt;&lt;br /&gt;This shocking tragedy - a violent caution to those seeking power for its own sake - is, to this day, one of Shakespeare’s most popular and influential masterpieces.</description>
+<authors>
+<author>
+<id>947</id>
+<name>William Shakespeare</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424313573p5/947.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424313573p2/947.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>5838679</ratings_count>
+<text_reviews_count>103641</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>1896522</id>
+  <uri>kca://work/amzn1.gr.work.v1.-j6ArN84EcfISRwjvvdbuw</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 07:02:43 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 07:02:47 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567765904]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567765904]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567765619</id>
+    <book>
+  <id type="integer">1420</id>
+  <isbn>0521618746</isbn>
+  <isbn13>9780521618748</isbn13>
+  <text_reviews_count type="integer">6918</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.HL4T6MT1gk6_2nv-y0dEXA</uri>
+  <title>Hamlet</title>
+  <title_without_series>Hamlet</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351051208l/1420._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351051208l/1420._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1420.Hamlet</link>
+  <num_pages>289</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Cambridge University Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>667790</ratings_count>
+  <description>Among Shakespeare's plays, "Hamlet" is considered by many his masterpiece. Among actors, the role of Hamlet, Prince of Denmark, is considered the jewel in the crown of a triumphant theatrical career. Now Kenneth Branagh plays the leading role and co-directs a brillant ensemble performance. Three generations of legendary leading actors, many of whom first assembled for the Oscar-winning film "Henry V", gather here to perform the rarely heard complete version of the play. This clear, subtly nuanced, stunning dramatization, presented by The Renaissance Theatre Company in association with "Bbc" Broadcasting, features such luminaries as Sir John Gielgud, Derek Jacobi, Emma Thompson and Christopher Ravenscroft. It combines a full cast with stirring music and sound effects to bring this magnificent Shakespearen classic vividly to life. Revealing new riches with each listening, this production of "Hamlet" is an invaluable aid for students, teachers and all true lovers of Shakespeare - a recording to be treasured for decades to come.</description>
+<authors>
+<author>
+<id>947</id>
+<name>William Shakespeare</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424313573p5/947.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1424313573p2/947.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/947.William_Shakespeare]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>5838679</ratings_count>
+<text_reviews_count>103641</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>1885548</id>
+  <uri>kca://work/amzn1.gr.work.v1.RLVIvKa0xs5exQHwAHVp2A</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 07:02:26 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 07:02:27 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567765619]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567765619]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567763828</id>
+    <book>
+  <id type="integer">17245</id>
+  <isbn>0393970124</isbn>
+  <isbn13>9780393970128</isbn13>
+  <text_reviews_count type="integer">14390</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.t7lAVnVT7OVaBtH-4GNOXA</uri>
+  <title>Dracula</title>
+  <title_without_series>Dracula</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387151694l/17245._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387151694l/17245._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17245.Dracula</link>
+  <num_pages>488</num_pages>
+  <format>Paperback</format>
+  <edition_information>Norton Critical Edition</edition_information>
+  <publisher>Norton</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>1986</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>843608</ratings_count>
+  <description>&lt;i&gt;You can find an alternative cover edition for this ISBN &lt;a href="https://www.goodreads.com/book/show/33805355-dracula" rel="nofollow"&gt;here&lt;/a&gt; and &lt;a href="https://www.goodreads.com/book/show/34810834-dracula" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;A rich selection of background and source materials is provided in three areas: Contexts includes probable inspirations for Dracula in the earlier works of James Malcolm Rymer and Emily Gerard. Also included are a discussion of Stoker's working notes for the novel and "Dracula's Guest," the original opening chapter to Dracula. Reviews and Reactions reprints five early reviews of the novel. "Dramatic and Film Variations" focuses on theater and film adaptations of Dracula, two indications of the novel's unwavering appeal. David J. Skal, Gregory A. Waller, and Nina Auerbach offer their varied perspectives. Checklists of both dramatic and film adaptations are included.&lt;br /&gt;&lt;br /&gt;Criticism collects seven theoretical interpretations of Dracula by Phyllis A. Roth, Carol A. Senf, Franco Moretti, Christopher Craft, Bram Dijkstra, Stephen D. Arata, and Talia Schaffer.&lt;br /&gt;&lt;br /&gt;A Chronology and a Selected Bibliography are included.</description>
+<authors>
+<author>
+<id>6988</id>
+<name>Bram Stoker</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1202438456p5/6988.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1202438456p2/6988.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6988.Bram_Stoker]]></link>
+<average_rating>3.98</average_rating>
+<ratings_count>898904</ratings_count>
+<text_reviews_count>25869</text_reviews_count>
+</author>
+</authors>
+  <published>1986</published>
+<work>  <id>3165724</id>
+  <uri>kca://work/amzn1.gr.work.v1.yGUCLDLvYSA7IrXe3sHPqQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 07:00:30 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 07:00:35 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567763828]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567763828]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567763524</id>
+    <book>
+  <id type="integer">5297</id>
+  <isbn>0375751513</isbn>
+  <isbn13>9780375751516</isbn13>
+  <text_reviews_count type="integer">16599</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.i7g-VIWuZggpy_2dIMnCxw</uri>
+  <title>The Picture of Dorian Gray</title>
+  <title_without_series>The Picture of Dorian Gray</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546103428l/5297._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546103428l/5297._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray</link>
+  <num_pages>272</num_pages>
+  <format>Paperback</format>
+  <edition_information>Modern Library Classics</edition_information>
+  <publisher>Random House: Modern Library</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.07</average_rating>
+  <ratings_count>850637</ratings_count>
+  <description>Cselekményleírást tartalmaz!&lt;br /&gt;&lt;br /&gt;Oscar ​Wilde klasszikus regényének hőse, a gazdag, gyönyörű és naiv fiatalember, Dorian Gray megszállottja annak a gondolatnak, hogy örökké fiatal és szép maradjon, s ezért még akár a lelkét is eladná. Miután az egyik barátja megfesti portréját, a fiú csak azt fájlalja, hogy az ő szépségét az élet és az idő hamar lerombolja majd, míg a képe örök marad, s azt kívánja, hogy bárcsak ez fordítva lenne.&lt;br /&gt;&lt;br /&gt;A fiatalember hamarosan cinikus barátja, Lord Henry Wotton befolyása alá kerül, aki ráébreszti az élet ízeire. Dorian átadja magát az önző és rafinált élvezeteknek, férfiakat és nőket taszít a bűn útjára, majd egyre mélyebbre süllyed, s a züllés minden nemét és formáját megtapasztalja. Az események egyre riasztóbb fordulatot vesznek, mivel nemsokára megtudja, hogy kívánsága teljesült. Legnagyobb csodálkozására ugyanis csak a róla készült kép öregszik. Arca és szeme őrzi az ártatlan ifjú szépségét, a festett arcmás viszont, amelyet gondosan elzárva tart háza egy titkos helyiségében, híven mutatja az idő és a bűn rombolását vonásain.&lt;br /&gt;&lt;br /&gt;Ekkor úgy érzi, itt az ideje megváltoztatnia az életét. Hogy teljesen tisztára mossa magát, bűnös múltjának tanúját, a szörnyűséges képet meg akarja semmisíteni…</description>
+<authors>
+<author>
+<id>3565</id>
+<name>Oscar Wilde</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521044377p5/3565.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521044377p2/3565.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3565.Oscar_Wilde]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>1522437</ratings_count>
+<text_reviews_count>50622</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>1858012</id>
+  <uri>kca://work/amzn1.gr.work.v1.gXJHa3LhEx7l4V2-nnzgHw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Mar 03 07:49:39 -0800 2016</started_at>
+  <read_at>Sat Jul 02 12:24:32 -0700 2016</read_at>
+  <date_added>Thu Mar 03 07:00:08 -0800 2016</date_added>
+  <date_updated>Sat Jul 02 12:24:32 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567763524]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567763524]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567763095</id>
+    <book>
+  <id type="integer">7624</id>
+  <isbn>0140283331</isbn>
+  <isbn13>9780140283334</isbn13>
+  <text_reviews_count type="integer">25583</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.kSnNl4MoBUSPb-pSSfaVZQ</uri>
+  <title>Lord of the Flies</title>
+  <title_without_series>Lord of the Flies</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409l/7624._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409l/7624._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7624.Lord_of_the_Flies</link>
+  <num_pages>182</num_pages>
+  <format>Paperback</format>
+  <edition_information>Penguin Great Books of the 20th Century</edition_information>
+  <publisher>Penguin Books </publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.67</average_rating>
+  <ratings_count>2077225</ratings_count>
+  <description>At the dawn of the next world war, a plane crashes on an uncharted island, stranding a group of schoolboys. At first, with no adult supervision, their freedom is something to celebrate; this far from civilization the boys can do anything they want. Anything. They attempt to forge their own society, failing, however, in the face of terror, sin and evil. And as order collapses, as strange howls echo in the night, as terror begins its reign, the hope of adventure seems as far from reality as the hope of being rescued. Labeled a parable, an allegory, a myth, a morality tale, a parody, a political treatise, even a vision of the apocalypse, Lord of the Flies is perhaps our most memorable novel about “the end of innocence, the darkness of man’s heart.”</description>
+<authors>
+<author>
+<id>306</id>
+<name>William Golding</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1198342496p5/306.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1198342496p2/306.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/306.William_Golding]]></link>
+<average_rating>3.67</average_rating>
+<ratings_count>2094944</ratings_count>
+<text_reviews_count>35213</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>2766512</id>
+  <uri>kca://work/amzn1.gr.work.v1.mylCQ2vLQs_kZba8SrXsZg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 06:59:36 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 06:59:38 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567763095]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567763095]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567762667</id>
+    <book>
+  <id type="integer">11486</id>
+  <isbn>0671727796</isbn>
+  <isbn13>9780671727796</isbn13>
+  <text_reviews_count type="integer">9360</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qod8XHx-MCHvQpXRzTCH8A</uri>
+  <title>The Color Purple</title>
+  <title_without_series>The Color Purple</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556348375l/11486._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556348375l/11486._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11486.The_Color_Purple</link>
+  <num_pages>295</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Pocket</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>471793</ratings_count>
+  <description>&lt;i&gt;The Color Purple&lt;/i&gt; is a classic. With over a million copies sold in the UK alone, it is hailed as one of the all-time 'greats' of literature, inspiring generations of readers.&lt;br /&gt;&lt;br /&gt;Set in the deep American South between the wars, it is the tale of Celie, a young black girl born into poverty and segregation. Raped repeatedly by the man she calls 'father', she has two children taken away from her, is separated from her beloved sister Nettie and is trapped into an ugly marriage. But then she meets the glamorous Shug Avery, singer and magic-maker - a woman who has taken charge of her own destiny. Gradually, Celie discovers the power and joy of her own spirit, freeing her from her past and reuniting her with those she loves.</description>
+<authors>
+<author>
+<id>7380</id>
+<name>Alice Walker</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1406752585p5/7380.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1406752585p2/7380.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7380.Alice_Walker]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>548794</ratings_count>
+<text_reviews_count>17535</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>3300573</id>
+  <uri>kca://work/amzn1.gr.work.v1.c3MfYa7RwTW7qI4vlM3Y8A</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Feb 01 05:13:11 -0800 2017</started_at>
+  <read_at>Wed Mar 01 01:46:15 -0800 2017</read_at>
+  <date_added>Thu Mar 03 06:59:05 -0800 2016</date_added>
+  <date_updated>Wed Mar 01 01:46:14 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567762667]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567762667]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567762462</id>
+    <book>
+  <id type="integer">2657</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">67480</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.n0CD0ECMpxCldCqzG72KSQ</uri>
+  <title>To Kill a Mockingbird (To Kill a Mockingbird, #1)</title>
+  <title_without_series>To Kill a Mockingbird</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690l/2657._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Harper Perennial Modern Classics</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.27</average_rating>
+  <ratings_count>4067340</ratings_count>
+  <description>The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.&lt;br /&gt;&lt;br /&gt;Compassionate, dramatic, and deeply moving, To Kill A Mockingbird takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.</description>
+<authors>
+<author>
+<id>1825</id>
+<name>Harper Lee</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p5/1825.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1188820730p2/1825.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1825.Harper_Lee]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>4290037</ratings_count>
+<text_reviews_count>113173</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>3275794</id>
+  <uri>kca://work/amzn1.gr.work.v1.bBuiCknnVtCo2qKc86WVjw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 06:58:49 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 06:58:50 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567762462]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567762462]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567762411</id>
+    <book>
+  <id type="integer">1885</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">40547</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ohBt6JapM36l0ttZSdCzpA</uri>
+  <title>Pride and Prejudice</title>
+  <title_without_series>Pride and Prejudice</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399351l/1885._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399351l/1885._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1885.Pride_and_Prejudice</link>
+  <num_pages>279</num_pages>
+  <format>Paperback</format>
+  <edition_information>Modern Library Classics, USA / CAN</edition_information>
+  <publisher>Modern Library</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>2667944</ratings_count>
+  <description>&lt;i&gt;Alternate cover edition of ISBN 9780679783268&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Since its immediate success in 1813, &lt;i&gt;Pride and Prejudice&lt;/i&gt; has remained one of the most popular novels in the English language. Jane Austen called this brilliant work "her own darling child" and its vivacious heroine, Elizabeth Bennet, "as delightful a creature as ever appeared in print." The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring. And Jane Austen's radiant wit sparkles as her characters dance a delicate quadrille of flirtation and intrigue, making this book the most superb comedy of manners of Regency England.</description>
+<authors>
+<author>
+<id>1265</id>
+<name>Jane Austen</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1380085320p5/1265.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1380085320p2/1265.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1265.Jane_Austen]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>5475197</ratings_count>
+<text_reviews_count>151372</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>3060926</id>
+  <uri>kca://work/amzn1.gr.work.v1.M0dBEz0jvKwG6oOW8qlNVw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 06:58:45 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 06:58:46 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567762411]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567762411]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1567762202</id>
+    <book>
+  <id type="integer">4671</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">49899</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Rka-Q5n8mdEE6GzuIQRElQ</uri>
+  <title>The Great Gatsby</title>
+  <title_without_series>The Great Gatsby</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4671.The_Great_Gatsby</link>
+  <num_pages>200</num_pages>
+  <format>Paperback</format>
+  <edition_information>US / CAN</edition_information>
+  <publisher>Scribner</publisher>
+  <publication_day/>
+  <publication_year>2004</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>3388840</ratings_count>
+  <description>Alternate Cover Edition ISBN: 0743273567 (ISBN13: &lt;a href="https://www.goodreads.com/book/show/41733839-the-great-gatsby" rel="nofollow"&gt;9780743273565&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;The Great Gatsby, F. Scott Fitzgerald's third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story is of the fabulously wealthy Jay Gatsby and his new love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted "gin was the national drink and sex the national obsession," it is an exquisitely crafted tale of America in the 1920s.&lt;br /&gt;&lt;br /&gt;The Great Gatsby is one of the great classics of twentieth-century literature.&lt;br /&gt;(back cover)</description>
+<authors>
+<author>
+<id>3190</id>
+<name>F. Scott Fitzgerald</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1517864008p5/3190.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1517864008p2/3190.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>3730153</ratings_count>
+<text_reviews_count>81725</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>245494</id>
+  <uri>kca://work/amzn1.gr.work.v1.56BQMsZ2-7G__6NkMx9vWg</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="174255836" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Mar 03 06:58:30 -0800 2016</date_added>
+  <date_updated>Thu Mar 03 06:58:31 -0800 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1567762202]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1567762202]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

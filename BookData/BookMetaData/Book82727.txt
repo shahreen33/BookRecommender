@@ -1,0 +1,2 @@
+The Korn Shell Command And Programming Language by Morris I. Bolsky
+Average Rating: 4.38

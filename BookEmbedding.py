@@ -120,6 +120,7 @@ dataset1 = []
 #print(BookIds)
 ValidBookIds = []
 valid = 0
+rmvbooks = open(str(os.getcwd())+'Removed_Book_List.txt', 'a+')
 for filename in filelist:	
 	f = open(filename, 'r')
 	temp = f.read().strip()
@@ -127,6 +128,7 @@ for filename in filelist:
 	temp = preprocess(temp)
 	if(temp == ""):
 		print(filename)
+		rmvbooks.write(filename)
 		os.remove(filename)
 		valid = valid + 1
 		continue
@@ -145,7 +147,7 @@ mini = 999999999
 minix = "nothing"
 for i in dataset[:N]:
     count = count+1
-    print("Working on dataset : %d..." %(count)) 
+    print("Working on dataset : %d..." %(count-1)) 
     if maxi < len(i):
         maxi = len(i)
     if mini > len(i):
@@ -159,13 +161,13 @@ print(maxi)
 print(mini)
 print(minix)
 print(N)
-word2vecModel = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True)
+word2vecModel = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True, limit = 10000)
 wordVectors = word2vecModel.wv
 dimension = word2vecModel.vector_size	
 zeroVector = [0] * dimension
 BookProfile = []
 
-
+finalValid = 0
 for i in range(N):
 	sz = len(processed_text[i])
 	nparr = np.empty([1,dimension])
@@ -186,10 +188,14 @@ for i in range(N):
 	newarr = np.sum(nparr, axis=0)
 	newarr = newarr / sz
 	#print(topicVectors)
+	if(np.array_equal(np.array(newarr), np.array(zeroVector))==True):
+		continue
 	BookProfile.append(newarr)
 	fileName =str(os.getcwd())+"/BookData/BookProfiles/BookProfile_"+ValidBookIds[i]
+	finalValid += 1
 	with open(fileName, "wb") as fp:   #Pickling
 		pickle.dump(newarr, fp)
+print(finalValid)
 '''
 testfile = str(os.getcwd())+"/BookData/BookProfiles/BookProfile_"+BookIds[6]
 with open(testfile, "rb") as fp:   # Unpickling 

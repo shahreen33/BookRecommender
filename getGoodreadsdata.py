@@ -1,4 +1,3 @@
-
 import requests
 import os
 
@@ -30,6 +29,9 @@ N = len(grId)
 
 for i in range(N):
 	fname = str(os.getcwd())+"/UserRawData/RawGRData/"+ twId[i]+'_'+grId[i]+".xml"
+	if(os.path.isfile(fname)==True):
+		print("Already processed")
+		continue
 	requestURL = 'https://www.goodreads.com/review/list?key=IzTRndFKRignOkxxlNn0ng&v=2&id='+grId[i]+'&per_page=200&shelf=read&sort=date_added'
 	res = requests.get(requestURL)
 	print(res)

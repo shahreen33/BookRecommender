@@ -1,0 +1,2534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='96624529' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="33" total="33">
+    <review>
+  <id>3017579045</id>
+    <book>
+  <id type="integer">6631792</id>
+  <isbn>0007233701</isbn>
+  <isbn13>9780007233700</isbn13>
+  <text_reviews_count type="integer">2016</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.LyLnoIMqnVh5EEBz6DUVbw</uri>
+  <title>The Book of Tomorrow</title>
+  <title_without_series>The Book of Tomorrow</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1276970678l/6631792._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1276970678l/6631792._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6631792-the-book-of-tomorrow</link>
+  <num_pages>320</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins Publishers Ltd</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.66</average_rating>
+  <ratings_count>32457</ratings_count>
+  <description>Tamara Goodwin has always lived in the here and now, never giving a second thought to tomorrow. Until a traveling library arrives in her tiny village, bringing with it a mysterious, large leather-bound book locked with a gold clasp and padlock.&lt;br /&gt;&lt;br /&gt;What she discovers within the pages takes her breath away and shakes her world to its core.&lt;br /&gt;&lt;br /&gt;A mesmerizing story about how tomorrow can change what happens today...</description>
+<authors>
+<author>
+<id>7116</id>
+<name>Cecelia Ahern</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414058421p5/7116.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414058421p2/7116.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7116.Cecelia_Ahern]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>697589</ratings_count>
+<text_reviews_count>41629</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>6826164</id>
+  <uri>kca://work/amzn1.gr.work.v1.TRYFEfXM4XiPK6akcLbQ_A</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Oct 19 00:02:45 -0700 2019</started_at>
+  <read_at>Sat Nov 09 06:13:00 -0800 2019</read_at>
+  <date_added>Sat Oct 19 00:02:44 -0700 2019</date_added>
+  <date_updated>Sat Nov 09 06:13:00 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3017579045]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3017579045]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2999386538</id>
+    <book>
+  <id type="integer">28765183</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">94</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.boydQruvmUAorLIxWsTdVA</uri>
+  <title>Harry Potter and the Prisoner of Azkaban (Harry Potter #3)</title>
+  <title_without_series>Harry Potter and the Prisoner of Azkaban</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28765183-harry-potter-and-the-prisoner-of-azkaban</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.56</average_rating>
+  <ratings_count>2438562</ratings_count>
+  <description>Harry Potter's third year at Hogwarts is full of new dangers. A convicted murderer, Sirius Black, has broken out of Azkaban prison, and it seems he's after Harry. Now Hogwarts is being patrolled by the dementors, the Azkaban guards who are hunting Sirius. But Harry can't imagine that Sirius or, for that matter, the evil Lord Voldemort could be more frightening than the dementors themselves, who have the terrible power to fill anyone they come across with aching loneliness and despair. Meanwhile, life continues as usual at Hogwarts. A top-of-the-line broom takes Harry's success at Quidditch, the sport of the Wizarding world, to new heights. A cute fourth-year student catches his eye. And he becomes close with the new Defense of the Dark Arts teacher, who was a childhood friend of his father. Yet despite the relative safety of life at Hogwarts and the best efforts of the dementors, the threat of Sirius Black grows ever closer. But if Harry has learned anything from his education in wizardry, it is that things are often not what they seem. Tragic revelations, heartwarming surprises, and high-stakes magical adventures await the boy wizard in this funny and poignant third installment of the beloved series.&lt;br /&gt;--scholastic.com</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22937150</ratings_count>
+<text_reviews_count>550504</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>2402163</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZkLfli5sQE5ax3qSa7235Q</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Wed Oct 02 23:31:15 -0700 2019</read_at>
+  <date_added>Wed Oct 02 23:31:15 -0700 2019</date_added>
+  <date_updated>Wed Oct 02 23:31:15 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2999386538]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2999386538]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2971762909</id>
+    <book>
+  <id type="integer">28699254</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">128</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.EICM2SwFlG3tVRuz8SrB9A</uri>
+  <title>Harry Potter and the Chamber of Secrets (Harry Potter #2)</title>
+  <title_without_series>Harry Potter and the Chamber of Secrets</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28699254-harry-potter-and-the-chamber-of-secrets</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.41</average_rating>
+  <ratings_count>2395469</ratings_count>
+  <description>The Dursleys were so mean and hideous that summer that all Harry Potter wanted was to get back to the Hogwarts School for Witchcraft and Wizardry. But just as he's packing his bags, Harry receives a warning from a strange, impish creature named Dobby who says that if Harry Potter returns to Hogwarts, disaster will strike&lt;br /&gt;&lt;br /&gt;And strike it does. For in Harry's second year at Hogwarts, fresh torments and horrors arise, including an outrageously stuck-up new professor, Gilderoy Lockhart, a spirit named Moaning Myrtle who haunts the girls' bathroom, and the unwanted attentions of Ron Weasley's younger sister, Ginny.&lt;br /&gt;&lt;br /&gt;But each of these seem minor annoyances when the real trouble begins, and someone -- or something -- starts turning Hogwarts students to stone. Could it be Draco Malfoy, a more poisonous rival than ever? Could it possibly be Hagrid, whose mysterious past is finally told? Or could it be the one everyone at Hogwarts most suspects . . . Harry Potter himself?&lt;br /&gt;&lt;br /&gt;--jacket description</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22937150</ratings_count>
+<text_reviews_count>550504</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>6231171</id>
+  <uri>kca://work/amzn1.gr.work.v1.PjwTgn-_w5b0mY40RgNxdw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Sep 09 20:37:47 -0700 2019</started_at>
+  <read_at>Wed Sep 18 06:26:40 -0700 2019</read_at>
+  <date_added>Mon Sep 09 20:37:47 -0700 2019</date_added>
+  <date_updated>Wed Sep 18 06:26:40 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2971762909]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2971762909]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2957708817</id>
+    <book>
+  <id type="integer">34398347</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.0-Q1GhbwTGHJr99APatrpA</uri>
+  <title>1984</title>
+  <title_without_series>1984</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34398347-1984</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information>Modern Classics</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>2719207</ratings_count>
+  <description>This carefully crafted ebook: "1984 (Modern Classics Series)” is formatted for your eReader with a functional and detailed table of contents.&lt;br /&gt;1984 is a political and dystopian science-fiction novel set in Airstrip One, a province of the superstate Oceania. It is a mind-numbing world which in a state of perpetual war, omnipresent government surveillance and public manipulation. Dictated by a political system, called Ingsoc, the lives of its people is under the control of privileged elite of the "Inner Party” which persecutes individualism and independent thinking as "thought crime." Due to the novel's huge popularity, many of its terms and concepts, such as Big Brother, doublethink, thoughtcrime, Newspeak, Room 101, telescreen, 2 + 2 = 5, and memory hole, have entered into common use since its publication in 1949. It has also popularised the adjective "Orwellian”, which describes official deception, secret surveillance, and manipulation of recorded history by a totalitarian or authoritarian state.&lt;br /&gt;George Orwell (1903-1950) whose real name was Eric Arthur Blair was an English novelist, essayist, journalist and critic. His work is marked by lucid prose, awareness of social injustice, opposition to totalitarianism, and outspoken support of democratic socialism.</description>
+<authors>
+<author>
+<id>3706</id>
+<name>George Orwell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p5/3706.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1450573063p2/3706.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3706.George_Orwell]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>5518314</ratings_count>
+<text_reviews_count>125129</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>153313</id>
+  <uri>kca://work/amzn1.gr.work.v1.SgJQSc4-cyFNY1JLB6R9mA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Aug 30 03:57:39 -0700 2019</started_at>
+  <read_at>Mon Sep 09 20:33:10 -0700 2019</read_at>
+  <date_added>Fri Aug 30 03:57:39 -0700 2019</date_added>
+  <date_updated>Mon Sep 09 20:33:10 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2957708817]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2957708817]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2793793300</id>
+    <book>
+  <id type="integer">19288043</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">26495</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hMn5n6jrUjkoQowRb4-yqw</uri>
+  <title>Gone Girl</title>
+  <title_without_series>Gone Girl</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19288043-gone-girl</link>
+  <num_pages>415</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Broadway Books</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>2058697</ratings_count>
+  <description>Marriage can be a real killer.&lt;br /&gt;&lt;br /&gt;On a warm summer morning in North Carthage, Missouri, it is Nick and Amy Dunne’s fifth wedding anniversary. Presents are being wrapped and reservations are being made when Nick’s clever and beautiful wife disappears from their rented McMansion on the Mississippi River. Husband-of-the-Year Nick isn’t doing himself any favors with cringe-worthy daydreams about the slope and shape of his wife’s head, but passages from Amy's diary reveal the alpha-girl perfectionist could have put anyone dangerously on edge. Under mounting pressure from the police and the media—as well as Amy’s fiercely doting parents—the town golden boy parades an endless series of lies, deceits, and inappropriate behavior. Nick is oddly evasive, and he’s definitely bitter—but is he really a killer?&lt;br /&gt;&lt;br /&gt;As the cops close in, every couple in town is soon wondering how well they know the one that they love. With his twin sister, Margo, at his side, Nick stands by his innocence. Trouble is, if Nick didn’t do it, where is that beautiful wife? And what was in that silvery gift box hidden in the back of her bedroom closet?&lt;br /&gt;&lt;br /&gt;With her razor-sharp writing and trademark psychological insight, Gillian Flynn delivers a fast-paced, devilishly dark, and ingeniously plotted thriller that confirms her status as one of the hottest writers around.&lt;br /&gt;&lt;br /&gt;One of the most critically acclaimed suspense writers of our time, New York Times bestseller Gillian Flynn takes that statement to its darkest place in this unputdownable masterpiece about a marriage gone terribly, terribly wrong. The Chicago Tribune proclaimed that her work “draws you in and keeps you reading with the force of a pure but nasty addiction.” Gone Girl’s toxic mix of sharp-edged wit and deliciously chilling prose creates a nerve-fraying thriller that confounds you at every turn.&lt;br /&gt;&lt;br /&gt;Source: gillian-flynn.com</description>
+<authors>
+<author>
+<id>2383</id>
+<name>Gillian Flynn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p5/2383.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1232123231p2/2383.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2383.Gillian_Flynn]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>3348699</ratings_count>
+<text_reviews_count>226129</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>13306276</id>
+  <uri>kca://work/amzn1.gr.work.v1.t8-NZJ8l4PHhZRkiKjYdtg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Apr 21 04:48:22 -0700 2019</started_at>
+  <read_at>Thu Oct 17 11:16:12 -0700 2019</read_at>
+  <date_added>Sun Apr 21 04:48:22 -0700 2019</date_added>
+  <date_updated>Thu Oct 17 11:16:12 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2793793300]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2793793300]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2731539147</id>
+    <book>
+  <id type="integer">366522</id>
+  <isbn>0786890754</isbn>
+  <isbn13>9780786890750</isbn13>
+  <text_reviews_count type="integer">5698</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.SpL_oKELYbkNIST37som7g</uri>
+  <title>P.S. I Love You (P.S. I Love You, #1)</title>
+  <title_without_series>P.S. I Love You</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/366522.P_S_I_Love_You</link>
+  <num_pages>501</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Hachette Books</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.02</average_rating>
+  <ratings_count>318409</ratings_count>
+  <description>&lt;p&gt;A novel about holding on, letting go, and learning to love again.&lt;/p&gt;&lt;p&gt;Now in paperback, the endearing novel that captured readers' hearts and introduced a fresh new voice in women's fiction Cecelia Ahern.&lt;/p&gt; &lt;p&gt;Holly couldn't live without her husband Gerry, until the day she had to. They were the kind of young couple who could finish each other's sentences. When Gerry succumbs to a terminal illness and dies, 30-year-old Holly is set adrift, unable to pick up the pieces. But with the help of a series of letters her husband left her before he died and a little nudging from an eccentric assortment of family and friends, she learns to laugh, overcome her fears, and discover a world she never knew existed.&lt;/p&gt; &lt;p&gt;The kind of enchanting novel with cross-generational appeal that comes along once in a great while, &lt;i&gt;PS, I Love You&lt;/i&gt; is a captivating love letter to the world!&lt;/p&gt;</description>
+<authors>
+<author>
+<id>7116</id>
+<name>Cecelia Ahern</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414058421p5/7116.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414058421p2/7116.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7116.Cecelia_Ahern]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>697589</ratings_count>
+<text_reviews_count>41629</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>2742631</id>
+  <uri>kca://work/amzn1.gr.work.v1.hVyVEZpnJcuA2zXIe1Fa3w</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue Feb 26 22:33:56 -0800 2019</date_added>
+  <date_updated>Tue Feb 26 22:34:14 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2731539147]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2731539147]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2726286015</id>
+    <book>
+  <id type="integer">28757261</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">446</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.JG2fU9vRpNqieu130kZmpg</uri>
+  <title>Harry Potter and the Philosopher's Stone (Harry Potter #1)</title>
+  <title_without_series>Harry Potter and the Philosopher's Stone</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/28757261-harry-potter-and-the-philosopher-s-stone</link>
+  <num_pages>345</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>6201173</ratings_count>
+  <description>&lt;em&gt;"Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'."&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;Harry Potter has never even heard of Hogwarts when the letters start dropping on the doormat at number four, Privet Drive. Addressed in green ink on yellowish parchment with a purple seal, they are swiftly confiscated by his grisly aunt and uncle. Then, on Harry's eleventh birthday, a great beetle-eyed giant of a man called Rubeus Hagrid bursts in with some astonishing news: Harry Potter is a wizard, and he has a place at Hogwarts School of Witchcraft and Wizardry. An incredible adventure is about to begin!</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22937150</ratings_count>
+<text_reviews_count>550504</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>4640799</id>
+  <uri>kca://work/amzn1.gr.work.v1.TbpxJa2CwiSSz_9W2FruoA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Feb 22 23:39:36 -0800 2019</started_at>
+  <read_at>Sun Apr 21 04:44:26 -0700 2019</read_at>
+  <date_added>Fri Feb 22 23:39:36 -0800 2019</date_added>
+  <date_updated>Sun Apr 21 04:44:26 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2726286015]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2726286015]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2689488996</id>
+    <book>
+  <id type="integer">38224633</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">175</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.1UHaqsb6BcOn2DBiEGFQJQ</uri>
+  <title>The Kiss Quotient (The Kiss Quotient #1)</title>
+  <title_without_series>The Kiss Quotient</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38224633-the-kiss-quotient</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information>1st UK Edition</edition_information>
+  <publisher></publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>88923</ratings_count>
+  <description>&lt;b&gt;A heartwarming and refreshing debut novel that proves one thing: there's not enough data in the world to predict what will make your heart tick.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Stella Lane thinks math is the only thing that unites the universe. She comes up with algorithms to predict customer purchases--a job that has given her more money than she knows what to do with, and way less experience in the dating department than the average thirty-year-old.&lt;br /&gt;&lt;br /&gt;It doesn't help that Stella has Asperger's and French kissing reminds her of a shark getting its teeth cleaned by pilot fish. Her conclusion: she needs lots of practice--with a professional. Which is why she hires escort Michael Phan. The Vietnamese and Swedish stunner can't afford to turn down Stella's offer, and agrees to help her check off all the boxes on her lesson plan--from foreplay to more-than-missionary position...&lt;br /&gt;&lt;br /&gt;Before long, Stella not only learns to appreciate his kisses, but to crave all the other things he's making her feel. Soon, their no-nonsense partnership starts making a strange kind of sense. And the pattern that emerges will convince Stella that love is the best kind of logic...</description>
+<authors>
+<author>
+<id>17147855</id>
+<name>Helen Hoang</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1505925131p5/17147855.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1505925131p2/17147855.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17147855.Helen_Hoang]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>123080</ratings_count>
+<text_reviews_count>19953</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>57828311</id>
+  <uri>kca://work/amzn1.gr.work.v1.7gNgjuSLvpw2XHkz-KNu6g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jan 26 20:41:08 -0800 2019</started_at>
+  <read_at>Sat Feb 23 21:56:50 -0800 2019</read_at>
+  <date_added>Fri Jan 25 21:14:37 -0800 2019</date_added>
+  <date_updated>Sat Feb 23 21:56:50 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2689488996]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2689488996]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2072389701</id>
+    <book>
+  <id type="integer">78983</id>
+  <isbn>0312995059</isbn>
+  <isbn13>9780312995058</isbn13>
+  <text_reviews_count type="integer">2904</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Et2l-_WCuiY_COUq3SaTgg</uri>
+  <title>Kane and Abel (Kane and Abel, #1)</title>
+  <title_without_series>Kane and Abel</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/78983.Kane_and_Abel</link>
+  <num_pages>592</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>St. Martin's Paperbacks</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>92441</ratings_count>
+  <description>Born on the same day near the turn of the century on opposite sides of the world, both men are brought together by fate and the quest of a dream. These two men -- ambitious, powerful, ruthless -- are locked in a relentless struggle to build an empire, fuelled by their all-consuming hatred. Over 60 years and three generations, through war, marriage, fortune, and disaster, Kane and Abel battle for the success and triumph that only one man can have.</description>
+<authors>
+<author>
+<id>4820</id>
+<name>Jeffrey Archer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p5/4820.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p2/4820.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4820.Jeffrey_Archer]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>702045</ratings_count>
+<text_reviews_count>37164</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>1084150</id>
+  <uri>kca://work/amzn1.gr.work.v1.7RjMNf6lt31lUSzVLHWFGA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jul 26 04:17:08 -0700 2017</started_at>
+  <read_at>Wed Jan 03 20:31:51 -0800 2018</read_at>
+  <date_added>Wed Jul 26 04:17:08 -0700 2017</date_added>
+  <date_updated>Wed Jan 03 20:31:51 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2072389701]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2072389701]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1900085373</id>
+    <book>
+  <id type="integer">30834043</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jlGDaMkXEurWvV-0xSgllA</uri>
+  <title>Mohini</title>
+  <title_without_series>Mohini</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/30834043-mohini</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.09</average_rating>
+  <ratings_count>226</ratings_count>
+  <description>A beautiful and charismatic actress, a sensitive and immensely gifted director, a scheming, wily but brilliant manager Mohini is the pulsating saga of three individuals, each driven by an obsession. Set in the backdrop of the bold and brazen world of Bollywood, it is a tale of passion, intrigue and suspense. The narrative moves at a roller-coaster speed and captures love in its myriad shades: infatuation, romance, commitment, lust and obsession. A young girl growing up in the backwaters of Bollywood nurses a burning desire to become the number one star in the industry. In her ruthless and sometimes reckless pursuit, she uses and is used by many individuals. However, there are two men in her life who love her to absolute distraction. One she betrays and the other she rejects. Both unleash vengeance and in a strange quirk of serendipity are pitted against each other as the novel hurtles to a throbbing, thrilling climax. Mohini offers an insight into the biggest film industry the murky manipulations, the dirty deals, the shameless shenanigans, the tears behind the glycerine, the pain behind the paint and the suffering beyond the celluloid.</description>
+<authors>
+<author>
+<id>1569197</id>
+<name>Ramendra Kumar</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1569197.Ramendra_Kumar]]></link>
+<average_rating>3.26</average_rating>
+<ratings_count>270</ratings_count>
+<text_reviews_count>30</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>39835784</id>
+  <uri>kca://work/amzn1.gr.work.v1.pjuhK4DXC1G-Ozkm9xCwKw</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Feb 19 05:41:52 -0800 2017</started_at>
+  <read_at>Fri Jun 02 10:19:32 -0700 2017</read_at>
+  <date_added>Wed Feb 01 23:46:31 -0800 2017</date_added>
+  <date_updated>Fri Jun 02 10:19:32 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1900085373]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1900085373]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1819309263</id>
+    <book>
+  <id type="integer">29366317</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">83</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.mv92WvM9lakf3zLRzl_X_w</uri>
+  <title>This Was a Man (The Clifton Chronicles, #7)</title>
+  <title_without_series>This Was a Man</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470425322l/29366317._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470425322l/29366317._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29366317-this-was-a-man</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.29</average_rating>
+  <ratings_count>20181</ratings_count>
+  <description>&lt;p&gt;&lt;i&gt;This Was a Man&lt;/i&gt; is the captivating final instalment of the Clifton Chronicles, a series of seven novels that has topped the bestseller lists around the world, and enhanced Jeffrey Archer's reputation as a master storyteller.&lt;/p&gt;&lt;p&gt;&lt;i&gt;This Was a Man &lt;/i&gt;opens with a shot being fired, but who pulled the trigger, and who lives and who dies? &lt;/p&gt;&lt;p&gt;In Whitehall, Giles Barrington discovers the truth about his wife Karin from the Cabinet Secretary. Is she a spy or a pawn in a larger game?&lt;/p&gt;&lt;p&gt;Harry Clifton sets out to write his magnum opus, while his wife Emma completes her ten years as Chairman of the Bristol Royal Infirmary, and receives an unexpected call from Margaret Thatcher offering her a job.&lt;/p&gt;&lt;p&gt;Sebastian Clifton becomes chairman of Farthings Kaufman bank, but only after Hakim Bishara has to resign for personal reasons. Sebastian and Samantha's talented daughter, Jessica, is expelled from the Slade School of Fine Art, but her aunt Grace comes to her rescue.&lt;/p&gt;&lt;p&gt;Meanwhile, Lady Virginia is about to flee the country to avoid her creditors when the Duchess of Hertford dies, and she sees another opportunity to clear her debts and finally trump the Cliftons and Barringtons.&lt;/p&gt;&lt;p&gt;In a devastating twist, tragedy engulfs the Clifton family when one of them receives a shocking diagnosis that will throw all their lives into turmoil.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>4820</id>
+<name>Jeffrey Archer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p5/4820.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p2/4820.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4820.Jeffrey_Archer]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>702045</ratings_count>
+<text_reviews_count>37164</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>49340661</id>
+  <uri>kca://work/amzn1.gr.work.v1.IRoJiIDh6nwLGXB6wpQXvg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Nov 22 20:39:25 -0800 2016</started_at>
+  <read_at>Fri Feb 24 00:44:12 -0800 2017</read_at>
+  <date_added>Tue Nov 22 20:39:25 -0800 2016</date_added>
+  <date_updated>Fri Feb 24 00:44:12 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1819309263]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1819309263]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1671096588</id>
+    <book>
+  <id type="integer">26050845</id>
+  <isbn>1848454120</isbn>
+  <isbn13>9781848454125</isbn13>
+  <text_reviews_count type="integer">2847</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.cI36XPqgn7kEiMalLtyHmQ</uri>
+  <title>Behind Closed Doors</title>
+  <title_without_series>Behind Closed Doors</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443430111l/26050845._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443430111l/26050845._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26050845-behind-closed-doors</link>
+  <num_pages>351</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>MIRA</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>238322</ratings_count>
+  <description>The 2016 debut bloggers can't stop raving about. Perfect for fans of &lt;i&gt; The Girl on the Train&lt;/i&gt; and &lt;i&gt;The Ice Twins&lt;/i&gt; &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Everyone knows a couple like Jack and Grace.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;He has looks and wealth, she has charm and elegance. You might not want to like them, but you do. Though, you’d like to get to know Grace better.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;But it’s difficult, because you realise Jack and Grace are never apart.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Some might call this true love. Others might ask why Grace never answers the phone. Or how she can never meet for coffee, even though she doesn’t work. How she can cook such elaborate meals but remain so slim. And why there are bars on one of the bedroom windows.&lt;br /&gt;&lt;br /&gt;Sometimes, the perfect marriage is the perfect lie.</description>
+<authors>
+<author>
+<id>14425604</id>
+<name>B.A. Paris</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1497031605p5/14425604.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1497031605p2/14425604.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14425604.B_A_Paris]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>355523</ratings_count>
+<text_reviews_count>38611</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>45981530</id>
+  <uri>kca://work/amzn1.gr.work.v1.asZa-_IEk5HRmRYwOnH1lg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jun 20 05:53:51 -0700 2016</started_at>
+  <read_at>Tue Jun 28 23:18:08 -0700 2016</read_at>
+  <date_added>Thu Jun 16 23:47:43 -0700 2016</date_added>
+  <date_updated>Tue Jun 28 23:18:09 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1671096588]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1671096588]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1649220208</id>
+    <book>
+  <id type="integer">26200487</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">59</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6XjzF5h-RVnwtzn-9Ru3cQ</uri>
+  <title>Cometh the Hour (The Clifton Chronicles #6)</title>
+  <title_without_series>Cometh the Hour</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26200487-cometh-the-hour</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>23638</ratings_count>
+  <description>&lt;i&gt;Cometh the Hour&lt;/i&gt; opens with the reading of a suicide note, which has devastating consequences for Harry and Emma Clifton, Giles Barrington and Lady Virginia.&lt;br /&gt;&lt;br /&gt;Giles must decide if he should withdraw from politics and try to rescue Karin, the woman he loves, from behind the Iron Curtain. But is Karin truly in love with him, or is she a spy?&lt;br /&gt;&lt;br /&gt;Lady Virginia is facing bankruptcy, and can see no way out of her financial problems, until she is introduced to the hapless Cyrus T. Grant III from Baton Rouge, Louisiana, who's in England to see his horse run at Royal Ascot.&lt;br /&gt;&lt;br /&gt;Sebastian Clifton is now the Chief Executive of Farthings Bank and a workaholic, whose personal life is thrown into disarray when he falls for Nadira, a beautiful Indian girl. But her parents have already chosen the man she is going to marry. Meanwhile, Sebastian's rivals Adrian Sloane and Desmond Mellor are still plotting to bring him and his chairman Hakim Bishara down, so they can take over Farthings.&lt;br /&gt;&lt;br /&gt;Harry Clifton remains determined to get Anatoly Babakov released from a gulag in Siberia, following the international success of his acclaimed book, &lt;i&gt;Uncle Joe&lt;/i&gt;. Harry's wife Emma convinces her new friend Margaret Thatcher to raise the subject with the Russian President when she visits Moscow. But then something unexpected happens that none of them could have anticipated.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Cometh the Hour&lt;/i&gt; is the penultimate book in the Clifton Chronicles and, like the five previous novels - all of which went to number one on the &lt;i&gt;Sunday Times&lt;/i&gt; bestseller list - showcases Jeffrey Archer's extraordinary storytelling with his trademark twists.</description>
+<authors>
+<author>
+<id>4820</id>
+<name>Jeffrey Archer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p5/4820.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p2/4820.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4820.Jeffrey_Archer]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>702045</ratings_count>
+<text_reviews_count>37164</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>45495901</id>
+  <uri>kca://work/amzn1.gr.work.v1.RXaivQnIxFVsHN6-VFjnSQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jul 04 02:58:23 -0700 2016</started_at>
+  <read_at>Wed Jul 20 03:25:25 -0700 2016</read_at>
+  <date_added>Wed May 25 23:01:21 -0700 2016</date_added>
+  <date_updated>Wed Jul 20 03:25:25 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1649220208]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1649220208]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1648401212</id>
+    <book>
+  <id type="integer">13075811</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">96</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.GIWjd9TQyh3F-j-Mrri7Bg</uri>
+  <title>In the Barn (Sibling Lust #2)</title>
+  <title_without_series>In the Barn</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328692912l/13075811._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328692912l/13075811._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13075811-in-the-barn</link>
+  <num_pages>25</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Excessica Publishing</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>2.95</average_rating>
+  <ratings_count>957</ratings_count>
+  <description>The temptations of the flesh prove too much for devoutly Amish Sarah, and to make matters worse, the devil has come in the form of her own adopted brother, Eli. When she discovers him doing something strangely exciting in the barn, Sarah can’t help letting her hair down, in more ways than one, and together the siblings give rise to a new definition of sin.</description>
+<authors>
+<author>
+<id>2741079</id>
+<name>Selena Kitt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353001186p5/2741079.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353001186p2/2741079.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2741079.Selena_Kitt]]></link>
+<average_rating>3.57</average_rating>
+<ratings_count>54540</ratings_count>
+<text_reviews_count>7765</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>18242598</id>
+  <uri>kca://work/amzn1.gr.work.v1.8-jesuDxf-I55N-AXAXzsA</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Jan 01 00:00:00 -0800 2016</read_at>
+  <date_added>Wed May 25 05:36:04 -0700 2016</date_added>
+  <date_updated>Mon Jul 04 02:56:55 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1648401212]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1648401212]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1648395536</id>
+    <book>
+  <id type="integer">109201</id>
+  <isbn>0140290478</isbn>
+  <isbn13>9780140290479</isbn13>
+  <text_reviews_count type="integer">206</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.U0_5h9iaYk_1MbvNsmBDQA</uri>
+  <title>The Company of Women</title>
+  <title_without_series>The Company of Women</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1260981688l/109201._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1260981688l/109201._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/109201.The_Company_of_Women</link>
+  <num_pages>232</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Penguin Books India</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.23</average_rating>
+  <ratings_count>3544</ratings_count>
+  <description>Recently Separated From His Nagging, Ill-Tempered Wife Of Thirteen Years, Millionaire Businessman Mohan Kumar Decides To Reinvent His Life. Convinced That 'Lust Is The True Foundation Of Love', He Embarks On An Audacious Plan: He Will Advertise For Paid Lady Companions To Share His Bed And His Life. Thus Begins His Journey Of Easy, Unbridled Sexuality In The Company Of Some Remarkable Women. There Is Sarojini Bharadwai, The Demure Professor From Small-Town Haryana Who Surprises Mohan With Her Ardour And Sexual Energy; Molly Gomes, The Free-Spirited Masseuse From Goa, Mistress Of The Sensual Impulse; And Susanthika Goonatilleke, The Diminutive Seductress From Sri Lanka. After Each Affair Ends And Before The Next Begins, Mohan Finds Solace In The Practiced Charms Of His Obliging Maid, Dhanno, And In The Memories Of His First Lovers: The American Jessica Browne, To Whom He Lost His Virginity, And The Pakistani Yasmeen Wanchoo, Who Brought Him The Heady Passion Of An Older Woman. In The Company Of Women, Khushwant Singh, India'S Most Widely Read Author, Has Produced An Uninhibited, Erotic And Endlessly Entertaining Celebration Of Love, Sex And Passion.</description>
+<authors>
+<author>
+<id>63189</id>
+<name>Khushwant Singh</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1304154217p5/63189.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1304154217p2/63189.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/63189.Khushwant_Singh]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>41574</ratings_count>
+<text_reviews_count>3242</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>105234</id>
+  <uri>kca://work/amzn1.gr.work.v1.X6uw3gqcrLnHhIWhRmZFbw</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri May 27 23:38:13 -0700 2016</started_at>
+  <read_at>Mon Jun 13 04:56:08 -0700 2016</read_at>
+  <date_added>Wed May 25 05:27:01 -0700 2016</date_added>
+  <date_updated>Wed Jun 29 02:10:12 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1648395536]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1648395536]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1645199102</id>
+    <book>
+  <id type="integer">1611988</id>
+  <isbn>0312379293</isbn>
+  <isbn13>9780312379292</isbn13>
+  <text_reviews_count type="integer">1825</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.TXbC8PGP_Nl3rclH4uMTiQ</uri>
+  <title>A Prisoner of Birth</title>
+  <title_without_series>A Prisoner of Birth</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1611988.A_Prisoner_of_Birth</link>
+  <num_pages>501</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>30570</ratings_count>
+  <description>&lt;b&gt;
+  &lt;blockquote&gt;International bestseller and master storyteller Jeffrey Archer is at the very top of his game in this story of fate and fortune, redemption and revenge.&lt;/blockquote&gt;
+&lt;/b&gt;If Danny Cartwright had proposed to Beth Wilson the day before, or the day after, he would not have been arrested and charged with the murder of his best friend. But when the four prosecution witnesses are a barrister, a popular actor, an aristocrat, and the youngest partner in an established firm's history, who is going to believe his side of the story?&lt;p&gt;Danny is sentenced to twenty-two years and sent to Belmarsh prison, the highest-security jail in the land, from where no inmate has ever escaped.&lt;/p&gt;&lt;p&gt;However, Spencer Craig, Lawrence Davenport, Gerald Payne, and Toby Mortimer all underestimate Danny's determination to seek revenge, and Beth's relentless quest to pursue justice, which ends up with all four fighting for their lives.&lt;/p&gt;&lt;p&gt;Thus begins Jeffrey Archer's most powerful novel since &lt;i&gt;Kane and Abel,&lt;/i&gt; with a cast of characters that will remain with you long after you've turned the last page.&lt;/p&gt;&lt;p&gt;And if that is not enough, prepare for an ending that will shock even the most ardent of Archer's fans.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>4820</id>
+<name>Jeffrey Archer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p5/4820.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p2/4820.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4820.Jeffrey_Archer]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>702045</ratings_count>
+<text_reviews_count>37164</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>3062843</id>
+  <uri>kca://work/amzn1.gr.work.v1.WAKoc0x6RpuwRNZabjyw9g</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat May 21 21:51:08 -0700 2016</date_added>
+  <date_updated>Tue May 24 04:10:36 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1645199102]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1645199102]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1645198809</id>
+    <book>
+  <id type="integer">78972</id>
+  <isbn>0061092037</isbn>
+  <isbn13>9780061092039</isbn13>
+  <text_reviews_count type="integer">288</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.k33yg0xUD73wC4erUpAJfg</uri>
+  <title>The Fourth Estate</title>
+  <title_without_series>The Fourth Estate</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/78972.The_Fourth_Estate</link>
+  <num_pages>742</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>HarperPaperbacks</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.76</average_rating>
+  <ratings_count>11524</ratings_count>
+  <description>Lubji Hoch survived World War II on luck, guts, and ruthlessness. At the war's end, renamed Richard Armstrong, he buys a floundering newspaper in Berlin and deviously puts his competitors out of business. But it isn't enough. Meanwhile, on the other side of the world, Keith Townsend, the Oxford-educated son of a millionaire newspaper owner, takes over his family's business. His energy and brilliant strategic thinking quickly make him the leading newspaper publisher in Australia. Still, he longs to move on to the world stage.&lt;br /&gt;&lt;br /&gt;As both Armstrong and Townsend seize control of everything they see, their ambitions collide on a global scale. But suddenly they both find themselves threatened by finicial disaster and enormous debt. Frantic to save his crumbling empire, each man turns desperate. One's quest will lead to triumph, the other's will end in tragedy in this awesome tale of wealth and corruption, desire and destruction.</description>
+<authors>
+<author>
+<id>4820</id>
+<name>Jeffrey Archer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p5/4820.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p2/4820.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4820.Jeffrey_Archer]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>702045</ratings_count>
+<text_reviews_count>37164</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>76253</id>
+  <uri>kca://work/amzn1.gr.work.v1.0Ywy3gQ3Tux6sBiGL5cNAQ</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat May 21 21:50:38 -0700 2016</date_added>
+  <date_updated>Tue May 24 04:10:34 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1645198809]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1645198809]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1645198066</id>
+    <book>
+  <id type="integer">11264737</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">37</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Q6RPui4yp8mote3wNsncxQ</uri>
+  <title>Kane and Abel (Kane and Abel, #1)</title>
+  <title_without_series>Kane and Abel</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11264737-kane-and-abel</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher/>
+  <publication_day/>
+  <publication_year/>
+  <publication_month/>
+  <average_rating>4.29</average_rating>
+  <ratings_count>92441</ratings_count>
+  <description>Born on the same day near the turn of the century on opposite sides of the world, both men are brought together by fate and the quest of a dream. These two men -- ambitious, powerful, ruthless -- are locked in a relentless struggle to build an empire, fuelled by their all-consuming hatred. Over 60 years and three generations, through war, marriage, fortune, and disaster, Kane and Abel battle for the success and triumph that only one man can have.</description>
+<authors>
+<author>
+<id>4820</id>
+<name>Jeffrey Archer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p5/4820.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p2/4820.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4820.Jeffrey_Archer]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>702045</ratings_count>
+<text_reviews_count>37164</text_reviews_count>
+</author>
+</authors>
+  <published/>
+<work>  <id>1084150</id>
+  <uri>kca://work/amzn1.gr.work.v1.7RjMNf6lt31lUSzVLHWFGA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jan 01 00:00:00 -0800 2009</started_at>
+  <read_at>Thu Jan 01 00:00:00 -0800 2009</read_at>
+  <date_added>Sat May 21 21:49:28 -0700 2016</date_added>
+  <date_updated>Mon Dec 25 09:52:54 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1645198066]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1645198066]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1574277944</id>
+    <book>
+  <id type="integer">11314438</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">32</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Wdkc0KRekkIbYq2l2u2ISQ</uri>
+  <title>Warm Bodies (Warm Bodies, #1)</title>
+  <title_without_series>Warm Bodies</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323400065l/11314438._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1323400065l/11314438._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11314438-warm-bodies</link>
+  <num_pages>240</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.92</average_rating>
+  <ratings_count>97249</ratings_count>
+  <description>'R' is a zombie. He has no name, no memories, and no pulse, but he has dreams. He is a little different from his fellow Dead. Amongst the ruins of an abandoned city, R meets a girl. Her name is Julie and she is the opposite of everything he knows - warm and bright and very much alive, she is a blast of colour in a dreary grey landscape. For reasons he can't understand, R chooses to save Julie instead of eating her, and a tense yet strangely tender relationship begins. This has never happened before. It breaks the rules and defies logic, but R is no longer content with life in the grave. He wants to breathe again, he wants to live, and Julie wants to help him. But their grim, rotting world won't be changed without a fight...</description>
+<authors>
+<author>
+<id>1302285</id>
+<name>Isaac Marion</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1542578317p5/1302285.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1542578317p2/1302285.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1302285.Isaac_Marion]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>106450</ratings_count>
+<text_reviews_count>12033</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>10090210</id>
+  <uri>kca://work/amzn1.gr.work.v1.uHiuR9PEZ0faXbtz0Fluyg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jul 24 23:16:03 -0700 2016</started_at>
+  <read_at>Mon Sep 05 02:29:37 -0700 2016</read_at>
+  <date_added>Wed Mar 09 02:55:14 -0800 2016</date_added>
+  <date_updated>Mon Oct 24 06:11:56 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1574277944]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1574277944]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1454846127</id>
+    <book>
+  <id type="integer">11281904</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">61</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.pZc5qL4NSaQYyUEU2Y2oQw</uri>
+  <title>The Shining</title>
+  <title_without_series>The Shining</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571966912l/11281904._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571966912l/11281904._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11281904-the-shining</link>
+  <num_pages>674</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Hodder</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>1008837</ratings_count>
+  <description>Jack Torrance's new job at the Overlook Hotel is the perfect chance for a fresh start. As the off-season caretaker at the atmospheric old hotel, he'll have plenty of time to spend reconnecting with his family and working on his writing. But as the harsh winter weather sets in, the idyllic location feels ever more remote...and more sinister. And the only one to notice the strange and terrible forces gathering around the Overlook is Danny Torrance, a uniquely gifted five-year-old.</description>
+<authors>
+<author>
+<id>3389</id>
+<name>Stephen King</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1362814142p5/3389.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1362814142p2/3389.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3389.Stephen_King]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>13085869</ratings_count>
+<text_reviews_count>499101</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>849585</id>
+  <uri>kca://work/amzn1.gr.work.v1.pKw7WckTmBC38n38GZJVKQ</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Dec 02 09:34:09 -0800 2015</started_at>
+  <read_at>Wed May 11 10:50:32 -0700 2016</read_at>
+  <date_added>Sun Nov 29 06:13:03 -0800 2015</date_added>
+  <date_updated>Wed May 11 10:50:32 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1454846127]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1454846127]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1211759558</id>
+    <book>
+  <id type="integer">14289689</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">115</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.RjZP-gNBiKzMZJg1zRSRfA</uri>
+  <title>Fifty Shades of Grey (Fifty Shades, #1)</title>
+  <title_without_series>Fifty Shades of Grey</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337812060l/14289689._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337812060l/14289689._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14289689-fifty-shades-of-grey</link>
+  <num_pages>514</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Cornerstone Digital</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.67</average_rating>
+  <ratings_count>1718516</ratings_count>
+  <description>When literature student Anastasia Steele is drafted to interview the successful young entrepreneur Christian Grey for her campus magazine, she finds him attractive, enigmatic and intimidating. Convinced their meeting went badly, she tries to put Grey out of her mind - until he happens to turn up at the out-of-town hardware store where she works part-time. &lt;br /&gt;&lt;br /&gt;The unworldly, innocent Ana is shocked to realize she wants this man, and when he warns her to keep her distance it only makes her more desperate to get close to him. Unable to resist Ana’s quiet beauty, wit, and independent spirit, Grey admits he wants her - but on his own terms. &lt;br /&gt;&lt;br /&gt;Shocked yet thrilled by Grey's singular erotic tastes, Ana hesitates. For all the trappings of success – his multinational businesses, his vast wealth, his loving adoptive family – Grey is man tormented by demons and consumed by the need to control. When the couple embarks on a passionate, physical and daring affair, Ana learns more about her own dark desires, as well as the Christian Grey hidden away from public scrutiny.&lt;br /&gt;&lt;br /&gt;Can their relationship transcend physical passion? Will Ana find it in herself to submit to the self-indulgent Master? And if she does, will she still love what she finds?&lt;br /&gt;&lt;br /&gt;Erotic, amusing, and deeply moving, the Fifty Shades Trilogy is a tale that will obsess you, possess you, and stay with you forever.</description>
+<authors>
+<author>
+<id>4725841</id>
+<name>E.L. James</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1549477398p5/4725841.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1549477398p2/4725841.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4725841.E_L_James]]></link>
+<average_rating>3.77</average_rating>
+<ratings_count>3380287</ratings_count>
+<text_reviews_count>155692</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>15732562</id>
+  <uri>kca://work/amzn1.gr.work.v1.O_qFmqZYBqGQFb4ExyyyCw</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Feb 25 19:45:45 -0800 2015</started_at>
+  <read_at>Sun Nov 22 04:19:46 -0800 2015</read_at>
+  <date_added>Wed Feb 25 19:45:45 -0800 2015</date_added>
+  <date_updated>Sun Apr 21 04:45:10 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1211759558]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1211759558]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1137511238</id>
+    <book>
+  <id type="integer">18715656</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">21</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.62ivTrU5xLbP2roSNHzwSg</uri>
+  <title>The Einstein Theory of Relativity</title>
+  <title_without_series>The Einstein Theory of Relativity</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18715656-the-einstein-theory-of-relativity</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>3620</ratings_count>
+  <description>Whether it is true or not that not more than twelve persons in all the world are able to understand Einstein's Theory, it is nevertheless a fact that there is a constant demand for information about this much-debated topic of relativity. The books published on the subject are so technical that only a person trained in pure physics and higher mathematics is able to fully understand them. In order to make a popular explanation of this far-reaching theory available, the present book is published.</description>
+<authors>
+<author>
+<id>4634784</id>
+<name>Hendrik Antoon Lorentz</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4634784.Hendrik_Antoon_Lorentz]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>3689</ratings_count>
+<text_reviews_count>107</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>4993190</id>
+  <uri>kca://work/amzn1.gr.work.v1.5tPNENvwhKuRAvgfGRaYLA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Dec 21 09:38:24 -0800 2014</started_at>
+  <read_at>Wed May 27 00:17:55 -0700 2015</read_at>
+  <date_added>Sun Dec 21 09:38:24 -0800 2014</date_added>
+  <date_updated>Wed May 27 00:17:55 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1137511238]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1137511238]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1126799852</id>
+    <book>
+  <id type="integer">21853645</id>
+  <isbn>1250034515</isbn>
+  <isbn13>9781250034519</isbn13>
+  <text_reviews_count type="integer">1302</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.usSq_xB-pHtDjX_xhM11yA</uri>
+  <title>Mightier Than the Sword (The Clifton Chronicles, #5)</title>
+  <title_without_series>Mightier Than the Sword</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407772906l/21853645._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407772906l/21853645._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21853645-mightier-than-the-sword</link>
+  <num_pages>400</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>St. Martin's Press</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>23341</ratings_count>
+  <description>&lt;b&gt;
+  &lt;blockquote&gt;A bomb goes off, but how many passengers on the MV Buckingham have lost their lives? You will find out only if you read the opening chapter of &lt;i&gt;Mightier than the Sword&lt;/i&gt;.&lt;/blockquote&gt;
+&lt;/b&gt;When Harry arrives in New York, his publisher Harold Guinzberg tells him he has been elected as the next president of English PEN, which will give him the opportunity to launch a campaign for the release of a fellow author, Anatoly Babakov, who is languishing in a Russian Gulag in Siberia. His crime, writing a book Uncle Joe, which gives an insight into what it was like to work for Josef Stalin. So determined is he to see Babakov released, Harry puts his own life in danger.&lt;p&gt;Emma Clifton, now Chairman of Barrington Shipping, is having to face the repercussions of the IRA bombing her ship. &lt;br /&gt; Some board members feel she should resign while others, including Sebastian Clifton, newly elected to the board, are determined to see she remains as Chairman.&lt;/p&gt;&lt;p&gt;Giles Barrington is now a Minister of the Crown, and looks set for high office, but a trip to East Germany does not end as a diplomatic success, and once again Giles' political career is thrown off balance by none other than Major Alex Fisher. Fisher decides to stand against Giles at the forthcoming general election. But this time who wins?&lt;/p&gt;&lt;p&gt;Sebastian Clifton asks his girlfriend Samantha to marry him. She happily accepts, but then later changes her mind after she discovers what Seb has been up to behind her back.&lt;/p&gt;&lt;p&gt;The book ends with two court trials: one at the high court in London, a libel case pitting Emma Clifton against Lady Virginia Fenwick; while another, a show trial, takes place in Russia after Harry has been arrested as a spy. Thus continues book five of the Clifton Chronicles, Jeffrey Archer's most accomplished work to date, with all the trademark twists and turns that have made him one of the most successful authors in the world.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>4820</id>
+<name>Jeffrey Archer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p5/4820.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p2/4820.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4820.Jeffrey_Archer]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>702045</ratings_count>
+<text_reviews_count>37164</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>41125534</id>
+  <uri>kca://work/amzn1.gr.work.v1.Z05ScoGGhAAHLgg07ta0bg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu May 12 06:26:31 -0700 2016</started_at>
+  <read_at>Thu May 26 02:05:56 -0700 2016</read_at>
+  <date_added>Mon Dec 08 12:05:10 -0800 2014</date_added>
+  <date_updated>Thu May 26 02:05:56 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1126799852]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1126799852]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1126799479</id>
+    <book>
+  <id type="integer">18404285</id>
+  <isbn>1250034485</isbn>
+  <isbn13>9781250034489</isbn13>
+  <text_reviews_count type="integer">1530</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jb4wLkmibQcgGZgPxY23_g</uri>
+  <title>Be Careful What You Wish For (The Clifton Chronicles, #4)</title>
+  <title_without_series>Be Careful What You Wish For</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18404285-be-careful-what-you-wish-for</link>
+  <num_pages>387</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>St. Martin's Press / MacMillan</publisher>
+  <publication_day>11</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>28177</ratings_count>
+  <description>&lt;b&gt;
+  &lt;blockquote&gt;Bestselling author Jeffrey Archer's &lt;i&gt;Be Careful What You Wish For&lt;/i&gt; opens with Harry Clifton and his wife Emma rushing to hospital to learn the fate of their son Sebastian, who has been involved in a fatal car accident. But who died, Sebastian or his best friend Bruno?&lt;/blockquote&gt;
+&lt;/b&gt;When Ross Buchanan is forced to resign as chairman of the Barrington Shipping Company, Emma Clifton wants to replace him. But Don Pedro Martinez intends to install his puppet, the egregious Major Alex Fisher, in order to destroy the Barrington family firm just as the company plans to build its new luxury liner, the &lt;i&gt;MV Buckingham&lt;/i&gt;.&lt;p&gt;Back in London, Harry and Emma's adopted daughter wins a scholarship to the Slade Academy of Art where she falls in love with a fellow student, Clive Bingham, who asks her to marry him. Both families are delighted until Priscilla Bingham, Jessica's future mother-in-law, has a visit from an old friend, Lady Virginia Fenwick, who drops her particular brand of poison into the wedding chalice.&lt;/p&gt;&lt;p&gt;Then, without warning, Cedric Hardcastle, a bluff Yorkshireman who no one has come across before, takes his place on the board of Barringtons. This causes an upheaval that none of them could have anticipated, and will change the lives of every member of the Clifton and Barrington families. Hardcastle's first decision is who to support to become the next chairman of the board: Emma Clifton or Major Alex Fisher? And with that decision, the story takes yet another twist that will keep you on the edge of your seat.&lt;/p&gt;&lt;p&gt;&lt;i&gt;Be Careful What You Wish For&lt;/i&gt; showcases the master storyteller's talent as never before – when the Clifton and Barrington families march forward into the sixties, in this epic tale of love, revenge, ambition and betrayal.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>4820</id>
+<name>Jeffrey Archer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p5/4820.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p2/4820.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4820.Jeffrey_Archer]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>702045</ratings_count>
+<text_reviews_count>37164</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>25746450</id>
+  <uri>kca://work/amzn1.gr.work.v1.BZtoUlzn8OqU2YfSF0IpAA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jan 20 09:23:07 -0800 2015</started_at>
+  <read_at>Tue Feb 03 09:52:23 -0800 2015</read_at>
+  <date_added>Mon Dec 08 12:04:39 -0800 2014</date_added>
+  <date_updated>Tue Feb 03 09:52:23 -0800 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1126799479]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1126799479]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1126797792</id>
+    <book>
+  <id type="integer">15793074</id>
+  <isbn>125000098X</isbn>
+  <isbn13>9781250000989</isbn13>
+  <text_reviews_count type="integer">1878</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.MBckbA5oRkPpX-tlOQ09JA</uri>
+  <title>Best Kept Secret (The Clifton Chronicles, #3)</title>
+  <title_without_series>Best Kept Secret</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15793074-best-kept-secret</link>
+  <num_pages>373</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>St. Martin's Press</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.98</average_rating>
+  <ratings_count>35068</ratings_count>
+  <description>The third novel in Jeffrey Archer’s compelling saga, the Clifton Chronicles&lt;br /&gt;&lt;br /&gt;1945. The vote in the House of Lords as to who should inherit the Barrington family fortune has ended in a tie. The Lord Chancellor’s deciding vote will cast a long shadow on the lives of Harry Clifton and Giles Barrington.&lt;br /&gt;&lt;br /&gt;Harry returns to America to promote his latest novel, while his beloved Emma goes in search of the little girl who was found abandoned in her father’s office on the night he was killed.&lt;br /&gt;&lt;br /&gt;When the General Election is called, Giles Barrington has to defend his seat in the House of Commons and is horrified to discover who the Conservatives select to stand against him. But it is Sebastian Clifton, Harry and Emma’s son, who ultimately influences his uncle’s fate.&lt;br /&gt;&lt;br /&gt;In 1957, Sebastian wins a scholarship to Cambridge, and a new generation of the Clifton family march onto the page. After Sebastian is expelled from school, he unwittingly becomes caught up in an international art fraud involving a Rodin statue that is worth far more than the sum it raises at auction. Does he become a millionaire? Does he go to Cambridge? Is his life in danger?</description>
+<authors>
+<author>
+<id>4820</id>
+<name>Jeffrey Archer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p5/4820.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p2/4820.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4820.Jeffrey_Archer]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>702045</ratings_count>
+<text_reviews_count>37164</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>21503547</id>
+  <uri>kca://work/amzn1.gr.work.v1.-I0juir3NBsI4LZ7dxQpgg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jan 09 10:52:39 -0800 2015</started_at>
+  <read_at>Sat Jan 17 05:14:30 -0800 2015</read_at>
+  <date_added>Mon Dec 08 12:02:09 -0800 2014</date_added>
+  <date_updated>Wed Jan 21 09:03:55 -0800 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1126797792]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1126797792]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1126797069</id>
+    <book>
+  <id type="integer">12160906</id>
+  <isbn>1250000971</isbn>
+  <isbn13>9781250000972</isbn13>
+  <text_reviews_count type="integer">2434</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ruheCEmV4kOy9s-9BX15aQ</uri>
+  <title>The Sins of the Father (The Clifton Chronicles, #2)</title>
+  <title_without_series>The Sins of the Father</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12160906-the-sins-of-the-father</link>
+  <num_pages>352</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>St. Martin's Press</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.05</average_rating>
+  <ratings_count>47416</ratings_count>
+  <description>On the heels of the international bestseller &lt;i&gt;Only Time Will Tell&lt;/i&gt;, Jeffrey Archer picks up the sweeping story of the Clifton Chronicles.&lt;br /&gt;&lt;br /&gt;Only days before Britain declares war on Germany, Harry Clifton, hoping to escape the consequences of long-buried family secrets, and forced to accept that his desire to marry Emma Barrington will never be fulfilled, has joined the Merchant Navy. &lt;br /&gt; But his ship is sunk in the Atlantic by a German U-boat, drowning almost the entire crew.  An American cruise liner, the SS Kansas Star, rescues a handful of sailors, among them Harry and the third officer, an American named Tom Bradshaw.  When Bradshaw dies in the night, Harry seizes on the chance to escape his tangled past and assumes his identity.&lt;p&gt;But on landing in America, he quickly learns the mistake he has made, when he discovers what is awaiting Bradshaw in New York.  Without any way of proving his true identity, Harry Clifton is now chained to a past that could be far worse than the one he had hoped to escape.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>4820</id>
+<name>Jeffrey Archer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p5/4820.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p2/4820.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4820.Jeffrey_Archer]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>702045</ratings_count>
+<text_reviews_count>37164</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>17131961</id>
+  <uri>kca://work/amzn1.gr.work.v1.iFsYEsf_snZ39HS9OuSA3A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Dec 08 12:01:16 -0800 2014</started_at>
+  <read_at>Sat Dec 20 11:49:12 -0800 2014</read_at>
+  <date_added>Mon Dec 08 12:01:16 -0800 2014</date_added>
+  <date_updated>Sun Nov 22 04:19:46 -0800 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1126797069]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1126797069]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1126776026</id>
+    <book>
+  <id type="integer">18970872</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hHZ-feQbKnCVc7vnIVnUaQ</uri>
+  <title>A Captain's Duty</title>
+  <title_without_series>A Captain's Duty</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18970872-a-captain-s-duty</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>3435</ratings_count>
+  <description>&lt;p&gt;8th April 2009 was just an ordinary day for 53 -year-old Richard Phillips, captain of the United States-registered cargo vessel, the &lt;i&gt;Maersk Alabama&lt;/i&gt;, as it headed towards the port of Mombasa. Ordinary that is until, two hundred or so miles off the east coast of Africa, armed Somali pirates attacked and boarded the freighter. It was the first time an American cargo ship had been hijacked in over 200 years. &lt;/p&gt;&lt;p&gt;
+  &lt;br /&gt;
+&lt;/p&gt;&lt;p&gt;&lt;br /&gt;What the pirates didn't expect was that the crew would fight back, nor did they expect Captain Phillips to offer himself as a hostage in exchange for the safety of his crew - a courageous gesture that resulted in his being held captive on a tiny life-boat off the anarchic, gun-plagued coast of Somalia. And so began a tense five-day stand-off, which ended in a daring high-seas rescue by U.S. Navy SEALs. &lt;/p&gt;&lt;p&gt;
+  &lt;br /&gt;
+&lt;/p&gt;&lt;p&gt;&lt;br /&gt;In &lt;i&gt;A Captain's Duty,&lt;/i&gt; Richard Phillips tells his own extraordinary story - that of an ordinary man who did what he saw as his duty and in so doing became a hero. It is a thrilling true tale of adventure and courage in the face of deprivation, death threats and mock executions and also a compulsively readable first-hand account of the terrors of high-seas hostage-taking.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>14230313</id>
+<name>Richard    Phillips</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14230313.Richard_Phillips]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>3435</ratings_count>
+<text_reviews_count>454</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>6925862</id>
+  <uri>kca://work/amzn1.gr.work.v1.ilMRgUUjXQIiSj86xYa_Tw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Dec 08 11:32:21 -0800 2014</date_added>
+  <date_updated>Mon Dec 08 11:32:26 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1126776026]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1126776026]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1115097636</id>
+    <book>
+  <id type="integer">10872085</id>
+  <isbn>031253955X</isbn>
+  <isbn13>9780312539559</isbn13>
+  <text_reviews_count type="integer">4127</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.9vDtzGRtVDyxka2Jtpejjg</uri>
+  <title>Only Time Will Tell (The Clifton Chronicles, #1)</title>
+  <title_without_series>Only Time Will Tell</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10872085-only-time-will-tell</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.07</average_rating>
+  <ratings_count>68545</ratings_count>
+  <description>&lt;b&gt;
+  &lt;blockquote&gt;From the internationally bestselling author of &lt;i&gt;Kane and Abel&lt;/i&gt; and &lt;i&gt;A Prisoner of Birth&lt;/i&gt; comes &lt;i&gt;Only Time Will Tell&lt;/i&gt;, the first in an ambitious new series that tells the story of one family across generations, across oceans, from heartbreak to triumph.&lt;/blockquote&gt;
+&lt;/b&gt;The epic tale of Harry Clifton’s life begins in 1920, with the words “I was told that my father was killed in the war.” A dock worker in Bristol, Harry never knew his father, but he learns about life on the docks from his uncle, who expects Harry to join him at the shipyard once he’s left school. But then an unexpected gift wins him a scholarship to an exclusive boys’ school, and his life will never be the same again.&lt;p&gt;As he enters into adulthood, Harry finally learns how his father really died, but the awful truth only leads him to question, was he even his father? Is he the son of Arthur Clifton, a stevedore who spent his whole life on the docks, or the firstborn son of a scion of West Country society, whose family owns a shipping line?&lt;/p&gt;&lt;p&gt;This introductory novel in Archer’s ambitious series The Clifton Chronicles includes a cast of colorful characters and takes us from the ravages of the Great War to the outbreak of the Second World War, when Harry must decide whether to take up a place at Oxford or join the navy and go to war with Hitler’s Germany. From the docks of working-class England to the bustling streets of 1940 New York City, &lt;i&gt;Only Time Will Tell&lt;/i&gt; takes readers on a journey through to future volumes, which will bring to life one hundred years of recent history to reveal a family story that neither the reader nor Harry Clifton himself could ever have imagined.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>4820</id>
+<name>Jeffrey Archer</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p5/4820.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1208462800p2/4820.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4820.Jeffrey_Archer]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>702045</ratings_count>
+<text_reviews_count>37164</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>14570985</id>
+  <uri>kca://work/amzn1.gr.work.v1.fQL_0Xaz_U2_UISTM0hKmQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Nov 25 05:31:17 -0800 2014</started_at>
+  <read_at>Mon Dec 08 11:31:42 -0800 2014</read_at>
+  <date_added>Tue Nov 25 05:31:14 -0800 2014</date_added>
+  <date_updated>Mon Dec 08 11:31:42 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1115097636]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1115097636]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>930677347</id>
+    <book>
+  <id type="integer">8199838</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">14</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.uKfzs89xIn93iJ3NkNAiNA</uri>
+  <title>A Twisted Bard's Tale</title>
+  <title_without_series>A Twisted Bard's Tale</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353881900l/8199838._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353881900l/8199838._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/8199838-a-twisted-bard-s-tale</link>
+  <num_pages>29</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Excessica Publishing</publisher>
+  <publication_day/>
+  <publication_year>2013</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>2.95</average_rating>
+  <ratings_count>783</ratings_count>
+  <description>Did you ever wonder what started the feud between the Capulets and the Montagues? Check out this naughty version of Romeo and Juliet—you'll be surprised and delighted by this little twisted Bard's tale! &lt;br /&gt;&lt;br /&gt;(Warning: This title is a fun, erotic short that contains graphic language and f/f sex).</description>
+<authors>
+<author>
+<id>2741079</id>
+<name>Selena Kitt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353001186p5/2741079.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1353001186p2/2741079.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2741079.Selena_Kitt]]></link>
+<average_rating>3.57</average_rating>
+<ratings_count>54540</ratings_count>
+<text_reviews_count>7765</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>6155628</id>
+  <uri>kca://work/amzn1.gr.work.v1.66KL0GzyROCeNEs-Mh3kNQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed May 07 10:20:54 -0700 2014</date_added>
+  <date_updated>Mon Apr 18 08:35:08 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/930677347]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/930677347]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>929395001</id>
+    <book>
+  <id type="integer">19016097</id>
+  <isbn nil="true"/>
+  <isbn13>9788184004830</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4Mfd5LDo0HB43WbJl2XDNA</uri>
+  <title>The Blood Telegram</title>
+  <title_without_series>The Blood Telegram</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19016097-the-blood-telegram</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.31</average_rating>
+  <ratings_count>1565</ratings_count>
+  <description>In 1971, the Pakistani army launched a devastating crackdown on what was then East Pakistan (today’s independent Bangladesh), killing thousands of people and sending ten million refugees fleeing into India. The events also sparked the 1971 Indo-Pakistani War.&lt;br /&gt;&lt;br /&gt;Drawing on recently declassified documents, unheard White House tapes, and meticulous investigative reporting, Gary Bass gives us an unprecedented chronicle of the break-up of Pakistan, and India’s role in it. This is the pathbreaking account of India’s real motives, the build-up to the war, and the secret decisions taken by Indira Gandhi and her closest advisers.&lt;br /&gt;&lt;br /&gt;This book is also the story of how two of the world’s great democracies—India and the United States—dealt with one of the most terrible humanitarian crises of the twentieth century. Gary Bass writes a revealing account of how the Bangladeshis became collateral damage in the great game being played by America and China, with Pakistan as the unlikely power broker. The United States’ embrace of the military dictatorship in Islamabad would affect geopolitics for decades, beginning a pattern of American anti-democratic engagement in Pakistan that went back far beyond General Musharraf. &lt;br /&gt;&lt;br /&gt;The Blood Telegram is a revelatory and compelling work, essential reading for anyone interested in the recent history of our region.</description>
+<authors>
+<author>
+<id>1845726</id>
+<name>Gary J. Bass</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1427548760p5/1845726.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1427548760p2/1845726.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1845726.Gary_J_Bass]]></link>
+<average_rating>4.28</average_rating>
+<ratings_count>1633</ratings_count>
+<text_reviews_count>215</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>25636455</id>
+  <uri>kca://work/amzn1.gr.work.v1.CTBKQ4jQTqJ_cthaF-xlcQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon May 05 22:06:25 -0700 2014</started_at>
+  <read_at>Mon Aug 25 10:56:10 -0700 2014</read_at>
+  <date_added>Mon May 05 22:06:16 -0700 2014</date_added>
+  <date_updated>Mon Aug 25 10:56:10 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/929395001]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/929395001]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>915190439</id>
+    <book>
+  <id type="integer">16566323</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">33</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.H0z19DU5HPHgc_f6z8rZ3Q</uri>
+  <title>The Complete Sherlock Holmes</title>
+  <title_without_series>The Complete Sherlock Holmes</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355399574l/16566323._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355399574l/16566323._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16566323-the-complete-sherlock-holmes</link>
+  <num_pages>1874</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster UK</publisher>
+  <publication_day>13</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.51</average_rating>
+  <ratings_count>159930</ratings_count>
+  <description>The complete collection of Sir Arthur Conan Doyle's Sherlock Holmes tales, both long and short, compiled together for the first time by Simon &amp;amp; Schuster for free!&lt;br /&gt;&lt;br /&gt;This fantastic collection is accompanied by an exciting new introduction from Robert Ryan, a writer who's own book has been fully endorsed by the Conan Doyle Estate. A big Holmes fan himself, he will undoubtedly provide a fascinating new look at the detective and his bizarre ability to read both people and objects, in order to discover who dunnit.</description>
+<authors>
+<author>
+<id>2448</id>
+<name>Arthur Conan Doyle</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1495008883p5/2448.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1495008883p2/2448.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2448.Arthur_Conan_Doyle]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>1737419</ratings_count>
+<text_reviews_count>55830</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>7492217</id>
+  <uri>kca://work/amzn1.gr.work.v1.dSASJLrif9wIaV4xql14Yg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Apr 20 00:03:53 -0700 2014</started_at>
+  <read_at>Fri Jan 25 19:57:51 -0800 2019</read_at>
+  <date_added>Sun Apr 20 00:03:48 -0700 2014</date_added>
+  <date_updated>Fri Jan 25 19:57:56 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/915190439]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/915190439]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>915190246</id>
+    <book>
+  <id type="integer">16147181</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">79</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.XPcV-YJoAhipGkyJ4wtS5Q</uri>
+  <title>The War of the Worlds</title>
+  <title_without_series>The War of the Worlds</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352780013l/16147181._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352780013l/16147181._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16147181-the-war-of-the-worlds</link>
+  <num_pages>180</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Atria Books</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>221119</ratings_count>
+  <description>With H.G. Wells’ other novels, &lt;i&gt;The War of the Worlds&lt;/i&gt; was one of the first and greatest works of science fiction ever to be written. Even long before man had learned to fly, H.G. Wells wrote this story of the Martian attack on England. These unearthly creatures arrive in huge cylinders, from which they escape as soon as the metal is cool. The first falls near Woking and is regarded as a curiosity rather than a danger until the Martians climb out of it and kill many of the gaping crowd with a Heat-Ray. These unearthly creatures have heads four feet in diameter and colossal round bodies, and by manipulating two terrifying machines – the Handling Machine and the Fighting Machine – they are as versatile as humans and at the same time insuperable. They cause boundless destruction. The inhabitants of the Earth are powerless against them, and it looks as if the end of the World has come. But there is one factor which the Martians, in spite of their superior intelligence, have not reckoned on. It is this which brings about a miraculous conclusion to this famous work of the imagination.</description>
+<authors>
+<author>
+<id>880695</id>
+<name>H.G. Wells</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1547736853p5/880695.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1547736853p2/880695.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/880695.H_G_Wells]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>945911</ratings_count>
+<text_reviews_count>32531</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>3194841</id>
+  <uri>kca://work/amzn1.gr.work.v1.xYL_JyZIzgMwQkLEcwxbgg</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Apr 20 00:03:22 -0700 2014</date_added>
+  <date_updated>Sun Apr 20 00:03:42 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/915190246]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/915190246]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>902368920</id>
+    <book>
+  <id type="integer">11084145</id>
+  <isbn>1451648537</isbn>
+  <isbn13>9781451648539</isbn13>
+  <text_reviews_count type="integer">15805</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.55oEh7mAhPW_FkeSWIhWPQ</uri>
+  <title>Steve Jobs</title>
+  <title_without_series>Steve Jobs</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511288482l/11084145._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511288482l/11084145._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11084145-steve-jobs</link>
+  <num_pages>627</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>850973</ratings_count>
+  <description>From the author of the bestselling biographies of Benjamin Franklin and Albert Einstein, this is the exclusive, New York Times bestselling biography of Apple co-founder Steve Jobs.&lt;br /&gt;&lt;br /&gt;Based on more than forty interviews with Jobs conducted over two years—as well as interviews with more than a hundred family members, friends, adversaries, competitors, and colleagues—Walter Isaacson has written a riveting story of the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publishing.&lt;br /&gt;&lt;br /&gt;At a time when America is seeking ways to sustain its innovative edge, and when societies around the world are trying to build digital-age economies, Jobs stands as the ultimate icon of inventiveness and applied imagination. He knew that the best way to create value in the twenty-first century was to connect creativity with technology. He built a company where leaps of the imagination were combined with remarkable feats of engineering.&lt;br /&gt;&lt;br /&gt;Although Jobs cooperated with this book, he asked for no control over what was written nor even the right to read it before it was published. He put nothing off-limits. He encouraged the people he knew to speak honestly. And Jobs speaks candidly, sometimes brutally so, about the people he worked with and competed against. His friends, foes, and colleagues provide an unvarnished view of the passions, perfectionism, obsessions, artistry, devilry, and compulsion for control that shaped his approach to business and the innovative products that resulted.&lt;br /&gt;&lt;br /&gt;Driven by demons, Jobs could drive those around him to fury and despair. But his personality and products were interrelated, just as Apple’s hardware and software tended to be, as if part of an integrated system. His tale is instructive and cautionary, filled with lessons about innovation, character, leadership, and values.</description>
+<authors>
+<author>
+<id>7111</id>
+<name>Walter Isaacson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1192222433p5/7111.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1192222433p2/7111.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7111.Walter_Isaacson]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>1137259</ratings_count>
+<text_reviews_count>27922</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>16005831</id>
+  <uri>kca://work/amzn1.gr.work.v1.MvliEan8p7Xgfe4QrGmMLw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="96624529" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Apr 05 23:48:59 -0700 2014</started_at>
+  <read_at>Fri Apr 18 09:05:01 -0700 2014</read_at>
+  <date_added>Sat Apr 05 23:48:59 -0700 2014</date_added>
+  <date_updated>Tue Jul 08 09:47:59 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/902368920]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/902368920]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

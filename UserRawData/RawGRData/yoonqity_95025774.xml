@@ -1,0 +1,3628 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='308780379' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="46" total="46">
+    <review>
+  <id>3041610986</id>
+    <book>
+  <id type="integer">41150487</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">9837</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.PsH2tixewnYQ04BHevtXsQ</uri>
+  <title>Red, White &amp; Royal Blue</title>
+  <title_without_series>Red, White &amp; Royal Blue</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566742512l/41150487._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1566742512l/41150487._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41150487-red-white-royal-blue</link>
+  <num_pages>421</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>St. Martin's Griffin</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.39</average_rating>
+  <ratings_count>44666</ratings_count>
+  <description>&lt;b&gt;What happens when America's First Son falls in love with the Prince of Wales?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;When his mother became President, Alex Claremont-Diaz was promptly cast as the American equivalent of a young royal. Handsome, charismatic, genius—his image is pure millennial-marketing gold for the White House. There's only one problem: Alex has a beef with the actual prince, Henry, across the pond. And when the tabloids get hold of a photo involving an Alex-Henry altercation, U.S./British relations take a turn for the worse.&lt;br /&gt;&lt;br /&gt;Heads of family, state, and other handlers devise a plan for damage control: staging a truce between the two rivals. What at first begins as a fake, Instragramable friendship grows deeper, and more dangerous, than either Alex or Henry could have imagined. Soon Alex finds himself hurtling into a secret romance with a surprisingly unstuffy Henry that could derail the campaign and upend two nations and begs the question: Can love save the world after all? Where do we find the courage, and the power, to be the people we are meant to be? And how can we learn to let our true colors shine through?&lt;br /&gt;&lt;br /&gt;Casey McQuiston's Red, White &amp;amp; Royal Blue proves: true love isn't always diplomatic.</description>
+<authors>
+<author>
+<id>17949486</id>
+<name>Casey McQuiston</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1568653196p5/17949486.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1568653196p2/17949486.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/17949486.Casey_McQuiston]]></link>
+<average_rating>4.39</average_rating>
+<ratings_count>44677</ratings_count>
+<text_reviews_count>11217</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>61657690</id>
+  <uri>kca://work/amzn1.gr.work.v1.NGw5e0eLx4tibM0bZTpp0g</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2689903891' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Nov 08 09:27:42 -0800 2019</started_at>
+  <read_at>Sat Nov 09 09:05:00 -0800 2019</read_at>
+  <date_added>Fri Nov 08 09:27:42 -0800 2019</date_added>
+  <date_updated>Sat Nov 09 09:05:00 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[3.5<br /><br />Alex y Henry son lo más lindo del mundo.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3041610986]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3041610986]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3023633512</id>
+    <book>
+  <id type="integer">968</id>
+  <isbn>0307277674</isbn>
+  <isbn13>9780307277671</isbn13>
+  <text_reviews_count type="integer">35526</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.nhnX9HpwccmQGvIPRirV6g</uri>
+  <title>The Da Vinci Code (Robert Langdon, #2)</title>
+  <title_without_series>The Da Vinci Code</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551244853l/968._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551244853l/968._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/968.The_Da_Vinci_Code</link>
+  <num_pages>489</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Anchor</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>1759788</ratings_count>
+  <description>&lt;b&gt;An ingenious code hidden in the works of Leonardo da Vinci.&lt;br /&gt;&lt;br /&gt;A desperate race through the cathedrals and castles of Europe.&lt;br /&gt;&lt;br /&gt;An astonishing truth concealed for centuries . . . unveiled at last.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;While in Paris, Harvard symbologist Robert Langdon is awakened by a phone call in the dead of the night. The elderly curator of the Louvre has been murdered inside the museum, his body covered in baffling symbols. As Langdon and gifted French cryptologist Sophie Neveu sort through the bizarre riddles, they are stunned to discover a trail of clues hidden in the works of Leonardo da Vinci—clues visible for all to see and yet ingeniously disguised by the painter.&lt;br /&gt;&lt;br /&gt;Even more startling, the late curator was involved in the Priory of Sion—a secret society whose members included Sir Isaac Newton, Victor Hugo, and Da Vinci—and he guarded a breathtaking historical secret. Unless Langdon and Neveu can decipher the labyrinthine puzzle—while avoiding the faceless adversary who shadows their every move—the explosive, ancient truth will be lost forever.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>6441313</ratings_count>
+<text_reviews_count>175007</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>2982101</id>
+  <uri>kca://work/amzn1.gr.work.v1.7AXG9mr2e7wBr03DdCwgMQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2670583844' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Oct 24 05:58:20 -0700 2019</started_at>
+  <read_at>Wed Nov 06 18:36:22 -0800 2019</read_at>
+  <date_added>Thu Oct 24 05:58:19 -0700 2019</date_added>
+  <date_updated>Wed Nov 06 18:36:22 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3023633512]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3023633512]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3020847966</id>
+    <book>
+  <id type="integer">18069019</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">37</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.CTbD5k0dSsCOL8FwOKiI-w</uri>
+  <title>Continuidad de los parques [Cuento]</title>
+  <title_without_series>Continuidad de los parques [Cuento]</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382029140l/18069019._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382029140l/18069019._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18069019-continuidad-de-los-parques-cuento</link>
+  <num_pages>2</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.35</average_rating>
+  <ratings_count>705</ratings_count>
+  <description>Cuento "Continuidad de los parques" de Julio Cortázar, renombrado ejemplo de metaficción literaria. Apareció por primera vez en la segunda edición del libro Final del juego, de Editorial Sudamericana (1964).</description>
+<authors>
+<author>
+<id>25824</id>
+<name>Julio Cortázar</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1496948373p5/25824.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1496948373p2/25824.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25824.Julio_Cort_zar]]></link>
+<average_rating>4.22</average_rating>
+<ratings_count>115475</ratings_count>
+<text_reviews_count>6552</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>14565571</id>
+  <uri>kca://work/amzn1.gr.work.v1.35hpAe7T16TaPHKz_OI_iw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2667746661' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Mon Oct 21 18:35:36 -0700 2019</date_added>
+  <date_updated>Mon Oct 21 18:35:54 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3020847966]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3020847966]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3009329789</id>
+    <book>
+  <id type="integer">38464776</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1408</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.9c_RGPGyhX2gaLghWgJrbw</uri>
+  <title>Opal (The Raven Cycle, #4.5)</title>
+  <title_without_series>Opal</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518414947l/38464776._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1518414947l/38464776._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38464776-opal</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>8547</ratings_count>
+  <description>An enchanting story from Maggie Stiefvater featuring Opal, Ronan, and Adam from her bestselling Raven Cycle, taking place after the events of The Raven King.</description>
+<authors>
+<author>
+<id>1330292</id>
+<name>Maggie Stiefvater</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540386769p5/1330292.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540386769p2/1330292.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1330292.Maggie_Stiefvater]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>1405678</ratings_count>
+<text_reviews_count>135245</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>60091444</id>
+  <uri>kca://work/amzn1.gr.work.v1.c7dhf4m-y5MuxwcI1Fe8yg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2655983736' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Oct 11 17:21:30 -0700 2019</date_added>
+  <date_updated>Fri Oct 11 17:21:34 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3009329789]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3009329789]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3009323154</id>
+    <book>
+  <id type="integer">31373184</id>
+  <isbn>1338188321</isbn>
+  <isbn13>9781338188325</isbn13>
+  <text_reviews_count type="integer">856</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.SLmnr6Qp0-tl_NJBQUlsjA</uri>
+  <title>Call Down the Hawk (Dreamer, #1)</title>
+  <title_without_series>Call Down the Hawk</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550860945l/31373184._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550860945l/31373184._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/31373184-call-down-the-hawk</link>
+  <num_pages>472</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.57</average_rating>
+  <ratings_count>2577</ratings_count>
+  <description>&lt;i&gt;The dreamers walk among us . . . and so do the dreamed. Those who dream cannot stop dreaming – they can only try to control it. Those who are dreamed cannot have their own lives – they will sleep forever if their dreamers die.&lt;br /&gt;&lt;br /&gt;And then there are those who are drawn to the dreamers. To use them. To trap them. To kill them before their dreams destroy us all.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Ronan Lynch is a dreamer. He can pull both curiosities and catastrophes out of his dreams and into his compromised reality.&lt;br /&gt;&lt;br /&gt;Jordan Hennessy is a thief. The closer she comes to the dream object she is after, the more inextricably she becomes tied to it. &lt;br /&gt;&lt;br /&gt;Carmen Farooq-Lane is a hunter. Her brother was a dreamer . . . and a killer. She has seen what dreaming can do to a person. And she has seen the damage that dreamers can do. But that is nothing compared to the destruction that is about to be unleashed. . . .</description>
+<authors>
+<author>
+<id>1330292</id>
+<name>Maggie Stiefvater</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540386769p5/1330292.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540386769p2/1330292.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1330292.Maggie_Stiefvater]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>1405678</ratings_count>
+<text_reviews_count>135245</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>52062040</id>
+  <uri>kca://work/amzn1.gr.work.v1.wWNpv6CtOWSqzTRKzDJOXw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2685408543' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Nov 05 16:18:58 -0800 2019</started_at>
+  <read_at>Thu Nov 07 19:23:36 -0800 2019</read_at>
+  <date_added>Fri Oct 11 17:11:51 -0700 2019</date_added>
+  <date_updated>Thu Nov 07 19:23:36 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3009323154]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3009323154]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3007650707</id>
+    <book>
+  <id type="integer">17378527</id>
+  <isbn>0545424984</isbn>
+  <isbn13>9780545424981</isbn13>
+  <text_reviews_count type="integer">11355</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2g4iTIkN0wmFLgr9PJGB1g</uri>
+  <title>The Raven King (The Raven Cycle, #4)</title>
+  <title_without_series>The Raven King</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477103790l/17378527._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477103790l/17378527._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17378527-the-raven-king</link>
+  <num_pages>439</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.30</average_rating>
+  <ratings_count>81741</ratings_count>
+  <description>The fourth and final installment in the spellbinding series from the irrepressible, #1 New York Times bestselling author Maggie Stiefvater.&lt;br /&gt;&lt;br /&gt;All her life, Blue has been warned that she will cause her true love's death. She doesn't believe in true love and never thought this would be a problem, but as her life becomes caught up in the strange and sinister world of the Raven Boys, she's not so sure anymore.</description>
+<authors>
+<author>
+<id>1330292</id>
+<name>Maggie Stiefvater</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540386769p5/1330292.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540386769p2/1330292.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1330292.Maggie_Stiefvater]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>1405678</ratings_count>
+<text_reviews_count>135245</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>24170172</id>
+  <uri>kca://work/amzn1.gr.work.v1.oZQJrWq32gFFbtycttSNDw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2655942835' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Oct 10 05:41:14 -0700 2019</started_at>
+  <read_at>Fri Oct 11 16:39:41 -0700 2019</read_at>
+  <date_added>Thu Oct 10 05:41:10 -0700 2019</date_added>
+  <date_updated>Fri Oct 11 16:39:41 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3007650707]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3007650707]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3002350159</id>
+    <book>
+  <id type="integer">17378508</id>
+  <isbn>0545424968</isbn>
+  <isbn13>9780545424967</isbn13>
+  <text_reviews_count type="integer">9597</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.zRUK-J3PzHFF4UiJrMl9SA</uri>
+  <title>Blue Lily, Lily Blue (The Raven Cycle, #3)</title>
+  <title_without_series>Blue Lily, Lily Blue</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477103826l/17378508._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477103826l/17378508._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17378508-blue-lily-lily-blue</link>
+  <num_pages>400</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.31</average_rating>
+  <ratings_count>97443</ratings_count>
+  <description>The third installment in the all-new series from the #1 NEW YORK TIMES bestselling author Maggie Stiefvater!&lt;br /&gt;&lt;br /&gt;Blue Sargent has found things. For the first time in her life, she has friends she can trust, a group to which she can belong. The Raven Boys have taken her in as one of their own. Their problems have become hers, and her problems have become theirs. &lt;br /&gt;&lt;br /&gt;The trick with found things, though, is how easily they can be lost.&lt;br /&gt;&lt;br /&gt;Friends can betray.&lt;br /&gt;Mothers can disappear.&lt;br /&gt;Visions can mislead.&lt;br /&gt;Certainties can unravel.</description>
+<authors>
+<author>
+<id>1330292</id>
+<name>Maggie Stiefvater</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540386769p5/1330292.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540386769p2/1330292.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1330292.Maggie_Stiefvater]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>1405678</ratings_count>
+<text_reviews_count>135245</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>24170141</id>
+  <uri>kca://work/amzn1.gr.work.v1.mbGijmMrftxSQDCfDEMKbw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2650751777' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Oct 07 06:49:38 -0700 2019</started_at>
+  <read_at>Mon Oct 07 19:54:38 -0700 2019</read_at>
+  <date_added>Sat Oct 05 16:03:56 -0700 2019</date_added>
+  <date_updated>Tue Oct 08 08:42:18 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      4.5
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3002350159]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3002350159]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>3000050997</id>
+    <book>
+  <id type="integer">17347389</id>
+  <isbn>0545424941</isbn>
+  <isbn13>9780545424943</isbn13>
+  <text_reviews_count type="integer">12233</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.KtYXc_7ZBsG4ReWbZn2ChQ</uri>
+  <title>The Dream Thieves (The Raven Cycle, #2)</title>
+  <title_without_series>The Dream Thieves</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477103777l/17347389._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477103777l/17347389._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17347389-the-dream-thieves</link>
+  <num_pages>448</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.26</average_rating>
+  <ratings_count>125282</ratings_count>
+  <description>Now that the ley lines around Cabeswater have been woken, nothing for Ronan, Gansey, Blue, and Adam will be the same. Ronan, for one, is falling more and more deeply into his dreams, and his dreams are intruding more and more into waking life. Meanwhile, some very sinister people are looking for some of the same pieces of the Cabeswater puzzle that Gansey is after…</description>
+<authors>
+<author>
+<id>1330292</id>
+<name>Maggie Stiefvater</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540386769p5/1330292.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540386769p2/1330292.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1330292.Maggie_Stiefvater]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>1405678</ratings_count>
+<text_reviews_count>135245</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>21598446</id>
+  <uri>kca://work/amzn1.gr.work.v1.gI5PPCG0joprBFFbsJCBZQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2648859038' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Oct 04 11:24:24 -0700 2019</started_at>
+  <read_at>Sat Oct 05 16:03:22 -0700 2019</read_at>
+  <date_added>Thu Oct 03 13:51:31 -0700 2019</date_added>
+  <date_updated>Sat Oct 05 16:03:22 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3000050997]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3000050997]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2983680586</id>
+    <book>
+  <id type="integer">12000020</id>
+  <isbn>1442408928</isbn>
+  <isbn13>9781442408920</isbn13>
+  <text_reviews_count type="integer">23043</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xZpX2xnxtRxn-kykB2f0NQ</uri>
+  <title>Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe, #1)</title>
+  <title_without_series>Aristotle and Dante Discover the Secrets of the Universe</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328320260l/12000020._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328320260l/12000020._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe</link>
+  <num_pages>359</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Simon &amp; Schuster Books for Young Readers</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.34</average_rating>
+  <ratings_count>205071</ratings_count>
+  <description>Aristotle is an angry teen with a brother in prison. Dante is a know-it-all who has an unusual way of looking at the world. When the two meet at the swimming pool, they seem to have nothing in common. But as the loners start spending time together, they discover that they share a special friendship—the kind that changes lives and lasts a lifetime. And it is through this friendship that Ari and Dante will learn the most important truths about themselves and the kind of people they want to be.</description>
+<authors>
+<author>
+<id>4841310</id>
+<name>Benjamin Alire Sáenz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386527200p5/4841310.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386527200p2/4841310.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4841310.Benjamin_Alire_S_enz]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>233177</ratings_count>
+<text_reviews_count>34188</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>16964419</id>
+  <uri>kca://work/amzn1.gr.work.v1.ykhUsCQdpba0EWg5ZaTOig</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>3</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2629846622' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='323176401' name='favoritos' review_shelf_id='2629846688' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Sep 19 18:54:31 -0700 2019</started_at>
+  <read_at>Fri Sep 20 20:41:53 -0700 2019</read_at>
+  <date_added>Thu Sep 19 18:54:31 -0700 2019</date_added>
+  <date_updated>Fri Sep 20 20:44:31 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[No es una reseña sino más bien una reflexión personal.<br /><br />Lo que me hace sentir este libro no se puede comparar a ninguna otra emoción o sentimiento que pueda sentir con otro. La forma en la que Ari habla de Dante y de sus padres (y de los padres de Dante) es tan hermosa y natural que no...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2983680586]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2983680586]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2971461220</id>
+    <book>
+  <id type="integer">44017627</id>
+  <isbn>1250146070</isbn>
+  <isbn13>9781250146076</isbn13>
+  <text_reviews_count type="integer">2339</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.cvtQJiHBgu3WHvsEED1I5Q</uri>
+  <title>Wayward Son (Simon Snow, #2)</title>
+  <title_without_series>Wayward Son</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552666477l/44017627._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1552666477l/44017627._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/44017627-wayward-son</link>
+  <num_pages>356</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Wednesday Books</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2019</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.16</average_rating>
+  <ratings_count>18238</ratings_count>
+  <description>The story is supposed to be over.&lt;br /&gt;&lt;br /&gt;Simon Snow did everything he was supposed to do. He beat the villain. He won the war. He even fell in love. Now comes the good part, right? Now comes the happily ever after… &lt;br /&gt;&lt;br /&gt;&lt;i&gt;So why can’t Simon Snow get off the couch?&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;What he needs, according to his best friend, is a change of scenery. He just needs to see himself in a new light…&lt;br /&gt;&lt;br /&gt;That’s how Simon and Penny and Baz end up in a vintage convertible, tearing across the American West.&lt;br /&gt;&lt;br /&gt;They find trouble, of course. (Dragons, vampires, skunk-headed things with shotguns.) And they get lost. They get so lost, they start to wonder whether they ever knew where they were headed in the first place… &lt;br /&gt;&lt;br /&gt;&lt;b&gt;With &lt;i&gt;Wayward Son&lt;/i&gt;, Rainbow Rowell has written a book for everyone who ever wondered what happened to the Chosen One after he saved the day. And a book for everyone who was ever more curious about the second kiss than the first. It’s another helping of sour cherry scones with an absolutely decadent amount of butter.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Come on, Simon Snow. Your hero’s journey might be over – but your life has just begun.</description>
+<authors>
+<author>
+<id>4208569</id>
+<name>Rainbow Rowell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342324527p5/4208569.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1342324527p2/4208569.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4208569.Rainbow_Rowell]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>1843358</ratings_count>
+<text_reviews_count>191718</text_reviews_count>
+</author>
+</authors>
+  <published>2019</published>
+<work>  <id>62661027</id>
+  <uri>kca://work/amzn1.gr.work.v1.CZ0ncWCkaYc6opzEnVVf8g</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2691853537' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Nov 10 05:09:41 -0800 2019</started_at>
+  <read_at>Mon Nov 11 13:30:56 -0800 2019</read_at>
+  <date_added>Mon Sep 09 15:50:48 -0700 2019</date_added>
+  <date_updated>Mon Nov 11 13:30:56 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      2.5
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2971461220]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2971461220]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2965147791</id>
+    <book>
+  <id type="integer">2165</id>
+  <isbn>0684830493</isbn>
+  <isbn13>9780684830490</isbn13>
+  <text_reviews_count type="integer">15304</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.UVd_AiIcOPN9WXQIEhzxeg</uri>
+  <title>The Old Man and the Sea</title>
+  <title_without_series>The Old Man and the Sea</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329189714l/2165._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329189714l/2165._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea</link>
+  <num_pages>132</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scribner</publisher>
+  <publication_day/>
+  <publication_year>1996</publication_year>
+  <publication_month/>
+  <average_rating>3.76</average_rating>
+  <ratings_count>735318</ratings_count>
+  <description>The last novel Ernest Hemingway saw published, The Old Man and the Sea has proved itself to be one of the enduring works of American fiction. It is the story of an old Cuban fisherman and his supreme ordeal: a relentless, agonizing battle with a giant marlin far out in the Gulf Stream. Using the simple, powerful language of a fable, Hemingway takes the timeless themes of courage in the face of defeat and personal triumph won from loss and transforms them into a magnificent twentieth-century classic.</description>
+<authors>
+<author>
+<id>1455</id>
+<name>Ernest Hemingway</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1406040005p5/1455.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1406040005p2/1455.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1455.Ernest_Hemingway]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>1905468</ratings_count>
+<text_reviews_count>68917</text_reviews_count>
+</author>
+</authors>
+  <published>1996</published>
+<work>  <id>69741</id>
+  <uri>kca://work/amzn1.gr.work.v1.K_fGpy0h3s4kHHnMIZqO9g</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2611394190' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Sep 04 16:49:57 -0700 2019</started_at>
+  <read_at>Wed Sep 04 17:51:15 -0700 2019</read_at>
+  <date_added>Wed Sep 04 16:49:57 -0700 2019</date_added>
+  <date_updated>Wed Sep 04 17:54:18 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>1</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2965147791]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2965147791]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2962493611</id>
+    <book>
+  <id type="integer">4671</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">49900</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Rka-Q5n8mdEE6GzuIQRElQ</uri>
+  <title>The Great Gatsby</title>
+  <title_without_series>The Great Gatsby</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490528560l/4671._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/4671.The_Great_Gatsby</link>
+  <num_pages>200</num_pages>
+  <format>Paperback</format>
+  <edition_information>US / CAN</edition_information>
+  <publisher>Scribner</publisher>
+  <publication_day/>
+  <publication_year>2004</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>3388945</ratings_count>
+  <description>Alternate Cover Edition ISBN: 0743273567 (ISBN13: &lt;a href="https://www.goodreads.com/book/show/41733839-the-great-gatsby" rel="nofollow"&gt;9780743273565&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;The Great Gatsby, F. Scott Fitzgerald's third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story is of the fabulously wealthy Jay Gatsby and his new love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted "gin was the national drink and sex the national obsession," it is an exquisitely crafted tale of America in the 1920s.&lt;br /&gt;&lt;br /&gt;The Great Gatsby is one of the great classics of twentieth-century literature.&lt;br /&gt;(back cover)</description>
+<authors>
+<author>
+<id>3190</id>
+<name>F. Scott Fitzgerald</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1517864008p5/3190.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1517864008p2/3190.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3190.F_Scott_Fitzgerald]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>3730256</ratings_count>
+<text_reviews_count>81726</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>245494</id>
+  <uri>kca://work/amzn1.gr.work.v1.56BQMsZ2-7G__6NkMx9vWg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2608742559' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='323176401' name='favoritos' review_shelf_id='2611177090' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Sep 02 19:15:29 -0700 2019</started_at>
+  <read_at>Wed Sep 04 14:12:39 -0700 2019</read_at>
+  <date_added>Mon Sep 02 19:15:28 -0700 2019</date_added>
+  <date_updated>Wed Sep 04 14:12:39 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2962493611]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2962493611]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2929572799</id>
+    <book>
+  <id type="integer">17061</id>
+  <isbn>0061139378</isbn>
+  <isbn13>9780061139376</isbn13>
+  <text_reviews_count type="integer">12680</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.iZ08M4DnKVh3VqwRVK5eKg</uri>
+  <title>Coraline</title>
+  <title_without_series>Coraline</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493497435l/17061._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493497435l/17061._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17061.Coraline</link>
+  <num_pages>162</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>William Morrow Paperbacks</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>431343</ratings_count>
+  <description>The day after they moved in, Coraline went exploring....&lt;br /&gt;&lt;br /&gt;In Coraline's family's new flat are twenty-one windows and fourteen doors. Thirteen of the doors open and close. &lt;br /&gt;&lt;br /&gt;The fourteenth is locked, and on the other side is only a brick wall, until the day Coraline unlocks the door to find a passage to another flat in another house just like her own. &lt;br /&gt;&lt;br /&gt;Only it's different. &lt;br /&gt;&lt;br /&gt;At first, things seem marvelous in the other flat. The food is better. The toy box is filled with wind-up angels that flutter around the bedroom, books whose pictures writhe and crawl and shimmer, little dinosaur skulls that chatter their teeth. But there's another mother, and another father, and they want Coraline to stay with them and be their little girl. They want to change her and never let her go. &lt;br /&gt;&lt;br /&gt;Other children are trapped there as well, lost souls behind the mirrors. Coraline is their only hope of rescue. She will have to fight with all her wits and all the tools she can find if she is to save the lost children, her ordinary life, and herself. &lt;br /&gt;&lt;br /&gt;Critically acclaimed and award-winning author Neil Gaiman will delight readers with his first novel for all ages.</description>
+<authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p5/1221698.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p2/1221698.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>5542357</ratings_count>
+<text_reviews_count>332907</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>2834844</id>
+  <uri>kca://work/amzn1.gr.work.v1.vbalmqvzO8KrGjieBP-H0w</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2622356276' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Sep 13 15:29:59 -0700 2019</started_at>
+  <read_at>Thu Oct 03 13:50:17 -0700 2019</read_at>
+  <date_added>Thu Aug 08 13:41:38 -0700 2019</date_added>
+  <date_updated>Thu Oct 03 13:50:17 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2929572799]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2929572799]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2910035095</id>
+    <book>
+  <id type="integer">62291</id>
+  <isbn>055357342X</isbn>
+  <isbn13>9780553573428</isbn13>
+  <text_reviews_count type="integer">16146</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.aRi_AgLRlZpgPmXOmaqxPA</uri>
+  <title>A Storm of Swords (A Song of Ice and Fire, #3)</title>
+  <title_without_series>A Storm of Swords</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571318786l/62291._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571318786l/62291._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/62291.A_Storm_of_Swords</link>
+  <num_pages>1177</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Bantam</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.54</average_rating>
+  <ratings_count>620242</ratings_count>
+  <description>&lt;i&gt;An alternate cover for this isbn can be found &lt;a href="https://www.goodreads.com/book/show/13253102.here" title="here" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Here is the third volume in George R.R. Martin's magnificent cycle of novels that includes &lt;i&gt;A Game of Thrones&lt;/i&gt; and &lt;i&gt;A Clash of Kings&lt;/i&gt;. Together, this series comprises a genuine masterpiece of modern fantasy, destined to stand as one of the great achievements of imaginative fiction.&lt;br /&gt;&lt;br /&gt;Of the five contenders for power, one is dead, another in disfavor, and still the wars rage as alliances are made and broken. Joffrey sits on the Iron Throne, the uneasy ruler of the Seven Kingdoms. His most bitter rival, Lord Stannis, stands defeated and disgraced, victim of the sorceress who holds him in her thrall. Young Robb still rules the North from the fortress of Riverrun. Meanwhile, making her way across a blood-drenched continent is the exiled queen, Daenerys, mistress of the only three dragons still left in the world. And as opposing forces manoeuver for the final showdown, an army of barbaric wildlings arrives from the outermost limits of civilization, accompanied by a horde of mythical Others—a supernatural army of the living dead whose animated corpses are unstoppable. As the future of the land hangs in the balance, no one will rest until the Seven Kingdoms have exploded in a veritable storm of swords...</description>
+<authors>
+<author>
+<id>346732</id>
+<name>George R.R. Martin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1563055799p5/346732.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1563055799p2/346732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>5149840</ratings_count>
+<text_reviews_count>188702</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>1164465</id>
+  <uri>kca://work/amzn1.gr.work.v1.juIs4U2uAGUqDsf-WLfNlg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2556316337' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='323176401' name='favoritos' review_shelf_id='2576886383' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jul 24 20:31:17 -0700 2019</started_at>
+  <read_at>Fri Aug 09 10:09:20 -0700 2019</read_at>
+  <date_added>Wed Jul 24 20:31:16 -0700 2019</date_added>
+  <date_updated>Fri Aug 09 10:09:20 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2910035095]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2910035095]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2894622332</id>
+    <book>
+  <id type="integer">590272</id>
+  <isbn>1430439866</isbn>
+  <isbn13>9781430439868</isbn13>
+  <text_reviews_count type="integer">401</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.XXurVx1Gna4cPaWiKHkOQg</uri>
+  <title>The Nightingale and the Rose</title>
+  <title_without_series>The Nightingale and the Rose</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428095664l/590272._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1428095664l/590272._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/590272.The_Nightingale_and_the_Rose</link>
+  <num_pages>12</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Kessinger Publishing</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.31</average_rating>
+  <ratings_count>6271</ratings_count>
+  <description>An allegorical fable of love, sacrifice and selfishness. As with all of Wilde's short stories it embodies strong moral values and is told with an effervescence akin to that of the 1001 nights. &lt;br /&gt;&lt;br /&gt;It is the tale of a lovestruck student who must provide his lover with a red rose in order to win her heart. A nightingale overhearing his lament from a solitary oak tree is filled with sorrow and admiration all at once, and decides to help the poor young man.&lt;br /&gt;&lt;br /&gt;She journeys through the night seeking the perfect red rose and finally comes across a rambling rose bush but alas, the bush has no roses to offer her. However, there is a way to MAKE a red rose, but with grave consequences. &lt;br /&gt;&lt;br /&gt;This story can be found freely on many websites:&lt;br /&gt;&lt;br /&gt;&lt;a target="_blank" href="http://www.eastoftheweb.com/short-stories/UBooks/NigRos.shtml" rel="nofollow"&gt;http://www.eastoftheweb.com/short-sto...&lt;/a&gt;&lt;br /&gt;&lt;a target="_blank" href="http://www.literaturepage.com/read/the-happy-prince-11.html" rel="nofollow"&gt;http://www.literaturepage.com/read/th...&lt;/a&gt;&lt;br /&gt;&lt;a target="_blank" href="http://www.oscarwildecollection.com/" rel="nofollow"&gt;http://www.oscarwildecollection.com/&lt;/a&gt;</description>
+<authors>
+<author>
+<id>3565</id>
+<name>Oscar Wilde</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521044377p5/3565.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521044377p2/3565.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3565.Oscar_Wilde]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>1522479</ratings_count>
+<text_reviews_count>50625</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>1913961</id>
+  <uri>kca://work/amzn1.gr.work.v1.pX-eR89Kq_ImaRELqihVfQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2541256574' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='323176401' name='favoritos' review_shelf_id='2541256570' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jul 13 13:38:30 -0700 2019</date_added>
+  <date_updated>Sat Jul 13 13:38:42 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2894622332]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2894622332]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2894556524</id>
+    <book>
+  <id type="integer">79121</id>
+  <isbn>0525453679</isbn>
+  <isbn13>9780525453673</isbn13>
+  <text_reviews_count type="integer">540</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.1NbDGe6_auRQjD29W97_lw</uri>
+  <title>The Happy Prince</title>
+  <title_without_series>The Happy Prince</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/79121.The_Happy_Prince</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dutton Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1995</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.22</average_rating>
+  <ratings_count>24299</ratings_count>
+  <description>More than a hundred years ago, Oscar Wilde created this moving story for his children. Now shimmering illustrations, as bejeweled and golden as the Prince himself, give glowing life to the many dimensions of his tale. His story of friendship, love, and a willingness to part with one's own riches may be more important today than ever before. Full color.</description>
+<authors>
+<author>
+<id>3565</id>
+<name>Oscar Wilde</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521044377p5/3565.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1521044377p2/3565.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3565.Oscar_Wilde]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>1522479</ratings_count>
+<text_reviews_count>50625</text_reviews_count>
+</author>
+</authors>
+  <published>1995</published>
+<work>  <id>244691</id>
+  <uri>kca://work/amzn1.gr.work.v1.9VL7cxStu_ksD9sXBP3QjQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2541193199' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Jul 13 12:39:29 -0700 2019</date_added>
+  <date_updated>Sat Jul 13 12:39:37 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2894556524]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2894556524]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2861359249</id>
+    <book>
+  <id type="integer">26252859</id>
+  <isbn>148473274X</isbn>
+  <isbn13>9781484732748</isbn13>
+  <text_reviews_count type="integer">8137</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.t8NFzNKJKhmFgOGHKhYNjg</uri>
+  <title>The Hidden Oracle (The Trials of Apollo, #1)</title>
+  <title_without_series>The Hidden Oracle</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449765273l/26252859._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449765273l/26252859._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26252859-the-hidden-oracle</link>
+  <num_pages>375</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Disney-Hyperion</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.26</average_rating>
+  <ratings_count>87353</ratings_count>
+  <description>How do you punish an immortal?&lt;br /&gt;&lt;br /&gt;By making him human.&lt;br /&gt;&lt;br /&gt;After angering his father Zeus, the god Apollo is cast down from Olympus. Weak and disorientated, he lands in New York City as a regular teenage boy. Now, without his godly powers, the four-thousand-year-old deity must learn to survive in the modern world until he can somehow find a way to regain Zeus's favour.&lt;br /&gt;&lt;br /&gt;But Apollo has many enemies—gods, monsters and mortals who would love to see the former Olympian permanently destroyed. Apollo needs help, and he can think of only one place to go... an enclave of modern demigods known as Camp Half-Blood.</description>
+<authors>
+<author>
+<id>15872</id>
+<name>Rick Riordan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p5/15872.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1383677264p2/15872.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15872.Rick_Riordan]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>7569332</ratings_count>
+<text_reviews_count>301446</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>46249638</id>
+  <uri>kca://work/amzn1.gr.work.v1.tJMQ2g3eAl7pjiJrV_Y4fw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2508075492' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jun 17 07:17:07 -0700 2019</started_at>
+  <read_at>Sat Aug 17 19:21:00 -0700 2019</read_at>
+  <date_added>Mon Jun 17 07:17:06 -0700 2019</date_added>
+  <date_updated>Sat Aug 17 19:21:00 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2861359249]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2861359249]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2848556924</id>
+    <book>
+  <id type="integer">6267729</id>
+  <isbn>0723538743</isbn>
+  <isbn13>9780723538745</isbn13>
+  <text_reviews_count type="integer">11</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Eqkb30FHBFcRcS_GWklYFA</uri>
+  <title>The Brave Little Tailor</title>
+  <title_without_series>The Brave Little Tailor</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322332410l/6267729._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322332410l/6267729._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6267729-the-brave-little-tailor</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>World International Publishing Limited</publisher>
+  <publication_day/>
+  <publication_year>1983</publication_year>
+  <publication_month/>
+  <average_rating>3.66</average_rating>
+  <ratings_count>223</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>2938140</id>
+<name>Jacob Grimm</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1242997930p5/2938140.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1242997930p2/2938140.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2938140.Jacob_Grimm]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>280188</ratings_count>
+<text_reviews_count>10772</text_reviews_count>
+</author>
+</authors>
+  <published>1983</published>
+<work>  <id>40861934</id>
+  <uri>kca://work/amzn1.gr.work.v1.7GMq0i0_x91FJ9bQnwfnJQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2495097998' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Thu Jun 06 10:12:22 -0700 2019</date_added>
+  <date_updated>Thu Jun 06 10:12:30 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2848556924]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2848556924]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2847990747</id>
+    <book>
+  <id type="integer">9453611</id>
+  <isbn>006202051X</isbn>
+  <isbn13>9780062020512</isbn13>
+  <text_reviews_count type="integer">102</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.gAVKjmtbKaiYosAXDUHyNA</uri>
+  <title>Little Red Riding Hood</title>
+  <title_without_series>Little Red Riding Hood</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9453611-little-red-riding-hood</link>
+  <num_pages>80</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Harper Design</publisher>
+  <publication_day/>
+  <publication_year>2011</publication_year>
+  <publication_month/>
+  <average_rating>3.83</average_rating>
+  <ratings_count>1321</ratings_count>
+  <description>" . . . what big eyes you have!"&lt;br /&gt;&lt;br /&gt;Originating in seventeenth-century French folklore, the story of Little Red Riding Hood has long been one of the world's most memorable tales of childhood, with its haunting journey into the dark woods, tumultuous encounter with the big, bad wolf, and heroic rescue. This new gift edition presents the Brothers Grimm version of the tale, fully unabridged with a visionary interpretation by renowned artist Daniel Egnéus that captures both its horror and its romance.</description>
+<authors>
+<author>
+<id>2938140</id>
+<name>Jacob Grimm</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1242997930p5/2938140.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1242997930p2/2938140.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2938140.Jacob_Grimm]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>280188</ratings_count>
+<text_reviews_count>10772</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>27039426</id>
+  <uri>kca://work/amzn1.gr.work.v1.Y80M6TF8_eWZjM9B0CBE2A</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2494517367' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 05 20:17:15 -0700 2019</date_added>
+  <date_updated>Wed Jun 05 20:17:21 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2847990747]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2847990747]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2847984196</id>
+    <book>
+  <id type="integer">1299393</id>
+  <isbn>0517433524</isbn>
+  <isbn13>9780517433522</isbn13>
+  <text_reviews_count type="integer">52</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.OFA2IamioSJGjSLU3lzlCA</uri>
+  <title>Hansel and Gretel</title>
+  <title_without_series>Hansel and Gretel</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472224627l/1299393._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472224627l/1299393._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1299393.Hansel_and_Gretel</link>
+  <num_pages>22</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>12</publication_day>
+  <publication_year>1988</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>9173</ratings_count>
+  <description>&lt;i&gt;This all happened a long time ago, in your grandmother's time, or in her grandfather's. A long time ago. Back then, we all lives on the edge of the great forest.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;Neil Gaiman and Lorenzo Mattoti both remember the horror and fascination with which they read the Grimm Brothers' "Hansel and Gretel." The writer and the artist now join forces for a brilliant reimagining of one of humanity's most enduring tales. Be brave, be bold, and keep your wits about you--Gaiman and Mattoti are welcoming you into the woods.</description>
+<authors>
+<author>
+<id>2938140</id>
+<name>Jacob Grimm</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1242997930p5/2938140.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1242997930p2/2938140.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2938140.Jacob_Grimm]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>280188</ratings_count>
+<text_reviews_count>10772</text_reviews_count>
+</author>
+</authors>
+  <published>1988</published>
+<work>  <id>40041579</id>
+  <uri>kca://work/amzn1.gr.work.v1.l8huSDE51MImeLWIJ2DTlA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2494511297' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 05 20:10:41 -0700 2019</date_added>
+  <date_updated>Wed Jun 05 20:11:24 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2847984196]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2847984196]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2847972668</id>
+    <book>
+  <id type="integer">730596</id>
+  <isbn>0316354503</isbn>
+  <isbn13>9780316354509</isbn13>
+  <text_reviews_count type="integer">180</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FN2ef9oCPT6vt4mSAObR2w</uri>
+  <title>Snow White</title>
+  <title_without_series>Snow White</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1313866835l/730596._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1313866835l/730596._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/730596.Snow_White</link>
+  <num_pages>48</num_pages>
+  <format>Hardcover</format>
+  <edition_information>Silver Anniversary Edition</edition_information>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>1974</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>11562</ratings_count>
+  <description>Spared by her would-be executioner, Snow White finds a home with seven kindly dwarfs, but the hateful queen who wants her dead will stop at nothing to be the most beautiful woman in the land. A poisoned apple seems to send Snow White to her death, but true love brings her back, and good once again prevails.&lt;br /&gt;&lt;br /&gt;Paul Heins's graceful words and Trina Schart Hyman's expressive artwork create a dramatic retelling of this classic tale, filled with movement and passion that will enchant readers of all ages.</description>
+<authors>
+<author>
+<id>2938140</id>
+<name>Jacob Grimm</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1242997930p5/2938140.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1242997930p2/2938140.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2938140.Jacob_Grimm]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>280188</ratings_count>
+<text_reviews_count>10772</text_reviews_count>
+</author>
+</authors>
+  <published>1974</published>
+<work>  <id>39902273</id>
+  <uri>kca://work/amzn1.gr.work.v1.y5Zw7_X5iyDTWgYHUiQZEw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2494511062' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Jun 05 19:59:19 -0700 2019</date_added>
+  <date_updated>Wed Jun 05 20:11:10 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2847972668]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2847972668]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2837583233</id>
+    <book>
+  <id type="integer">23875</id>
+  <isbn>0307350436</isbn>
+  <isbn13>9780307350435</isbn13>
+  <text_reviews_count type="integer">663</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._w18MWsQasCVu9sLuMIy-A</uri>
+  <title>El coronel no tiene quien le escriba</title>
+  <title_without_series>El coronel no tiene quien le escriba</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23875.El_coronel_no_tiene_quien_le_escriba</link>
+  <num_pages>104</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Plaza &amp; Janés</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.74</average_rating>
+  <ratings_count>27057</ratings_count>
+  <description>El coronel no tiene quien le escriba fue escrita por Gabriel García Márquez durante su estancia en París, adonde había llegado como corresponsal de prensa y con la secreta intención de estudiar cine, a mediados de los años cincuenta. El cierre del periódico para el que trabajaba le sumió en la pobreza, mientras redactaba en tres versiones distintas esta excepcional novela, que fue rechazada por varios editores antes de su publicación. Tras el barroquismo faulkneriano de La hojarasca, esta segunda novela supone un paso hacia la ascesis, hacia la economía expresiva, y el estilo del escritor se hace más puro y transparente. Se trata también de una historia de injusticia y violencia: un viejo coronel retirado va al puerto todos los viernes a esperar la llegada de la carta oficial que responda a la justa reclamación de sus derechos por los servicios prestados a la patria. Pero la patria permanece muda...</description>
+<authors>
+<author>
+<id>13450</id>
+<name>Gabriel García Márquez</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1502310670p5/13450.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1502310670p2/13450.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13450.Gabriel_Garc_a_M_rquez]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>1468914</ratings_count>
+<text_reviews_count>68127</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>40096204</id>
+  <uri>kca://work/amzn1.gr.work.v1.RympyhKOY69-uRlhgZEpig</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508127' name='facultad' review_shelf_id='2489961748' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='323176401' name='favoritos' review_shelf_id='2533209802' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jun 02 08:22:08 -0700 2019</started_at>
+  <read_at>Wed Jun 05 19:35:22 -0700 2019</read_at>
+  <date_added>Tue May 28 12:41:00 -0700 2019</date_added>
+  <date_updated>Sun Jul 07 08:33:37 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2837583233]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2837583233]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2824669066</id>
+    <book>
+  <id type="integer">25361947</id>
+  <isbn>1101222581</isbn>
+  <isbn13>9781101222584</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.D0i2gaDQBiKGdvDoWe7-6g</uri>
+  <title>The Story from Rosendo Juarez</title>
+  <title_without_series>The Story from Rosendo Juarez</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544476135l/25361947._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1544476135l/25361947._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25361947-the-story-from-rosendo-juarez</link>
+  <num_pages></num_pages>
+  <format>Audiobook</format>
+  <edition_information/>
+  <publisher>Penguin Audio</publisher>
+  <publication_day>24</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>8</ratings_count>
+  <description>A Selection from The Collected Fictions of Jorge Luis Borges</description>
+<authors>
+<author>
+<id>500</id>
+<name>Jorge Luis Borges</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1537559279p5/500.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1537559279p2/500.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/500.Jorge_Luis_Borges]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>227214</ratings_count>
+<text_reviews_count>13865</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>45105542</id>
+  <uri>kca://work/amzn1.gr.work.v1.J5DiaTOhYNGScoq2-ezo3w</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508127' name='facultad' review_shelf_id='2482746873' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri May 17 16:01:27 -0700 2019</date_added>
+  <date_updated>Mon May 27 13:06:08 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2824669066]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2824669066]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2824668694</id>
+    <book>
+  <id type="integer">36590192</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.48lZXlFARjKHQ0I4lWyEmg</uri>
+  <title>El hombre de la esquina rosada</title>
+  <title_without_series>El hombre de la esquina rosada</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/36590192-el-hombre-de-la-esquina-rosada</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.69</average_rating>
+  <ratings_count>13</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>500</id>
+<name>Jorge Luis Borges</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1537559279p5/500.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1537559279p2/500.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/500.Jorge_Luis_Borges]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>227214</ratings_count>
+<text_reviews_count>13865</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>58338393</id>
+  <uri>kca://work/amzn1.gr.work.v1.YFQ0dAq5koBeBTSzUDbPiw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508127' name='facultad' review_shelf_id='2482726810' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri May 17 16:01:00 -0700 2019</date_added>
+  <date_updated>Mon May 27 12:49:43 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2824668694]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2824668694]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2824668112</id>
+    <book>
+  <id type="integer">21398521</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">20</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.zd6bKWkZrxgE8dkvWsjrqA</uri>
+  <title>Funes el Memorioso</title>
+  <title_without_series>Funes el Memorioso</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394203946l/21398521._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394203946l/21398521._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21398521-funes-el-memorioso</link>
+  <num_pages>10</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Minificciones</publisher>
+  <publication_day/>
+  <publication_year>1988</publication_year>
+  <publication_month/>
+  <average_rating>3.98</average_rating>
+  <ratings_count>234</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>500</id>
+<name>Jorge Luis Borges</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1537559279p5/500.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1537559279p2/500.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/500.Jorge_Luis_Borges]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>227214</ratings_count>
+<text_reviews_count>13865</text_reviews_count>
+</author>
+</authors>
+  <published>1988</published>
+<work>  <id>55449751</id>
+  <uri>kca://work/amzn1.gr.work.v1.NLN0WV_D3MjIEgR9crBBdQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508127' name='facultad' review_shelf_id='2489963474' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri May 17 16:00:17 -0700 2019</date_added>
+  <date_updated>Sun Jun 02 09:07:29 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2824668112]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2824668112]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2824667780</id>
+    <book>
+  <id type="integer">21795188</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.WbpxJwebQmAeRNEYifmMJQ</uri>
+  <title>El muerto</title>
+  <title_without_series>El muerto</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411245518l/21795188._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411245518l/21795188._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21795188-el-muerto</link>
+  <num_pages></num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.45</average_rating>
+  <ratings_count>29</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>500</id>
+<name>Jorge Luis Borges</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1537559279p5/500.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1537559279p2/500.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/500.Jorge_Luis_Borges]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>227214</ratings_count>
+<text_reviews_count>13865</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>55409889</id>
+  <uri>kca://work/amzn1.gr.work.v1.fkhQJQNGltg-_zApxvwudQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508127' name='facultad' review_shelf_id='2472856104' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri May 17 15:59:52 -0700 2019</date_added>
+  <date_updated>Sun May 19 09:56:29 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2824667780]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2824667780]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2824164930</id>
+    <book>
+  <id type="integer">31724113</id>
+  <isbn>8498387574</isbn>
+  <isbn13>9788498387575</isbn13>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.CD_dNxjZVOwLSQJsNkCXNw</uri>
+  <title>Tres días y una vida</title>
+  <title_without_series>Tres días y una vida</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538955730l/31724113._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538955730l/31724113._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/31724113-tres-d-as-y-una-vida</link>
+  <num_pages>224</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Salamandra</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.56</average_rating>
+  <ratings_count>2393</ratings_count>
+  <description>En la historia de la literatura abundan los ejemplos de personajes cuyas vidas se ven irremediablemente afectadas por un breve instante de su pasado. En esta nueva novela que sucede a &lt;i&gt;Nos vemos allá arriba&lt;/i&gt; —Premio Goncourt y notable éxito de ventas en castellano—, Pierre Lemaitre retrata con mano maestra la trayectoria vital de un adolescente que, en un fugaz e impremeditado arranque de ira, se ve envuelto en un crimen y debe cargar con el horror y la culpa por el resto de sus días. El relato, dividido en tres momentos espaciados en el tiempo —1999, 2011 y 2015—, es una invitación a acompañar el fascinante proceso de formación de la psique de Antoine Courtin, durante el cual se vislumbra el lacerante destino de una persona que, paradójicamente, ha sido víctima de su propia culpabilidad.&lt;br /&gt;&lt;br /&gt;Todo comienza en Beauval, un pequeño pueblo enclavado en una región cubierta de bosques, donde la apacibilidad y belleza del lugar son el contrapunto perfecto a la sucesión de acontecimientos que conforman la trama. Al complejo microcosmos de sus habitantes, no exentos de hipocresía y cinismo, se añaden los ambiguos gestos, los comentarios maliciosos, la maldad y la insidia parapetadas detrás de las buenas intenciones, elementos todos ellos determinantes en la gestación y desenlace de la apasionante historia de Antoine.&lt;br /&gt;&lt;br /&gt;Conjugación perfecta entre el Lemaitre literario y el Lemaitre policíaco, &lt;i&gt;Tres días y una vida&lt;/i&gt; combina una historia de suspense, donde la tensión no decae en ningún momento, con la riqueza de una prosa que nos sumerge en un mundo de emociones soterradas y nos invita a reflexionar sobre la cara más sombría de la condición humana. En cualquier caso, al final del libro quizá no nos sintamos más sabios, pero sí más conscientes de la dificultad de llevar una vida honesta, gratificante y en paz con uno mismo.</description>
+<authors>
+<author>
+<id>822613</id>
+<name>Pierre Lemaitre</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1384102256p5/822613.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1384102256p2/822613.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/822613.Pierre_Lemaitre]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>40078</ratings_count>
+<text_reviews_count>5766</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>72412093</id>
+  <uri>kca://work/amzn1.gr.work.v2.b2d36614-0bb5-4ffd-abf8-22073fc0c928</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2618902847' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Sep 08 09:19:10 -0700 2019</started_at>
+  <read_at>Tue Sep 10 18:31:15 -0700 2019</read_at>
+  <date_added>Fri May 17 06:34:04 -0700 2019</date_added>
+  <date_updated>Tue Sep 10 18:31:56 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      3.5
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2824164930]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2824164930]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2822716120</id>
+    <book>
+  <id type="integer">10572</id>
+  <isbn>0553381695</isbn>
+  <isbn13>9780553381696</isbn13>
+  <text_reviews_count type="integer">16373</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.NoLVrZQT_waaqf7LAy40Fw</uri>
+  <title>A Clash of Kings  (A Song of Ice and Fire, #2)</title>
+  <title_without_series>A Clash of Kings</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567840212l/10572._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567840212l/10572._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10572.A_Clash_of_Kings</link>
+  <num_pages>784</num_pages>
+  <format>Paperback</format>
+  <edition_information>Reprint edition</edition_information>
+  <publisher>Bantam</publisher>
+  <publication_day>28</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.41</average_rating>
+  <ratings_count>728051</ratings_count>
+  <description>A comet the color of blood and flame cuts across the sky. Two great leaders—Lord Eddard Stark and Robert Baratheon—who hold sway over an age of enforced peace are dead, victims of royal treachery. Now, from the ancient citadel of Dragonstone to the forbidding shores of Winterfell, chaos reigns. Six factions struggle for control of a divided land and the Iron Throne of the Seven Kingdoms, preparing to stake their claims through tempest, turmoil, and war. &lt;br /&gt;&lt;br /&gt;It is a tale in which brother plots against brother and the dead rise to walk in the night. Here a princess masquerades as an orphan boy; a knight of the mind prepares a poison for a treacherous sorceress; and wild men descend from the Mountains of the Moon to ravage the countryside. Against a backdrop of incest and fratricide, alchemy and murder, victory may go to the men and women possessed of the coldest steel...and the coldest hearts. For when kings clash, the whole land trembles.&lt;br /&gt;&lt;br /&gt;Here is the second volume in George R.R. Martin magnificent cycle of novels that includes &lt;i&gt;A Game of Thrones&lt;/i&gt; and &lt;i&gt;A Storm of Swords&lt;/i&gt;. As a whole, this series comprises a genuine masterpiece of modern fantasy, bringing together the best the genre has to offer. Magic, mystery, intrigue, romance, and adventure fill these pages and transport us to a world unlike any we have ever experienced. Already hailed as a classic, George R.R. Martin stunning series is destined to stand as one of the great achievements of imaginative fiction.</description>
+<authors>
+<author>
+<id>346732</id>
+<name>George R.R. Martin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1563055799p5/346732.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1563055799p2/346732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>5149840</ratings_count>
+<text_reviews_count>188702</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>3272005</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZwQUnZUDIhc6xQSzb3cYCQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2489961921' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue May 21 13:15:05 -0700 2019</started_at>
+  <read_at>Tue Jul 23 18:04:41 -0700 2019</read_at>
+  <date_added>Wed May 15 20:41:23 -0700 2019</date_added>
+  <date_updated>Sat Oct 05 07:49:06 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2822716120]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2822716120]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2815588087</id>
+    <book>
+  <id type="integer">23153581</id>
+  <isbn nil="true"/>
+  <isbn13>9788439729488</isbn13>
+  <text_reviews_count type="integer">357</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.SgC85NwXADxqeaTJ5NKKUw</uri>
+  <title>Distancia de rescate</title>
+  <title_without_series>Distancia de rescate</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532327641l/23153581._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532327641l/23153581._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23153581-distancia-de-rescate</link>
+  <num_pages>128</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Literatura Random House</publisher>
+  <publication_day/>
+  <publication_year>2015</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.72</average_rating>
+  <ratings_count>12340</ratings_count>
+  <description>El campo ha cambiado frente a nuestros ojos sin que nadie se diera cuenta. Y quizá no se trate solo de sequías y herbicidas, quizá se trate del hilo vital y filoso que nos ata a nuestros hijos, y del veneno que echamos sobre ellos. Nada es un cliché cuando finalmente sucede.&lt;br /&gt;&lt;br /&gt;"Distancia de rescate" sigue esta vertiginosa fatalidad haciéndose siempre las mismas preguntas: ¿Hay acaso algún apocalipsis que no sea personal? ¿Cuál es el punto exacto en el que, sin saberlo, se da el paso en falso que finalmente nos condena?&lt;br /&gt;&lt;br /&gt;Samanta Schweblin ha escrito un relato extraordinario e hipnótico, urgente y perdurable, que logra mantenernos inevitablemente atrapados y sumergirnos en un universo ficcional estremecedor.</description>
+<authors>
+<author>
+<id>2898936</id>
+<name>Samanta Schweblin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1545389695p5/2898936.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1545389695p2/2898936.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2898936.Samanta_Schweblin]]></link>
+<average_rating>3.73</average_rating>
+<ratings_count>19369</ratings_count>
+<text_reviews_count>3596</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>42701168</id>
+  <uri>kca://work/amzn1.gr.work.v1.F5gXh0rPWcWIy1vhoIr_aw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508127' name='facultad' review_shelf_id='2508830260' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='323176401' name='favoritos' review_shelf_id='2533209423' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jun 17 19:00:43 -0700 2019</started_at>
+  <read_at>Fri Jun 21 18:03:08 -0700 2019</read_at>
+  <date_added>Thu May 09 18:03:25 -0700 2019</date_added>
+  <date_updated>Sun Jul 07 08:33:16 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2815588087]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2815588087]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2812656059</id>
+    <book>
+  <id type="integer">1891345</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">35</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.S-py-JPVqnCk0pbRHrBv9A</uri>
+  <title>Huasipungo</title>
+  <title_without_series>Huasipungo</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324706172l/1891345._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1324706172l/1891345._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1891345.Huasipungo</link>
+  <num_pages>240</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Losada</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.65</average_rating>
+  <ratings_count>634</ratings_count>
+  <description>&lt;i&gt;Huasipungo&lt;/i&gt; es una pieza fundamental en el desarrollo de la narrativa indigenista andina. El indio que aparece en ella no es un indio mitico, sino un indio acosado por una naturaleza hostil y por los tradicionales abusos de los latifundistas. Junto al indio aparece el cholo, victima del blanco y verdugo del indio.</description>
+<authors>
+<author>
+<id>66320</id>
+<name>Jorge Icaza</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1378703210p5/66320.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1378703210p2/66320.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/66320.Jorge_Icaza]]></link>
+<average_rating>3.68</average_rating>
+<ratings_count>735</ratings_count>
+<text_reviews_count>71</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>110315</id>
+  <uri>kca://work/amzn1.gr.work.v1.xK81rxyZoQ7umGdOfVCv8w</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508127' name='facultad' review_shelf_id='2480230906' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat May 25 11:31:37 -0700 2019</started_at>
+  <read_at>Tue May 28 12:28:52 -0700 2019</read_at>
+  <date_added>Tue May 07 08:43:46 -0700 2019</date_added>
+  <date_updated>Tue May 28 12:28:52 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Es un libro que comienza de forma muy pesada y es muy complicado seguirle la lectura, pero que a medida que uno avanza más lo disfruta. Muy buen final.<br /><br />Siento que una calificación de 3 es un poco injusta considerando que la segunda mitad del libro la disfruté, pero la primera se me hiz...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2812656059]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2812656059]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2802953980</id>
+    <book>
+  <id type="integer">349611</id>
+  <isbn>082233271X</isbn>
+  <isbn13>9780822332718</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.fSvY3kTR2MyuoivwYbW3dw</uri>
+  <title>Songs of Life and Hope/Cantos de vida y esperanza</title>
+  <title_without_series>Songs of Life and Hope/Cantos de vida y esperanza</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328854056l/349611._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328854056l/349611._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/349611.Songs_of_Life_and_Hope_Cantos_de_vida_y_esperanza</link>
+  <num_pages>272</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Duke University Press Books</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>143</ratings_count>
+  <description>Renowned for its depth of feeling and musicality, the poetry of Rubén Darío (1867–1916) has been revered by writers including Federico García Lorca, Pablo Neruda, and Octavio Paz. A leading figure in the movement known as &lt;i&gt;modernismo, &lt;/i&gt;Darío created the modern Spanish lyric and permanently altered the course of Spanish poetry&lt;i&gt;.&lt;/i&gt; Yet while his output has inspired a great deal of critical analysis and a scattering of translations, there has been, until now, no complete English translation of any of his books of poetry. This bilingual edition of Darío’s 1905 masterpiece, &lt;i&gt;Cantos de vida y esperanza, &lt;/i&gt;fills a crucial gap in Hispanic and world literature studies. Will Derusha and Alberto Acereda have provided not only an elegant English translation of Darío’s work but also an authoritative version of the original Spanish text. Written over the course of seven years and in many locales in Latin America and Europe, the poems in &lt;i&gt;Cantos de vida y esperanza &lt;/i&gt;reflect both Darío’s anguished sense of modern life and his ecstatic visions of transcendence, freedom, and the transformative power of art. They reveal Darío’s familiarity with Spanish, French, and English literature and the wide range of his concerns—existential, religious, erotic, and socio-political. Derusha and Acereda’s translation renders Darío’s themes with meticulous clarity and captures the structural and acoustic dimensions of the poet’s language in all its rhythmic sonority. Their introduction places this singular poet—arguably the greatest to emerge from Latin America in modern literature—and his best and most widely known work in historical and literary context. An extensive glossary offers additional information, explaining terms related to modernismo&lt;i&gt;,&lt;/i&gt; Hispanic history, mythological allusions, and artists and writers prominent at the turn of the last century.</description>
+<authors>
+<author>
+<id>25575</id>
+<name>Rubén Darío</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1218823803p5/25575.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1218823803p2/25575.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/25575.Rub_n_Dar_o]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>4553</ratings_count>
+<text_reviews_count>302</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>339878</id>
+  <uri>kca://work/amzn1.gr.work.v1.b6tG3BWK0Hf-KZkc5n9n_w</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508127' name='facultad' review_shelf_id='2448998562' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Apr 29 06:06:30 -0700 2019</started_at>
+  <read_at>Sun Jun 30 07:17:25 -0700 2019</read_at>
+  <date_added>Mon Apr 29 06:06:29 -0700 2019</date_added>
+  <date_updated>Sun Jun 30 07:17:25 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2802953980]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2802953980]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2791288112</id>
+    <book>
+  <id type="integer">13496</id>
+  <isbn>0553588486</isbn>
+  <isbn13>9780553588484</isbn13>
+  <text_reviews_count type="integer">38013</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.2TDKEBAExkzaok9ELm7icw</uri>
+  <title>A Game of Thrones (A Song of Ice and Fire, #1)</title>
+  <title_without_series>A Game of Thrones</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13496.A_Game_of_Thrones</link>
+  <num_pages>835</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information/>
+  <publisher>Bantam</publisher>
+  <publication_day/>
+  <publication_year>2005</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.45</average_rating>
+  <ratings_count>1824269</ratings_count>
+  <description>Here is the first volume in George R. R. Martin’s magnificent cycle of novels that includes A Clash of Kings and A Storm of Swords. As a whole, this series comprises a genuine masterpiece of modern fantasy, bringing together the best the genre has to offer. Magic, mystery, intrigue, romance, and adventure fill these pages and transport us to a world unlike any we have ever experienced. Already hailed as a classic, George R. R. Martin’s stunning series is destined to stand as one of the great achievements of imaginative fiction.&lt;br /&gt;&lt;br /&gt;A GAME OF THRONES&lt;br /&gt;&lt;br /&gt;Long ago, in a time forgotten, a preternatural event threw the seasons out of balance. In a land where summers can last decades and winters a lifetime, trouble is brewing. The cold is returning, and in the frozen wastes to the north of Winterfell, sinister and supernatural forces are massing beyond the kingdom’s protective Wall. At the center of the conflict lie the Starks of Winterfell, a family as harsh and unyielding as the land they were born to. Sweeping from a land of brutal cold to a distant summertime kingdom of epicurean plenty, here is a tale of lords and ladies, soldiers and sorcerers, assassins and bastards, who come together in a time of grim omens.&lt;br /&gt;&lt;br /&gt;Here an enigmatic band of warriors bear swords of no human metal; a tribe of fierce wildlings carry men off into madness; a cruel young dragon prince barters his sister to win back his throne; and a determined woman undertakes the most treacherous of journeys. Amid plots and counterplots, tragedy and betrayal, victory and terror, the fate of the Starks, their allies, and their enemies hangs perilously in the balance, as each endeavors to win that deadliest of conflicts: the game of thrones.&lt;br /&gt;&lt;br /&gt;source: georgerrmartin.com</description>
+<authors>
+<author>
+<id>346732</id>
+<name>George R.R. Martin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1563055799p5/346732.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1563055799p2/346732.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/346732.George_R_R_Martin]]></link>
+<average_rating>4.37</average_rating>
+<ratings_count>5149840</ratings_count>
+<text_reviews_count>188702</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>1466917</id>
+  <uri>kca://work/amzn1.gr.work.v1.Vrl4aDtp2T19u85-Xfomzw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2437172418' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Apr 18 19:11:33 -0700 2019</started_at>
+  <read_at>Wed May 15 20:37:44 -0700 2019</read_at>
+  <date_added>Thu Apr 18 19:11:33 -0700 2019</date_added>
+  <date_updated>Wed May 15 20:38:07 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I wanna protect Sansa with my life]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2791288112]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2791288112]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2781560233</id>
+    <book>
+  <id type="integer">11297</id>
+  <isbn>0375704027</isbn>
+  <isbn13>9780375704024</isbn13>
+  <text_reviews_count type="integer">11720</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.AlP6ID8bNidEco9FBwNaNA</uri>
+  <title>Norwegian Wood</title>
+  <title_without_series>Norwegian Wood</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11297.Norwegian_Wood</link>
+  <num_pages>296</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage Books</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>294427</ratings_count>
+  <description>Toru, a quiet and preternaturally serious young college student in Tokyo, is devoted to Naoko, a beautiful and introspective young woman, but their mutual passion is marked by the tragic death of their best friend years before. Toru begins to adapt to campus life and the loneliness and isolation he faces there, but Naoko finds the pressures and responsibilities of life unbearable. As she retreats further into her own world, Toru finds himself reaching out to others and drawn to a fiercely independent and sexually liberated young woman.&lt;br /&gt;&lt;br /&gt;A magnificent blending of the music, the mood, and the ethos that was the sixties with the story of one college student's romantic coming of age, &lt;i&gt;Norwegian Wood&lt;/i&gt; brilliantly recaptures a young man's first, hopeless, and heroic love.&lt;br /&gt;&lt;br /&gt;</description>
+<authors>
+<author>
+<id>3354</id>
+<name>Haruki Murakami</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539035376p5/3354.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1539035376p2/3354.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3354.Haruki_Murakami]]></link>
+<average_rating>3.95</average_rating>
+<ratings_count>2076484</ratings_count>
+<text_reviews_count>151860</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>2956680</id>
+  <uri>kca://work/amzn1.gr.work.v1.3EVbzGfvXUWo3YZcXtQLMw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2661504165' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Oct 16 10:36:20 -0700 2019</started_at>
+  <read_at>Sun Oct 20 21:52:05 -0700 2019</read_at>
+  <date_added>Wed Apr 10 07:00:38 -0700 2019</date_added>
+  <date_updated>Sun Oct 20 21:52:05 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2781560233]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2781560233]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2780845963</id>
+    <book>
+  <id type="integer">69206</id>
+  <isbn>847844985X</isbn>
+  <isbn13>9788478449859</isbn13>
+  <text_reviews_count type="integer">139</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.0HIKcSAhWVRDe7WXX8eiTA</uri>
+  <title>Kafka y la muñeca viajera</title>
+  <title_without_series>Kafka y la muñeca viajera</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1263572195l/69206._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1263572195l/69206._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/69206.Kafka_y_la_mu_eca_viajera</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>1144</ratings_count>
+  <description>Un año antes de su muerte, Franz Kafka vivió una experiencia muy insólita. Paseando por el parque Steglitz, en Berlín, encontró a una niña llorando desconsolada: había perdido su muñeca. Para calmar a la pequeña, el autor de La metamorfosis se inventó una peculiar historia: la muñeca no se había perdido, se había ido de viaje, y él, convertido en cartero de muñecas, tenía una carta que le llevaría al día siguiente al parque. Aquella noche Franz escribió la primera de las muchas cartas que, durante tres semanas, entregó a la niña puntualmente, narrando las peripecias de la extraordinaria muñeca desde todos los rincones del mundo. Según cuenta Dora Dymant, su compañera en aquellos días, el estado febril con el que Kafka escribía esas cartas era comparable al de cualquiera de sus inmortales obras. Éste es el relato de aquella experiencia, en la que Franz Kafka fue un mago de la palabra para una niña desconocida de la que jamás volvió a saberse nada, como tampoco de aquellas cartas que constituyen uno de los misterios más hermosos de la narrativa del siglo XX.</description>
+<authors>
+<author>
+<id>38992</id>
+<name>Jordi Sierra i Fabra</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1562911739p5/38992.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1562911739p2/38992.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/38992.Jordi_Sierra_i_Fabra]]></link>
+<average_rating>3.61</average_rating>
+<ratings_count>19141</ratings_count>
+<text_reviews_count>1725</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>67061</id>
+  <uri>kca://work/amzn1.gr.work.v1.f9buQK6dGrsKWAQ6eSQdAQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2538904497' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='323176401' name='favoritos' review_shelf_id='2540608958' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Jul 10 17:13:59 -0700 2019</started_at>
+  <read_at>Fri Jul 12 23:56:06 -0700 2019</read_at>
+  <date_added>Tue Apr 09 14:43:16 -0700 2019</date_added>
+  <date_updated>Fri Jul 12 23:56:12 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2780845963]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2780845963]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2780845299</id>
+    <book>
+  <id type="integer">13079982</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3873</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.t_QHIvTlavta-Y2of512_w</uri>
+  <title>Fahrenheit 451</title>
+  <title_without_series>Fahrenheit 451</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383718290l/13079982._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383718290l/13079982._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13079982-fahrenheit-451</link>
+  <num_pages>194</num_pages>
+  <format></format>
+  <edition_information>60th Anniversary Edition</edition_information>
+  <publisher>Simon &amp; Schuster</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.98</average_rating>
+  <ratings_count>1480226</ratings_count>
+  <description>Guy Montag is a fireman. In his world, where television rules and literature is on the brink of extinction, firemen start fires rather than put them out. His job is to destroy the most illegal of commodities, the printed book, along with the houses in which they are hidden.&lt;br /&gt;&lt;br /&gt;Montag never questions the destruction and ruin his actions produce, returning each day to his bland life and wife, Mildred, who spends all day with her television 'family'. But then he meets an eccentric young neighbor, Clarisse, who introduces him to a past where people did not live in fear and to a present where one sees the world through the ideas in books instead of the mindless chatter of television.&lt;br /&gt;&lt;br /&gt;When Mildred attempts suicide and Clarisse suddenly disappears, Montag begins to question everything he has ever known.</description>
+<authors>
+<author>
+<id>1630</id>
+<name>Ray Bradbury</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1445955959p5/1630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1445955959p2/1630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1630.Ray_Bradbury]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>2126799</ratings_count>
+<text_reviews_count>81760</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>1272463</id>
+  <uri>kca://work/amzn1.gr.work.v1.Gc35TQN16pcDHysc-gwWBg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2542970360' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jul 14 20:50:04 -0700 2019</started_at>
+  <read_at>Tue Jul 23 21:03:42 -0700 2019</read_at>
+  <date_added>Tue Apr 09 14:42:34 -0700 2019</date_added>
+  <date_updated>Tue Jul 23 21:03:42 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2780845299]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2780845299]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2779329885</id>
+    <book>
+  <id type="integer">23594461</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2173</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.x5z0Rdrc_wfbm_xkBktZig</uri>
+  <title>The King's Men (All for the Game, #3)</title>
+  <title_without_series>The King's Men</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417587954l/23594461._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417587954l/23594461._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23594461-the-king-s-men</link>
+  <num_pages>556</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.63</average_rating>
+  <ratings_count>18725</ratings_count>
+  <description>Neil Josten is out of time. He knew when he came to PSU he wouldn't survive the year, but with his death right around the corner he's got more reasons than ever to live.&lt;br /&gt;&lt;br /&gt;Befriending the Foxes was inadvisable. Kissing one is unthinkable. Neil should know better than to get involved with anyone this close to the end, but Andrew's never been the easiest person to walk away from. If they both say it doesn't mean anything, maybe Neil won't regret losing it, but the one person Neil can't lie to is himself.&lt;br /&gt;&lt;br /&gt;He's got promises to keep and a team to get to championships if he can just outrun Riko a little longer, but Riko's not the only monster in Neil's life. The truth might get them all killed—or be Neil's one shot at getting out of this alive.</description>
+<authors>
+<author>
+<id>6896843</id>
+<name>Nora Sakavic</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371512666p5/6896843.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371512666p2/6896843.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6896843.Nora_Sakavic]]></link>
+<average_rating>4.38</average_rating>
+<ratings_count>60962</ratings_count>
+<text_reviews_count>8267</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>43196898</id>
+  <uri>kca://work/amzn1.gr.work.v1.M3HKc_dBDWxegn_K9Y3Nhw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2427217833' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='323176401' name='favoritos' review_shelf_id='2533210454' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Apr 08 08:56:48 -0700 2019</started_at>
+  <read_at>Thu Sep 26 07:08:23 -0700 2019</read_at>
+  <date_added>Mon Apr 08 08:56:43 -0700 2019</date_added>
+  <date_updated>Thu Sep 26 07:08:23 -0700 2019</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2779329885]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2779329885]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2777513088</id>
+    <book>
+  <id type="integer">18187013</id>
+  <isbn nil="true"/>
+  <isbn13>9781301824298</isbn13>
+  <text_reviews_count type="integer">1703</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.hFg6R7UumvR-qynrh8o4wA</uri>
+  <title>The Raven King (All for the Game, #2)</title>
+  <title_without_series>The Raven King</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373489255l/18187013._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1373489255l/18187013._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18187013-the-raven-king</link>
+  <num_pages>423</num_pages>
+  <format>ebook</format>
+  <edition_information>Smashwords Edition</edition_information>
+  <publisher>Smashwords Edition</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.46</average_rating>
+  <ratings_count>18538</ratings_count>
+  <description>The Foxes are a fractured mess, but their latest disaster might be the miracle they've always needed to come together as a team. The one person standing in their way is Andrew, and the only one who can break through his personal barriers is Neil.&lt;br /&gt;&lt;br /&gt;Except Andrew doesn't give up anything for free and Neil is terrible at trusting anyone but himself. The two don't have much time to come to terms with their situation before outside forces start tearing them apart. Riko is intent on destroying Neil's fragile new life, and the Foxes have just become collateral damage.&lt;br /&gt;&lt;br /&gt;Neil's days are numbered, but he's learning the hard way to go down fighting for what he believes in, and Neil believes in Andrew even if Andrew won't believe in himself.</description>
+<authors>
+<author>
+<id>6896843</id>
+<name>Nora Sakavic</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371512666p5/6896843.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371512666p2/6896843.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6896843.Nora_Sakavic]]></link>
+<average_rating>4.38</average_rating>
+<ratings_count>60962</ratings_count>
+<text_reviews_count>8267</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>25571658</id>
+  <uri>kca://work/amzn1.gr.work.v1.Oj-C9dgt1m8qJzBEnuOKAw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2427217994' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Apr 07 09:54:01 -0700 2019</started_at>
+  <read_at>Mon Apr 08 08:25:31 -0700 2019</read_at>
+  <date_added>Sat Apr 06 18:22:00 -0700 2019</date_added>
+  <date_updated>Tue Sep 24 16:26:30 -0700 2019</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2777513088]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2777513088]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2776310605</id>
+    <book>
+  <id type="integer">17675462</id>
+  <isbn>0545424925</isbn>
+  <isbn13>9780545424929</isbn13>
+  <text_reviews_count type="integer">18258</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FMfLK06LjEYYRF4P5QmacQ</uri>
+  <title>The Raven Boys (The Raven Cycle, #1)</title>
+  <title_without_series>The Raven Boys</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573508485l/17675462._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573508485l/17675462._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17675462-the-raven-boys</link>
+  <num_pages>416</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Press</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>229065</ratings_count>
+  <description>&lt;i&gt;“There are only two reasons a non-seer would see a spirit on St. Mark’s Eve,” Neeve said. “Either you’re his true love . . . or you killed him.”&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;It is freezing in the churchyard, even before the dead arrive.&lt;br /&gt;&lt;br /&gt;Every year, Blue Sargent stands next to her clairvoyant mother as the soon-to-be dead walk past. Blue herself never sees them—not until this year, when a boy emerges from the dark and speaks directly to her.&lt;br /&gt;&lt;br /&gt;His name is Gansey, and Blue soon discovers that he is a rich student at Aglionby, the local private school. Blue has a policy of staying away from Aglionby boys. Known as Raven Boys, they can only mean trouble.&lt;br /&gt;&lt;br /&gt;But Blue is drawn to Gansey, in a way she can’t entirely explain. He has it all—family money, good looks, devoted friends—but he’s looking for much more than that. He is on a quest that has encompassed three other Raven Boys: Adam, the scholarship student who resents all the privilege around him; Ronan, the fierce soul who ranges from anger to despair; and Noah, the taciturn watcher of the four, who notices many things but says very little.&lt;br /&gt;&lt;br /&gt;For as long as she can remember, Blue has been warned that she will cause her true love to die. She never thought this would be a problem. But now, as her life becomes caught up in the strange and sinister world of the Raven Boys, she’s not so sure anymore.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;From Maggie Stiefvater, the bestselling and acclaimed author of the &lt;i&gt;Shiver&lt;/i&gt; trilogy and &lt;i&gt;The Scorpio Races&lt;/i&gt;, comes a spellbinding new series where the inevitability of death and the nature of love lead us to a place we’ve never been before.&lt;/b&gt;</description>
+<authors>
+<author>
+<id>1330292</id>
+<name>Maggie Stiefvater</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540386769p5/1330292.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1540386769p2/1330292.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1330292.Maggie_Stiefvater]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>1405678</ratings_count>
+<text_reviews_count>135245</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>18970934</id>
+  <uri>kca://work/amzn1.gr.work.v1.HmV_QtNhEPnJu472iayrNA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2646211835' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Apr 09 12:36:27 -0700 2019</started_at>
+  <read_at>Thu Oct 03 10:48:30 -0700 2019</read_at>
+  <date_added>Fri Apr 05 15:50:37 -0700 2019</date_added>
+  <date_updated>Thu Oct 03 09:00:51 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2776310605]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2776310605]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2776306279</id>
+    <book>
+  <id type="integer">17259690</id>
+  <isbn nil="true"/>
+  <isbn13>9781301529049</isbn13>
+  <text_reviews_count type="integer">2741</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ERWPyQHKXdcslO5Iu8X_dQ</uri>
+  <title>The Foxhole Court (All for the Game, #1)</title>
+  <title_without_series>The Foxhole Court</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358594228l/17259690._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358594228l/17259690._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17259690-the-foxhole-court</link>
+  <num_pages>237</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Nora Sakavic</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.12</average_rating>
+  <ratings_count>23560</ratings_count>
+  <description>Neil Josten is the newest addition to the Palmetto State University Exy team. He's short, he's fast, he's got a ton of potential—and he's the runaway son of the murderous crime lord known as The Butcher.&lt;br /&gt;&lt;br /&gt;Signing a contract with the PSU Foxes is the last thing a guy like Neil should do. The team is high profile and he doesn't need sports crews broadcasting pictures of his face around the nation. His lies will hold up only so long under this kind of scrutiny and the truth will get him killed.&lt;br /&gt;&lt;br /&gt;But Neil's not the only one with secrets on the team. One of Neil's new teammates is a friend from his old life, and Neil can't walk away from him a second time. Neil has survived the last eight years by running. Maybe he's finally found someone and something worth fighting for.</description>
+<authors>
+<author>
+<id>6896843</id>
+<name>Nora Sakavic</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371512666p5/6896843.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1371512666p2/6896843.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6896843.Nora_Sakavic]]></link>
+<average_rating>4.38</average_rating>
+<ratings_count>60962</ratings_count>
+<text_reviews_count>8267</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>23855134</id>
+  <uri>kca://work/amzn1.gr.work.v1.LQb3jQuoiw_ccmNk6tXPNg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2427218123' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Apr 05 16:19:23 -0700 2019</started_at>
+  <read_at>Sat Apr 06 18:18:20 -0700 2019</read_at>
+  <date_added>Fri Apr 05 15:45:01 -0700 2019</date_added>
+  <date_updated>Mon Sep 23 14:07:02 -0700 2019</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2776306279]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2776306279]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2768926701</id>
+    <book>
+  <id type="integer">12914</id>
+  <isbn>0679729526</isbn>
+  <isbn13>9780679729525</isbn13>
+  <text_reviews_count type="integer">1145</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.wYuHjTzZ4W7AfxsJgeAg1w</uri>
+  <title>The Aeneid</title>
+  <title_without_series>The Aeneid</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12914.The_Aeneid</link>
+  <num_pages>442</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day>16</publication_day>
+  <publication_year>1990</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.83</average_rating>
+  <ratings_count>99997</ratings_count>
+  <description>&lt;i&gt;The Aeneid&lt;/i&gt; is an epic poem written by Virgil in the 1st century BC. It's hero is Aeneas, a Trojan who travels from Troy to Italy to eventually found Rome. Some argue that &lt;i&gt;The Aeneid&lt;/i&gt; is Virgil's answer to Homer's &lt;i&gt;Odyssey&lt;/i&gt; and &lt;i&gt;Iliad&lt;/i&gt;, combining two genres of the day - travel and war - into one poem. Take that, Homer!&lt;br /&gt;&lt;br /&gt;No civilization is without a bit of revisionist history: so it was that Virgil picked up the story of Aeneas, which was already floating around at the time, and forged an epic founding myth for Rome. And &lt;i&gt;The Aeneid&lt;/i&gt; fit the bill, as it linked Rome with the legends of ancient Troy, glorified stodgy Roman values, and legitimized its emperors as descendants of the heroes and gods of the past. George Washington probably didn't chop down a cherry tree, but it's a fun legend to tell the kids.</description>
+<authors>
+<author>
+<id>919</id>
+<name>Virgil</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1390671626p5/919.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1390671626p2/919.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/919.Virgil]]></link>
+<average_rating>3.85</average_rating>
+<ratings_count>109319</ratings_count>
+<text_reviews_count>2954</text_reviews_count>
+</author>
+</authors>
+  <published>1990</published>
+<work>  <id>288738</id>
+  <uri>kca://work/amzn1.gr.work.v1.Xok-CGYxLc-Lx1_II5wr2Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508127' name='facultad' review_shelf_id='2427220200' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Mar 30 11:40:42 -0700 2019</started_at>
+  <read_at>Thu May 02 21:26:17 -0700 2019</read_at>
+  <date_added>Sat Mar 30 11:40:41 -0700 2019</date_added>
+  <date_updated>Tue Jul 23 17:10:40 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2768926701]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2768926701]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2765554153</id>
+    <book>
+  <id type="integer">92625</id>
+  <isbn>0886825016</isbn>
+  <isbn13>9780886825010</isbn13>
+  <text_reviews_count type="integer">948</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.8mNsCm5vd6N3ZkXFQQK34A</uri>
+  <title>The Ones Who Walk Away from Omelas</title>
+  <title_without_series>The Ones Who Walk Away from Omelas</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389866872l/92625._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1389866872l/92625._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/92625.The_Ones_Who_Walk_Away_from_Omelas</link>
+  <num_pages>32</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Creative Education, Inc.</publisher>
+  <publication_day/>
+  <publication_year>1997</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.38</average_rating>
+  <ratings_count>13306</ratings_count>
+  <description>&lt;br /&gt;Some inhabitants of a peaceful kingdom cannot tolerate the act of cruelty that underlies its happiness.&lt;br /&gt;The story &lt;b&gt;"Omelas"&lt;/b&gt; was first published in &lt;i&gt;New Dimensions 3&lt;/i&gt;, a hard-cover science fiction anthology edited by Robert Silverberg, in October 1973, and the following year it won Le Guin the prestigious Hugo Award for best short story.&lt;br /&gt;It was subsequently printed in her short story collection &lt;i&gt;The Wind's Twelve Quarters&lt;/i&gt; in 1975.&lt;br /&gt;&lt;br /&gt;</description>
+<authors>
+<author>
+<id>874602</id>
+<name>Ursula K. Le Guin</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1244291425p5/874602.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1244291425p2/874602.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/874602.Ursula_K_Le_Guin]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>900824</ratings_count>
+<text_reviews_count>51959</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>89324</id>
+  <uri>kca://work/amzn1.gr.work.v1.KaHXxtU2KYsJjT3ZRHpOqw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2427218270' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Mar 27 14:39:34 -0700 2019</started_at>
+  <read_at>Wed Mar 27 14:51:16 -0700 2019</read_at>
+  <date_added>Wed Mar 27 12:02:22 -0700 2019</date_added>
+  <date_updated>Wed Apr 10 07:12:08 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2765554153]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2765554153]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2763483885</id>
+    <book>
+  <id type="integer">309205</id>
+  <isbn>8437606101</isbn>
+  <isbn13>9788437606101</isbn13>
+  <text_reviews_count type="integer">169</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.0aMClWLnA67UM-1FJlCqig</uri>
+  <title>María</title>
+  <title_without_series>María</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491090921l/309205._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1491090921l/309205._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/309205.Mar_a</link>
+  <num_pages>373</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Ediciones Catedra S.A.</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1986</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.43</average_rating>
+  <ratings_count>3560</ratings_count>
+  <description>Desde su publicacion en Bogota (1867) las ediciones de Maria se han multiplicado a lo largo del XIX y del XX. Esencialmente romantica, tiene, sin embargo, elementos realistas y costumbristas que evidencian el interes de su autor por el habla popular. Junto a claras reminiscencias literarias aparecen algunos datos biograficos que han dado lugar a frecuentes polemicas sobre su supuesto caracter autobiografico. Entre sus admiradores se encuentran autores de la talla de Ruben Dario o Unamuno.</description>
+<authors>
+<author>
+<id>178120</id>
+<name>Jorge Isaacs</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301880194p5/178120.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301880194p2/178120.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/178120.Jorge_Isaacs]]></link>
+<average_rating>3.44</average_rating>
+<ratings_count>3571</ratings_count>
+<text_reviews_count>228</text_reviews_count>
+</author>
+</authors>
+  <published>1986</published>
+<work>  <id>300159</id>
+  <uri>kca://work/amzn1.gr.work.v1.-m1Nk_qPsy5hedFW_caFNQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508127' name='facultad' review_shelf_id='2427218413' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 25 17:20:03 -0700 2019</started_at>
+  <read_at>Wed Mar 27 07:41:07 -0700 2019</read_at>
+  <date_added>Mon Mar 25 17:20:02 -0700 2019</date_added>
+  <date_updated>Wed Apr 10 07:12:17 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2763483885]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2763483885]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2762160856</id>
+    <book>
+  <id type="integer">34605885</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Ilw2p5IdJuQrZTxa3JLA4g</uri>
+  <title>Carta atenagórica</title>
+  <title_without_series>Carta atenagórica</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34605885-carta-atenag-rica</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>6</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>14917594</id>
+<name>Juana Inés de la Cruz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1475213511p5/14917594.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1475213511p2/14917594.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14917594.Juana_In_s_de_la_Cruz]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>2956</ratings_count>
+<text_reviews_count>239</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>55754515</id>
+  <uri>kca://work/amzn1.gr.work.v1.bzhNSPpjhSAB3_ExGjc2uQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508127' name='facultad' review_shelf_id='2427218739' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Mar 24 15:32:31 -0700 2019</date_added>
+  <date_updated>Wed Apr 10 07:12:40 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2762160856]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2762160856]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2760124772</id>
+    <book>
+  <id type="integer">588138</id>
+  <isbn>0691017840</isbn>
+  <isbn13>9780691017846</isbn13>
+  <text_reviews_count type="integer">1308</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.N-Xoi09LX2EPWIsi3pPM7w</uri>
+  <title>The Hero With a Thousand Faces</title>
+  <title_without_series>The Hero With a Thousand Faces</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces</link>
+  <num_pages>416</num_pages>
+  <format></format>
+  <edition_information>2nd edition Bollingen Series XVII</edition_information>
+  <publisher>Princeton University Press</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1972</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>27648</ratings_count>
+  <description>&lt;p&gt;The first popular work to combine the spiritual and psychological insights of modern psychoanalysis with the archetypes of world mythology, the book creates a roadmap for navigating the frustrating path of contemporary life. Examining heroic myths in the light of modern psychology, it considers not only the patterns and stages of mythology but also its relevance to our lives today--and to the life of any person seeking a fully realized existence.&lt;br /&gt;&lt;br /&gt;Myth, according to Campbell, is the projection of a culture's dreams onto a large screen; Campbell's book, like &lt;i&gt;Star Wars&lt;/i&gt;, the film it helped inspire, is an exploration of the big-picture moments from the stage that is our world. It is a must-have resource for both experienced students of mythology and the explorer just beginning to approach myth as a source of knowledge.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>20105</id>
+<name>Joseph Campbell</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1429114498p5/20105.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1429114498p2/20105.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/20105.Joseph_Campbell]]></link>
+<average_rating>4.29</average_rating>
+<ratings_count>227904</ratings_count>
+<text_reviews_count>6352</text_reviews_count>
+</author>
+</authors>
+  <published>1972</published>
+<work>  <id>971054</id>
+  <uri>kca://work/amzn1.gr.work.v1.aMdcL_VyBQKnTtb8yLzUKg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508127' name='facultad' review_shelf_id='2427219807' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Mar 22 20:30:49 -0700 2019</started_at>
+  <read_at>Sun Apr 21 22:48:25 -0700 2019</read_at>
+  <date_added>Fri Mar 22 20:30:48 -0700 2019</date_added>
+  <date_updated>Sun Apr 21 23:09:11 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Le doy 3.5 estrellas. A pesar de ser un libro que tuve que leer para una clase en la facultad, lo he disfrutado y lo volvería a leer, incluso de forma más minuciosa. Pero tuve ciertos problemas a la hora de leer el libro: el primer problema consistió en el excesivo uso de mitos a modo de ejemplo...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2760124772]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2760124772]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2757173295</id>
+    <book>
+  <id type="integer">9328</id>
+  <isbn>0553383809</isbn>
+  <isbn13>9780553383805</isbn13>
+  <text_reviews_count type="integer">4540</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.w6NKWqts4Yxn2i89Ia9Lcg</uri>
+  <title>The House of the Spirits</title>
+  <title_without_series>The House of the Spirits</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358615501l/9328._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358615501l/9328._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9328.The_House_of_the_Spirits</link>
+  <num_pages>448</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.22</average_rating>
+  <ratings_count>168662</ratings_count>
+  <description>In one of the most important and beloved Latin American works of the twentieth century, Isabel Allende weaves a luminous tapestry of three generations of the Trueba family, revealing both triumphs and tragedies. &lt;br /&gt;&lt;br /&gt;Here is patriarch Esteban, whose wild desires and political machinations are tempered only by his love for his ethereal wife, Clara, a woman touched by an otherworldly hand. Their daughter, Blanca, whose forbidden love for a man Esteban has deemed unworthy infuriates her father, yet will produce his greatest joy: his granddaughter Alba, a beautiful, ambitious girl who will lead the family and their country into a revolutionary future.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The House of the Spirits&lt;/i&gt; is an enthralling saga that spans decades and lives, twining the personal and the political into an epic novel of love, magic, and fate.</description>
+<authors>
+<author>
+<id>2238</id>
+<name>Isabel Allende</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1341879973p5/2238.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1341879973p2/2238.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2238.Isabel_Allende]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>675604</ratings_count>
+<text_reviews_count>41678</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>3374404</id>
+  <uri>kca://work/amzn1.gr.work.v1.NklzJYSwuJfQ2ke-8PnXFw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508139' name='tiempo-libre' review_shelf_id='2427218546' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='323176401' name='favoritos' review_shelf_id='2533210205' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 20 07:57:01 -0700 2019</date_added>
+  <date_updated>Sun Jul 07 08:34:00 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2757173295]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2757173295]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2757173042</id>
+    <book>
+  <id type="integer">40199894</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.eV5NegeahsfPMo2S9Tfx9A</uri>
+  <title>Popol Vuh</title>
+  <title_without_series>Popol Vuh</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40199894-popol-vuh</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.59</average_rating>
+  <ratings_count>98</ratings_count>
+  <description>Recopilación de varias leyendas de los k'iche', el pueblo de la cultura maya que expone la mitología de este pueblo. El libro tiene un gran valor histórico, así como espiritual. Se le ha llamado, Libro Sagrado de los mayas k'iche's. Es una narración que trata de explicar el origen del mundo, la civilización y los diversos fenómenos que ocurren en la naturaleza según la visión teológica de este pueblo.</description>
+<authors>
+<author>
+<id>5158478</id>
+<name>Anonymous</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5158478.Anonymous]]></link>
+<average_rating>4.15</average_rating>
+<ratings_count>1277562</ratings_count>
+<text_reviews_count>69158</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>62396793</id>
+  <uri>kca://work/amzn1.gr.work.v1.gkm4dApxtVBqiuYAsjofLQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="308780379" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='311508127' name='facultad' review_shelf_id='2427217718' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Wed Mar 20 07:56:41 -0700 2019</date_added>
+  <date_updated>Wed Apr 10 07:11:31 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2757173042]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2757173042]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

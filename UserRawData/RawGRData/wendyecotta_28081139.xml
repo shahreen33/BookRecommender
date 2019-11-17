@@ -1,0 +1,2328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='91033617' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="30" total="30">
+    <review>
+  <id>3042824770</id>
+    <book>
+  <id type="integer">29010395</id>
+  <isbn>1524700487</isbn>
+  <isbn13>9781524700485</isbn13>
+  <text_reviews_count type="integer">3031</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xDrvmX5nDr9190AQgM6zQw</uri>
+  <title>I Am Not Your Perfect Mexican Daughter</title>
+  <title_without_series>I Am Not Your Perfect Mexican Daughter</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503003220l/29010395._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1503003220l/29010395._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29010395-i-am-not-your-perfect-mexican-daughter</link>
+  <num_pages>344</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Knopf Books for Young Readers</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>19614</ratings_count>
+  <description>Perfect Mexican daughters do not go away to college. And they do not move out of their parents’ house after high school graduation. Perfect Mexican daughters never abandon their family.&lt;br /&gt; &lt;br /&gt;But Julia is not your perfect Mexican daughter. That was Olga’s role. &lt;br /&gt; &lt;br /&gt;Then a tragic accident on the busiest street in Chicago leaves Olga dead and Julia left behind to reassemble the shattered pieces of her family. And no one seems to acknowledge that Julia is broken, too. Instead, her mother seems to channel her grief into pointing out every possible way Julia has failed.&lt;br /&gt; &lt;br /&gt;But it’s not long before Julia discovers that Olga might not have been as perfect as everyone thought. With the help of her best friend Lorena, and her first kiss, first love, first everything boyfriend Connor, Julia is determined to find out. Was Olga really what she seemed? Or was there more to her sister’s story? And either way, how can Julia even attempt to live up to a seemingly impossible ideal?</description>
+<authors>
+<author>
+<id>14969864</id>
+<name>Erika L. Sánchez</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1571934306p5/14969864.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1571934306p2/14969864.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14969864.Erika_L_S_nchez]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>20006</ratings_count>
+<text_reviews_count>3441</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>49254602</id>
+  <uri>kca://work/amzn1.gr.work.v1.p8MXi82WxJV6TtMI68r6Vg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 09 10:49:26 -0800 2019</date_added>
+  <date_updated>Sat Nov 09 10:49:26 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/3042824770]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/3042824770]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2419269713</id>
+    <book>
+  <id type="integer">36702838</id>
+  <isbn>1119364906</isbn>
+  <isbn13>9781119364900</isbn13>
+  <text_reviews_count type="integer">26</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.-DxweG0W2MkAiGLbVPeQ4w</uri>
+  <title>Onward: Cultivating Emotional Resilience in Educators</title>
+  <title_without_series>Onward: Cultivating Emotional Resilience in Educators</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523196962l/36702838._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523196962l/36702838._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/36702838-onward</link>
+  <num_pages>384</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Jossey-Bass</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.49</average_rating>
+  <ratings_count>210</ratings_count>
+  <description>&lt;b&gt;A practical framework to avoid burnout and keep great teachers teaching&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Onward&lt;/i&gt; tackles the problem of educator stress, and provides a practical framework for taking the burnout out of teaching. Stress is part of the job, but when 70 percent of teachers quit within their first five years because the stress is making them physically and mentally ill, things have gone too far. Unsurprisingly, these effects are highest in difficult-to-fill positions such as math, science, and foreign languages, and in urban areas and secondary classrooms--places where we need our teachers to be especially motivated and engaged. This book offers a path to resiliency to help teachers weather the storms and bounce back--and work toward banishing the rain for good.&lt;br /&gt;&lt;br /&gt;This actionable framework gives you concrete steps toward rediscovering yourself, your energy, and your passion for teaching. You'll learn how a simple shift in mindset can affect your outlook, and how taking care of yourself physically, mentally, and emotionally is one of the most important things you can do. The companion workbook helps you put the framework into action, streamlining your way toward renewal and strength.&lt;br /&gt;&lt;br /&gt;Cultivate resilience with a four-part framework based on 12 key habits Uncover your true self, understand emotions, and use your energy where it counts Adopt a mindful, story-telling approach to communication and community building Keep learning, playing, and creating to create an environment of collective celebration By cultivating resilience in schools, we help ensure that we are working in, teaching in, and leading organizations where every child thrives, and where the potential of every child is recognized and nurtured. &lt;i&gt;Onward&lt;/i&gt; provides a step-by-step plan for reigniting that spark.</description>
+<authors>
+<author>
+<id>6756520</id>
+<name>Elena Aguilar</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6756520.Elena_Aguilar]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>1125</ratings_count>
+<text_reviews_count>100</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>58502724</id>
+  <uri>kca://work/amzn1.gr.work.v1.tngh-VTFnHIUU45LJZiY7A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='269937450' name='coaching' review_shelf_id='2065884004' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jun 10 05:27:26 -0700 2018</date_added>
+  <date_updated>Sun Jun 10 05:50:06 -0700 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2419269713]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2419269713]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2419269458</id>
+    <book>
+  <id type="integer">16674665</id>
+  <isbn>1118206533</isbn>
+  <isbn13>9781118206539</isbn13>
+  <text_reviews_count type="integer">37</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.wFkYx9MIJFPeiA8GcNMQaw</uri>
+  <title>The Art of Coaching: Effective Strategies for School Transformation</title>
+  <title_without_series>The Art of Coaching: Effective Strategies for School Transformation</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361150540l/16674665._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361150540l/16674665._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16674665-the-art-of-coaching</link>
+  <num_pages>338</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Jossey-Bass</publisher>
+  <publication_day>4</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>604</ratings_count>
+  <description>&lt;b&gt;Hands-on resources for new and seasoned school coaches&lt;/b&gt; This practical resource offers the foundational skills and tools needed by new coaching educators, as well as presenting an overview of the knowledge and theory base behind the practice. Established coaches will find numerous ways to deepen and refine their coaching practice. Principals and others who incorporate coaching strategies into their work will also find a wealth of resources.&lt;br /&gt;&lt;br /&gt;Aguilar offers a model for transformational coaching which could be implemented as professional development in schools or districts anywhere. Although she addresses the needs of adult learners, her model maintains a student-centered focus, with a specific lens on addressing equity issues in schools.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Offers a practical resource for school coaches, principals, district leaders, and other administrators Presents a transformational coaching model which addresses systems change Pays explicit attention to surfacing and interrupting inequities in schools &lt;i&gt;The Art of Coaching: Effective Strategies for School Transformation&lt;/i&gt; offers a compendium of school coaching ideas, the book's explicit, user-friendly structure enhances the ability to access the information.</description>
+<authors>
+<author>
+<id>6756520</id>
+<name>Elena Aguilar</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6756520.Elena_Aguilar]]></link>
+<average_rating>4.30</average_rating>
+<ratings_count>1125</ratings_count>
+<text_reviews_count>100</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>22885805</id>
+  <uri>kca://work/amzn1.gr.work.v1.uenGhzuGB9cX6syJTB_jAQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='269937450' name='coaching' review_shelf_id='2065883767' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jun 10 05:27:05 -0700 2018</date_added>
+  <date_updated>Sun Jun 10 05:27:05 -0700 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2419269458]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2419269458]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2027760922</id>
+    <book>
+  <id type="integer">25056089</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._c-TsHD9CtYuciSCHx25NA</uri>
+  <title>Goldendoodles - The Owners Guide from Puppy to Old Age - Choosing, Caring for, Grooming, Health, Training and Understanding Your Goldendoodle Dog</title>
+  <title_without_series>Goldendoodles - The Owners Guide from Puppy to Old Age - Choosing, Caring for, Grooming, Health, Training and Understanding Your Goldendoodle Dog</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25056089-goldendoodles---the-owners-guide-from-puppy-to-old-age---choosing-carin</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.18</average_rating>
+  <ratings_count>104</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>7568050</id>
+<name>Alan Kenworthy</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7568050.Alan_Kenworthy]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>200</ratings_count>
+<text_reviews_count>11</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>44737578</id>
+  <uri>kca://work/amzn1.gr.work.v1.gEwZqH1ATi-0pj2GQ9i-hw</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Jun 12 17:30:58 -0700 2017</started_at>
+  <read_at>Sat Oct 12 05:41:54 -0700 2019</read_at>
+  <date_added>Mon Jun 12 17:30:58 -0700 2017</date_added>
+  <date_updated>Sat Oct 12 05:41:54 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2027760922]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2027760922]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2011604950</id>
+    <book>
+  <id type="integer">18692431</id>
+  <isbn>0553496646</isbn>
+  <isbn13>9780553496642</isbn13>
+  <text_reviews_count type="integer">30299</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.yr1ED6nyAW330JztbdOuew</uri>
+  <title>Everything, Everything</title>
+  <title_without_series>Everything, Everything</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450515891l/18692431._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1450515891l/18692431._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18692431-everything-everything</link>
+  <num_pages>306</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Delacorte Books for Young Readers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.08</average_rating>
+  <ratings_count>305268</ratings_count>
+  <description>My disease is as rare as it is famous. It’s a form of Severe Combined Immunodeficiency, but basically, I’m allergic to the world. I don’t leave my house, have not left my house in fifteen years. The only people I ever see are my mom and my nurse, Carla.&lt;br /&gt;&lt;br /&gt;But then one day, a moving truck arrives. New next door neighbors. I look out the window, and I see him. He’s tall, lean and wearing all black—black t-shirt, black jeans, black sneakers and a black knit cap that covers his hair completely. He catches me looking and stares at me. I stare right back. His name is Olly. I want to learn everything about him, and I do. I learn that he is funny and fierce. I learn that his eyes are Atlantic Ocean-blue and that his vice is stealing silverware. I learn that when I talk to him, my whole world opens up, and I feel myself starting to change—starting to want things. To want out of my bubble. To want everything, everything the world has to offer.&lt;br /&gt;&lt;br /&gt;Maybe we can’t predict the future, but we can predict some things. For example, I am certainly going to fall in love with Olly. It’s almost certainly going to be a disaster.</description>
+<authors>
+<author>
+<id>7353006</id>
+<name>Nicola Yoon</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1411143980p5/7353006.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1411143980p2/7353006.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7353006.Nicola_Yoon]]></link>
+<average_rating>4.06</average_rating>
+<ratings_count>460763</ratings_count>
+<text_reviews_count>60347</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>26540216</id>
+  <uri>kca://work/amzn1.gr.work.v1._GL5N1TPK4vNVYo_KrI_ug</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='105503229' name='ya-fiction' review_shelf_id='1666237270' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat May 27 05:38:23 -0700 2017</read_at>
+  <date_added>Sat May 27 05:32:26 -0700 2017</date_added>
+  <date_updated>Sat May 27 05:38:23 -0700 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[As a mother with a 14 year old daughter, this story resonated with me because it centers on the relationship between mother and daughter. It explores the role of fear---how a mother desperately wants to protect her child from the world's harm and how a daughter wishes to confront fear to embrace...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2011604950]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2011604950]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1919689323</id>
+    <book>
+  <id type="integer">31305366</id>
+  <isbn>0816533970</isbn>
+  <isbn13>9780816533978</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.sE5YFWkQLBjOyc4mwHeW0w</uri>
+  <title>Long Stories Cut Short: Fictions from the Borderlands</title>
+  <title_without_series>Long Stories Cut Short: Fictions from the Borderlands</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476358471l/31305366._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1476358471l/31305366._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/31305366-long-stories-cut-short</link>
+  <num_pages>208</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>University of Arizona Press</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>16</ratings_count>
+  <description>Xbox videogamer cholo cyberpunks. Infants who read before they talk. Vatos locos, romancing abuelos, border crossers and border smugglers, drug kingpins, Latina motorbike riders, philosophically musing tweens, and so much more.&lt;br /&gt;&lt;br /&gt;The stories in this dynamic bilingual prose-art collection touch on the universals of romance, family, migration and expulsion, and everyday life in all its zany configurations. Each glimpse into lives at every stage—from newborns and children to teens, young adults, and the elderly—further submerges readers in psychological ups and downs. In a world filled with racism, police brutality, poverty, and tensions between &lt;i&gt;haves &lt;/i&gt;and &lt;i&gt;have-nots&lt;/i&gt;, these flashes of fictional insight bring gleaming clarity to life lived where all sorts of borders meet and shift.&lt;br /&gt;&lt;br /&gt;Frederick Luis Aldama and graphic artists from Mapache Studios give shape to ugly truths in the most honest way, creating new perceptions, thoughts, and feelings about life in the borderlands of the Américas. Each bilingual prose-art fictional snapshot offers an unsentimentally complex glimpse into what it means to exist at the margins of society today. These unflinching and often brutal fictions crisscross spiritual, emotional, and physical borders as they give voice to all those whom society chooses not to see.</description>
+<authors>
+<author>
+<id>50616</id>
+<name>Frederick Luis Aldama</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/50616.Frederick_Luis_Aldama]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>264</ratings_count>
+<text_reviews_count>47</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>51975403</id>
+  <uri>kca://work/amzn1.gr.work.v1.3-YpGOYOex06jJT7FiAu5A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='212936641' name='mexican-american' review_shelf_id='1576164279' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Feb 10 00:00:00 -0800 2017</started_at>
+  <read_at>Mon Feb 20 14:48:34 -0800 2017</read_at>
+  <date_added>Mon Feb 20 14:40:35 -0800 2017</date_added>
+  <date_updated>Mon Feb 20 14:48:33 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This is a bilingual (Spanish and English) series of flash fiction short stories that include graphics that have a graphic novel style. Characters from the sordid to the inspirational flit in and out of the reader's view, and leave the reader wanting to more. The American Dream is shattered into a...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1919689323]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1919689323]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1861906765</id>
+    <book>
+  <id type="integer">18893273</id>
+  <isbn nil="true"/>
+  <isbn13>9781934355169</isbn13>
+  <text_reviews_count type="integer">7</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.c1MByPs0Wqv7fviPGuN5VA</uri>
+  <title>Restorative Circles in Schools: Building Community and Enhancing Learning</title>
+  <title_without_series>Restorative Circles in Schools: Building Community and Enhancing Learning</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18893273-restorative-circles-in-schools</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>86</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>2995500</id>
+<name>Bob Costello</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2995500.Bob_Costello]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>283</ratings_count>
+<text_reviews_count>28</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>26897473</id>
+  <uri>kca://work/amzn1.gr.work.v1.k7ifvDcwCDhDyUL1oQyhPQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 01 00:00:00 -0800 2017</read_at>
+  <date_added>Mon Jan 02 10:38:14 -0800 2017</date_added>
+  <date_updated>Mon Jan 02 10:40:23 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This is an excellent primer on the essential components and application of restorative circles. I would recommend this for any educator or administrator who is looking to create safe spaces for students to work through feelings, conflicts, or just to create a more united, positive classroom or sc...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1861906765]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1861906765]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1685093597</id>
+    <book>
+  <id type="integer">11166064</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.TmqsiPYxGZpR1EysQtlkJA</uri>
+  <title>Flawless Consulting: A Guide to Getting Your Expertise Used</title>
+  <title_without_series>Flawless Consulting: A Guide to Getting Your Expertise Used</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11166064-flawless-consulting</link>
+  <num_pages>323</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Pfeiffer &amp; Company</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>2259</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>144322</id>
+<name>Peter Block</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/144322.Peter_Block]]></link>
+<average_rating>3.99</average_rating>
+<ratings_count>5179</ratings_count>
+<text_reviews_count>401</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>671781</id>
+  <uri>kca://work/amzn1.gr.work.v1.uzAa7t0g8GHfFSCIIt5aww</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jul 01 13:59:31 -0700 2016</started_at>
+  <read_at>Mon Jan 02 10:44:18 -0800 2017</read_at>
+  <date_added>Fri Jul 01 13:59:31 -0700 2016</date_added>
+  <date_updated>Mon Jan 02 10:44:18 -0800 2017</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1685093597]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1685093597]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1611542807</id>
+    <book>
+  <id type="integer">22609281</id>
+  <isbn>1476784965</isbn>
+  <isbn13>9781476784960</isbn13>
+  <text_reviews_count type="integer">55</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.w7WDvdQVWzIyaFkr3q79Kw</uri>
+  <title>Barefoot Dogs: Stories</title>
+  <title_without_series>Barefoot Dogs: Stories</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425975462l/22609281._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1425975462l/22609281._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/22609281-barefoot-dogs</link>
+  <num_pages>160</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scribner</publisher>
+  <publication_day>10</publication_day>
+  <publication_year>2015</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>388</ratings_count>
+  <description>An unforgettable debut of linked stories that follow the members and retinue of a wealthy Mexican family forced into exile after the patriarch is kidnapped.&lt;br /&gt;&lt;br /&gt;On an unremarkable night, José Victoriano Arteaga—the head of a thriving Mexico City family—vanishes on his way home from work. The Arteagas find few answers; the full truth of what happened to Arteaga is lost to the shadows of Mexico’s vast and desperate underworld, a place of rampant violence and kidnappings, and government corruption. But soon packages arrive to the family house, offering horrifying clues.&lt;br /&gt;&lt;br /&gt;Fear, guilt, and the prospect of financial ruination fracture the once-proud family and scatter them across the globe, yet delicate threads still hold them together: in a swimming pool in Palo Alto, Arteaga’s young grandson struggles to make sense of the grief that has hobbled his family; in Mexico City, Arteaga’s mistress alternates between rage and heartbreak as she waits, in growing panic, for her lover’s return; in Austin, the Arteagas’ housekeeper tries to piece together a second life in an alienating and demeaning new land; in Madrid, Arteaga’s son takes his ailing dog through the hot and unforgiving streets, in search of his father’s ghost.&lt;br /&gt;&lt;br /&gt;Multiple award-winning author Antonio Ruiz-Camacho offers an exquisite and intimate evocation of the loneliness, love, hope, and fear that can bind a family even as unspeakable violence tears it apart. “A straight-on jab to the soul” (Ben Fountain, author of Billy Lynn’s Long Halftime Walk), Barefoot Dogs is a heartfelt elegy to the stolen innocence of every family struck by tragedy. This is urgent and vital fiction.</description>
+<authors>
+<author>
+<id>7769636</id>
+<name>Antonio Ruiz-Camacho</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7769636.Antonio_Ruiz_Camacho]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>388</ratings_count>
+<text_reviews_count>70</text_reviews_count>
+</author>
+</authors>
+  <published>2015</published>
+<work>  <id>42099306</id>
+  <uri>kca://work/amzn1.gr.work.v1.XYZbtHjVmazKfFZO7AP4zg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Apr 15 15:49:59 -0700 2016</started_at>
+  <read_at>Wed Jul 20 03:56:48 -0700 2016</read_at>
+  <date_added>Fri Apr 15 15:49:58 -0700 2016</date_added>
+  <date_updated>Wed Jul 20 03:56:48 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1611542807]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1611542807]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1583374270</id>
+    <book>
+  <id type="integer">18930790</id>
+  <isbn>1422187349</isbn>
+  <isbn13>9781422187340</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jM7Tt_iLgfP2rlV5t94h7Q</uri>
+  <title>The Heart of Change: Real-Life Stories of How People Change Their Organizations</title>
+  <title_without_series>The Heart of Change: Real-Life Stories of How People Change Their Organizations</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408929605l/18930790._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408929605l/18930790._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18930790-the-heart-of-change</link>
+  <num_pages>208</num_pages>
+  <format>ebook</format>
+  <edition_information/>
+  <publisher>Harvard Business Review Press</publisher>
+  <publication_day>23</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>2273</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>26977</id>
+<name>John P. Kotter</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1465227741p5/26977.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1465227741p2/26977.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/26977.John_P_Kotter]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>34860</ratings_count>
+<text_reviews_count>1810</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>47144</id>
+  <uri>kca://work/amzn1.gr.work.v1.B0rZND_-hUsvd7icMg-9Tw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Mar 18 09:48:54 -0700 2016</read_at>
+  <date_added>Fri Mar 18 09:48:54 -0700 2016</date_added>
+  <date_updated>Fri Mar 18 09:48:54 -0700 2016</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1583374270]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1583374270]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1438349584</id>
+    <book>
+  <id type="integer">18875746</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">36</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.nsO_67Rj5BShNbXvYKflTg</uri>
+  <title>Freak The Mighty</title>
+  <title_without_series>Freak The Mighty</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18875746-freak-the-mighty</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>42086</ratings_count>
+  <description>Two boys – a slow learner stuck in the body of a teenage giant and a tiny Einstein in leg braces – forge a unique friendship when they pair up to create one formidable human force. (Made into the film, &lt;i&gt;The Mighty&lt;/i&gt;)</description>
+<authors>
+<author>
+<id>5817</id>
+<name>Rodman Philbrick</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309170715p5/5817.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1309170715p2/5817.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5817.Rodman_Philbrick]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>66883</ratings_count>
+<text_reviews_count>7508</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>2049173</id>
+  <uri>kca://work/amzn1.gr.work.v1.svFMGPOD5fQuxVYnSbmvYA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Nov 09 17:36:45 -0800 2015</read_at>
+  <date_added>Mon Nov 09 17:36:45 -0800 2015</date_added>
+  <date_updated>Mon Nov 09 17:36:45 -0800 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1438349584]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1438349584]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1385615318</id>
+    <book>
+  <id type="integer">21807644</id>
+  <isbn>0991537602</isbn>
+  <isbn13>9780991537600</isbn13>
+  <text_reviews_count type="integer">21</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.gwnTDSKFwAl5d_-KjvgJeg</uri>
+  <title>Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization</title>
+  <title_without_series>Organize for Complexity: How to Get Life Back Into Work to Build the High-Performance Organization</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397422569l/21807644._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397422569l/21807644._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21807644-organize-for-complexity</link>
+  <num_pages>144</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Betacodex Publishing</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>109</ratings_count>
+  <description>A book about complexity and work - and about how to deal productively with both. A condensed introduction to the theory and practice of organizational high performance. A manifesto for contemporary leadership and profound transformation in organizations of all kinds. 3rd eidition.&lt;br /&gt;&lt;br /&gt;"Boldly, Pflaeging dissects classic management theory and in a well-humored manner, offers coherent alternatives." Harvard Business Review&lt;br /&gt;&lt;br /&gt;"Niels Pflaeging is the father of the end of management." Winfried Felser, competence-site&lt;br /&gt;&lt;br /&gt;"When Pflaeging shakes the dogmas of management, they crumble in his hands." Financial Times Germany&lt;br /&gt;&lt;br /&gt;"Niels Pflaeging is always right up front, where the new in business is getting measured and mapped." Peter Felixberger, changeX</description>
+<authors>
+<author>
+<id>7153189</id>
+<name>Niels Pflaeging</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7153189.Niels_Pflaeging]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>146</ratings_count>
+<text_reviews_count>28</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>41074770</id>
+  <uri>kca://work/amzn1.gr.work.v1.-CZHB3rSNGIIkeTbvAE2VQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Sep 07 08:55:31 -0700 2015</started_at>
+  <read_at>Mon Sep 07 16:07:22 -0700 2015</read_at>
+  <date_added>Mon Sep 07 08:55:31 -0700 2015</date_added>
+  <date_updated>Mon Sep 07 16:07:22 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1385615318]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1385615318]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1306001440</id>
+    <book>
+  <id type="integer">272752</id>
+  <isbn>0064472078</isbn>
+  <isbn13>9780064472074</isbn13>
+  <text_reviews_count type="integer">1832</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.IbeAI0YwthIYMkh-VqVYzg</uri>
+  <title>Seedfolks</title>
+  <title_without_series>Seedfolks</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/272752.Seedfolks</link>
+  <num_pages>112</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>HarperTeen</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.72</average_rating>
+  <ratings_count>12674</ratings_count>
+  <description>&lt;strong&gt;ALA Best Book for Young Adults ∙ &lt;em&gt;School Library Journal &lt;/em&gt;Best Book ∙ &lt;em&gt;Publishers Weekly&lt;/em&gt; Best Book ∙ IRA/CBC Children's Choice &lt;/strong&gt;&lt;strong&gt;∙ &lt;/strong&gt;&lt;strong&gt;NCTE Notable Children's Book in the Language Arts&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;A Vietnamese girl plants six lima beans in a Cleveland vacant lot. Looking down on the immigrant-filled neighborhood, a Romanian woman watches suspiciously. A school janitor gets involved, then a Guatemalan family. Then muscle-bound Curtis, trying to win back Lateesha. Pregnant Maricela. Amir from India. A sense of community sprouts and spreads. &lt;br /&gt;&lt;br /&gt;Newbery-winning author Paul Fleischman uses thirteen speakers to bring to life a community garden's founding and first year. The book's short length, diverse cast, and suitability for adults as well as children have led it to be used in countless one-book reads in schools and in cities across the country.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;Seedfolks&lt;/em&gt; has been drawn upon to teach tolerance, read in ESL classes, promoted by urban gardeners, and performed in schools and on stages from South Africa to Broadway.&lt;br /&gt;&lt;br /&gt;The book's many tributaries—from the author's immigrant grandfather to his adoption of two brothers from Mexico—are detailed in his forthcoming memoir&lt;em&gt;, No Map, Great Trip: A Young Writer's Road to Page One.&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;"The size of this slim volume belies the profound message of hope it contains."  —&lt;em&gt;Christian Science Monitor&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;And don’t miss &lt;em&gt;Joyful Noise: Poems for Two Voices&lt;/em&gt;, the Newbery Medal-winning poetry collection!&lt;/strong&gt;</description>
+<authors>
+<author>
+<id>67810</id>
+<name>Paul Fleischman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1244148776p5/67810.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1244148776p2/67810.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/67810.Paul_Fleischman]]></link>
+<average_rating>3.78</average_rating>
+<ratings_count>43256</ratings_count>
+<text_reviews_count>6868</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>264459</id>
+  <uri>kca://work/amzn1.gr.work.v1.MgKvqkp0mqWr24t5KTZD4Q</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Tue May 26 00:00:00 -0700 2015</read_at>
+  <date_added>Fri Jun 12 07:21:25 -0700 2015</date_added>
+  <date_updated>Fri Jun 12 07:25:22 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This book intersects the ideas of community, immigration, urban gardens and hope. While this is an older book title, this book offers a nice entry point to discuss how urban, diverse communities can come together to create closer communities. I would recommend this for younger readers, maybe 5th-...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1306001440]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1306001440]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1276116523</id>
+    <book>
+  <id type="integer">23477186</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">40</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7DIz-vTC9gsjAxA3L6r_YQ</uri>
+  <title>Blended: Using Disruptive Innovation to Improve Schools</title>
+  <title_without_series>Blended: Using Disruptive Innovation to Improve Schools</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23477186-blended</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.86</average_rating>
+  <ratings_count>234</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>1363696</id>
+<name>Michael B. Horn</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1363696.Michael_B_Horn]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>648</ratings_count>
+<text_reviews_count>71</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>43068399</id>
+  <uri>kca://work/amzn1.gr.work.v1.IpV6TSOCu2WTseHNVmuzyQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='139763408' name='blended-learning' review_shelf_id='980881214' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat May 09 17:27:50 -0700 2015</date_added>
+  <date_updated>Sat May 09 17:28:04 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1276116523]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1276116523]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1276116169</id>
+    <book>
+  <id type="integer">21900398</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">30</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Q8Q45_ttTAsZUWDh8o_jPA</uri>
+  <title>The Confidence Code: The Science and Art of Self-Assurance---What Women Should Know</title>
+  <title_without_series>The Confidence Code: The Science and Art of Self-Assurance---What Women Should Know</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21900398-the-confidence-code</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.75</average_rating>
+  <ratings_count>7802</ratings_count>
+  <description>Das Buch, das jede Frau gelesen haben muss!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Den Schlüssel zum Erfolg liefert nicht allein die Kompetenz – wer in der Arbeitswelt und im Privatleben bestehen will, für den ist Selbstvertrauen unabdingbar. Gerade Frauen kämpfen jedoch häufig mit Selbstzweifeln. Woran liegt das? Und lässt sich Selbstbewusstsein aneignen oder bestimmen unsere Gene darüber, wie selbstsicher wir sind? In ihrem sensationellen Bestseller, der in Deutschland längst als Geheimtipp gehandelt wird, zeigen die renommierten Journalistinnen Claire Shipman und Katty Kay anhand verblüffender Forschungsergebnisse, wie jede Frau ihr Selbstgefühl stärken kann. Gemeinsam mit führenden Neurowissenschaftlern und Psychologen weltweit haben sie innovative Ansätze entwickelt, wie wir selbstsicherer werden können, indem wir etwa Risiken eingehen und aktiv handeln. Und wie wir unsere Denkstrukturen langfristig verändern. In Gesprächen mit einflussreichen Frauen aus Politik, Sport und Kunst kommen Kay und Shipman dem Geheimnis auf die Spur, wie Frau ihre Ziele erreichen und ein selbstbestimmtes Leben führen kann.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;</description>
+<authors>
+<author>
+<id>2778930</id>
+<name>Katty Kay</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_200x266-3061b784cc8e7f021c6430c9aba94587.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/f_50x66-6a03a5c12233c941481992b82eea8d23.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2778930.Katty_Kay]]></link>
+<average_rating>3.74</average_rating>
+<ratings_count>8728</ratings_count>
+<text_reviews_count>958</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>25337653</id>
+  <uri>kca://work/amzn1.gr.work.v1.oU_vQL20eTRTfL7wj89mnA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat May 09 17:27:16 -0700 2015</date_added>
+  <date_updated>Sat May 09 17:27:16 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1276116169]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1276116169]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1276115747</id>
+    <book>
+  <id type="integer">24782573</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xHsXSqgg7FYcM7Oiu6FEbw</uri>
+  <title>They Say / I Say: The Moves That Matter in Academic Writing</title>
+  <title_without_series>They Say / I Say: The Moves That Matter in Academic Writing</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/24782573-they-say-i-say</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information>Third Edition</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>4049</ratings_count>
+  <description>&lt;p&gt;The best-selling book on academic writing—in use at more than 1,500 schools.&lt;/p&gt;&lt;br /&gt;&lt;em&gt;“They Say / I Say”&lt;/em&gt; identifies the key rhetorical moves in academic writing, showing students how to frame their arguments in the larger context of what others have said and providing templates to help them make those moves. And, because these moves are central across all disciplines, the book includes chapters on writing in the sciences, writing in the social sciences, and—new to this edition—writing about literature.</description>
+<authors>
+<author>
+<id>113128</id>
+<name>Gerald Graff</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/113128.Gerald_Graff]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>5626</ratings_count>
+<text_reviews_count>526</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>553848</id>
+  <uri>kca://work/amzn1.gr.work.v1.ByVH3rEAwCPKcdjONbZkQw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='139763340' name='writing' review_shelf_id='980880641' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat May 09 17:26:37 -0700 2015</date_added>
+  <date_updated>Sat May 09 17:26:58 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1276115747]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1276115747]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1189760140</id>
+    <book>
+  <id type="integer">33917</id>
+  <isbn>0618485228</isbn>
+  <isbn13>9780618485222</isbn13>
+  <text_reviews_count type="integer">9993</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.etu66rPF7mYK21AHWVQDtw</uri>
+  <title>The Namesake</title>
+  <title_without_series>The Namesake</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480106986l/33917._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480106986l/33917._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/33917.The_Namesake</link>
+  <num_pages>291</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Mariner Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2004</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.98</average_rating>
+  <ratings_count>221411</ratings_count>
+  <description>Jhumpa Lahiri's &lt;i&gt;Interpreter of Maladies&lt;/i&gt; established this young writer as one the most brilliant of her generation. Her stories are one of the very few debut works -- and only a handful of collections -- to have won the Pulitzer Prize for fiction. Among the many other awards and honors it received were the New Yorker Debut of the Year award, the PEN/Hemingway Award, and the highest critical praise for its grace, acuity, and compassion in detailing lives transported from India to America.&lt;br /&gt;&lt;br /&gt;In &lt;i&gt;The Namesake&lt;/i&gt;, Lahiri enriches the themes that made her collection an international bestseller: the immigrant experience, the clash of cultures, the conflicts of assimilation, and, most poignantly, the tangled ties between generations. Here again Lahiri displays her deft touch for the perfect detail — the fleeting moment, the turn of phrase — that opens whole worlds of emotion.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Namesake&lt;/i&gt; takes the Ganguli family from their tradition-bound life in Calcutta through their fraught transformation into Americans. On the heels of their arranged wedding, Ashoke and Ashima Ganguli settle together in Cambridge, Massachusetts. An engineer by training, Ashoke adapts far less warily than his wife, who resists all things American and pines for her family. When their son is born, the task of naming him betrays the vexed results of bringing old ways to the new world. Named for a Russian writer by his Indian parents in memory of a catastrophe years before, Gogol Ganguli knows only that he suffers the burden of his heritage as well as his odd, antic name. &lt;br /&gt;&lt;br /&gt;Lahiri brings great empathy to Gogol as he stumbles along the first-generation path, strewn with conflicting loyalties, comic detours, and wrenching love affairs. With penetrating insight, she reveals not only the defining power of the names and expectations bestowed upon us by our parents, but also the means by which we slowly, sometimes painfully, come to define ourselves.</description>
+<authors>
+<author>
+<id>3670</id>
+<name>Jhumpa Lahiri</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1378932972p5/3670.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1378932972p2/3670.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3670.Jhumpa_Lahiri]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>570048</ratings_count>
+<text_reviews_count>40588</text_reviews_count>
+</author>
+</authors>
+  <published>2004</published>
+<work>  <id>16171</id>
+  <uri>kca://work/amzn1.gr.work.v1.rlaGkMwfRxHiZZKT3mSASw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Jan 01 00:00:00 -0800 2005</read_at>
+  <date_added>Tue Feb 03 13:04:33 -0800 2015</date_added>
+  <date_updated>Tue Feb 03 13:05:20 -0800 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1189760140]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1189760140]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1155680314</id>
+    <book>
+  <id type="integer">15798660</id>
+  <isbn>0763658596</isbn>
+  <isbn13>9780763658595</isbn13>
+  <text_reviews_count type="integer">1064</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.f-ZJqtN40OE8NmuREGezyQ</uri>
+  <title>Yaqui Delgado Wants to Kick Your Ass</title>
+  <title_without_series>Yaqui Delgado Wants to Kick Your Ass</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213408l/15798660._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351213408l/15798660._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15798660-yaqui-delgado-wants-to-kick-your-ass</link>
+  <num_pages>272</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Candlewick</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.90</average_rating>
+  <ratings_count>9172</ratings_count>
+  <description>In Meg Medina's compelling new novel, a Latina teen is targeted by a bully at her new school - and must discover resources she never knew she had. &lt;br /&gt;&lt;br /&gt;One morning before school, some girl tells Piddy Sanchez that Yaqui Delgado hates her and wants to kick her ass. Piddy doesn't even know who Yaqui is, never mind what she's done to piss her off. Word is that Yaqui thinks Piddy is stuck-up, shakes her stuff when she walks, and isn't Latin enough with her white skin, good grades, and no accent. And Yaqui isn't kidding around, so Piddy better watch her back. &lt;br /&gt;&lt;br /&gt;At first Piddy is more concerned with trying to find out more about the father she's never met and how to balance honors courses with her weekend job at the neighborhood hair salon. But as the harassment escalates, avoiding Yaqui and her gang starts to take over Piddy's life. Is there any way for Piddy to survive without closing herself off or running away? In an all-too-realistic novel, Meg Medina portrays a sympathetic heroine who is forced to decide who she really is.</description>
+<authors>
+<author>
+<id>1373005</id>
+<name>Meg Medina</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1501702888p5/1373005.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1501702888p2/1373005.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1373005.Meg_Medina]]></link>
+<average_rating>3.96</average_rating>
+<ratings_count>22767</ratings_count>
+<text_reviews_count>4290</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>21521601</id>
+  <uri>kca://work/amzn1.gr.work.v1.i1AOg8K2MBTjML7zz9beOQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='105503229' name='ya-fiction' review_shelf_id='874156470' sortable='false'></shelf>
+
+    <shelf exclusive='false' id='126155769' name='bullying' review_shelf_id='874156406' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Fri Dec 26 00:00:00 -0800 2014</read_at>
+  <date_added>Sun Jan 04 13:21:34 -0800 2015</date_added>
+  <date_updated>Sun Jan 04 13:28:44 -0800 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This book was a compelling and poignant read about urban bullying. The main young female character Piddy transfers to a new school, and faces a significant bullying threat that prevents her from making a safe transition to a new environment. The characters are raw and real, the plot captures and...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1155680314]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1155680314]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1048579302</id>
+    <book>
+  <id type="integer">7420133</id>
+  <isbn>0916485013</isbn>
+  <isbn13>9780916485016</isbn13>
+  <text_reviews_count type="integer">9</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.r4ACvLAQ0ZKx9MIyv7aE-A</uri>
+  <title>The Rain God</title>
+  <title_without_series>The Rain God</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496561099l/7420133._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496561099l/7420133._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/7420133-the-rain-god</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day/>
+  <publication_year>1984</publication_year>
+  <publication_month/>
+  <average_rating>3.83</average_rating>
+  <ratings_count>447</ratings_count>
+  <description>In Arturo Islas' first novel, various members of the Angel family meet the Rain God face to face, as they struggle to live and die with dignity and to understand their family's ghosts. Each of the characters in these interlocking tales has been a 'sinner' and a force in the life of Miguel Angel, a young man who finds himself in the borderland between his Mexican Catholic heritage and his North American education.&lt;br /&gt;&lt;br /&gt;There is the child JoEl, who knows when it will rain because he smells the approach of angels in the sky, and the grandmother who entertains ghosts. And there are the deep human dilemmas—the father locked in strife with the son he loves most, the husband who loves both his wife and her best friend and longs for them to become one person, the gentle uncle who brings upon himself a violent death. The characters have a power that allows them to live in readers' minds long after the book has been laid aside.</description>
+<authors>
+<author>
+<id>254004</id>
+<name>Arturo Islas</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/254004.Arturo_Islas]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>526</ratings_count>
+<text_reviews_count>39</text_reviews_count>
+</author>
+</authors>
+  <published>1984</published>
+<work>  <id>440998</id>
+  <uri>kca://work/amzn1.gr.work.v1.KCLGWnrkm_Cf__BFJEaVQw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sat Sep 06 00:00:00 -0700 2014</read_at>
+  <date_added>Sun Sep 07 15:52:06 -0700 2014</date_added>
+  <date_updated>Fri Dec 25 15:00:31 -0800 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This book hits upon several Mexican-American cultural touchstones: Day of the Dead, the role of compadres, the Catholic religion, indigenous bias, machismo, the Mexican Revolution, border life, etc. This was written by an intelligent author who knew how to develop the "otherness" inherent in Mexi...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1048579302]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1048579302]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1029071949</id>
+    <book>
+  <id type="integer">15796700</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">15557</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.mzz5TWDLIeIPpLbwujISqg</uri>
+  <title>Americanah</title>
+  <title_without_series>Americanah</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356654499l/15796700._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356654499l/15796700._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15796700-americanah</link>
+  <num_pages>477</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Alfred A. Knopf</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.30</average_rating>
+  <ratings_count>213002</ratings_count>
+  <description>Ifemelu and Obinze are young and in love when they depart military-ruled Nigeria for the West. Beautiful, self-assured Ifemelu heads for America, where despite her academic success, she is forced to grapple with what it means to be black for the first time. Quiet, thoughtful Obinze had hoped to join her, but with post-9/11 America closed to him, he instead plunges into a dangerous, undocumented life in London. Fifteen years later, they reunite in a newly democratic Nigeria, and reignite their passion—for each other and for their homeland.&lt;br /&gt;&lt;br /&gt;Source: chimamanda.com</description>
+<authors>
+<author>
+<id>11291</id>
+<name>Chimamanda Ngozi Adichie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474446019p5/11291.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1474446019p2/11291.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11291.Chimamanda_Ngozi_Adichie]]></link>
+<average_rating>4.33</average_rating>
+<ratings_count>561962</ratings_count>
+<text_reviews_count>55541</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>21519538</id>
+  <uri>kca://work/amzn1.gr.work.v1.6rB0ithgYo5HQV8wZYForA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='110709268' name='africa' review_shelf_id='767177317' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Aug 17 09:47:12 -0700 2014</read_at>
+  <date_added>Sun Aug 17 09:41:33 -0700 2014</date_added>
+  <date_updated>Sun Aug 17 09:47:12 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[There are pearls of wisdom in this book, it is the kind of book that tempts me to purchase it in print for future rumination and reference. The language is rich, yet accessible. The characters are fun, tragic, and trivial and fascinating. This is a good beach read, a good summer read. Also, I lea...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1029071949]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1029071949]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1015234117</id>
+    <book>
+  <id type="integer">9415957</id>
+  <isbn>0316122793</isbn>
+  <isbn13>9780316122795</isbn13>
+  <text_reviews_count type="integer">1052</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.FJZJyiQr7NUtGLNcgf4uOA</uri>
+  <title>I'll Be There</title>
+  <title_without_series>I'll Be There</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358261272l/9415957._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358261272l/9415957._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9415957-i-ll-be-there</link>
+  <num_pages>392</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Little, Brown Books for Young Readers</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.01</average_rating>
+  <ratings_count>7503</ratings_count>
+  <description>Emily Bell believes in destiny. To her, being forced to sing a solo in the church choir--despite her average voice--is fate: because it's while she's singing that she first sees Sam. At first sight, they are connected.&lt;br /&gt;&lt;br /&gt;Sam Border wishes he could escape, but there's nowhere for him to run. He and his little brother, Riddle, have spent their entire lives constantly uprooted by their unstable father. That is, until Sam sees Emily. That's when everything changes.&lt;br /&gt;&lt;br /&gt;As Sam and Riddle are welcomed into the Bells' lives, they witness the warmth and protection of a family for the first time. But when tragedy strikes, they're left fighting for survival in the desolate wilderness, and wondering if they'll ever find a place where they can belong. Beautifully written and emotionally profound, &lt;i&gt;I'll Be There&lt;/i&gt; is a gripping story that explores the complexities of teenage passions, friendships, and loyalties.</description>
+<authors>
+<author>
+<id>931363</id>
+<name>Holly Goldberg Sloan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1370224458p5/931363.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1370224458p2/931363.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/931363.Holly_Goldberg_Sloan]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>71153</ratings_count>
+<text_reviews_count>10694</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>14300276</id>
+  <uri>kca://work/amzn1.gr.work.v1.WxdUuZl3D50nugUvcEaSaQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Aug 03 08:32:31 -0700 2014</date_added>
+  <date_updated>Sun Aug 03 08:32:38 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1015234117]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1015234117]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1015232637</id>
+    <book>
+  <id type="integer">11387515</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">44434</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.kUA9FFwWCuSBb-AdLEwsvQ</uri>
+  <title>Wonder</title>
+  <title_without_series>Wonder</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545695751l/11387515._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545695751l/11387515._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11387515-wonder</link>
+  <num_pages>315</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Alfred A. Knopf</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>4.45</average_rating>
+  <ratings_count>620471</ratings_count>
+  <description>&lt;i&gt;I won’t describe what I look like. Whatever you’re thinking, it’s probably worse. &lt;/i&gt;&lt;br /&gt;&lt;br /&gt;August Pullman was born with a facial difference that, up until now, has prevented him from going to a mainstream school. Starting 5th grade at Beecher Prep, he wants nothing more than to be treated as an ordinary kid—but his new classmates can’t get past Auggie’s extraordinary face. WONDER, now a #1 New York Times bestseller and included on the Texas Bluebonnet Award master list, begins from Auggie’s point of view, but soon switches to include his classmates, his sister, her boyfriend, and others. These perspectives converge in a portrait of one community’s struggle with empathy, compassion, and acceptance.&lt;br /&gt;&lt;br /&gt;Alternate Cover Edition ISBN 0375869026 (ISBN13: 9780375869020)</description>
+<authors>
+<author>
+<id>4859212</id>
+<name>R.J. Palacio</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1351246501p5/4859212.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1351246501p2/4859212.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4859212.R_J_Palacio]]></link>
+<average_rating>4.43</average_rating>
+<ratings_count>701182</ratings_count>
+<text_reviews_count>70690</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>16319487</id>
+  <uri>kca://work/amzn1.gr.work.v1.U_UP9GjBCWvFz0W1V-A5fQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Aug 03 08:30:42 -0700 2014</date_added>
+  <date_updated>Sun Aug 03 08:30:54 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1015232637]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1015232637]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>1015232476</id>
+    <book>
+  <id type="integer">11206</id>
+  <isbn>0452274427</isbn>
+  <isbn13>9780452274426</isbn13>
+  <text_reviews_count type="integer">3070</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.AT0kontr0kxmaix8ta9xIQ</uri>
+  <title>In the Time of the Butterflies</title>
+  <title_without_series>In the Time of the Butterflies</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411410276l/11206._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411410276l/11206._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/11206.In_the_Time_of_the_Butterflies</link>
+  <num_pages>324</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Plume</publisher>
+  <publication_day/>
+  <publication_year>1995</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.14</average_rating>
+  <ratings_count>50941</ratings_count>
+  <description>Set during the waning days of the Trujillo dictatorship in the Dominican Republic in 1960, this extraordinary novel tells the story of the Mirabal sisters, three young wives and mothers who are assassinated after visiting their jailed husbands. &lt;br /&gt;&lt;br /&gt;From the author of &lt;i&gt;How the Garcia Girls Lost Their Accents&lt;/i&gt; comes this tale of courage and sisterhood set in the Dominican Republic during the rise of the Trujillo dictatorship. A skillful blend of fact and fiction, &lt;i&gt;In the Time of the Butterflies&lt;/i&gt; is inspired by the true story of the three Mirabal sisters who, in 1960, were murdered for their part in an underground plot to overthrow the government. Alvarez breathes life into these historical figures--known as "las mariposas," or "the butterflies," in the underground--as she imagines their teenage years, their gradual involvement with the revolution, and their terror as their dissentience is uncovered. &lt;br /&gt;&lt;br /&gt; Alvarez's controlled writing perfectly captures the mounting tension as "the butterflies" near their horrific end. The novel begins with the recollections of Dede, the fourth and surviving sister, who fears abandoning her routines and her husband to join the movement. Alvarez also offers the perspectives of the other sisters: brave and outspoken Minerva, the family's political ringleader; pious Patria, who forsakes her faith to join her sisters after witnessing the atrocities of the tyranny; and the baby sister, sensitive Maria Teresa, who, in a series of diaries, chronicles her allegiance to Minerva and the physical and spiritual anguish of prison life. &lt;br /&gt;&lt;br /&gt; &lt;i&gt;In the Time of the Butterflies&lt;/i&gt; is an American Library Association Notable Book and a 1995 National Book Critics Circle Award nominee.</description>
+<authors>
+<author>
+<id>7277</id>
+<name>Julia Alvarez</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1220651344p5/7277.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1220651344p2/7277.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7277.Julia_Alvarez]]></link>
+<average_rating>3.92</average_rating>
+<ratings_count>101400</ratings_count>
+<text_reviews_count>9059</text_reviews_count>
+</author>
+</authors>
+  <published>1995</published>
+<work>  <id>1408023</id>
+  <uri>kca://work/amzn1.gr.work.v1.mOLQi5I2UXPdoDJ9wg7s8Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Aug 03 08:30:31 -0700 2014</date_added>
+  <date_updated>Sun Sep 07 16:10:44 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/1015232476]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/1015232476]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>974323184</id>
+    <book>
+  <id type="integer">15507958</id>
+  <isbn>0670026603</isbn>
+  <isbn13>9780670026609</isbn13>
+  <text_reviews_count type="integer">53547</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Kt63tk4g_NNvd0T2vTlgdg</uri>
+  <title>Me Before You (Me Before You, #1)</title>
+  <title_without_series>Me Before You</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357108762l/15507958._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357108762l/15507958._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15507958-me-before-you</link>
+  <num_pages>369</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Pamela Dorman Books/Viking</publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>4.26</average_rating>
+  <ratings_count>989135</ratings_count>
+  <description>&lt;b&gt;Discover the love story that captured over 20 million hearts in &lt;i&gt;Me Before You&lt;/i&gt;, &lt;i&gt;After You&lt;/i&gt;, and &lt;i&gt;Still Me&lt;/i&gt;.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;They had nothing in common until love gave them everything to lose . . .&lt;br /&gt;&lt;br /&gt;Louisa Clark is an ordinary girl living an exceedingly ordinary life—steady boyfriend, close family—who has barely been farther afield than their tiny village. She takes a badly needed job working for ex–Master of the Universe Will Traynor, who is wheelchair bound after an accident. Will has always lived a huge life—big deals, extreme sports, worldwide travel—and now he’s pretty sure he cannot live the way he is.&lt;br /&gt;&lt;br /&gt;Will is acerbic, moody, bossy—but Lou refuses to treat him with kid gloves, and soon his happiness means more to her than she expected. When she learns that Will has shocking plans of his own, she sets out to show him that life is still worth living.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;A Love Story&lt;/i&gt; for this generation and perfect for fans of John Green’s &lt;i&gt;The Fault in Our Stars&lt;/i&gt;, &lt;i&gt;Me Before You&lt;/i&gt; brings to life two people who couldn’t have less in common—a heartbreakingly romantic novel that asks, &lt;i&gt;What do you do when making the person you love happy also means breaking your own heart?&lt;/i&gt;</description>
+<authors>
+<author>
+<id>281810</id>
+<name>Jojo Moyes</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1400624880p5/281810.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1400624880p2/281810.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/281810.Jojo_Moyes]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>1837204</ratings_count>
+<text_reviews_count>153598</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>17763198</id>
+  <uri>kca://work/amzn1.gr.work.v1.kIuWvlqCPn38YR7_-2FAnw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jun 22 00:00:00 -0700 2014</started_at>
+  <read_at>Sun Aug 03 08:33:56 -0700 2014</read_at>
+  <date_added>Sun Jun 22 05:47:18 -0700 2014</date_added>
+  <date_updated>Sun Aug 03 08:33:56 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/974323184]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/974323184]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>970055316</id>
+    <book>
+  <id type="integer">21969786</id>
+  <isbn>1406350486</isbn>
+  <isbn13>9781406350487</isbn13>
+  <text_reviews_count type="integer">4291</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4lqA_X9YwTv8-uzeSLTRhQ</uri>
+  <title>More Than This</title>
+  <title_without_series>More Than This</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398164413l/21969786._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398164413l/21969786._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21969786-more-than-this</link>
+  <num_pages>480</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Walker Books Ltd</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>43123</ratings_count>
+  <description>A boy drowns, desperate and alone in his final moments. He dies. Then he wakes, naked and bruised and thirsty, but alive. How can this be? And what is this strange deserted place?&lt;br /&gt;&lt;br /&gt;As he struggles to understand what is happening, the boy dares to hope. Might this not be the end? Might there be more to this life, or perhaps this afterlife?&lt;br /&gt;&lt;br /&gt;From multi-award-winning Patrick Ness comes one of the most provocative and moving novels of our time.</description>
+<authors>
+<author>
+<id>370361</id>
+<name>Patrick Ness</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1244216486p5/370361.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1244216486p2/370361.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/370361.Patrick_Ness]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>588094</ratings_count>
+<text_reviews_count>81841</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>22008332</id>
+  <uri>kca://work/amzn1.gr.work.v1.QdqeZQ0857tSxhyDOMoDVQ</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Jun 17 00:00:00 -0700 2014</started_at>
+  <read_at>Sun Aug 03 08:31:08 -0700 2014</read_at>
+  <date_added>Tue Jun 17 12:41:25 -0700 2014</date_added>
+  <date_updated>Sun Aug 03 08:31:08 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/970055316]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/970055316]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>929540485</id>
+    <book>
+  <id type="integer">15937108</id>
+  <isbn>0803738552</isbn>
+  <isbn13>9780803738553</isbn13>
+  <text_reviews_count type="integer">6597</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.M3LIbMl4ObcAeWZhQeNbyA</uri>
+  <title>Counting by 7s</title>
+  <title_without_series>Counting by 7s</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396225872l/15937108._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1396225872l/15937108._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15937108-counting-by-7s</link>
+  <num_pages>380</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dial Books</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.16</average_rating>
+  <ratings_count>53436</ratings_count>
+  <description>Willow Chance is a twelve-year-old genius, obsessed with nature and diagnosing medical conditions, who finds it comforting to count by 7s. It has never been easy for her to connect with anyone other than her adoptive parents, but that hasn’t kept her from leading a quietly happy life...until now.&lt;br /&gt;&lt;br /&gt;Suddenly Willow’s world is tragically changed when her parents both die in a car crash, leaving her alone in a baffling world. The triumph of this book is that it is &lt;i&gt;not&lt;/i&gt; a tragedy. This extraordinarily odd, but extraordinarily endearing, girl manages to push through her grief. Her journey to find a fascinatingly diverse and fully believable surrogate family is a joy and a revelation to read.</description>
+<authors>
+<author>
+<id>931363</id>
+<name>Holly Goldberg Sloan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1370224458p5/931363.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1370224458p2/931363.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/931363.Holly_Goldberg_Sloan]]></link>
+<average_rating>4.11</average_rating>
+<ratings_count>71153</ratings_count>
+<text_reviews_count>10694</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>19034797</id>
+  <uri>kca://work/amzn1.gr.work.v1.hOJKXNk4UGtHXmNf4PfLrQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='105503229' name='ya-fiction' review_shelf_id='722271572' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Mon Jun 16 00:00:00 -0700 2014</read_at>
+  <date_added>Tue May 06 05:03:19 -0700 2014</date_added>
+  <date_updated>Sun Jun 22 05:47:00 -0700 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/929540485]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/929540485]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>835455607</id>
+    <book>
+  <id type="integer">6671664</id>
+  <isbn>0061766089</isbn>
+  <isbn13>9780061766084</isbn13>
+  <text_reviews_count type="integer">269</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.LwP4VhRws-vB7BP_32zzIw</uri>
+  <title>Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation</title>
+  <title_without_series>Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6671664-change-by-design</link>
+  <num_pages>272</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperBusiness</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.91</average_rating>
+  <ratings_count>7431</ratings_count>
+  <description>The myth of innovation is that brilliant ideas leap fully formed from the minds of geniuses. The reality is that most innovations come from a process of rigorous examination through which great ideas are identified and developed before being realized as new offerings and capabilities.&lt;br /&gt;&lt;br /&gt;This book introduces the idea of design thinking‚ the collaborative process by which the designer′s sensibilities and methods are employed to match people′s needs not only with what is technically feasible and a viable business strategy. In short‚ design thinking converts need into demand. It′s a human−centered approach to problem solving that helps people and organizations become more innovative and more creative.&lt;br /&gt;&lt;br /&gt;Design thinking is not just applicable to so−called creative industries or people who work in the design field. It′s a methodology that has been used by organizations such as Kaiser Permanente to icnrease the quality of patient care by re−examining the ways that their nurses manage shift change‚ or Kraft to rethink supply chain management. This is not a book by designers for designers; this is a book for creative leaders seeking to infuse design thinking into every level of an organization‚ product‚ or service to drive new alternatives for business and society.</description>
+<authors>
+<author>
+<id>18239011</id>
+<name>Tim        Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1532676506p5/18239011.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1532676506p2/18239011.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18239011.Tim_Brown]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>6965</ratings_count>
+<text_reviews_count>285</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>6866613</id>
+  <uri>kca://work/amzn1.gr.work.v1.X7t1H9GOSxp4Zvf6yCWrnA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 26 15:59:27 -0800 2014</date_added>
+  <date_updated>Sun Jan 26 16:00:27 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Applying design thinking to the field of education is incredibly interesting to explore. I can see this process as very helpful in project development.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/835455607]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/835455607]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>835392740</id>
+    <book>
+  <id type="integer">14822838</id>
+  <isbn>1452203989</isbn>
+  <isbn13>9781452203980</isbn13>
+  <text_reviews_count type="integer">30</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.VaTNQwofP_bvZrAkxWCndg</uri>
+  <title>World Class Learners: Educating Creative and Entrepreneurial Students</title>
+  <title_without_series>World Class Learners: Educating Creative and Entrepreneurial Students</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355068984l/14822838._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355068984l/14822838._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14822838-world-class-learners</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Corwin Press</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.18</average_rating>
+  <ratings_count>204</ratings_count>
+  <description>&lt;strong&gt;
+  &lt;em&gt;Prepare your students for the globalized world!&lt;/em&gt;
+&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;To succeed in the global economy, students need to function as entrepreneurs: resourceful, flexible and creative. Researcher and Professor Yong Zhao unlocks the secrets to cultivating independent thinkers who are willing and able to create jobs and contribute positively to the globalized society. This book shows how teachers, administrators and even parents can:&lt;br /&gt;&lt;br /&gt;Understand the entrepreneurial spirit and harness it Foster student autonomy and leadership Champion inventive learners with necessary resources Develop global partners and resources &lt;br /&gt;</description>
+<authors>
+<author>
+<id>170696</id>
+<name>Yong Zhao</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/170696.Yong_Zhao]]></link>
+<average_rating>4.01</average_rating>
+<ratings_count>749</ratings_count>
+<text_reviews_count>105</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>20476366</id>
+  <uri>kca://work/amzn1.gr.work.v1.nukqpMmw9SgACGG-HcnUhw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 26 14:48:20 -0800 2014</date_added>
+  <date_updated>Sun Jan 26 14:48:58 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This book explains how the concept of entrepreneurship extends to the field of education.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/835392740]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/835392740]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>835391330</id>
+    <book>
+  <id type="integer">15803166</id>
+  <isbn>1439191255</isbn>
+  <isbn13>9781439191255</isbn13>
+  <text_reviews_count type="integer">326</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.y0Ikr-8EqxFpXqY2OyMrHg</uri>
+  <title>On Looking: Eleven Walks with Expert Eyes</title>
+  <title_without_series>On Looking: Eleven Walks with Expert Eyes</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354847308l/15803166._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354847308l/15803166._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15803166-on-looking</link>
+  <num_pages>308</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scribner</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.48</average_rating>
+  <ratings_count>2447</ratings_count>
+  <description>You are missing most of what is happening around you right now. You are missing what is happening in the distance and right in front of you. In reading these words, you are ignoring an unthinkably large amount of information that continues to bombard all of your senses. The hum of the fluorescent lights; the ambient noise in the room; the feeling of the chair against your legs or back; your tongue touching the roof of your mouth; the tension you are holding in your shoulders or jaw; the constant hum of traffic or a distant lawnmower; the blurred view of your own shoulders and torso in your peripheral vision; a chirp of a bug or whine of a kitchen appliance.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;On Looking&lt;/i&gt; begins with inattention. It is not meant to help you focus on your reading of Tolstoy; it is not about how to multitask. Rather, it is about attending to the joys of the unattended, the perceived "ordinary." Horowitz encourages us to rediscover the extraordinary things that we are missing in our ordinary activities. Even when engaged in the simplest of activities-taking a walk around the block-we pay so little attention to most of what is right before us that we are sleepwalkers in our own lives. So turn off the phone and portable electronics and get into the real world, where you'll find there are worlds within worlds within worlds.</description>
+<authors>
+<author>
+<id>2874371</id>
+<name>Alexandra Horowitz</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439179096p5/2874371.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1439179096p2/2874371.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2874371.Alexandra_Horowitz]]></link>
+<average_rating>3.57</average_rating>
+<ratings_count>16445</ratings_count>
+<text_reviews_count>2470</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>21526580</id>
+  <uri>kca://work/amzn1.gr.work.v1.8OyhiWqB-XCbZBHt7yt2_Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Jan 26 14:46:47 -0800 2014</date_added>
+  <date_updated>Sun Jan 26 14:47:37 -0800 2014</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[This books goes back to basics, and focuses on the power of observation. It supports a understanding visual literacy. I highly recommend it.]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/835391330]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/835391330]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>835389698</id>
+    <book>
+  <id type="integer">16226386</id>
+  <isbn>0988217600</isbn>
+  <isbn13>9780988217607</isbn13>
+  <text_reviews_count type="integer">516</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Eznzl3Iuzf9xxg8r0ocgUQ</uri>
+  <title>Teach Like a Pirate: Increase Student Engagement, Boost Your Creativity, and Transform Your Life as an Educator</title>
+  <title_without_series>Teach Like a Pirate: Increase Student Engagement, Boost Your Creativity, and Transform Your Life as an Educator</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355910788l/16226386._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355910788l/16226386._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16226386-teach-like-a-pirate</link>
+  <num_pages>196</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Dave Burgess Consulting, Inc.</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>4488</ratings_count>
+  <description>Based on Dave Burgess's popular "Outrageous Teaching" and "Teach Like a PIRATE" seminars, this book offers inspiration, practical techniques, and innovative ideas that will help you to increase student engagement, boost your creativity, and transform your life as an educator. You'll learn how to: -Tap into and dramatically increase your passion as a teacher -Develop outrageously engaging lessons that draw students in like a magnet -Establish rapport and a sense of camaraderie in your classroom -Transform your class into a life-changing experience for your students This groundbreaking inspirational manifesto contains over 30 hooks specially designed to captivate your class and 170 brainstorming questions that will skyrocket your creativity. Once you learn the Teach Like a PIRATE system, you'll never look at your role as an educator the same again.</description>
+<authors>
+<author>
+<id>5330308</id>
+<name>Dave Burgess</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5330308.Dave_Burgess]]></link>
+<average_rating>4.05</average_rating>
+<ratings_count>4954</ratings_count>
+<text_reviews_count>620</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>22216714</id>
+  <uri>kca://work/amzn1.gr.work.v1.6l5RzKlj_Q8ewPok8EHmrQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="91033617" review_shelf_id= ""/>
+
+    <shelf exclusive='false' id='91034115' name='teaching' review_shelf_id='608286363' sortable='false'></shelf>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Jan 26 14:44:49 -0800 2014</started_at>
+  <read_at>Sat May 09 17:30:36 -0700 2015</read_at>
+  <date_added>Sun Jan 26 14:44:49 -0800 2014</date_added>
+  <date_updated>Sat May 09 17:30:36 -0700 2015</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/835389698]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/835389698]]></link>
+    <owned>0</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

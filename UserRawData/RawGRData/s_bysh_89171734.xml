@@ -1,0 +1,1538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='289865379' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="20" total="20">
+    <review>
+  <id>2784054092</id>
+    <book>
+  <id type="integer">38998443</id>
+  <isbn>1496709799</isbn>
+  <isbn13>9781496709790</isbn13>
+  <text_reviews_count type="integer">47</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.qMouqcZ8Mibl3NrtNpnyUQ</uri>
+  <title>Cut to the Chaise (Caprice De Luca Mystery, #8)</title>
+  <title_without_series>Cut to the Chaise</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541273763l/38998443._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541273763l/38998443._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38998443-cut-to-the-chaise</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Kensington Publishing Corporation</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>4.26</average_rating>
+  <ratings_count>147</ratings_count>
+  <description>&lt;b&gt;
+  &lt;i&gt;Blood red is the season's hottest color . . . &lt;/i&gt;
+&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;With her wedding day mere weeks away, home stager Caprice De Luca is busy arranging every last detail for the reception at Rambling Vines Winery--a stylish venue she redecorated two years earlier. But the closer the bride-to-be gets to saying, "I do," the more a celebration at Rambling Vines seems like a terrible mistake. As financial mishaps and unhappy customers put the winery in the red, an unidentified criminal plots to sour the business's already ailing reputation. Worst of all, a romance from co-owner Michelle Dodd's past could leave a permanent stain on Caprice's best friend's current love life. When Michelle's aloof husband is found stabbed to death on a chaise lounge in the tasting room, Caprice vows to name the calculating culprit and set things right before her dream nuptials dissolve into a deadly nightmare . . .</description>
+<authors>
+<author>
+<id>21863</id>
+<name>Karen Rose Smith</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361487465p5/21863.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1361487465p2/21863.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/21863.Karen_Rose_Smith]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>10568</ratings_count>
+<text_reviews_count>1700</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>60554641</id>
+  <uri>kca://work/amzn1.gr.work.v1.FoczKfeu-Z3MiVN6LhXDRw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Apr 12 12:13:39 -0700 2019</date_added>
+  <date_updated>Fri Apr 12 12:13:39 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[I really love this series of Cozy mysteries the characters are always entertaining. By far so far the best series I've ready. I will be buying a paperback copy of the rest of the series so far some time soon. You are in for a treat with this and you'll like the main character. :)]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2784054092]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2784054092]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2590285331</id>
+    <book>
+  <id type="integer">33514</id>
+  <isbn>0205313426</isbn>
+  <isbn13>9780205313426</isbn13>
+  <text_reviews_count type="integer">2474</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.b8JknDCbrCdaU3fGz6YOSA</uri>
+  <title>The Elements of Style</title>
+  <title_without_series>The Elements of Style</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393947922l/33514._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393947922l/33514._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/33514.The_Elements_of_Style</link>
+  <num_pages>128</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Pearson</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>1999</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>66784</ratings_count>
+  <description>This style manual offers practical advice on improving writing skills. Throughout, the emphasis is on promoting a plain English style. This little book can help you communicate more effectively by showing you how to enliven your sentences.</description>
+<authors>
+<author>
+<id>6437238</id>
+<name>William Strunk Jr.</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1372621308p5/6437238.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1372621308p2/6437238.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6437238.William_Strunk_Jr_]]></link>
+<average_rating>4.20</average_rating>
+<ratings_count>67027</ratings_count>
+<text_reviews_count>3548</text_reviews_count>
+</author>
+</authors>
+  <published>1999</published>
+<work>  <id>35832</id>
+  <uri>kca://work/amzn1.gr.work.v1.czkHerojCyRQ3GKCXqQIzw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 10 17:43:45 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 17:44:06 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590285331]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590285331]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2590230158</id>
+    <book>
+  <id type="integer">31434883</id>
+  <isbn>0735220689</isbn>
+  <isbn13>9780735220683</isbn13>
+  <text_reviews_count type="integer">37027</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.DSPdUWX27HrhgXb9-tAcYQ</uri>
+  <title>Eleanor Oliphant is Completely Fine</title>
+  <title_without_series>Eleanor Oliphant is Completely Fine</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564647507l/31434883._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564647507l/31434883._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/31434883-eleanor-oliphant-is-completely-fine</link>
+  <num_pages>327</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Pamela Dorman Books / Viking</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.31</average_rating>
+  <ratings_count>484140</ratings_count>
+  <description>&lt;b&gt;No one’s ever told Eleanor that life should be better than fine&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Meet Eleanor Oliphant: she struggles with appropriate social skills and tends to say exactly what she’s thinking. Nothing is missing in her carefully timetabled life of avoiding unnecessary human contact, where weekends are punctuated by frozen pizza, vodka, and phone chats with Mummy. &lt;br /&gt;&lt;br /&gt;But everything changes when Eleanor meets Raymond, the bumbling and deeply unhygienic IT guy from her office. When she and Raymond together save Sammy, an elderly gentleman who has fallen, the three rescue one another from the lives of isolation that they had been living. Ultimately, it is Raymond’s big heart that will help Eleanor find the way to repair her own profoundly damaged one. If she does, she'll learn that she, too, is capable of finding friendship—and even love—after all.&lt;br /&gt;&lt;br /&gt;Smart, warm, uplifting, &lt;i&gt;Eleanor Oliphant Is Completely Fine&lt;/i&gt; is the story of an out-of-the-ordinary heroine whose deadpan weirdness and unconscious wit make for an irresistible journey as she realizes. . . &lt;br /&gt; &lt;br /&gt;&lt;b&gt;the only way to survive is to open your heart.&lt;/b&gt;</description>
+<authors>
+<author>
+<id>14558709</id>
+<name>Gail Honeyman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1475252960p5/14558709.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1475252960p2/14558709.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14558709.Gail_Honeyman]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>484274</ratings_count>
+<text_reviews_count>48249</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>47327681</id>
+  <uri>kca://work/amzn1.gr.work.v1.9yoyt2xdHuVWsJ-l8rMDiQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Nov 10 16:31:16 -0800 2018</started_at>
+  <read_at>Tue Dec 04 19:33:16 -0800 2018</read_at>
+  <date_added>Sat Nov 10 16:31:15 -0800 2018</date_added>
+  <date_updated>Tue Dec 04 19:49:13 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[You might not expect from a book with content such as what the main character Eleanor Oliphant has to deal with on a daily life basis. I still for myself, found it to be enlightening, heartening, thought provoking and at times enjoyable. It has made me glad I have read this book. I was able to in...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590230158]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590230158]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2590222645</id>
+    <book>
+  <id type="integer">1335846</id>
+  <isbn>1567311113</isbn>
+  <isbn13>9781567311112</isbn13>
+  <text_reviews_count type="integer">6</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.8xk-IBPjdCqe0xsEcBuV2w</uri>
+  <title>Black Elk Speaks</title>
+  <title_without_series>Black Elk Speaks</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1335846.Black_Elk_Speaks</link>
+  <num_pages/>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>12685</ratings_count>
+  <description>The most important aspect of this book is upon the contemporary generation of young Indians who have been aggressively searching for roots of their own in the structure of universal reality. They look to it for spiritual guidance, for sociological identity, for political insight, and the affirmation of the continuing substance of Indian tribal life.</description>
+<authors>
+<author>
+<id>20072</id>
+<name>John G. Neihardt</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/20072.John_G_Neihardt]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>13152</ratings_count>
+<text_reviews_count>680</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>3813941</id>
+  <uri>kca://work/amzn1.gr.work.v1.TbsOqxoryLjhK8MR1mFitg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 10 16:21:41 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 17:34:23 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590222645]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590222645]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2590193646</id>
+    <book>
+  <id type="integer">10569</id>
+  <isbn>0743455967</isbn>
+  <isbn13>9780743455961</isbn13>
+  <text_reviews_count type="integer">11485</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oAJvNnFck3vRRFwTfdNt4A</uri>
+  <title>On Writing: A Memoir of the Craft</title>
+  <title_without_series>On Writing: A Memoir of the Craft</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436735207l/10569._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436735207l/10569._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/10569.On_Writing</link>
+  <num_pages>320</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>US / CAN</edition_information>
+  <publisher>Pocket Books</publisher>
+  <publication_day/>
+  <publication_year>2002</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.33</average_rating>
+  <ratings_count>198475</ratings_count>
+  <description>"Long live the King" hailed Entertainment Weekly upon the publication of Stephen King's On Writing. Part memoir, part master class by one of the bestselling authors of all time, this superb volume is a revealing and practical view of the writer's craft, comprising the basic tools of the trade every writer must have. King's advice is grounded in his vivid memories from childhood through his emergence as a writer, from his struggling early career to his widely reported near-fatal accident in 1999 -- and how the inextricable link between writing and living spurred his recovery. Brilliantly structured, friendly and inspiring, On Writing will empower and entertain everyone who reads it -- fans, writers, and anyone who loves a great story well told.&lt;br /&gt;(back cover)</description>
+<authors>
+<author>
+<id>3389</id>
+<name>Stephen King</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1362814142p5/3389.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1362814142p2/3389.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3389.Stephen_King]]></link>
+<average_rating>4.03</average_rating>
+<ratings_count>13085331</ratings_count>
+<text_reviews_count>499065</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>150292</id>
+  <uri>kca://work/amzn1.gr.work.v1.PpT-7iXUksMpgOKaV4CHzg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 10 15:44:32 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 15:44:32 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590193646]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590193646]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2590193145</id>
+    <book>
+  <id type="integer">48855</id>
+  <isbn>0553296981</isbn>
+  <isbn13>9780553296983</isbn13>
+  <text_reviews_count type="integer">20740</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.NpJw6QbRgLr9alsXArRByw</uri>
+  <title>The Diary of a Young Girl</title>
+  <title_without_series>The Diary of a Young Girl</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560816565l/48855._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1560816565l/48855._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl</link>
+  <num_pages>283</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>US / CAN Edition</edition_information>
+  <publisher>Bantam</publisher>
+  <publication_day/>
+  <publication_year>1993</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>2479544</ratings_count>
+  <description>Discovered in the attic in which she spent the last years of her life, Anne Frank’s remarkable diary has become a world classic—a powerful reminder of the horrors of war and an eloquent testament to the human spirit. &lt;br /&gt;&lt;br /&gt;In 1942, with the Nazis occupying Holland, a thirteen-year-old Jewish girl and her family fled their home in Amsterdam and went into hiding. For the next two years, until their whereabouts were betrayed to the Gestapo, the Franks and another family lived cloistered in the “Secret Annexe” of an old office building. Cut off from the outside world, they faced hunger, boredom, the constant cruelties of living in confined quarters, and the ever-present threat of discovery and death. In her diary Anne Frank recorded vivid impressions of her experiences during this period. By turns thoughtful, moving, and surprisingly humorous, her account offers a fascinating commentary on human courage and frailty and a compelling self-portrait of a sensitive and spirited young woman whose promise was tragically cut short.&lt;br /&gt;--back cover</description>
+<authors>
+<author>
+<id>3720</id>
+<name>Anne Frank</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1343271406p5/3720.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1343271406p2/3720.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3720.Anne_Frank]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>2524329</ratings_count>
+<text_reviews_count>27303</text_reviews_count>
+</author>
+</authors>
+  <published>1993</published>
+<work>  <id>3532896</id>
+  <uri>kca://work/amzn1.gr.work.v1.Hn8z2cQc--WW1zAa5fCZ8Q</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 10 15:43:54 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 15:43:54 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590193145]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590193145]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2590192431</id>
+    <book>
+  <id type="integer">2998</id>
+  <isbn>0517189607</isbn>
+  <isbn13>9780517189603</isbn13>
+  <text_reviews_count type="integer">11475</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.-Yu5KHr8IQYAK0jK10dTJQ</uri>
+  <title>The Secret Garden</title>
+  <title_without_series>The Secret Garden</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327873635l/2998._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327873635l/2998._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2998.The_Secret_Garden</link>
+  <num_pages>331</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Children's Classics</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1998</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>813605</ratings_count>
+  <description>"One of the most delightful and enduring classics of children's literature, The Secret Garden by Victorian author Frances Hodgson Burnett has remained a firm favorite with children the world over ever since it made its first appearance. Initially published as a serial story in 1910 in The American Magazine, it was brought out in novel form in 1911. &lt;br /&gt; &lt;br /&gt;The plot centers round Mary Lennox, a young English girl who returns to England from India, having suffered the immense trauma by losing both her parents in a cholera epidemic. However, her memories of her parents are not pleasant, as they were a selfish, neglectful and pleasure-seeking couple. Mary is given to the care of her uncle Archibald Craven, whom she has never met. She travels to his home, Misselthwaite Manor located in the gloomy Yorkshire, a vast change from the sunny and warm climate she was used to. When she arrives, she is a rude, stubborn and given to stormy temper tantrums. However, her nature undergoes a gradual transformation when she learns of the tragedies that have befallen her strict and disciplinarian uncle whom she earlier feared and despised. Once when he's away from home, Mary discovers a charming walled garden which is always kept locked. The mystery deepens when she hears sounds of sobbing from somewhere within her uncle's vast mansion. The kindly servants ignore her queries or pretend they haven't heard, spiking Mary's curiosity. &lt;br /&gt; &lt;br /&gt;The Secret Garden appeals to both young and old alike. It has wonderful elements of mystery, spirituality, charming characters and an authentic rendering of childhood emotions and experiences. Commonsense, truth and kindness, compassion and a belief in the essential goodness of human beings lie at the heart of this unforgettable story. It is the best known of Frances Hodgson Burnett's works, though most of us have definitely heard of, if not read, her other novel Little Lord Fauntleroy. &lt;br /&gt; &lt;br /&gt;The book has been adapted extensively on stage, film and television and translated into all the world's major languages. In 1991, a Japanese anime version was launched for television in Japan. It remains a popular and beloved story of a child's journey into maturity, and a must-read for every child, parent, teacher and anyone who would enjoy this fascinating glimpse of childhood. One of the most delightful and enduring classics of children's literature, The Secret Garden by Victorian author Frances Hodgson Burnett has remained a firm favorite with children the world over ever since it made its first appearance. Initially published as a serial story in 1910 in The American Magazine, it was brought out in novel form in 1911." &lt;br /&gt;</description>
+<authors>
+<author>
+<id>2041</id>
+<name>Frances Hodgson Burnett</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1197934848p5/2041.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1197934848p2/2041.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2041.Frances_Hodgson_Burnett]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>1112913</ratings_count>
+<text_reviews_count>25720</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+<work>  <id>3186437</id>
+  <uri>kca://work/amzn1.gr.work.v1.63Qg_3M6esESm_90XodD4A</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 10 15:43:00 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 15:43:01 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590192431]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590192431]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2590192253</id>
+    <book>
+  <id type="integer">16343</id>
+  <isbn>0646418432</isbn>
+  <isbn13>9780646418438</isbn13>
+  <text_reviews_count type="integer">3671</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.vTezhc2OC3IQa02BAfttEg</uri>
+  <title>The Mysterious Affair at Styles (Hercule Poirot, #1)</title>
+  <title_without_series>The Mysterious Affair at Styles</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16343.The_Mysterious_Affair_at_Styles</link>
+  <num_pages>121</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Deodand</publisher>
+  <publication_day>21</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.99</average_rating>
+  <ratings_count>214476</ratings_count>
+  <description>Who poisoned the wealthy Emily Inglethorpe, and how did the murderer penetrate and escape from her locked bedroom? Suspects abound in the quaint village of Styles St. Mary--from the heiress's fawning new husband to her two stepsons, her volatile housekeeper, and a pretty nurse who works in a hospital dispensary. Making his unforgettable debut, the brilliant Belgian detective Hercule Poirot is on the case. The key to the success of this style of detective novel, writes Elizabeth George in her Introduction, lies in how the author deals with both the clues and the red herrings, and it has to be said that no one bettered Agatha Christie at this game.</description>
+<authors>
+<author>
+<id>123715</id>
+<name>Agatha Christie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p5/123715.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p2/123715.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>3475209</ratings_count>
+<text_reviews_count>176968</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>3366260</id>
+  <uri>kca://work/amzn1.gr.work.v1.aJ1RVEXoKZQfpqynfSMbaA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 10 15:42:48 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 15:42:48 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590192253]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590192253]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2590192030</id>
+    <book>
+  <id type="integer">35031085</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3962</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.21GvfWvotjWsRqb6TzH_Vw</uri>
+  <title>Frankenstein</title>
+  <title_without_series>Frankenstein</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498841231l/35031085._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498841231l/35031085._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35031085-frankenstein</link>
+  <num_pages>288</num_pages>
+  <format>Paperback</format>
+  <edition_information>The 1818 Text</edition_information>
+  <publisher>Penguin Classics</publisher>
+  <publication_day>8</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.79</average_rating>
+  <ratings_count>1056072</ratings_count>
+  <description>&lt;b&gt;Mary Shelley&lt;/b&gt; began writing &lt;i&gt;Frankenstein&lt;/i&gt; when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, &lt;i&gt;Frankenstein&lt;/i&gt; tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Frankenstein&lt;/i&gt;, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.</description>
+<authors>
+<author>
+<id>11139</id>
+<name>Mary Wollstonecraft Shelley</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p5/11139.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1386351586p2/11139.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley]]></link>
+<average_rating>3.79</average_rating>
+<ratings_count>1086366</ratings_count>
+<text_reviews_count>30799</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>4836639</id>
+  <uri>kca://work/amzn1.gr.work.v1.HYrCHs2hgbojzi9917_vCg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 10 15:42:31 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 15:42:32 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590192030]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590192030]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2590191725</id>
+    <book>
+  <id type="integer">38447</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">45166</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.QYIb80P3mP0A4pXX0ucI6A</uri>
+  <title>The Handmaid's Tale</title>
+  <title_without_series>The Handmaid's Tale</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546031886l/38447._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546031886l/38447._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale</link>
+  <num_pages>344</num_pages>
+  <format>Paperback</format>
+  <edition_information>1st Anchor Books edition</edition_information>
+  <publisher>Anchor Books</publisher>
+  <publication_day/>
+  <publication_year>1998</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>4.10</average_rating>
+  <ratings_count>1227649</ratings_count>
+  <description>Offred is a Handmaid in the Republic of Gilead. She may leave the home of the Commander and his wife once a day to walk to food markets whose signs are now pictures instead of words because women are no longer allowed to read. She must lie on her back once a month and pray that the Commander makes her pregnant, because in an age of declining births, Offred and the other Handmaids are valued only if their ovaries are viable. Offred can remember the years before, when she lived and made love with her husband, Luke; when she played with and protected her daughter; when she had a job, money of her own, and access to knowledge. But all of that is gone now...&lt;br /&gt;--back cover</description>
+<authors>
+<author>
+<id>3472</id>
+<name>Margaret Atwood</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1282859073p5/3472.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1282859073p2/3472.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3472.Margaret_Atwood]]></link>
+<average_rating>4.02</average_rating>
+<ratings_count>2289404</ratings_count>
+<text_reviews_count>145273</text_reviews_count>
+</author>
+</authors>
+  <published>1998</published>
+<work>  <id>1119185</id>
+  <uri>kca://work/amzn1.gr.work.v1.C3iSrQ9DOvG8o6BBrFoi4w</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 10 15:42:08 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 15:42:09 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590191725]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590191725]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2590190129</id>
+    <book>
+  <id type="integer">2493</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">6608</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Eu_4b59fezjXbHai_zIuYg</uri>
+  <title>The Time Machine</title>
+  <title_without_series>The Time Machine</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880l/2493._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880l/2493._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2493.The_Time_Machine</link>
+  <num_pages>118</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Signet Classics</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2002</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>371925</ratings_count>
+  <description>&lt;b&gt;“I’ve had a most amazing time....”&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;So begins the Time Traveller’s astonishing firsthand account of his journey 800,000 years beyond his own era—and the story that launched H.G. Wells’s successful career and earned him his reputation as the father of science fiction. With a speculative leap that still fires the imagination, Wells sends his brave explorer to face a future burdened with our greatest hopes...and our darkest fears. A pull of the Time Machine’s lever propels him to the age of a slowly dying Earth.  There he discovers two bizarre races—the ethereal Eloi and the subterranean Morlocks—who not only symbolize the duality of human nature, but offer a terrifying portrait of the men of tomorrow as well.  Published in 1895, this masterpiece of invention captivated readers on the threshold of a new century. Thanks to Wells’s expert storytelling and provocative insight, &lt;b&gt;The Time Machine&lt;/b&gt; will continue to enthrall readers for generations to come.&lt;br /&gt;&lt;br /&gt; </description>
+<authors>
+<author>
+<id>880695</id>
+<name>H.G. Wells</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1547736853p5/880695.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1547736853p2/880695.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/880695.H_G_Wells]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>945877</ratings_count>
+<text_reviews_count>32531</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>3234863</id>
+  <uri>kca://work/amzn1.gr.work.v1.UB4M2_bYRls8ZrxmrB_bkw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 10 15:40:07 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 15:40:08 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590190129]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590190129]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2590188974</id>
+    <book>
+  <id type="integer">49596</id>
+  <isbn>1600963943</isbn>
+  <isbn13>9781600963940</isbn13>
+  <text_reviews_count type="integer">1732</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.woWUTLq7oxxaKsEs_U0O2g</uri>
+  <title>The Secret Adversary (Tommy and Tuppence #1)</title>
+  <title_without_series>The Secret Adversary</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331721280l/49596._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331721280l/49596._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/49596.The_Secret_Adversary</link>
+  <num_pages>268</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Waking Lion Press</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.84</average_rating>
+  <ratings_count>35463</ratings_count>
+  <description>Tommy and Tuppence are young, in love… and flat broke. Restless for excitement, they decide to embark on a daring business scheme: Young Adventurers Ltd.—"willing to do anything, go anywhere." But they get more than they bargained for when their first assignment for the sinister Mr. Whittington draws them into a diabolical conspiracy.&lt;br /&gt;&lt;br /&gt;It isn’t long before they find themselves plunged into more danger than they ever could have imagined—a danger that could put an abrupt end to their business…and their lives.</description>
+<authors>
+<author>
+<id>123715</id>
+<name>Agatha Christie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p5/123715.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p2/123715.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>3475209</ratings_count>
+<text_reviews_count>176968</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>2146310</id>
+  <uri>kca://work/amzn1.gr.work.v1.HUCQr-598aYH0UAG5uyqPA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 10 15:38:41 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 15:38:41 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590188974]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590188974]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2590188360</id>
+    <book>
+  <id type="integer">16331</id>
+  <isbn>1579126251</isbn>
+  <isbn13>9781579126254</isbn13>
+  <text_reviews_count type="integer">2119</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.MV1XIyJxdOHoLz0BwTpp1Q</uri>
+  <title>Murder at the Vicarage (Miss Marple, #1)</title>
+  <title_without_series>Murder at the Vicarage</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/16331.Murder_at_the_Vicarage</link>
+  <num_pages>288</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Black Dog &amp; Leventhal Publishers</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.05</average_rating>
+  <ratings_count>128325</ratings_count>
+  <description>&lt;i&gt;Murder at the Vicarage&lt;/i&gt; marks the debut of Agatha Christie’s unflappable and much beloved female detective, Miss Jane Marple. With her gift for sniffing out the malevolent side of human nature, Miss Marple is led on her first case to a crime scene at the local vicarage. Colonel Protheroe, the magistrate whom everyone in town hates, has been shot through the head. No one heard the shot. There are no leads. Yet, everyone surrounding the vicarage seems to have a reason to want the Colonel dead. It is a race against the clock as Miss Marple sets out on the twisted trail of the mysterious killer without so much as a bit of help from the local police.</description>
+<authors>
+<author>
+<id>123715</id>
+<name>Agatha Christie</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p5/123715.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1321738793p2/123715.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/123715.Agatha_Christie]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>3475209</ratings_count>
+<text_reviews_count>176968</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>2589654</id>
+  <uri>kca://work/amzn1.gr.work.v1.X5RPNB5p7_ZV0MQG_MdFmg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 10 15:37:53 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 15:37:54 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590188360]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590188360]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2590188191</id>
+    <book>
+  <id type="integer">960</id>
+  <isbn>1416524797</isbn>
+  <isbn13>9781416524793</isbn13>
+  <text_reviews_count type="integer">21091</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.aj0GB9Rl93tP-2U9xrEdTw</uri>
+  <title>Angels &amp; Demons (Robert Langdon, #1)</title>
+  <title_without_series>Angels &amp; Demons</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558711679l/960._SY160_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558711679l/960._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/960.Angels_Demons</link>
+  <num_pages>736</num_pages>
+  <format>Mass Market Paperback</format>
+  <edition_information>Pocket Books Premium Edition (US/CAN)</edition_information>
+  <publisher>Pocket Books</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>4</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>2444512</ratings_count>
+  <description>World-renowned Harvard symbologist Robert Langdon is summoned to a Swiss research facility to analyze a cryptic symbol seared into the chest of a murdered physicist. What he discovers is unimaginable: a deadly vendetta against the Catholic Church by a centuries-old underground organization -- the Illuminati. In a desperate race to save the Vatican from a powerful time bomb, Langdon joins forces in Rome with the beautiful and mysterious scientist Vittoria Vetra. Together they embark on a frantic hunt through sealed crypts, dangerous catacombs, and deserted cathedrals, and into the depths of the most secretive vault on earth...the long-forgotten Illuminati lair.&lt;br /&gt;(back cover)</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>6441165</ratings_count>
+<text_reviews_count>175005</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>3338963</id>
+  <uri>kca://work/amzn1.gr.work.v1.ocYeIPzLq_R9remL5iwsQw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 10 15:37:42 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 15:37:43 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590188191]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590188191]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2590187431</id>
+    <book>
+  <id type="integer">17061</id>
+  <isbn>0061139378</isbn>
+  <isbn13>9780061139376</isbn13>
+  <text_reviews_count type="integer">12679</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.iZ08M4DnKVh3VqwRVK5eKg</uri>
+  <title>Coraline</title>
+  <title_without_series>Coraline</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493497435l/17061._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493497435l/17061._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17061.Coraline</link>
+  <num_pages>162</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>William Morrow Paperbacks</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.06</average_rating>
+  <ratings_count>431325</ratings_count>
+  <description>The day after they moved in, Coraline went exploring....&lt;br /&gt;&lt;br /&gt;In Coraline's family's new flat are twenty-one windows and fourteen doors. Thirteen of the doors open and close. &lt;br /&gt;&lt;br /&gt;The fourteenth is locked, and on the other side is only a brick wall, until the day Coraline unlocks the door to find a passage to another flat in another house just like her own. &lt;br /&gt;&lt;br /&gt;Only it's different. &lt;br /&gt;&lt;br /&gt;At first, things seem marvelous in the other flat. The food is better. The toy box is filled with wind-up angels that flutter around the bedroom, books whose pictures writhe and crawl and shimmer, little dinosaur skulls that chatter their teeth. But there's another mother, and another father, and they want Coraline to stay with them and be their little girl. They want to change her and never let her go. &lt;br /&gt;&lt;br /&gt;Other children are trapped there as well, lost souls behind the mirrors. Coraline is their only hope of rescue. She will have to fight with all her wits and all the tools she can find if she is to save the lost children, her ordinary life, and herself. &lt;br /&gt;&lt;br /&gt;Critically acclaimed and award-winning author Neil Gaiman will delight readers with his first novel for all ages.</description>
+<authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p5/1221698.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p2/1221698.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>5542202</ratings_count>
+<text_reviews_count>332897</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>2834844</id>
+  <uri>kca://work/amzn1.gr.work.v1.vbalmqvzO8KrGjieBP-H0w</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 01 00:00:00 -0800 2017</read_at>
+  <date_added>Sat Nov 10 15:36:40 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 16:02:19 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590187431]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590187431]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2590187130</id>
+    <book>
+  <id type="integer">2213661</id>
+  <isbn>0060530928</isbn>
+  <isbn13>9780060530921</isbn13>
+  <text_reviews_count type="integer">24053</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.5AdcVR1XHSWVdy4G6zLkJw</uri>
+  <title>The Graveyard Book</title>
+  <title_without_series>The Graveyard Book</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531295292l/2213661._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531295292l/2213661._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/2213661.The_Graveyard_Book</link>
+  <num_pages>307</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>HarperCollins</publisher>
+  <publication_day>30</publication_day>
+  <publication_year>2008</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>403345</ratings_count>
+  <description>Bod is an unusual boy who inhabits an unusual place-he's the only living resident of a graveyard. Raised from infancy by the ghosts, werewolves, and other cemetery denizens, Bod has learned the antiquated customs of his guardians' time as well as their timely ghostly teachings-like the ability to Fade. Can a boy raised by ghosts face the wonders and terrors of the worlds of both the living and the dead? And then there are things like ghouls that aren't really one thing or the other. &lt;br /&gt;This chilling tale is Neil Gaiman's first full-length novel for middle-grade readers since the internationally bestselling and universally acclaimed Coraline. Like Coraline, this book is sure to enchant and surprise young readers as well as Neil Gaiman's legion of adult fans.</description>
+<authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p5/1221698.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p2/1221698.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>5542202</ratings_count>
+<text_reviews_count>332897</text_reviews_count>
+</author>
+</authors>
+  <published>2008</published>
+<work>  <id>2219449</id>
+  <uri>kca://work/amzn1.gr.work.v1.YnnFS_yLguzjcV6XD-Xj0g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 01 00:00:00 -0800 2017</read_at>
+  <date_added>Sat Nov 10 15:36:18 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 16:02:06 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590187130]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590187130]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2590186822</id>
+    <book>
+  <id type="integer">15783514</id>
+  <isbn>0062255657</isbn>
+  <isbn13>9780062255655</isbn13>
+  <text_reviews_count type="integer">37312</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xVcSPwHbfyrfVP9BtO7Kgg</uri>
+  <title>The Ocean at the End of the Lane</title>
+  <title_without_series>The Ocean at the End of the Lane</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497098563l/15783514._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497098563l/15783514._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane</link>
+  <num_pages>181</num_pages>
+  <format>Hardcover</format>
+  <edition_information>First Edition</edition_information>
+  <publisher>William Morrow Books</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>435749</ratings_count>
+  <description>Sussex, England. A middle-aged man returns to his childhood home to attend a funeral. Although the house he lived in is long gone, he is drawn to the farm at the end of the road, where, when he was seven, he encountered a most remarkable girl, Lettie Hempstock, and her mother and grandmother. He hasn't thought of Lettie in decades, and yet as he sits by the pond (a pond that she'd claimed was an ocean) behind the ramshackle old farmhouse, the unremembered past comes flooding back. And it is a past too strange, too frightening, too dangerous to have happened to anyone, let alone a small boy.&lt;br /&gt;&lt;br /&gt;Forty years earlier, a man committed suicide in a stolen car at this farm at the end of the road. Like a fuse on a firework, his death lit a touchpaper and resonated in unimaginable ways. The darkness was unleashed, something scary and thoroughly incomprehensible to a little boy. And Lettie—magical, comforting, wise beyond her years—promised to protect him, no matter what.&lt;br /&gt;&lt;br /&gt;A groundbreaking work from a master, &lt;i&gt;The Ocean at the End of the Lane&lt;/i&gt; is told with a rare understanding of all that makes us human, and shows the power of stories to reveal and shelter us from the darkness inside and out. It is a stirring, terrifying, and elegiac fable as delicate as a butterfly's wing and as menacing as a knife in the dark.</description>
+<authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p5/1221698.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p2/1221698.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>5542202</ratings_count>
+<text_reviews_count>332897</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>21500681</id>
+  <uri>kca://work/amzn1.gr.work.v1._CoJEzWs32eIUxrid2be6Q</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 01 00:00:00 -0800 2017</read_at>
+  <date_added>Sat Nov 10 15:35:57 -0800 2018</date_added>
+  <date_updated>Sat Nov 09 10:38:59 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590186822]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590186822]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2590186620</id>
+    <book>
+  <id type="integer">14497</id>
+  <isbn>0060557818</isbn>
+  <isbn13>9780060557812</isbn13>
+  <text_reviews_count type="integer">14835</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.c51MT6mpyRpeHepu6Yx7Sg</uri>
+  <title>Neverwhere (London Below, #1)</title>
+  <title_without_series>Neverwhere</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348747943l/14497._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348747943l/14497._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/14497.Neverwhere</link>
+  <num_pages>370</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>William Morrow Paperbacks</publisher>
+  <publication_day>2</publication_day>
+  <publication_year>2003</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>390263</ratings_count>
+  <description>Under the streets of London there's a place most people could never even dream of. A city of monsters and saints, murderers and angels, knights in armour and pale girls in black velvet. This is the city of the people who have fallen between the cracks.&lt;br /&gt;&lt;br /&gt;Richard Mayhew, a young businessman, is going to find out more than enough about this other London. A single act of kindness catapults him out of his workday existence and into a world that is at once eerily familiar and utterly bizarre. And a strange destiny awaits him down here, beneath his native city: Neverwhere.</description>
+<authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p5/1221698.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p2/1221698.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>5542202</ratings_count>
+<text_reviews_count>332897</text_reviews_count>
+</author>
+</authors>
+  <published>2003</published>
+<work>  <id>16534</id>
+  <uri>kca://work/amzn1.gr.work.v1.BDISHjs24Q5pevic84Muyw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 01 00:00:00 -0800 2017</read_at>
+  <date_added>Sat Nov 10 15:35:43 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 16:01:21 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590186620]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590186620]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2590186105</id>
+    <book>
+  <id type="integer">3</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">72241</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.tJT_00n8UPpvWa-zWHEAXg</uri>
+  <title>Harry Potter and the Sorcerer's Stone (Harry Potter, #1)</title>
+  <title_without_series>Harry Potter and the Sorcerer's Stone</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474154022l/3._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone</link>
+  <num_pages>322</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Scholastic Inc</publisher>
+  <publication_day>26</publication_day>
+  <publication_year>1997</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>4.47</average_rating>
+  <ratings_count>6200943</ratings_count>
+  <description>Harry Potter's life is miserable. His parents are dead and he's stuck with his heartless relatives, who force him to live in a tiny closet under the stairs. But his fortune changes when he receives a letter that tells him the truth about himself: he's a wizard. A mysterious visitor rescues him from his relatives and takes him to his new home, Hogwarts School of Witchcraft and Wizardry.&lt;br /&gt;&lt;br /&gt;After a lifetime of bottling up his magical powers, Harry finally feels like a normal kid. But even within the Wizarding community, he is special. He is the boy who lived: the only person to have ever survived a killing curse inflicted by the evil Lord Voldemort, who launched a brutal takeover of the Wizarding world, only to vanish after failing to kill Harry.&lt;br /&gt;&lt;br /&gt;Though Harry's first year at Hogwarts is the best of his life, not everything is perfect. There is a dangerous secret object hidden within the castle walls, and Harry believes it's his responsibility to prevent it from falling into evil hands. But doing so will bring him into contact with forces more terrifying than he ever could have imagined.&lt;br /&gt;&lt;br /&gt;Full of sympathetic characters, wildly imaginative situations, and countless exciting details, the first installment in the series assembles an unforgettable magical world and sets the stage for many high-stakes adventures to come.</description>
+<authors>
+<author>
+<id>1077326</id>
+<name>J.K. Rowling</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p5/1077326.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1510435123p2/1077326.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1077326.J_K_Rowling]]></link>
+<average_rating>4.45</average_rating>
+<ratings_count>22936056</ratings_count>
+<text_reviews_count>550472</text_reviews_count>
+</author>
+</authors>
+  <published>1997</published>
+<work>  <id>4640799</id>
+  <uri>kca://work/amzn1.gr.work.v1.TbpxJa2CwiSSz_9W2FruoA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Nov 10 15:35:03 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 15:35:04 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590186105]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590186105]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2590185616</id>
+    <book>
+  <id type="integer">6659434</id>
+  <isbn>1585427470</isbn>
+  <isbn13>9781585427475</isbn13>
+  <text_reviews_count type="integer">26</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.K-wpzIO6wDjtv1xpnqahCA</uri>
+  <title>The Artist's Way Every Day: A Year of Creative Living</title>
+  <title_without_series>The Artist's Way Every Day: A Year of Creative Living</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/6659434-the-artist-s-way-every-day</link>
+  <num_pages>413</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Tarcherperigee</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>3.74</average_rating>
+  <ratings_count>6849</ratings_count>
+  <description>&lt;b&gt;This new book from the author of the international bestseller &lt;i&gt;The Artist's Way&lt;/i&gt; guides readers through a year of cultivating a deeper connection to their creative selves.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;The Artist's Way&lt;/i&gt; has touched the lives of millions of people around the world. Now, for the first time, fans will have a beautifully designed daily companion to the author's life-changing creative process.&lt;br /&gt;&lt;br /&gt;With 365 quotations culled from Julia Cameron's most vital works on the creative process, this elegant little book can easily be carried along as the reader travels her groundbreaking spiritual path to higher creativity. In her introduction to the book, Cameron reveals the importance of cultivating one's creativity every day and offers stunning new insights on the relationship between creativity and spirituality.&lt;br /&gt;&lt;br /&gt;As the world becomes increasingly challenging to navigate, &lt;i&gt;The Artist's Way Every Day&lt;/i&gt; will serve as a daily reminder of the healing power of creativity to nourish the soul.</description>
+<authors>
+<author>
+<id>13229</id>
+<name>Julia Cameron</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215643047p5/13229.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1215643047p2/13229.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/13229.Julia_Cameron]]></link>
+<average_rating>3.91</average_rating>
+<ratings_count>114999</ratings_count>
+<text_reviews_count>3950</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>6854111</id>
+  <uri>kca://work/amzn1.gr.work.v1.RSoLeqnR8rIh4mtzcvyD6g</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="289865379" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at>Sun Jan 01 00:00:00 -0800 2017</read_at>
+  <date_added>Sat Nov 10 15:34:25 -0800 2018</date_added>
+  <date_updated>Sat Nov 10 16:01:32 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2590185616]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2590185616]]></link>
+    <owned>1</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>

@@ -26,12 +26,19 @@ count = 0
 
 DB = {}
 for filename in os.listdir(path):
-		if filename.endswith(".txt"):			
+		if filename.endswith(".txt"):
+			profile = str(os.getcwd())+"/BookData/BookProfiles/BookProfile_"+filename			
 			fullname = str(os.getcwd())+"/BookData/BookMetaData/"+filename
 			descName = str(os.getcwd())+"/BookData/BookDescData/"+filename
-			if(os.path.isfile(fullname)==False):
-				print(fullname)
-				exit(0)
+			if(os.path.isfile(profile)==False):
+				try:
+					print(fullname)
+				except:
+					continue
+				print(descName)
+				os.remove(fullname)
+				os.remove(descName)
+				continue
 
 			f1 = open(fullname, 'r')
 			bookName = f1.readline()

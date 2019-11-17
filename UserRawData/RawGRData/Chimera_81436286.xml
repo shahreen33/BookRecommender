@@ -1,0 +1,3816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GoodreadsResponse>
+  <Request>
+    <authentication>true</authentication>
+      <key><![CDATA[IzTRndFKRignOkxxlNn0ng]]></key>
+    <method><![CDATA[review_list]]></method>
+  </Request>
+  
+  <shelf exclusive='true' id='265150310' name='read' sortable='false'></shelf>
+
+<reviews start="1" end="50" total="50">
+    <review>
+  <id>2833279039</id>
+    <book>
+  <id type="integer">35179525</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.pKJVOdbBSumzIq8An13EMQ</uri>
+  <title>Il cervello del bambino spiegato ai genitori</title>
+  <title_without_series>Il cervello del bambino spiegato ai genitori</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35179525-il-cervello-del-bambino-spiegato-ai-genitori</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.12</average_rating>
+  <ratings_count>24</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>7432733</id>
+<name>Álvaro Bilbao</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7432733._lvaro_Bilbao]]></link>
+<average_rating>4.32</average_rating>
+<ratings_count>323</ratings_count>
+<text_reviews_count>39</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>56515198</id>
+  <uri>kca://work/amzn1.gr.work.v1.tb8XiaPjF5BEI1BOMyfVQA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Jun 20 10:44:49 -0700 2019</started_at>
+  <read_at>Fri Jul 05 11:46:54 -0700 2019</read_at>
+  <date_added>Sat May 25 00:00:20 -0700 2019</date_added>
+  <date_updated>Fri Jul 05 11:46:54 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2833279039]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2833279039]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2778354718</id>
+    <book>
+  <id type="integer">42958474</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">18</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.dKbtcnAiMscXp6Oi-G-VWg</uri>
+  <title>Cleopatra: La regina che sfidò Roma e conquistò l'eternità</title>
+  <title_without_series>Cleopatra: La regina che sfidò Roma e conquistò l'eternità</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/42958474-cleopatra</link>
+  <num_pages>480</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.20</average_rating>
+  <ratings_count>166</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>876727</id>
+<name>Alberto Angela</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414428318p5/876727.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1414428318p2/876727.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/876727.Alberto_Angela]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>4291</ratings_count>
+<text_reviews_count>486</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>66770714</id>
+  <uri>kca://work/amzn1.gr.work.v1.4T20OMf9glft1T6ev0uEbg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Apr 19 11:41:38 -0700 2019</started_at>
+  <read_at>Thu May 16 08:01:38 -0700 2019</read_at>
+  <date_added>Sun Apr 07 12:40:27 -0700 2019</date_added>
+  <date_updated>Thu May 16 08:01:38 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2778354718]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2778354718]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2752634189</id>
+    <book>
+  <id type="integer">25321165</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.U9xje1CL5Ve0dR5Lqvo6-g</uri>
+  <title>Burnout to Brilliance: Strategies for Sustainable Success</title>
+  <title_without_series>Burnout to Brilliance: Strategies for Sustainable Success</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25321165-burnout-to-brilliance</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.50</average_rating>
+  <ratings_count>10</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>7990638</id>
+<name>Jayne Morris</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1429906760p5/7990638.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1429906760p2/7990638.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7990638.Jayne_Morris]]></link>
+<average_rating>3.87</average_rating>
+<ratings_count>15</ratings_count>
+<text_reviews_count>4</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>45054235</id>
+  <uri>kca://work/amzn1.gr.work.v1.Oy9BnKviuoT7aGuTgeJQog</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Sep 04 04:29:07 -0700 2019</started_at>
+  <read_at>Wed Oct 02 12:19:25 -0700 2019</read_at>
+  <date_added>Sat Mar 16 14:10:38 -0700 2019</date_added>
+  <date_updated>Wed Oct 02 12:19:25 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2752634189]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2752634189]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2752633824</id>
+    <book>
+  <id type="integer">41817990</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.OYqzeNDV-GgW4QZBi5zCQA</uri>
+  <title>This Book Will Make You Fearless</title>
+  <title_without_series>This Book Will Make You Fearless</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/41817990-this-book-will-make-you-fearless</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.69</average_rating>
+  <ratings_count>26</ratings_count>
+  <description>We all feel frightened sometimes - it's totally natural - but if fear is holding you back, making you feel stuck in a rut and hindering your ambitions, it's time to make changes. &lt;br /&gt; Jo Usmar provides a concise, no-guff guide to battling your fears. There are strategies, tools and relatable examples throughout that offer simple and effective ways to feel brave, independent and confident. Pushing through your fear will allow you to take back control of your life so you can make changes, accept that you have choices and recognize that you absolutely can cope with whatever life throws at you. Anxiety is one of the biggest mental health challenges of our times. Rather than a downbeat 'coping with' book this is an inspiring modern take on 'feel the fear and do it anyway'.&lt;br /&gt;&lt;br /&gt; Chapters include: CBT-based techniques, dealing with physical anxiety, getting to the root cause of your fear, negotiating obstacles, stopping self-sabotage, building confidence, combating guilt and shame, feeling more powerful, breaking negative patterns</description>
+<authors>
+<author>
+<id>7638701</id>
+<name>Jo Usmar</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1397733224p5/7638701.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1397733224p2/7638701.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7638701.Jo_Usmar]]></link>
+<average_rating>3.70</average_rating>
+<ratings_count>827</ratings_count>
+<text_reviews_count>98</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>53091468</id>
+  <uri>kca://work/amzn1.gr.work.v1.fiwycXtS7CYHB7nfDwnehQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Oct 02 12:20:30 -0700 2019</started_at>
+  <read_at>Wed Oct 16 12:18:17 -0700 2019</read_at>
+  <date_added>Sat Mar 16 14:10:17 -0700 2019</date_added>
+  <date_updated>Wed Oct 16 12:18:17 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2752633824]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2752633824]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2752633168</id>
+    <book>
+  <id type="integer">32730164</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.xZrpXrF0TeKd4tnaMkkR0A</uri>
+  <title>Ingegneria del Buon Umore: Come superare Stress e Difficoltà nonostante Stress e Difficoltà</title>
+  <title_without_series>Ingegneria del Buon Umore: Come superare Stress e Difficoltà nonostante Stress e Difficoltà</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32730164-ingegneria-del-buon-umore</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.25</average_rating>
+  <ratings_count>4</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>6913525</id>
+<name>Terenzio Traisci</name>
+<role>Narrator</role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6913525.Terenzio_Traisci]]></link>
+<average_rating>3.62</average_rating>
+<ratings_count>8</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>53317269</id>
+  <uri>kca://work/amzn1.gr.work.v1.R85_keFamguPF6jq5_9N-w</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Mar 16 14:09:41 -0700 2019</date_added>
+  <date_updated>Wed Sep 04 04:27:09 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2752633168]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2752633168]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2752632835</id>
+    <book>
+  <id type="integer">19262997</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.zZEZCEU0vK0GtUYk5CYy2Q</uri>
+  <title>Awakening the Laughing Buddha within</title>
+  <title_without_series>Awakening the Laughing Buddha within</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19262997-awakening-the-laughing-buddha-within</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>6</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>7508070</id>
+<name>Joe Hoare</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7508070.Joe_Hoare]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>7</ratings_count>
+<text_reviews_count>2</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>27309719</id>
+  <uri>kca://work/amzn1.gr.work.v1.dOWoaur9tkVm3FoMOkUE3g</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sat Mar 16 14:09:20 -0700 2019</date_added>
+  <date_updated>Tue May 21 13:05:31 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2752632835]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2752632835]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2752631293</id>
+    <book>
+  <id type="integer">43436004</id>
+  <isbn>885754396X</isbn>
+  <isbn13>9788857543963</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4ocMlw09lDCsmn-zujzA1A</uri>
+  <title>Mindfulness per principianti</title>
+  <title_without_series>Mindfulness per principianti</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/43436004-mindfulness-per-principianti</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.38</average_rating>
+  <ratings_count>8</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>8750</id>
+<name>Jon Kabat-Zinn</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1348913704p5/8750.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1348913704p2/8750.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8750.Jon_Kabat_Zinn]]></link>
+<average_rating>4.09</average_rating>
+<ratings_count>72641</ratings_count>
+<text_reviews_count>3954</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>67522922</id>
+  <uri>kca://work/amzn1.gr.work.v1.kJE2zRktp00VSDX5s1hpMw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Nov 09 11:40:39 -0800 2019</started_at>
+  <read_at>Fri Nov 15 11:40:30 -0800 2019</read_at>
+  <date_added>Sat Mar 16 14:07:52 -0700 2019</date_added>
+  <date_updated>Fri Nov 15 11:40:30 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2752631293]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2752631293]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2688445665</id>
+    <book>
+  <id type="integer">43348178</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.lXCJREUr6B9UId-psVnlcg</uri>
+  <title>Things My Son Needs to Know About The World</title>
+  <title_without_series>Things My Son Needs to Know About The World</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/43348178-things-my-son-needs-to-know-about-the-world</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.95</average_rating>
+  <ratings_count>6471</ratings_count>
+  <description>&lt;p&gt;In between the sleep-deprived lows and wonderful highs, Backman takes a step back to share his own experience of fatherhood and how he navigates such unchartered territory. &lt;br /&gt;Part memoir, part manual, part love letter to his son, this book relays the big and the small lessons in life. As he watches his son take his first steps into the world he teaches him how to cultivate friendships, support a team that loses and tries to explain why, sometimes, dad might hold his hand just a little bit too tightly. &lt;br /&gt;This is an irresistible and insightful collection from one of the world's most beautiful storytellers.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>6485178</id>
+<name>Fredrik Backman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1493098924p5/6485178.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1493098924p2/6485178.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6485178.Fredrik_Backman]]></link>
+<average_rating>4.26</average_rating>
+<ratings_count>952574</ratings_count>
+<text_reviews_count>123063</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>21660527</id>
+  <uri>kca://work/amzn1.gr.work.v1.jjh-lyA_pjmcsIEBr9w_hg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jun 08 01:41:55 -0700 2019</started_at>
+  <read_at>Wed Jun 12 00:23:07 -0700 2019</read_at>
+  <date_added>Fri Jan 25 03:17:50 -0800 2019</date_added>
+  <date_updated>Wed Jun 12 00:23:07 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2688445665]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2688445665]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2636724349</id>
+    <book>
+  <id type="integer">21084452</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">19</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Q1-fpc5E5Y3x5RTahuYWYA</uri>
+  <title>The Highly Sensitive Person: How to Survive and Thrive When the World Overwhelms You</title>
+  <title_without_series>The Highly Sensitive Person: How to Survive and Thrive When the World Overwhelms You</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21084452-the-highly-sensitive-person</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>25956</ratings_count>
+  <description>Are you an HSP? Are you easily overwhelmed by stimuli? Affected by other people's moods? Easily startled? Do you need to withdraw during busy times to a private, quiet place? Do you get nervous or shaky if someone is observing you or competing with you? HSP, shorthand for "highly sensitive person," describes 15 to 20 percent of the population. Being sensitive is a normal trait--nothing defective about it. But you may not realize that, because society rewards the outgoing personality and treats shyness and sensitivity as something to be overcome. According to author Elaine Aron (herself an HSP), sensitive people have the unusual ability to sense subtleties, spot or avoid errors, concentrate deeply, and delve deeply. This book helps HSPs to understand themselves and their sensitive trait and its impact on personal history, career, relationships, and inner life. The book offers advice for typical problems. For example, you learn strategies for coping with overarousal, overcoming social discomfort, being in love relationships, managing job challenges, and much more. The author covers a lot of material clearly, in an approachable style, using case studies, self-tests, and exercises to bring the information home. The book is essential for you if you are an HSP--you'll learn a lot about yourself. It's also useful for people in a relationship with an HSP. &lt;i&gt;--Joan Price&lt;/i&gt;</description>
+<authors>
+<author>
+<id>89949</id>
+<name>Elaine N. Aron</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1401536347p5/89949.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1401536347p2/89949.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/89949.Elaine_N_Aron]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>31457</ratings_count>
+<text_reviews_count>1763</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>908967</id>
+  <uri>kca://work/amzn1.gr.work.v1.hbRBIPwSsdw-0ozmEtMG1w</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jan 18 04:43:07 -0800 2019</started_at>
+  <read_at>Wed Mar 20 04:31:55 -0700 2019</read_at>
+  <date_added>Mon Dec 24 01:19:12 -0800 2018</date_added>
+  <date_updated>Wed Mar 20 04:31:55 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[Definitely impressive. It provides explanations to so many questions it's almost unbelievable. A must-read for all HSPs. Highly recommended!]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2636724349]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2636724349]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2636724292</id>
+    <book>
+  <id type="integer">32796274</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">26</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.jPLrPqeXwvbNtkXOijoz2g</uri>
+  <title>The Empath's Survival Guide: Life Strategies for Sensitive People</title>
+  <title_without_series>The Empath's Survival Guide: Life Strategies for Sensitive People</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32796274-the-empath-s-survival-guide</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>2129</ratings_count>
+  <description>What is the difference between having empathy and being an empath? "Having empathy means our heart goes out to another person in joy or pain," says Judith Orloff, MD. "But for empaths it goes much further. We actually &lt;i&gt;feel&lt;/i&gt; others’ emotions, energy, and physical symptoms in our own bodies, without the usual defenses that most people have." With &lt;i&gt;The Empath’s Survival Guide,&lt;/i&gt; Dr. Orloff offers a practical tool set to help sensitive people develop healthy coping mechanisms in our high-stimulus world—while fully embracing the empath’s gifts of intuition, compassion, creativity, and spiritual connection.&lt;br /&gt;&lt;br /&gt;This practical, empowering, and loving book was created to support empaths and anyone who wants to develop their sensitivities to become more caring people in an often-insensitive world. It helps empaths through their unique challenges and gives loved ones a better understanding of the needs and gifts of the sensitive people in their lives. In this book Dr. Orloff offers crucial practices, including:&lt;br /&gt;&lt;br /&gt;• Self-assessment exercises to help you identify your empath type&lt;br /&gt; • Tools for protecting yourself from sensory overload, exhaustion, addictions, and compassion fatigue while replenishing your vital energy&lt;br /&gt; • Simple and effective strategies to stop absorbing stress and physical symptoms from others and protect yourself from narcissists and other energy vampires&lt;br /&gt; • How to find the right work and create relationships that nourish you&lt;br /&gt; • How to navigate intimate relationships without feeling overwhelmed&lt;br /&gt; • Guidance for parenting and raising empathic children&lt;br /&gt; • Awakening the empath’s gift of intuition and deepening your spiritual connection to all living beings&lt;br /&gt;&lt;br /&gt;For any sensitive person who’s been told to "grow a thick skin," this paperback edition of &lt;i&gt;The Empath's Survival Guide&lt;/i&gt; is an invaluable resource for staying fully open while building resilience, exploring your gifts of depth and compassion, and feeling welcome and valued by a world that desperately needs what you have to offer.</description>
+<authors>
+<author>
+<id>29410</id>
+<name>Judith Orloff</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1517371787p5/29410.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1517371787p2/29410.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/29410.Judith_Orloff]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>6736</ratings_count>
+<text_reviews_count>694</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>51577391</id>
+  <uri>kca://work/amzn1.gr.work.v1.LK9sMnjgJWV6RjNXURadag</uri>
+</work></book>
+
+
+  <rating>1</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Fri Jul 05 11:47:41 -0700 2019</started_at>
+  <read_at>Mon Jul 08 12:30:35 -0700 2019</read_at>
+  <date_added>Mon Dec 24 01:19:07 -0800 2018</date_added>
+  <date_updated>Mon Jul 08 12:30:35 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2636724292]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2636724292]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2568737922</id>
+    <book>
+  <id type="integer">25080346</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.097RD2FPhKL42fTWsz_5XA</uri>
+  <title>House of Cards 3 Atto finale</title>
+  <title_without_series>House of Cards 3 Atto finale</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/25080346-house-of-cards-3-atto-finale</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>1162</ratings_count>
+  <description>Sono passati dieci anni da quando, grazie a una lunga serie di sotterfugi e manipolazioni, Francis Urquhart ha raggiunto l'apice della carriera politica. Ora si appresta a diventare il primo ministro più longevo nella storia del paese: lo spettro della vecchiaia incombe, è tempo di bilanci e di pensare a come guadagnarsi un posto nella Storia. Ma nel corso della sua impietosa scalata il nostro protagonista si è fatto molti nemici, e oggi si ritrova con un branco di lupi alle calcagna, pronti ad azzannarlo, mentre i molti scheletri da tempo sepolti nell'armadio minacciano di saltare fuori. E non finisce qui. Se da un lato Urquhart è costretto ad affrontare un'inaspettata crisi di governo, dall'altro in questo terzo capitolo lo vediamo impegnato sullo scacchiere mondiale: viene infatti coinvolto in questioni internazionali, complicate ulteriormente dal ritrovamento di certi giacimenti petroliferi a cui sono in molti ad ambire. Ma il petrolio non è l'unico segreto: Urquhart ha le mani legate da una tragica vicenda personale del suo passato, che tornerà a galla ingrossando la lunga fila dei suoi persecutori. Come prevedibile, l'instancabile FU non è pronto a farsi da parte, né a cedere di fronte a chicchessia. È ancora disposto a tutto e determinato a lasciare il segno. Ci riuscirà?</description>
+<authors>
+<author>
+<id>66749</id>
+<name>Michael Dobbs</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1287830228p5/66749.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1287830228p2/66749.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/66749.Michael_Dobbs]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>14779</ratings_count>
+<text_reviews_count>1255</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>856133</id>
+  <uri>kca://work/amzn1.gr.work.v1.v0uCVbqgowmIS9_U2yKfvA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Oct 23 13:40:58 -0700 2018</started_at>
+  <read_at>Tue Nov 27 12:17:02 -0800 2018</read_at>
+  <date_added>Sun Oct 21 03:57:50 -0700 2018</date_added>
+  <date_updated>Tue Nov 27 12:17:02 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2568737922]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2568737922]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2547256755</id>
+    <book>
+  <id type="integer">23534764</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.IMVrHnw7sMxBuXCLGOnYLg</uri>
+  <title>House of Cards 2: Scacco al re</title>
+  <title_without_series>House of Cards 2: Scacco al re</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23534764-house-of-cards-2</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Fazi</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.76</average_rating>
+  <ratings_count>1775</ratings_count>
+  <description>Dopo aver ordito la scalata al potere, il nuovo primo ministro Francis Urquhart, ormai noto come FU, sfida il re in persona e minaccia l’intoccabile ruolo della monarchia inglese. &lt;br /&gt;Da poco in carica come lo stesso primo ministro, il giovane sovrano contesta il programma di governo e la divergenza di pensiero presto scivola in ostilità dichiarata. Il terreno di scontro è ampio, e la battaglia si combatte a suon di sondaggi d’opinione truccati, prime pagine di quotidiani manipolate, scandali sessuali e calcolate strategie di rischio: Francis Urquhart ha deciso di distruggere non solo l’immagine della Corona, ma del re in persona. Se per il cinico architetto del potere non è ammissibile l’interferenza della casa reale nell’attività politica, dall’altra parte si disapprovano le scelte nel campo delle politiche sociali, che sembrano aver acuito i problemi di alcune aree metropolitane. Il conflitto presto si alza d’intensità e Urquhart decide di andare a nuove elezioni. Durante l’arena elettorale entra in scena un personaggio chiave: un consigliere politico, impersonato da una bella donna, impeccabile e brillante, Sally Quine, con la quale nascerà una relazione. Con lo scorrere degli eventi le minacce alla casa reale diventano sempre più pericolose e il primo ministro si spinge lungo un crinale vertiginoso, da cui scendere costituisce un’impresa ad altissimo rischio. E dunque esiste là fuori qualcosa o qualcuno che possa sfuggire al controllo di Francis Urquhart? &lt;br /&gt;Il secondo volume della trilogia House of Cards è una nuova corsa a perdifiato lungo una trama ordita con la consueta maestria da Lord Michael Dobbs, maestro dell’intrigo politico, conoscitore dei recessi più segreti del potere e creatore di un indimenticabile personaggio letterario, FU, il più abile seduttore politico che nessuno vorrebbe mai avere come amico.</description>
+<authors>
+<author>
+<id>66749</id>
+<name>Michael Dobbs</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1287830228p5/66749.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1287830228p2/66749.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/66749.Michael_Dobbs]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>14779</ratings_count>
+<text_reviews_count>1255</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>3050089</id>
+  <uri>kca://work/amzn1.gr.work.v1.IRpKHz70Js0VlnKPXrlhPQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Wed Oct 03 10:55:41 -0700 2018</started_at>
+  <read_at>Tue Oct 23 13:40:18 -0700 2018</read_at>
+  <date_added>Sun Sep 30 11:10:48 -0700 2018</date_added>
+  <date_updated>Tue Oct 23 13:40:18 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2547256755]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2547256755]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2425068906</id>
+    <book>
+  <id type="integer">37903770</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4707</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.aEZknmOMH49f3MnU0HmJjQ</uri>
+  <title>Norse Mythology</title>
+  <title_without_series>Norse Mythology</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516128292l/37903770._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516128292l/37903770._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/37903770-norse-mythology</link>
+  <num_pages>301</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>W. W. Norton &amp; Company</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>167817</ratings_count>
+  <description>Neil Gaiman, long inspired by ancient mythology in creating the fantastical realms of his fiction, presents a bravura rendition of the Norse gods and their world from their origin though their upheaval in Ragnarok. &lt;br /&gt;&lt;br /&gt;In &lt;em&gt;Norse Mythology&lt;/em&gt;, Gaiman stays true to the myths in envisioning the major Norse pantheon: Odin, the highest of the high, wise, daring, and cunning; Thor, Odin’s son, incredibly strong yet not the wisest of gods; and Loki—son of a giant—blood brother to Odin and a trickster and unsurpassable manipulator.&lt;br /&gt;&lt;br /&gt;Gaiman fashions these primeval stories into a novelistic arc that begins with the genesis of the legendary nine worlds and delves into the exploits of deities, dwarfs, and giants. Through Gaiman’s deft and witty prose, these gods emerge with their fiercely competitive natures, their susceptibility to being duped and to duping others, and their tendency to let passion ignite their actions, making these long-ago myths breathe pungent life again.</description>
+<authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p5/1221698.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p2/1221698.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>5542202</ratings_count>
+<text_reviews_count>332897</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>51396954</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZjetaSgZLpRuwbsCvexmjg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Fri Jun 15 12:59:02 -0700 2018</date_added>
+  <date_updated>Fri Jun 15 12:59:35 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2425068906]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2425068906]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2414983954</id>
+    <book>
+  <id type="integer">23308844</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6mKPMN9GgMkycY6TGNwtHw</uri>
+  <title>House of Cards (Francis Urquhart, #1)</title>
+  <title_without_series>House of Cards</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412532017l/23308844._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412532017l/23308844._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/23308844-house-of-cards</link>
+  <num_pages>358</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Fazi</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>5904</ratings_count>
+  <description>&lt;i&gt;House of Cards&lt;/i&gt;, il romanzo più famoso di Michael Dobbs, pubblicato per la prima volta nel 1989, è ancora considerato il thriller politico per eccellenza. Incentrato sulla vita e l'inesauribile ambizione del politico machiavellico Francis Urquhart, il romanzo fu già adattato negli anni Novanta dalla BBC ricevendo un enorme successo di pubblico e critica. Ora, nella più recente versione USA il Parlamento inglese viene sostituito dal Campidoglio americano per narrare la storia trasversale e universale della corruzione attraverso le vicende della politica statunitense. Nel romanzo, invece, la storia è ambientata in Inghilterra, durante i mesi immediatamente successivi all’ennesima rielezione del primo ministro già in carica. Francis Urquhart, il Chief Whip (il capo di Gabinetto) del governo in carica, è ben deciso ad utilizzare tutte le armi in suo potere per rovesciare il governo ed assumere la carica di primo ministro. Grazie ai suoi lunghi anni di lavoro dietro alle quinte è infatti riuscito a raccogliere un’enorme mole di materiale compromettente su molti dei suoi colleghi e riesce quindi, tramite ricatti ed intimidazioni di vario genere, a crearsi una rete di collaboratori che lo aiuterà inconsapevolmente a portare a termine il suo disegno. Mentre Urquhart riesce a rinsaldare la sua immagine di figura solida e credibile agli occhi del pubblico, i suoi collaboratori segreti fanno girare gli ingranaggi che porteranno Urquhart non solo alla candidatura, ma ad essere ritenuto l’unico candidato eleggibile fra tanti.</description>
+<authors>
+<author>
+<id>66749</id>
+<name>Michael Dobbs</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1287830228p5/66749.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1287830228p2/66749.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/66749.Michael_Dobbs]]></link>
+<average_rating>3.88</average_rating>
+<ratings_count>14779</ratings_count>
+<text_reviews_count>1255</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>2683011</id>
+  <uri>kca://work/amzn1.gr.work.v1.mzcncPSKCQvxt5FX8Oxl2g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Sep 03 13:01:03 -0700 2018</started_at>
+  <read_at>Fri Sep 28 14:58:50 -0700 2018</read_at>
+  <date_added>Tue Jun 05 23:38:48 -0700 2018</date_added>
+  <date_updated>Fri Sep 28 14:58:50 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2414983954]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2414983954]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2403227537</id>
+    <book>
+  <id type="integer">34091173</id>
+  <isbn>0062468138</isbn>
+  <isbn13>9780062468130</isbn13>
+  <text_reviews_count type="integer">387</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.MuVXpxOx39lbAW1kG4IXBA</uri>
+  <title>What Does This Button Do?: An Autobiography</title>
+  <title_without_series>What Does This Button Do?: An Autobiography</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505333305l/34091173._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505333305l/34091173._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34091173-what-does-this-button-do</link>
+  <num_pages>384</num_pages>
+  <format>Hardcover</format>
+  <edition_information/>
+  <publisher>Dey Street Books </publisher>
+  <publication_day>31</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>10</publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>3603</ratings_count>
+  <description>&lt;strong&gt;&lt;em&gt;NEW YORK TIMES&lt;/em&gt; BESTSELLER&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;A long-awaited memoir from the larger-than-life, multifaceted lead vocalist of Iron Maiden, one of the most successful, influential and enduring rock bands ever.&lt;br /&gt;&lt;br /&gt;Pioneers of Britain’s nascent Rock &amp;amp; Metal scene back in the late 1970s, Iron Maiden smashed its way to the top, thanks in no small part to the high-octane performances, operatic singing style, and stage presence of its second, but twice-longest-serving, lead singer, Bruce Dickinson. As Iron Maiden’s front man—first from 1981 to 1993, and then from 1999 to the present—Dickinson has been, and remains, a man of legend.&lt;br /&gt;&lt;br /&gt;But OTT front man is just one of the many hats Bruce wears. In addition to being one of the world’s most storied and well-respected singers and songwriters, he is an airline captain, aviation entrepreneur, motivational speaker, beer brewer, novelist, radio presenter, and film scriptwriter. He has also competed as a world-class level fencer. Often credited as a genuine polymath Bruce, in his own words (and handwritten script in the first instance!), sets forth many personal observations guaranteed to inspire curious souls and hard-core fans alike.&lt;br /&gt;&lt;br /&gt;Dickinson turns his unbridled creativity, passion, and anarchic humour to reveal some fascinating stories from his life, including his thirty years with Maiden, his solo career, his childhood within the eccentric British school system, his early bands, fatherhood and family, and his recent battle with cancer.&lt;br /&gt;&lt;br /&gt;Bold, honest, intelligent and very funny, his memoir is an up-close look inside the life, heart, and mind of one of the most unique and interesting men in the world; a true icon of rock.</description>
+<authors>
+<author>
+<id>474010</id>
+<name>Bruce Dickinson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1219943505p5/474010.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1219943505p2/474010.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/474010.Bruce_Dickinson]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>3835</ratings_count>
+<text_reviews_count>556</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>55105539</id>
+  <uri>kca://work/amzn1.gr.work.v1.D79ezzqYAaKr9S-XGBXJDg</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat May 26 03:16:04 -0700 2018</started_at>
+  <read_at>Tue Sep 18 09:47:32 -0700 2018</read_at>
+  <date_added>Sat May 26 03:16:04 -0700 2018</date_added>
+  <date_updated>Tue Sep 18 09:47:32 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2403227537]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2403227537]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2394583883</id>
+    <book>
+  <id type="integer">12158002</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">224</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.oa5PVGj45RloopM-ObBUqw</uri>
+  <title>The Night Circus</title>
+  <title_without_series>The Night Circus</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327953805l/12158002._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327953805l/12158002._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/12158002-the-night-circus</link>
+  <num_pages>401</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day>15</publication_day>
+  <publication_year>2011</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>4.04</average_rating>
+  <ratings_count>599657</ratings_count>
+  <description>The circus arrives without warning. No announcements precede it. It is simply there, when yesterday it was not. Within the black-and-white striped canvas tents is an utterly unique experience full of breathtaking amazements. It is called Le Cirque des Rêves, and it is only open at night. &lt;br /&gt;&lt;br /&gt;But behind the scenes, a fierce competition is underway - a duel between two young magicians, Celia and Marco, who have been trained since childhood expressly for this purpose by their mercurial instructors. Unbeknownst to them, this is a game in which only one can be left standing, and the circus is but the stage for a remarkable battle of imagination and will. Despite themselves, however, Celia and Marco tumble headfirst into love - a deep, magical love that makes the lights flicker and the room grow warm whenever they so much as brush hands. &lt;br /&gt;&lt;br /&gt;True love or not, the game must play out, and the fates of everyone involved, from the cast of extraordinary circus per­formers to the patrons, hang in the balance, suspended as precariously as the daring acrobats overhead. &lt;br /&gt;&lt;br /&gt;Written in rich, seductive prose, this spell-casting novel is a feast for the senses and the heart.</description>
+<authors>
+<author>
+<id>4370565</id>
+<name>Erin Morgenstern</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1552589582p5/4370565.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1552589582p2/4370565.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4370565.Erin_Morgenstern]]></link>
+<average_rating>4.04</average_rating>
+<ratings_count>602770</ratings_count>
+<text_reviews_count>66969</text_reviews_count>
+</author>
+</authors>
+  <published>2011</published>
+<work>  <id>14245059</id>
+  <uri>kca://work/amzn1.gr.work.v1.IzoeETdoCBWf_cxRZU_R_Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu Oct 11 22:25:11 -0700 2018</started_at>
+  <read_at>Tue Dec 04 10:16:49 -0800 2018</read_at>
+  <date_added>Thu May 17 12:14:40 -0700 2018</date_added>
+  <date_updated>Tue Dec 04 10:16:49 -0800 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2394583883]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2394583883]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2390343856</id>
+    <book>
+  <id type="integer">39673345</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">330</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.XlezDWp4BGudK3RRlvccgw</uri>
+  <title>Norse Mythology</title>
+  <title_without_series>Norse Mythology</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522273513l/39673345._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522273513l/39673345._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/39673345-norse-mythology</link>
+  <num_pages>304</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>W. W. Norton &amp; Company</publisher>
+  <publication_day>27</publication_day>
+  <publication_year>2018</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.09</average_rating>
+  <ratings_count>167817</ratings_count>
+  <description>&lt;p&gt;Introducing an instant classic—master storyteller Neil Gaiman presents a dazzling version of the great Norse myths.&lt;/p&gt;Neil Gaiman has long been inspired by ancient mythology in creating the fantastical realms of his fiction. Now he turns his attention back to the source, presenting a bravura rendition of the great northern tales. In &lt;em&gt;Norse Mythology&lt;/em&gt;, Gaiman fashions primeval stories into a novelistic arc that begins with the genesis of the legendary nine worlds; delves into the exploits of the deities, dwarves, and giants; and culminates in Ragnarok, the twilight of the gods and the rebirth of a new time and people. Gaiman stays true to the myths while vividly reincarnating Odin, the highest of the high, wise, daring, and cunning; Thor, Odin’s son, incredibly strong yet not the wisest of gods; and Loki, the son of giants, a trickster and unsurpassable manipulator. From Gaiman’s deft and witty prose emerges the gods with their fiercely competitive natures, their susceptibility to being duped and to dupe others, and their tendency to let passion ignite their actions, making these long-ago myths breathe pungent life again.&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Librarian's note: See alternate cover edition of ASIN B01HQA6EOC &lt;a href="https://www.goodreads.com/book/show/30831912-norse-mythology" rel="nofollow"&gt;here&lt;/a&gt;.&lt;/i&gt;</description>
+<authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p5/1221698.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p2/1221698.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>5542202</ratings_count>
+<text_reviews_count>332897</text_reviews_count>
+</author>
+</authors>
+  <published>2018</published>
+<work>  <id>51396954</id>
+  <uri>kca://work/amzn1.gr.work.v1.ZjetaSgZLpRuwbsCvexmjg</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun May 13 08:29:09 -0700 2018</date_added>
+  <date_updated>Tue Aug 14 13:07:26 -0700 2018</date_updated>
+  <read_count>0</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2390343856]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2390343856]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2390326758</id>
+    <book>
+  <id type="integer">19407364</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4pCR_nCVD2ANRERoDxcm-A</uri>
+  <title>Project Management Using Microsoft Project 2013:  A Training and Reference Guide for Project Managers Using Standard, Professional, Server, Web Application and Project Online</title>
+  <title_without_series>Project Management Using Microsoft Project 2013:  A Training and Reference Guide for Project Managers Using Standard, Professional, Server, Web Application and Project Online</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19407364-project-management-using-microsoft-project-2013</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>4</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>7300280</id>
+<name>Gus Cicala</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7300280.Gus_Cicala]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>11</ratings_count>
+<text_reviews_count>0</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>27480238</id>
+  <uri>kca://work/amzn1.gr.work.v1.2tsbC8u7RYSUn6mwwVbk3Q</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun May 13 08:05:13 -0700 2018</date_added>
+  <date_updated>Sun May 13 08:47:56 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2390326758]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2390326758]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2390322688</id>
+    <book>
+  <id type="integer">35511450</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ajW23y5iurCvfpIlTzg0og</uri>
+  <title>CRM For Dummies</title>
+  <title_without_series>CRM For Dummies</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35511450-crm-for-dummies</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.38</average_rating>
+  <ratings_count>21</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>16325223</id>
+<name>Lars Helgeson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1501160500p5/16325223.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1501160500p2/16325223.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/16325223.Lars_Helgeson]]></link>
+<average_rating>4.38</average_rating>
+<ratings_count>21</ratings_count>
+<text_reviews_count>3</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>56922486</id>
+  <uri>kca://work/amzn1.gr.work.v1.csugHkfXvsAncSyWbH7OFQ</uri>
+</work></book>
+
+
+  <rating>0</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun May 13 07:59:42 -0700 2018</date_added>
+  <date_updated>Wed Oct 03 05:07:15 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2390322688]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2390322688]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2385613659</id>
+    <book>
+  <id type="integer">38886181</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">241</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7N7vIt2ktJbqptW-f89RYw</uri>
+  <title>Neverwhere (London Below, #1)</title>
+  <title_without_series>Neverwhere</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525426866l/38886181._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525426866l/38886181._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/38886181-neverwhere</link>
+  <num_pages>400</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>William Morrow</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2009</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>4.17</average_rating>
+  <ratings_count>390266</ratings_count>
+  <description>Under the streets of London there's a place most people could never even dream of. A city of monsters and saints, murderers and angels, knights in armour and pale girls in black velvet. This is the city of the people who have fallen between the cracks.&lt;br /&gt;&lt;br /&gt;Richard Mayhew, a young businessman, is going to find out more than enough about this other London. A single act of kindness catapults him out of his workday existence and into a world that is at once eerily familiar and utterly bizarre. And a strange destiny awaits him down here, beneath his native city: Neverwhere.</description>
+<authors>
+<author>
+<id>1221698</id>
+<name>Neil Gaiman</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p5/1221698.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1234150163p2/1221698.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1221698.Neil_Gaiman]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>5542202</ratings_count>
+<text_reviews_count>332897</text_reviews_count>
+</author>
+</authors>
+  <published>2009</published>
+<work>  <id>16534</id>
+  <uri>kca://work/amzn1.gr.work.v1.BDISHjs24Q5pevic84Muyw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Dec 04 10:20:30 -0800 2018</started_at>
+  <read_at>Mon Jan 07 23:35:44 -0800 2019</read_at>
+  <date_added>Tue May 08 08:35:02 -0700 2018</date_added>
+  <date_updated>Mon Jan 07 23:35:53 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2385613659]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2385613659]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2382747595</id>
+    <book>
+  <id type="integer">19398490</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2815</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.NZqIEptSTRu6CLGUhZjHWw</uri>
+  <title>All the Light We Cannot See</title>
+  <title_without_series>All the Light We Cannot See</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440903901l/19398490._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440903901l/19398490._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19398490-all-the-light-we-cannot-see</link>
+  <num_pages>531</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Scribner</publisher>
+  <publication_day>6</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>5</publication_month>
+  <average_rating>4.33</average_rating>
+  <ratings_count>857803</ratings_count>
+  <description>&lt;b&gt;Winner of the Pulitzer Prize, a &lt;i&gt;New York Times Book Review&lt;/i&gt; Top Ten Book, National Book Award finalist, more than two and a half years on the &lt;i&gt;New York Times&lt;/i&gt; bestseller list&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;From the highly acclaimed, multiple award-winning Anthony Doerr, the stunningly beautiful instant &lt;i&gt;New York Times&lt;/i&gt; bestseller about a blind French girl and a German boy whose paths collide in occupied France as both try to survive the devastation of World War II.&lt;br /&gt;&lt;br /&gt;Marie-Laure lives in Paris near the Museum of Natural History, where her father works. When she is twelve, the Nazis occupy Paris and father and daughter flee to the walled citadel of Saint-Malo, where Marie-Laure’s reclusive great uncle lives in a tall house by the sea. With them they carry what might be the museum’s most valuable and dangerous jewel.&lt;br /&gt;&lt;br /&gt;In a mining town in Germany, Werner Pfennig, an orphan, grows up with his younger sister, enchanted by a crude radio they find that brings them news and stories from places they have never seen or imagined. Werner becomes an expert at building and fixing these crucial new instruments and is enlisted to use his talent to track down the resistance. Deftly interweaving the lives of Marie-Laure and Werner, Doerr illuminates the ways, against all odds, people try to be good to one another.&lt;br /&gt;&lt;br /&gt;Doerr’s “stunning sense of physical detail and gorgeous metaphors” (&lt;i&gt;San Francisco Chronicle&lt;/i&gt;) are dazzling. Ten years in the writing, a National Book Award finalist, &lt;i&gt;All the Light We Cannot See&lt;/i&gt; is a magnificent, deeply moving novel from a writer “whose sentences never fail to thrill” (&lt;i&gt;Los Angeles Times&lt;/i&gt;).</description>
+<authors>
+<author>
+<id>28186</id>
+<name>Anthony Doerr</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417812584p5/28186.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1417812584p2/28186.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/28186.Anthony_Doerr]]></link>
+<average_rating>4.31</average_rating>
+<ratings_count>893391</ratings_count>
+<text_reviews_count>73918</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>25491300</id>
+  <uri>kca://work/amzn1.gr.work.v1.RE5swba2G5t7ZuQ6dNCGEQ</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Jun 30 12:48:50 -0700 2018</started_at>
+  <read_at>Sat Jun 30 12:52:02 -0700 2018</read_at>
+  <date_added>Sat May 05 11:33:15 -0700 2018</date_added>
+  <date_updated>Mon Aug 06 12:21:16 -0700 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2382747595]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2382747595]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2382745021</id>
+    <book>
+  <id type="integer">18996729</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">5</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4Jr4NLYjxYWZX0JUWQiEPQ</uri>
+  <title>Tokyo Underworld: The fast times and hard life of an American Gangster in Japan</title>
+  <title_without_series>Tokyo Underworld: The fast times and hard life of an American Gangster in Japan</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18996729-tokyo-underworld</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>654</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>18524</id>
+<name>Robert Whiting</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415168808p5/18524.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1415168808p2/18524.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/18524.Robert_Whiting]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>1847</ratings_count>
+<text_reviews_count>152</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>33138</id>
+  <uri>kca://work/amzn1.gr.work.v1.FMbq7qG0CoWcLK5jkFY25w</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Feb 03 02:51:16 -0800 2019</started_at>
+  <read_at>Tue Apr 02 12:46:44 -0700 2019</read_at>
+  <date_added>Sat May 05 11:29:44 -0700 2018</date_added>
+  <date_updated>Tue Apr 02 12:46:44 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+      <![CDATA[There's nothing I would like to add to what I've read in the other comments here: a great book, brillianty borderlining between history and biography. I'm both passionate about history and a Japan lover, so this book was a must for me and I really, really enjoyed it. 4.5 stars, Highly recommended...]]>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2382745021]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2382745021]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2382742824</id>
+    <book>
+  <id type="integer">31116361</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">105</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1._uHfHVfbeeEQPMvTnATUAg</uri>
+  <title>Tokyo Black (Thomas Caine #1)</title>
+  <title_without_series>Tokyo Black</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468957452l/31116361._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468957452l/31116361._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/31116361-tokyo-black</link>
+  <num_pages></num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Andrew Warren Books</publisher>
+  <publication_day>18</publication_day>
+  <publication_year>2016</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.13</average_rating>
+  <ratings_count>1521</ratings_count>
+  <description>A BURNED SPY MUST STOP A YAKUZA CULT FROM IGNITING GLOBAL CONFLICT!&lt;br /&gt;&lt;br /&gt;Thomas Caine lives in the shadows. Betrayed and left for dead, he has put his past as a CIA assassin behind him. Now, he makes a meager living as a smuggler, and hides from his dark past in the seedy underworld of Pattaya, Thailand.&lt;br /&gt;&lt;br /&gt;But when local gangsters set him up for a crime he didn’t commit, he finds himself back in the clutches of the CIA. His old masters make him an offer he can’t refuse: rot in a hellish Thai prison, or accept a dangerous mission in the neon-lit metropolis of Tokyo, Japan.&lt;br /&gt;&lt;br /&gt;As he hunts the city for a CIA asset’s missing daughter, he quickly learns there is more to this assignment than meets the eye. Yakuza thugs, Japan’s Security Bureau, and even rogue CIA operatives all stand between him and his objective. &lt;br /&gt;&lt;br /&gt;And looming in the shadows is Tokyo Black, a right wing terrorist cult whose members demonstrate their loyalty by burning their yakuza tattoos from their skin. This monstrous cabal is chasing the same girl as Caine, leaving a trail of death and destruction in their wake.&lt;br /&gt;&lt;br /&gt;Can Thomas Caine defeat this fanatical enemy, before they ignite an international conflict that could kill thousands? &lt;br /&gt;&lt;br /&gt;Tokyo Black is a high-octane thriller that takes readers on an action-packed ride filled with gun battles, car chases, and fascinating characters and locations. Fans of Jason Bourne and Jack Reacher will love Thomas Caine! Reviews for the first book in the series say “A burning page turner! Swift and intense! If you like ACTION… Caine and Warren are your team!”</description>
+<authors>
+<author>
+<id>15215317</id>
+<name>Andrew   Warren</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1461705663p5/15215317.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1461705663p2/15215317.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15215317.Andrew_Warren]]></link>
+<average_rating>4.18</average_rating>
+<ratings_count>4221</ratings_count>
+<text_reviews_count>419</text_reviews_count>
+</author>
+</authors>
+  <published>2016</published>
+<work>  <id>51721460</id>
+  <uri>kca://work/amzn1.gr.work.v1.Di2E2XxB2bWSkPfUMxdt0g</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat Aug 25 00:00:00 -0700 2018</started_at>
+  <read_at>Mon Sep 03 12:59:42 -0700 2018</read_at>
+  <date_added>Sat May 05 11:26:35 -0700 2018</date_added>
+  <date_updated>Mon Sep 03 12:59:42 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2382742824]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2382742824]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2382730474</id>
+    <book>
+  <id type="integer">40013898</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Rkc3t0J1lwBPbUkedg-X3g</uri>
+  <title>Volevamo andare lontano</title>
+  <title_without_series>Volevamo andare lontano</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/40013898-volevamo-andare-lontano</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.21</average_rating>
+  <ratings_count>341</ratings_count>
+  <description>&lt;i&gt;«Non siamo soli a scrivere il libro della nostra vita.&lt;/i&gt;»&lt;br /&gt;&lt;br /&gt; Milano, 2014. Julia, giovane e brillante stilista tedesca, sta per affrontare la sfilata che potrebbe finalmente coronare i suoi sogni. Ma, proprio mentre guarda al futuro, il passato torna a cercarla nei panni di uno sconosciuto che sostiene di essere suo nonno. Dice di essere il padre di quel padre che lei ha sempre creduto morto, e le mostra la foto di una ragazza che potrebbe essere Julia stessa, tanto le somiglia, se solo quel ritratto non fosse stato scattato sessant'anni prima.&lt;br /&gt; Milano, 1954. Vincent, promettente ingegnere tedesco, arriva da Monaco con il compito di testare una piccola automobile italiana che potrebbe risollevare le sorti della BMW. È così che conosce Giulietta, incaricata di fargli da interprete, e se ne innamora. Lei è una ragazza piena di vita e di sogni - ama disegnare e cucire vestiti - ma è frenata dalla sua famiglia, emigrata dalla Sicilia, e da una promessa che già la lega a un altro uomo. Si ritroverà a scegliere tra amore e dovere, libertà e tradizione, e quella scelta segnerà il destino di tutte le generazioni a venire…&lt;br /&gt; Fino a Julia. Proprio a lei, oggi, viene chiesto da quel perfetto estraneo di ricucire uno strappo doloroso, di ricomporre una famiglia che non ha mai conosciuto. Ma che ha sempre desiderato avere. Se accetta, l'attende un viaggio alla ricerca della verità, un tuffo nel passato alla scoperta delle sue radici. L'attendono bugie e segreti che potrebbero ferirla: il prezzo da pagare per riavere un mondo di affetti che le è sempre mancato. L'attende la scoperta emozionante di un amore incancellabile a cui va resa giustizia e di una donna luminosa che, all'insaputa di Julia, vive da sempre dentro di lei e dentro i suoi sogni.</description>
+<authors>
+<author>
+<id>4697044</id>
+<name>Daniel Speck</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4697044.Daniel_Speck]]></link>
+<average_rating>4.14</average_rating>
+<ratings_count>432</ratings_count>
+<text_reviews_count>63</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>51596819</id>
+  <uri>kca://work/amzn1.gr.work.v1.NhzawXGyhZUlYOFyCB5_Ng</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Aug 28 11:09:17 -0700 2018</started_at>
+  <read_at>Wed Oct 10 12:10:55 -0700 2018</read_at>
+  <date_added>Sat May 05 11:10:07 -0700 2018</date_added>
+  <date_updated>Wed Oct 10 12:10:55 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2382730474]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2382730474]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2382729308</id>
+    <book>
+  <id type="integer">34319505</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.cJaDGOInUvkxrd8VwPyT2A</uri>
+  <title>La bocca dell'inferno</title>
+  <title_without_series>La bocca dell'inferno</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487237423l/34319505._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487237423l/34319505._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34319505-la-bocca-dell-inferno</link>
+  <num_pages>311</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Nord</publisher>
+  <publication_day>9</publication_day>
+  <publication_year>2017</publication_year>
+  <publication_month>2</publication_month>
+  <average_rating>3.55</average_rating>
+  <ratings_count>587</ratings_count>
+  <description>Russia, febbraio 1944. Sono ore che la colonna di soldati sovietici marcia verso il fronte. All'improvviso, un boato squarcia il silenzio e, nel cielo, compaiono dei paracadute cui sono attaccati piccoli barili di metallo. A un centinaio di metri da terra, i barili scoppiano, rilasciando nell’aria una sostanza giallastra. Pochi secondi dopo, tutti i soldati iniziano a sanguinare da naso, bocca e orecchie. Prima di morire, un ufficiale riesce a vedere l'immagine disegnata su uno dei paracadute: fauci nere che racchiudono una svastica bianca in campo rosso.&lt;br /&gt;Brasile, un mese prima. È un enigma inquietante: un sottomarino giapponese abbandonato nel bel mezzo della foresta amazzonica, a centinaia di chilometri dalla costa. L'equipaggio è scomparso, così come il carico che era contenuto nella stiva. Secondo il maggiore Patrick Hendry, il sottomarino trasportava un velivolo, usato poi dai giapponesi per una missione top secret. Per far luce sul mistero, Hendry ha già mandato una squadra di ranger dell’esercito, che però non è mai tornata. E adesso tutte le sue speranze sono riposte nel capitano R.J. MacCready, zoologo di fama mondiale. Perché solo lui ha il coraggio e le competenze necessarie per seguire le tracce dei giapponesi e inoltrarsi nella Bocca dell'Inferno, un lungo canyon sull'altopiano del Mato Grosso da cui nessuno è mai uscito vivo. Costantemente avvolta nella nebbia, la Bocca dell'Inferno è una giungla impenetrabile, difesa dagli spietati guerrieri xavante. Tuttavia ben presto MacCready si renderà conto che in quel luogo si cela un segreto molto più oscuro e pericoloso. Un segreto che potrebbe rovesciare le sorti della guerra…</description>
+<authors>
+<author>
+<id>1375485</id>
+<name>Bill Schutt</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1456026363p5/1375485.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1456026363p2/1375485.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1375485.Bill_Schutt]]></link>
+<average_rating>3.81</average_rating>
+<ratings_count>5080</ratings_count>
+<text_reviews_count>897</text_reviews_count>
+</author>
+</authors>
+  <published>2017</published>
+<work>  <id>57455511</id>
+  <uri>kca://work/amzn1.gr.work.v1.eUjP4WQApu5oN9vADm84xA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Aug 06 12:19:01 -0700 2018</started_at>
+  <read_at>Tue Aug 14 12:36:45 -0700 2018</read_at>
+  <date_added>Sat May 05 11:08:44 -0700 2018</date_added>
+  <date_updated>Tue Aug 14 12:36:45 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2382729308]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2382729308]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2382322272</id>
+    <book>
+  <id type="integer">36284143</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Tkx4dHafHnPtN7ZdjmIkEg</uri>
+  <title>Dove ti ho perso</title>
+  <title_without_series>Dove ti ho perso</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/36284143-dove-ti-ho-perso</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Rizzoli</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.82</average_rating>
+  <ratings_count>79256</ratings_count>
+  <description>Anthony Peardew colleziona e custodisce oggetti smarriti. Lo fa da quarant'anni, da quando ha perso il ciondolo, regalo di Therese, la fidanzata, proprio nel giorno in cui la ragazza è morta in un incidente. Stravolto dalla perdita, Anthony negli anni ha cercato conforto in quelle piccole cose trovate per strada o in un parco, sfuggite da una tasca o dimenticate al tavolo di un caffè o sul sedile di un treno. Pensava che, se avesse riconsegnato ogni oggetto al legittimo proprietario, qualcuno un giorno avrebbe bussato per restituirgli il suo. Ora, al tramonto della sua esistenza, vuole cedere questa missione alla sua assistente, Laura, lasciandole anche la bella villa in cui abita con tutto quello che contiene. Quello stesso giorno di quarant'anni fa, Eunice iniziava a lavorare come segretaria di redazione in una piccola casa editrice e per la fretta e l'emozione si era scontrata con Anthony. In apparenza un imprevisto da niente lungo i sentieri delle loro vite. Ma di ogni cosa, di ogni incontro, resta una traccia. Sono particelle in sospensione sopra i nostri giorni, che aspettano di posarsi. Perché tutto torni al proprio posto, adesso, Laura ed Eunice si devono trovare.Leggere Dove ti ho perso è rinfrescarsi all'ombra di un racconto caldo. Tante piccole storie ne punteggiano l'anima, a comporre un romanzo confortante, ironico, dove l'amore attraversa ogni essere vivente, ogni esistenza, in maniera lieve eppure definitiva. Una storia autentica e delicata sul potere delle coincidenze e sulla fatalità dei piccoli eventi, quelli che sembrano essere senza importanza.</description>
+<authors>
+<author>
+<id>15305372</id>
+<name>Ruth Hogan</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1548775650p5/15305372.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1548775650p2/15305372.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/15305372.Ruth_Hogan]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>86956</ratings_count>
+<text_reviews_count>7817</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>50872874</id>
+  <uri>kca://work/amzn1.gr.work.v1.zbSkx4eiDmJaDMEEWKTYuw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>1</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue Nov 27 12:23:51 -0800 2018</started_at>
+  <read_at>Thu Jan 17 12:09:00 -0800 2019</read_at>
+  <date_added>Fri May 04 22:50:13 -0700 2018</date_added>
+  <date_updated>Thu Jan 17 12:05:55 -0800 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2382322272]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2382322272]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378345122</id>
+    <book>
+  <id type="integer">55407</id>
+  <isbn>0330392883</isbn>
+  <isbn13>9780330392884</isbn13>
+  <text_reviews_count type="integer">74</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.bjClXfxYTvvd2L6nActTPA</uri>
+  <title>The Korean War</title>
+  <title_without_series>The Korean War</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/55407.The_Korean_War</link>
+  <num_pages>427</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Pan Books</publisher>
+  <publication_day>7</publication_day>
+  <publication_year>2000</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>1667</ratings_count>
+  <description>It was the first war we could not win. At no other time since World War II have two superpowers met in battle. Now Max Hastings, preeminent military historian, takes us back to the bloody, bitter, struggle to restore South Korean independence after the Communist invasion of June 1950. Using personal accounts from interviews with more than 200 vets - including the Chinese - Hasting follows real officers and soldiers through the battles. He brilliantly captures the Cold War crisis at home - the strategies and politics of Truman, Acheson, Marshall, MacArthur, Ridgeway, and Bradley - and shows what we should have learned in the war that was the prelude to Vietnam.</description>
+<authors>
+<author>
+<id>31233</id>
+<name>Max Hastings</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1269308046p5/31233.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1269308046p2/31233.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/31233.Max_Hastings]]></link>
+<average_rating>4.17</average_rating>
+<ratings_count>34995</ratings_count>
+<text_reviews_count>2446</text_reviews_count>
+</author>
+</authors>
+  <published>2000</published>
+<work>  <id>2252480</id>
+  <uri>kca://work/amzn1.gr.work.v1.VqaK0jOk9cXOWgV2rO1mBw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 01 02:21:54 -0700 2018</date_added>
+  <date_updated>Tue May 01 02:22:47 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378345122]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378345122]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378344887</id>
+    <book>
+  <id type="integer">220608</id>
+  <isbn>1400079195</isbn>
+  <isbn13>9781400079193</isbn13>
+  <text_reviews_count type="integer">48</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.4rHerXQDVEmzWouPLvgWbA</uri>
+  <title>Alexander the Great</title>
+  <title_without_series>Alexander the Great</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320403560l/220608._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320403560l/220608._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/220608.Alexander_the_Great</link>
+  <num_pages>368</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>11</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1000</ratings_count>
+  <description>Paul Cartledge, one of the world’s foremost scholars of ancient Greece, illuminates the brief but iconic life of Alexander (356-323 BC), king of Macedon, conqueror of the Persian Empire, and founder of a new world order. &lt;br /&gt;&lt;br /&gt;Alexander's legacy has had a major impact on military tacticians, scholars, statesmen, adventurers, authors, and filmmakers. Cartledge brilliantly evokes Alexander's remarkable political and military accomplishments, cutting through the myths to show why he was such a great leader. He explores our endless fascination with Alexander and gives us insight into his charismatic leadership, his capacity for brutality, and his sophisticated grasp of international politics.&lt;b&gt; Alexander the Great&lt;/b&gt; is an engaging portrait of a fascinating man, and a welcome balance to the myths, legends, and often skewed history that have obscured the real Alexander.</description>
+<authors>
+<author>
+<id>554728</id>
+<name>Paul Anthony Cartledge</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1263440181p5/554728.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1263440181p2/554728.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/554728.Paul_Anthony_Cartledge]]></link>
+<average_rating>3.80</average_rating>
+<ratings_count>5558</ratings_count>
+<text_reviews_count>475</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>3199195</id>
+  <uri>kca://work/amzn1.gr.work.v1.1NE588L2d_uxasN-WInhnw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 01 02:21:26 -0700 2018</date_added>
+  <date_updated>Tue May 01 02:22:52 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378344887]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378344887]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378344342</id>
+    <book>
+  <id type="integer">237491</id>
+  <isbn>0553816586</isbn>
+  <isbn13>9780553816587</isbn13>
+  <text_reviews_count type="integer">77</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.SHpGnWWsTb88SfTi4zFPNw</uri>
+  <title>Attila the Hun</title>
+  <title_without_series>Attila the Hun</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320392832l/237491._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320392832l/237491._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/237491.Attila_the_Hun</link>
+  <num_pages>400</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Bantam</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.49</average_rating>
+  <ratings_count>784</ratings_count>
+  <description>The name Attila the Hun has become a byword for barbarism, savagery and violence. His is a truly household name, but what do we really know about the man himself, his position in history and the world in which he lived? This riveting biography reveals the man behind the myth.&lt;br /&gt;&lt;br /&gt;In the years 434-454AD the fate of Europe hung upon the actions of one man, Attila, king of the Huns. The decaying Roman empire still stood astride the Western World, from its twin capitals of Rome and Constantinople, but it was threatened by a new force, the much-feared Barbarian hordes. It was Attila who united the Barbarian tribes into a single, amazingly-effective army. He launched two violent attacks against the eastern and western halves of the Roman empire, attacks which earned him his reputation for mindless devastation, and brought an end to Rome's pre-eminence in Europe.&lt;br /&gt;&lt;br /&gt;Attila was coarse, capricious, arrogant, ruthless and brilliant. An illiterate and predatory tribal chief, he had no interest in administration, but was a wily politician, who, from his base in the grasslands of Hungary, used secretaries and ambassadors to bring him intelligence on his enemies. He was a leader whose unique qualities made him supreme among tribal leaders, but whose weaknesses ensured the collapse of his empire after his death.</description>
+<authors>
+<author>
+<id>31115</id>
+<name>John Man</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/31115.John_Man]]></link>
+<average_rating>3.72</average_rating>
+<ratings_count>7676</ratings_count>
+<text_reviews_count>903</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>230038</id>
+  <uri>kca://work/amzn1.gr.work.v1.1C4OKwxfV26RWyu4ym6NeQ</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 01 02:20:21 -0700 2018</date_added>
+  <date_updated>Tue May 01 02:22:54 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378344342]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378344342]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378344101</id>
+    <book>
+  <id type="integer">1082781</id>
+  <isbn>0349115990</isbn>
+  <isbn13>9780349115993</isbn13>
+  <text_reviews_count type="integer">12</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.5KcUCoWCQf44YzAbbwneBA</uri>
+  <title>Machiavelli: A Man Misunderstood</title>
+  <title_without_series>Machiavelli: A Man Misunderstood</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1082781.Machiavelli</link>
+  <num_pages/>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Abacus Software</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>2005</publication_year>
+  <publication_month>12</publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>57</ratings_count>
+  <description>In this biography of the Florentine political theorist and statesman, the author goes beyond our preconceptions to draw an objective picture of Machiavelli's remarkable life in the context of the Renaissance and its luminaries, such as Borgias and Leonardo da Vinci.</description>
+<authors>
+<author>
+<id>1419</id>
+<name>Michael  White</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1324351728p5/1419.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1324351728p2/1419.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/1419.Michael_White]]></link>
+<average_rating>3.63</average_rating>
+<ratings_count>16349</ratings_count>
+<text_reviews_count>1448</text_reviews_count>
+</author>
+</authors>
+  <published>2005</published>
+<work>  <id>1069539</id>
+  <uri>kca://work/amzn1.gr.work.v1.FCXGz54g_5t6_a9TefibCg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 01 02:19:53 -0700 2018</date_added>
+  <date_updated>Tue May 01 02:22:57 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378344101]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378344101]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378343898</id>
+    <book>
+  <id type="integer">1502276</id>
+  <isbn>0307274802</isbn>
+  <isbn13>9780307274809</isbn13>
+  <text_reviews_count type="integer">54</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.nPhu4uT2rez4EzgoFMd87A</uri>
+  <title>Charlemagne</title>
+  <title_without_series>Charlemagne</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/1502276.Charlemagne</link>
+  <num_pages>256</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Vintage</publisher>
+  <publication_day>12</publication_day>
+  <publication_year>2007</publication_year>
+  <publication_month>6</publication_month>
+  <average_rating>3.54</average_rating>
+  <ratings_count>490</ratings_count>
+  <description>An absorbing biography of the great leader who was the bridge between ancient and modern Europe — the first major study in more than twenty-five years. &lt;br /&gt;&lt;br /&gt;Charlemagne was an extraordinary figure: an ingenious military strategist, a wise but ruthless leader, a cunning politician, and a devout believer who ensured the survival of Christianity in the West. He also believed himself above the rules of the church, siring bastards across Europe, and coldly ordering the execution of 4,500 prisoners. Derek Wilson shows how this complicated, fascinating man married the military might of his army to the spiritual force of the Church in Rome, thereby forging Western Christendom. This is a remarkable portrait of Charlemagne and of the intricate political, religious, and cultural world he dominated.</description>
+<authors>
+<author>
+<id>180977</id>
+<name>Derek Wilson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1217287396p5/180977.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1217287396p2/180977.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/180977.Derek_Wilson]]></link>
+<average_rating>4.12</average_rating>
+<ratings_count>7480</ratings_count>
+<text_reviews_count>372</text_reviews_count>
+</author>
+</authors>
+  <published>2007</published>
+<work>  <id>773926</id>
+  <uri>kca://work/amzn1.gr.work.v1.Upt-WnnOMkHuYcDQ3noH1A</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 01 02:19:26 -0700 2018</date_added>
+  <date_updated>Tue May 01 02:23:00 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378343898]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378343898]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378343734</id>
+    <book>
+  <id type="integer">821563</id>
+  <isbn>0349117179</isbn>
+  <isbn13>9780349117171</isbn13>
+  <text_reviews_count type="integer">61</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Q7zcpHL1H-iGxEePEpu5eQ</uri>
+  <title>Persian Fire: The First World Empire and the Battle for the West</title>
+  <title_without_series>Persian Fire: The First World Empire and the Battle for the West</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421010327l/821563._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421010327l/821563._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/821563.Persian_Fire</link>
+  <num_pages>418</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Abacus</publisher>
+  <publication_day>3</publication_day>
+  <publication_year>2006</publication_year>
+  <publication_month>8</publication_month>
+  <average_rating>4.16</average_rating>
+  <ratings_count>6420</ratings_count>
+  <description>In the fifth century BC, a global superpower was determined to bring truth and order to what it regarded as two terrorist states. The superpower was Persia, incomparably rich in ambition, gold and men. The terrorist states were Athens and Sparta, eccentric cities in a poor and mountainous backwater: Greece. The story of how their citizens took on the most powerful man on the planet is as heart stopping as any episode in history.</description>
+<authors>
+<author>
+<id>52292</id>
+<name>Tom Holland</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1223405186p5/52292.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1223405186p2/52292.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/52292.Tom_Holland]]></link>
+<average_rating>4.07</average_rating>
+<ratings_count>32841</ratings_count>
+<text_reviews_count>2681</text_reviews_count>
+</author>
+</authors>
+  <published>2006</published>
+<work>  <id>100036</id>
+  <uri>kca://work/amzn1.gr.work.v1.WACEDzl3G60rLolFzaOUpQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 01 02:19:04 -0700 2018</date_added>
+  <date_updated>Sun May 13 08:32:31 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378343734]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378343734]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378343487</id>
+    <book>
+  <id type="integer">144189</id>
+  <isbn>0688169783</isbn>
+  <isbn13>9780688169787</isbn13>
+  <text_reviews_count type="integer">79</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.h9STmbaWiYkXbDktv_OfQA</uri>
+  <title>The Days of the French Revolution</title>
+  <title_without_series>The Days of the French Revolution</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407707698l/144189._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407707698l/144189._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/144189.The_Days_of_the_French_Revolution</link>
+  <num_pages>352</num_pages>
+  <format>Paperback</format>
+  <edition_information>Reprint edition</edition_information>
+  <publisher>Harper Perennial</publisher>
+  <publication_day/>
+  <publication_year>2002</publication_year>
+  <publication_month/>
+  <average_rating>3.77</average_rating>
+  <ratings_count>1343</ratings_count>
+  <description>&lt;p&gt;Marie Antoinette. Napoleon. Louis XVI. Robespierre, Danton, Mirabeau, Marat. Madame Roland's salon. A passionate throng of Parisian artisans storming the Bastille. A tide of ebullient social change through wars, riots, beheadings, betrayal, conspiracy, and murder.&lt;/p&gt;&lt;p&gt;CHRISTOPHER HIBBERT was born in Leicester in 1924 and educated at Radley and Oriel College, Oxford. Described by the &lt;i&gt;New Statesman&lt;/i&gt; as "a pearl of biographers," he has established himself as a leading popular historian whose works reflect meticulous scholarship and has written more than twenty-five histories and biographies. Married with three children, he lives in Oxfordshire.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>62108</id>
+<name>Christopher Hibbert</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301332284p5/62108.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1301332284p2/62108.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/62108.Christopher_Hibbert]]></link>
+<average_rating>3.86</average_rating>
+<ratings_count>17193</ratings_count>
+<text_reviews_count>1168</text_reviews_count>
+</author>
+</authors>
+  <published>2002</published>
+<work>  <id>139111</id>
+  <uri>kca://work/amzn1.gr.work.v1.blBYswZyYYsg8LmH4NL77w</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 01 02:18:29 -0700 2018</date_added>
+  <date_updated>Tue May 01 02:23:03 -0700 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378343487]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378343487]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378342965</id>
+    <book>
+  <id type="integer">398687</id>
+  <isbn>0141011211</isbn>
+  <isbn13>9780141011219</isbn13>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.6fTDGDDp-GalwBfJ_JQaLg</uri>
+  <title>A History of Modern Russia: From Nicholas II to Putin</title>
+  <title_without_series>A History of Modern Russia: From Nicholas II to Putin</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/398687.A_History_of_Modern_Russia</link>
+  <num_pages>704</num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.97</average_rating>
+  <ratings_count>516</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>5056734</id>
+<name>Robert Service</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1319386053p5/5056734.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1319386053p2/5056734.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/5056734.Robert_Service]]></link>
+<average_rating>3.83</average_rating>
+<ratings_count>6563</ratings_count>
+<text_reviews_count>521</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>109013</id>
+  <uri>kca://work/amzn1.gr.work.v1.lVr0Dw--qdIeRgkLjR56UQ</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 01 02:17:25 -0700 2018</date_added>
+  <date_updated>Sun May 13 08:32:55 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378342965]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378342965]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378342418</id>
+    <book>
+  <id type="integer">604062</id>
+  <isbn>0192801341</isbn>
+  <isbn13>9780192801340</isbn13>
+  <text_reviews_count type="integer">41</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.MDHAoGdbS7OivO6YIuq6pQ</uri>
+  <title>A History of the Vikings</title>
+  <title_without_series>A History of the Vikings</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316971210l/604062._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1316971210l/604062._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/604062.A_History_of_the_Vikings</link>
+  <num_pages>504</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Oxford University Press, USA</publisher>
+  <publication_day>19</publication_day>
+  <publication_year>2001</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>920</ratings_count>
+  <description>"An utterly splendid book, quite the most brilliantly written, balanced, and explanative general work on the Vikings ever to appear in English or in any language."-- &lt;em&gt;Scandinavian Studies&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;The subject of this book is the Viking realms, Denmark, Sweden, and Norway, their civilization and culture, and their many sided achievements at home and abroad. &lt;br /&gt; A highly readable narrative follows the development of these Northern peoples--the Nordmenn--from their origins and the legendary pre-history to the military triumphs of Canute and the defeat of Harald Hardr�di at Stamford Bridge in 1066, which symbolically ended the Viking age. &lt;br /&gt; The book recounts the Vikings' exploits in war, trade, and colonization: the assault on Western Christendom; the trading and military ventures to the Slav and Muslim worlds and to Byzantium; and the western voyages of discovery and settlement to Greenland, Iceland, and America. &lt;br /&gt; Numerous photographs, maps, and drawings contribute to Gwyn Jones's rounded portrait of Viking civilization and vividly evoke the importance in their culture of religion, art, and seafaring.&lt;br /&gt;</description>
+<authors>
+<author>
+<id>198935</id>
+<name>Gwyn Jones</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/198935.Gwyn_Jones]]></link>
+<average_rating>3.94</average_rating>
+<ratings_count>2201</ratings_count>
+<text_reviews_count>146</text_reviews_count>
+</author>
+</authors>
+  <published>2001</published>
+<work>  <id>590624</id>
+  <uri>kca://work/amzn1.gr.work.v1.gJ8UOgbU53gq4SGsh0xErg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 01 02:16:21 -0700 2018</date_added>
+  <date_updated>Tue May 01 02:23:07 -0700 2018</date_updated>
+  <read_count>2</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378342418]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378342418]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378338642</id>
+    <book>
+  <id type="integer">17289038</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.lkuhbO48kteoVrHXaQycMw</uri>
+  <title>Power Play</title>
+  <title_without_series>Power Play</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359297201l/17289038._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1359297201l/17289038._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17289038-power-play</link>
+  <num_pages>211</num_pages>
+  <format>Kindle Edition</format>
+  <edition_information/>
+  <publisher>Mischief</publisher>
+  <publication_day>22</publication_day>
+  <publication_year>2012</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>3.80</average_rating>
+  <ratings_count>351</ratings_count>
+  <description>&lt;i&gt;Note: Alternate/new cover edition for ASIN# B006PW46NY&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;When Eleanor Harding is abruptly promoted, she loses two very important things: the heated relationship she had with her boss, and control over her own desires. Without a restraining hand on her she finds herself suddenly craving something very different – and the office lackey, Benjamin, seems like just the sort of man to fulfil her needs. He’s eager, lustful and willing to show her all of the things she’s been missing – namely, what it’s like to be the one in charge, for a change. Now all Eleanor has to do is decide… is Ben calling the kinky shots, or is she?</description>
+<authors>
+<author>
+<id>3200938</id>
+<name>Charlotte Stein</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1282074798p5/3200938.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1282074798p2/3200938.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3200938.Charlotte_Stein]]></link>
+<average_rating>3.63</average_rating>
+<ratings_count>28709</ratings_count>
+<text_reviews_count>4249</text_reviews_count>
+</author>
+</authors>
+  <published>2012</published>
+<work>  <id>19132743</id>
+  <uri>kca://work/amzn1.gr.work.v1.XQnhh0l4HBWnoPy3jv3Ybw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 01 02:08:07 -0700 2018</date_added>
+  <date_updated>Sun May 13 08:33:09 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378338642]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378338642]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378338121</id>
+    <book>
+  <id type="integer">29283933</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ndQVcz85QFzonyVq_qd8aw</uri>
+  <title>Excel macro 2016: dalla registrazione della prima macro al linguaggio VBA</title>
+  <title_without_series>Excel macro 2016: dalla registrazione della prima macro al linguaggio VBA</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29283933-excel-macro-2016</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.50</average_rating>
+  <ratings_count>2</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>6555852</id>
+<name>Edimatica</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/6555852.Edimatica]]></link>
+<average_rating>3.14</average_rating>
+<ratings_count>7</ratings_count>
+<text_reviews_count>0</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>49527225</id>
+  <uri>kca://work/amzn1.gr.work.v1.fjbCS71ZpgoE8oscRQxYfA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 01 02:07:00 -0700 2018</date_added>
+  <date_updated>Tue May 01 02:23:24 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378338121]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378338121]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378337031</id>
+    <book>
+  <id type="integer">9719125</id>
+  <isbn>8804547898</isbn>
+  <isbn13>9788804547891</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.zzyDhf_fyZY2vPgdvAgC5w</uri>
+  <title>La serenità</title>
+  <title_without_series>La serenità</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401427334l/9719125._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401427334l/9719125._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9719125-la-serenit</link>
+  <num_pages></num_pages>
+  <format>Paperback</format>
+  <edition_information>Saggezza</edition_information>
+  <publisher>Mondadori</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.87</average_rating>
+  <ratings_count>23</ratings_count>
+  <description>I brani sono tratti da De vita beata, De tranquillitate animi, Epistulae morales ad Lucilium e tradotti da Silvio Raffo.&lt;br /&gt;&lt;br /&gt;Una modernissima rappresentazione delle inquietudini dell'uomo contemporaneo, in un dialogo sorprendente che rivela un approccio psicanalitico ante litteram. "L'insostenibile leggerezza" del vivere, gli pseudobisogni che ci alienano, il sottile inappagamento di chi sperimenta continui cambiamenti ma non riesce a colmare il vuoto interiore. La riflessione, l'autoanalisi, la conoscenza di sé: è questa la via per raggiungere la serenità, come ci insegna il più grande filosofo della latinità.</description>
+<authors>
+<author>
+<id>4918776</id>
+<name>Seneca</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1323208629p5/4918776.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1323208629p2/4918776.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/4918776.Seneca]]></link>
+<average_rating>4.19</average_rating>
+<ratings_count>49123</ratings_count>
+<text_reviews_count>3091</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>47837492</id>
+  <uri>kca://work/amzn1.gr.work.v1.q6B6qM--MpfOF1GIZil3Fg</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Thu May 17 05:19:20 -0700 2018</started_at>
+  <read_at>Fri Jun 15 12:58:49 -0700 2018</read_at>
+  <date_added>Tue May 01 02:04:24 -0700 2018</date_added>
+  <date_updated>Fri Jun 15 12:58:49 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378337031]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378337031]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378336653</id>
+    <book>
+  <id type="integer">36315348</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.-o63XvFxRY7axoPCZQgXIQ</uri>
+  <title>Sognando la luna</title>
+  <title_without_series>Sognando la luna</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/36315348-sognando-la-luna</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Rizzoli</publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.81</average_rating>
+  <ratings_count>27446</ratings_count>
+  <description>È il 1989 quando Michael Chabon, pochi mesi dopo aver pubblicato il suo primo romanzo, &lt;i&gt;I misteri di Pittsburgh&lt;/i&gt;, raggiunge la casa della madre, a Oakland, per far visita al nonno gravemente malato. Reso loquace dai potenti antidolorifici, la memoria più nitida, affilata e urgente per l'imminenza della morte, in una settimana l'uomo dispiega davanti al giovane scrittore una storia rimasta sepolta, quasi dimenticata per una vita intera, un fiume alimentato da una molteplicità di affluenti, di voci spesso drammatiche, a volte beffarde, travolgenti per il nipote come per il lettore di oggi. È questa la mappa su cui si compone &lt;i&gt;Sognando la luna&lt;/i&gt;, la confessione finale di un uomo a cui il narratore si riferisce sempre e solo come «mio nonno». È un racconto che parla di follia, di guerra e di avventura; che affronta il sesso, il matrimonio, il desiderio; che partendo dal modellismo aerospaziale osserva e descrive l'America di metà Novecento, le aspirazioni tecnologiche e i progressi di una nazione. Eppure, sopra ogni altra cosa, è il ritratto dell'amore passionale e impossibile tra il nonno dell'autore e sua moglie, un'enigmatica donna francese arrivata negli Stati Uniti, profondamente segnata, dopo la guerra. Insieme, a muovere queste pagine è l'impatto distruttivo - eppure così potenzialmente creativo - dei segreti e delle menzogne. &lt;i&gt;Sognando la luna&lt;/i&gt; è un romanzo in forma di memoir, al tempo stesso una sorta di autobiografia immaginata, capace di descrivere un'epoca nel racconto di una sola vita, contraendo un'esistenza intera in un incontro di appena una settimana. Una bugia che ci porta la verità, in cui Chabon si offre toccante e creativo come mai prima d'ora.</description>
+<authors>
+<author>
+<id>2715</id>
+<name>Michael Chabon</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1515875672p5/2715.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1515875672p2/2715.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/2715.Michael_Chabon]]></link>
+<average_rating>3.89</average_rating>
+<ratings_count>428009</ratings_count>
+<text_reviews_count>37106</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>46817050</id>
+  <uri>kca://work/amzn1.gr.work.v1.Zd05_XNo3LRFokXoM7H25Q</uri>
+</work></book>
+
+
+  <rating>2</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Mon Mar 25 14:18:05 -0700 2019</started_at>
+  <read_at>Fri Apr 19 11:41:20 -0700 2019</read_at>
+  <date_added>Tue May 01 02:03:39 -0700 2018</date_added>
+  <date_updated>Fri Apr 19 11:41:20 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378336653]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378336653]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378336330</id>
+    <book>
+  <id type="integer">34860874</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">4</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.I5vQ1cTU7S0_em6_6jjc-g</uri>
+  <title>Eppure cadiamo felici</title>
+  <title_without_series>Eppure cadiamo felici</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/34860874-eppure-cadiamo-felici</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.15</average_rating>
+  <ratings_count>599</ratings_count>
+  <description>&lt;strong&gt;Non aver paura di ascoltare il rumore della felicità&lt;/strong&gt;&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;&lt;/strong&gt;L'esordio di professore che ha conquistato la rete e il cuore dei giovani. Un romanzo su quel momento in cui le emozioni non fanno più paura.&lt;br /&gt;&lt;br /&gt;&lt;em&gt;«Sai perché mi scrivo sul braccio tutti i giorni quelle parole, “la felicità è una cosa che cade”? Per ricordarmi sempre che la maggior parte della bellezza del mondo se ne sta lì, nascosta lì: nelle cose che cadono, nelle cose che nessuno nota, nelle cose che tutti buttano via.»&lt;/em&gt;&lt;br /&gt;&lt;br /&gt;Il suo nome esprime allegria, invece agli occhi degli altri Gioia non potrebbe essere più diversa. A diciassette anni, a scuola si sente come un’estranea per i suoi compagni. Perché lei non è come loro. Non le interessano le mode, l’appartenere a un gruppo, le feste. Ma ha una passione speciale che la rende felice: collezionare parole intraducibili di tutte le lingue del mondo, come cwtch, che in gallese indica non un semplice abbraccio, ma un abbraccio affettuoso che diventa un luogo sicuro. Gioia non ne hai mai parlato con nessuno. Nessuno potrebbe capire. &lt;br /&gt;Fino a quando una notte, in fuga dall’ennesima lite dei genitori, incontra un ragazzo che dice di chiamarsi Lo. Nascosto dal cappuccio della felpa, gioca da solo a freccette in un bar chiuso. A mano a mano che i due chiacchierano, Gioia, per la prima volta, sente che qualcuno è in grado di comprendere il suo mondo. Per la prima volta non è sola. E quando i loro incontri diventano più attesi e intensi, l’amore scoppia senza preavviso. Senza che Gioia abbia il tempo di dare un nome a quella strana sensazione che prova.&lt;br /&gt;Ma la felicità a volte può durare un solo attimo. Lo scompare, e Gioia non sa dove cercarlo. Perché Lo nasconde un segreto. Un segreto che solamente lei può scoprire. Solamente Gioia può capire gli indizi che lui ha lasciato. E per seguirli deve imparare che il verbo amare è una parola che racchiude mille e mille significati diversi.&lt;br /&gt;&lt;br /&gt;Ci sono storie capaci di toccare le emozioni più profonde:&lt;em&gt; Eppure cadiamo felici&lt;/em&gt; è una di quelle. &lt;strong&gt;Enrico Galiano insegna lettere ed è stato nominato nella lista dei migliori cento professori d’Italia. I giovani lo adorano perché è in grado di dare loro una voce.&lt;/strong&gt; Grazie al suo modo non convenzionale di insegnare, in breve tempo è diventato anche un vero fenomeno della rete: ogni giorno i suoi post su Facebook e i suoi video raggiungono milioni di visualizzazioni. &lt;strong&gt;Un romanzo su quel momento in cui il mondo ti sembra un nemico, ma basta appoggiare la testa su una spalla pronta a sorreggere, perché le emozioni non facciano più paura.&lt;/strong&gt;</description>
+<authors>
+<author>
+<id>14213393</id>
+<name>Enrico Galiano</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14213393.Enrico_Galiano]]></link>
+<average_rating>4.13</average_rating>
+<ratings_count>946</ratings_count>
+<text_reviews_count>192</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>56079308</id>
+  <uri>kca://work/amzn1.gr.work.v1.oPsDzzKZLZYavDZNVjKNfA</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Tue May 01 02:02:53 -0700 2018</started_at>
+  <read_at>Fri May 11 14:21:02 -0700 2018</read_at>
+  <date_added>Tue May 01 02:02:53 -0700 2018</date_added>
+  <date_updated>Sun May 13 07:58:05 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378336330]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378336330]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378336105</id>
+    <book>
+  <id type="integer">35857254</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">25</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.eW71MziCfEDOQjf6xmHskA</uri>
+  <title>What Does This Button Do?: The No.1 Sunday Times Bestselling Autobiography</title>
+  <title_without_series>What Does This Button Do?: The No.1 Sunday Times Bestselling Autobiography</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/35857254-what-does-this-button-do</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>4.03</average_rating>
+  <ratings_count>3603</ratings_count>
+  <description>&lt;p&gt;The first print run of the UK hardback edition will have black sprayed edges. In order to guarantee your copy, pre-order before the 19th October.&lt;/p&gt;&lt;p&gt;A long-awaited memoir from the larger-than-life, multifaceted lead vocalist of Iron Maiden, one of the most successful, influential and enduring rock bands ever.&lt;/p&gt;&lt;p&gt;Pioneers of Britain’s nascent Rock &amp;amp; Metal scene back in the late 1970s, Iron Maiden smashed its way to the top, thanks in no small part to the high-octane performances, operatic singing style, and stage presence of its second, but twice-longest-serving, lead singer, Bruce Dickinson. As Iron Maiden’s front man – first from 1981 to 1993, and then from 1999 to the present – Dickinson has been, and remains, a man of legend.&lt;/p&gt;&lt;p&gt;But OTT front man is just one of the many hats Bruce wears. In addition to being one of the world’s most storied and well-respected singers and songwriters, he is an airline captain, aviation entrepreneur, motivational speaker, beer brewer, novelist, radio presenter, and film scriptwriter. He has also competed as a world-class level fencer. Often credited as a genuine polymath Bruce, in his own words (and handwritten script in the first instance!), sets forth many personal observations guaranteed to inspire curious souls and hard-core fans alike.&lt;/p&gt;&lt;p&gt;Dickinson turns his unbridled creativity, passion, and anarchic humour to reveal some fascinating stories from his life, including his thirty years with Maiden, his solo career, his childhood within the eccentric British school system, his early bands, fatherhood and family, and his recent battle with cancer.&lt;/p&gt;&lt;p&gt;Bold, honest, intelligent and very funny, WHAT DOES THIS BUTTON DO? is an up-close look inside the life, heart, and mind of one of the most unique and interesting men in the world; a true icon of rock.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>474010</id>
+<name>Bruce Dickinson</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1219943505p5/474010.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1219943505p2/474010.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/474010.Bruce_Dickinson]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>3835</ratings_count>
+<text_reviews_count>556</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>55105539</id>
+  <uri>kca://work/amzn1.gr.work.v1.D79ezzqYAaKr9S-XGBXJDg</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 01 02:02:22 -0700 2018</date_added>
+  <date_updated>Mon Apr 22 12:31:53 -0700 2019</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378336105]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378336105]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2378335507</id>
+    <book>
+  <id type="integer">26586615</id>
+  <isbn>1465287590</isbn>
+  <isbn13>9781465287595</isbn13>
+  <text_reviews_count type="integer">0</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.ABMyCbN3DayWz5wS_KPw2w</uri>
+  <title>Project Management Using Microsoft Project 2013</title>
+  <title_without_series>Project Management Using Microsoft Project 2013</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459724984l/26586615._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1459724984l/26586615._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/26586615-project-management-using-microsoft-project-2013</link>
+  <num_pages></num_pages>
+  <format>Unknown Binding</format>
+  <edition_information/>
+  <publisher>Kendall/Hunt Publishing Company</publisher>
+  <publication_day>1</publication_day>
+  <publication_year>1753</publication_year>
+  <publication_month>1</publication_month>
+  <average_rating>4.00</average_rating>
+  <ratings_count>1</ratings_count>
+  <description></description>
+<authors>
+<author>
+<id>14355812</id>
+<name>Augustus Cicala</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/14355812.Augustus_Cicala]]></link>
+<average_rating>4.00</average_rating>
+<ratings_count>1</ratings_count>
+<text_reviews_count>0</text_reviews_count>
+</author>
+</authors>
+  <published>1753</published>
+<work>  <id>46608603</id>
+  <uri>kca://work/amzn1.gr.work.v1.68b21T757l_XfQ2bg7OcAw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Tue May 01 02:01:05 -0700 2018</date_added>
+  <date_updated>Tue May 01 02:23:33 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378335507]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378335507]]></link>
+    <owned>0</owned>
+</review>
+
+    <review>
+  <id>2378335138</id>
+    <book>
+  <id type="integer">13141884</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.zAtXuO0gyX16TBhZLWHEeg</uri>
+  <title>Angeli e demoni (Robert Langdon, #1)</title>
+  <title_without_series>Angeli e demoni</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/13141884-angeli-e-demoni</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher>Mondadori</publisher>
+  <publication_day/>
+  <publication_year>2010</publication_year>
+  <publication_month/>
+  <average_rating>3.89</average_rating>
+  <ratings_count>2444526</ratings_count>
+  <description>An ancient secret brotherhood.&lt;br /&gt;A devastating new weapon of destruction.&lt;br /&gt;An unthinkable target... &lt;br /&gt;&lt;br /&gt;When world-renowned Harvard symbologist Robert Langdon is summoned to a Swiss research facility to analyze a mysterious symbol -- seared into the chest of a murdered physicist -- he discovers evidence of the unimaginable: the resurgence of an ancient secret brotherhood known as the Illuminati... the most powerful underground organization ever to walk the earth. The Illuminati has surfaced from the shadows to carry out the final phase of its legendary vendetta against its most hated enemy... the Catholic Church. &lt;br /&gt;&lt;br /&gt;Langdon's worst fears are confirmed on the eve of the Vatican's holy conclave, when a messenger of the Illuminati announces he has hidden an unstoppable time bomb at the very heart of Vatican City. With the countdown under way, Langdon jets to Rome to join forces with Vittoria Vetra, a beautiful and mysterious Italian scientist, to assist the Vatican in a desperate bid for survival. &lt;br /&gt;&lt;br /&gt;Embarking on a frantic hunt through sealed crypts, dangerous catacombs, deserted cathedrals, and even to the heart of the most secretive vault on earth, Langdon and Vetra follow a 400-year old trail of ancient symbols that snakes across Rome toward the long-forgotten Illuminati lair... a secret location that contains the only hope for Vatican salvation. &lt;br /&gt;&lt;br /&gt;An explosive international thriller, Angels &amp;amp; Demons careens from enlightening epiphanies to dark truths as the battle between science and religion turns to war.</description>
+<authors>
+<author>
+<id>630</id>
+<name>Dan Brown</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p5/630.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1399396714p2/630.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/630.Dan_Brown]]></link>
+<average_rating>3.82</average_rating>
+<ratings_count>6441202</ratings_count>
+<text_reviews_count>175005</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>3338963</id>
+  <uri>kca://work/amzn1.gr.work.v1.ocYeIPzLq_R9remL5iwsQw</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sat May 19 11:39:02 -0700 2018</started_at>
+  <read_at>Tue Jun 05 23:34:17 -0700 2018</read_at>
+  <date_added>Tue May 01 02:00:12 -0700 2018</date_added>
+  <date_updated>Tue Jun 05 23:34:33 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2378335138]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2378335138]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2376675562</id>
+    <book>
+  <id type="integer">29411219</id>
+  <isbn>8850235798</isbn>
+  <isbn13>9788850235797</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.AAQGbxRc4e3KGpwWbHqLow</uri>
+  <title>L'eredità di Dio</title>
+  <title_without_series>L'eredità di Dio</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457031604l/29411219._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457031604l/29411219._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/29411219-l-eredit-di-dio</link>
+  <num_pages>478</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>TEA</publisher>
+  <publication_day>17</publication_day>
+  <publication_year>2014</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>4.23</average_rating>
+  <ratings_count>18834</ratings_count>
+  <description>Lo insegue da ore. Per trovarlo, il comandante Grayson Pierce ha girato a lungo fra i tortuosi vicoli della città. E adesso deve convincerlo a collaborare. Perché Tucker Wayne è un ex ranger specializzato in operazioni di salvataggio, e il presidente degli Stati Uniti ha un disperato bisogno d'aiuto: sua figlia Amanda è stata rapita. E non da criminali qualsiasi, bensì dalla Gilda, un'organizzazione sulle tracce di un segreto custodito da novecento anni. Un segreto di cui Amanda è depositaria...</description>
+<authors>
+<author>
+<id>38809</id>
+<name>James Rollins</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1569545072p5/38809.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1569545072p2/38809.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/38809.James_Rollins]]></link>
+<average_rating>4.08</average_rating>
+<ratings_count>507562</ratings_count>
+<text_reviews_count>25996</text_reviews_count>
+</author>
+</authors>
+  <published>2014</published>
+<work>  <id>18470260</id>
+  <uri>kca://work/amzn1.gr.work.v1.mzJVqAoUcGCvMA14d1DrGA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Apr 29 12:09:13 -0700 2018</date_added>
+  <date_updated>Sun May 13 08:33:40 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2376675562]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2376675562]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2376674063</id>
+    <book>
+  <id type="integer">9700587</id>
+  <isbn>8804589655</isbn>
+  <isbn13>9788804589655</isbn13>
+  <text_reviews_count type="integer">48</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.-yMgjM4AjZMNnMSrvDexGw</uri>
+  <title>La solitudine dei numeri primi</title>
+  <title_without_series>La solitudine dei numeri primi</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327267745l/9700587._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327267745l/9700587._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/9700587-la-solitudine-dei-numeri-primi</link>
+  <num_pages>304</num_pages>
+  <format>Paperback</format>
+  <edition_information/>
+  <publisher>Mondadori</publisher>
+  <publication_day>29</publication_day>
+  <publication_year>2010</publication_year>
+  <publication_month>7</publication_month>
+  <average_rating>3.60</average_rating>
+  <ratings_count>44179</ratings_count>
+  <description>Alice è una bambina obbligata dal padre a frequentare la scuola di sci. È una mattina di nebbia fitta, lei non ha voglia, il latte della colazione le pesa sullo stomaco. Persa nella nebbia, staccata dai compagni, se la fa addosso. Umiliata, cerca di scendere, ma finisce fuori pista spezzandosi una gamba. Resta sola, incapace di muoversi, al fondo di un canale innevato, a domandarsi se i lupi ci sono anche in inverno. Mattia è un bambino molto intelligente, ma ha una gemella, Michela, ritardata. La presenza di Michela umilia Mattia di fronte ai suoi coetanei e per questo, la prima volta che un compagno di classe li invita entrambi alla sua festa, Mattia abbandona Michela nel parco, con la promessa che tornerà presto da lei. Questi due episodi iniziali, con le loro conseguenze irreversibili, saranno il marchio impresso a fuoco nelle vite di Alice e Mattia, adolescenti, giovani e infine adulti. Le loro esistenze si incroceranno, e si scopriranno strettamente uniti, eppure invincibilmente divisi. Come quei numeri speciali, che i matematici chiamano "primi gemelli": due numeri primi vicini ma mai abbastanza per toccarsi davvero. Un romanzo d'esordio che alterna momenti di durezza e spietata tensione a scene rarefatte e di trattenuta emozione, di sconsolata tenerezza e di tenace speranza.</description>
+<authors>
+<author>
+<id>493232</id>
+<name>Paolo Giordano</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1263211421p5/493232.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1263211421p2/493232.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/493232.Paolo_Giordano]]></link>
+<average_rating>3.59</average_rating>
+<ratings_count>52596</ratings_count>
+<text_reviews_count>4928</text_reviews_count>
+</author>
+</authors>
+  <published>2010</published>
+<work>  <id>3873004</id>
+  <uri>kca://work/amzn1.gr.work.v1.8ABz-91kNyTkwkKbgzfBQA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Apr 29 12:07:34 -0700 2018</date_added>
+  <date_updated>Sun May 13 08:34:23 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2376674063]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2376674063]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2376671482</id>
+    <book>
+  <id type="integer">18465847</id>
+  <isbn>8811682495</isbn>
+  <isbn13>9788811682493</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.Cj_QSY6iDihTgXjQlWvqTw</uri>
+  <title>Ogni istante di me e di te</title>
+  <title_without_series>Ogni istante di me e di te</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378643966l/18465847._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378643966l/18465847._SY75_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/18465847-ogni-istante-di-me-e-di-te</link>
+  <num_pages>256</num_pages>
+  <format>Paperback</format>
+  <edition_information>Gli Elefanti bestseller</edition_information>
+  <publisher>Garzanti</publisher>
+  <publication_day>5</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>9</publication_month>
+  <average_rating>3.78</average_rating>
+  <ratings_count>1994</ratings_count>
+  <description>Normandia, 1918. Léon e Louise amano pedalare controvento verso l'oceano. Lì, di fronte alla vastità dell'orizzonte, tutto è possibile. È possibile amarsi, con la spensieratezza e l'intensità dei loro sedici anni. È possibile immaginare un futuro insieme, lontano dalla guerra, dalla morte. E sancire la loro unione con un giuramento: «Ora e per sempre». Ma per quanto si illudano di tenerla lontana, la guerra è fin troppo vicina a loro. Sulla strada del ritorno un bomba li divide. Léon crede morta la ragazza e anche Louise lo crede di lui. Eppure l'eco di quel giuramento fatto tra le onde è destinata a durare ancora a lungo. &lt;br /&gt;Dieci anni dopo, a Parigi, Léon si è rifatto una vita. Ma una sera tutto cambia: il metrò è affollato eppure, nell'istante in cui due treni si sfiorano, Léon la vede, in piedi vicino alla porta. Le loro esistenze hanno ormai preso direzioni diverse: lui ha moglie e famiglia, e lei ha scelto di stare da sola, fiera della propria indipendenza. Ma non importa. Anche se il futuro è pronto a dividerli di nuovo, ci sarà sempre un momento, un giorno, un istante in cui si rincontreranno. Perché quel giuramento non ha mai smesso di vivere. Ed è destinato a durare per sempre.</description>
+<authors>
+<author>
+<id>752662</id>
+<name>Alex Capus</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1290678391p5/752662.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1290678391p2/752662.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/752662.Alex_Capus]]></link>
+<average_rating>3.75</average_rating>
+<ratings_count>4202</ratings_count>
+<text_reviews_count>450</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>15089371</id>
+  <uri>kca://work/amzn1.gr.work.v1._ApA56dqQGzlUuUzt25oOw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Apr 29 12:04:44 -0700 2018</date_added>
+  <date_updated>Sun May 13 08:34:40 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2376671482]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2376671482]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2376671118</id>
+    <book>
+  <id type="integer">17905788</id>
+  <isbn>8850232365</isbn>
+  <isbn13>9788850232369</isbn13>
+  <text_reviews_count type="integer">1</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.7UkZG1S9tYaczUqz4VEMfw</uri>
+  <title>Mo te lo spiego a papà</title>
+  <title_without_series>Mo te lo spiego a papà</title_without_series>
+  <image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415829512l/17905788._SX98_.jpg</image_url>
+  <small_image_url>https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415829512l/17905788._SX50_.jpg</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/17905788-mo-te-lo-spiego-a-pap</link>
+  <num_pages>224</num_pages>
+  <format>ebook</format>
+  <edition_information>Varia</edition_information>
+  <publisher>TEA</publisher>
+  <publication_day>14</publication_day>
+  <publication_year>2013</publication_year>
+  <publication_month>3</publication_month>
+  <average_rating>2.88</average_rating>
+  <ratings_count>8</ratings_count>
+  <description>Francesco di mestiere fa l'educatore, e di esperienza con bambini e ragazzi ne ha tanta, ma quando diventa papà di DA1 (il primogenito) e DA2 (il secondogenito, a soli sedici mesi di distanza) scopre che essere genitore è un lavoro completamente diverso: meraviglioso, sfiancante, entusiasmante, e soprattutto a tempo pieno e orario continuato. Come tutti i cuccioli d'uomo, DA1 e DA2 sono vivacissimi e curiosi e bombardano i genitori di domande complesse, stravaganti, ridicole o profondissime su ogni argomento possibile. Mamma Stefania ha trovato una soluzione geniale: «Andate da papà, che ve lo spiega lui». E a Francesco non resta che armarsi di tanta pazienza – e di una sana dose di ironia – e prepararsi a rispondere. Dopo i racconti di tante mamme, finalmente arriva una voce maschile a esporre la «versione del papà», rivelandoci che anche i padri amano in modo viscerale e «materno», e vivono intensamente tutte le emozioni e la complessità del diventare genitori. Senza nascondere i pensieri negativi, o i momenti di paura e debolezza, ma senza mai dimenticare l'inconfondibile sense of humour napoletano, questo libro tenero e divertente ci catapulta nella vita quotidiana di una famiglia di oggi, in cui tante mamme e tanti papà non faranno fatica a riconoscersi. E magari troveranno qualche spunto per rispondere con il sorriso sulle labbra alle domande impossibili dei propri figli.</description>
+<authors>
+<author>
+<id>7084504</id>
+<name>Francesco Uccello</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/u_50x66-632230dc9882b4352d753eedf9396530.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/7084504.Francesco_Uccello]]></link>
+<average_rating>2.88</average_rating>
+<ratings_count>8</ratings_count>
+<text_reviews_count>1</text_reviews_count>
+</author>
+</authors>
+  <published>2013</published>
+<work>  <id>25086594</id>
+  <uri>kca://work/amzn1.gr.work.v1.hx_Zo0pfo8EdmCGB7nQpHw</uri>
+</work></book>
+
+
+  <rating>4</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Apr 29 12:04:22 -0700 2018</started_at>
+  <read_at>Thu May 17 12:04:51 -0700 2018</read_at>
+  <date_added>Sun Apr 29 12:04:22 -0700 2018</date_added>
+  <date_updated>Thu May 17 12:04:51 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2376671118]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2376671118]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2376669434</id>
+    <book>
+  <id type="integer">19041385</id>
+  <isbn nil="true"/>
+  <isbn13>9780007324132</isbn13>
+  <text_reviews_count type="integer">3</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.sI6SzDQtgbUiA_jMNKPTcg</uri>
+  <title>Mustaine: A Life in Metal</title>
+  <title_without_series>Mustaine: A Life in Metal</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/19041385-mustaine</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.89</average_rating>
+  <ratings_count>5684</ratings_count>
+  <description>&lt;p&gt;Former Metallica guitarist and founding member of Megadeth Dave Mustaine talks for the first time about his life in rock ‘n’ roll, finally telling the inside story of two of the most influential heavy metal bands in the world.&lt;/p&gt;&lt;p&gt;Here, for the first time ever, Dave Mustaine tells the tale of two of the biggest metal bands in history; a story yet to be told from the inside. A pioneer of the thrash metal movement, Metallica rose to international fame in the 1980s, selling over 90 million records worldwide, making them the most successful thrash metal band ever. And Megadeth - the second most successful thrash metal band ever - have sold more than 20 million albums worldwide, including six consecutive platinum albums.&lt;/p&gt;&lt;p&gt;But despite their enormous success together, Dave and Metallica have had some bad blood. In April of 1983, partly due to alcoholism and partly due to personality clashes with founding members Hetfield and Ulrich, he was fired from the band and unceremoniously dropped off at a Greyhound station in Rochester, NY with a ticket back to LA. Now he will finally tell his side of the story.&lt;/p&gt;&lt;p&gt;From the early, crazy days of Metallica, to his split with the band to ruling over Megadeth, Dave has seen and experienced it all. And now he's telling it all in his startlingly candid, in-your-face memoir.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>3234254</id>
+<name>Dave Mustaine</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1483241545p5/3234254.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1483241545p2/3234254.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/3234254.Dave_Mustaine]]></link>
+<average_rating>3.90</average_rating>
+<ratings_count>5789</ratings_count>
+<text_reviews_count>369</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>8944945</id>
+  <uri>kca://work/amzn1.gr.work.v1.3Cb1PDTk1tsj4hgInSVsmg</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at></started_at>
+  <read_at></read_at>
+  <date_added>Sun Apr 29 12:02:35 -0700 2018</date_added>
+  <date_updated>Sun May 13 08:35:03 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2376669434]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2376669434]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2376668242</id>
+    <book>
+  <id type="integer">32179238</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">45</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.TcBZaBtYHrUBMJ49SU-G-w</uri>
+  <title>Last of the Giants: The True Story of Guns N' Roses</title>
+  <title_without_series>Last of the Giants: The True Story of Guns N' Roses</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/32179238-last-of-the-giants</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information/>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.96</average_rating>
+  <ratings_count>468</ratings_count>
+  <description>&lt;p&gt;Many millions of words have already been written about Guns N' Roses, the old line-up, the new line-up. But none of them have ever really gotten to the truth. Which is this: Guns N' Roses has always been a band out of time, the Last of the Giants. They are what every rock band since the Rolling Stones has tried and nearly always failed to be: dangerous. At a time when smiling, MTV-friendly, safe-sex, just-say-no Bon Jovi was the biggest band in the world, here was a band that seemed to have leapt straight out of the coke-smothered pages of the original, golden-age, late-sixties rock scene.&lt;/p&gt;&lt;p&gt;'Live like a suicide', the band used to say when they all lived together in the Hell House, their notorious LA home. And this is where Mick Wall first met them, and became part of their inner circle, before famously being denounced by name by Axl Rose in the song 'Get in the Ring'.&lt;/p&gt;&lt;p&gt;But this book isn't about settling old scores. Written with the clear head that 25 years later brings you, this is a celebration of Guns N' Roses the band, and of Axl Rose the frontman who really is that thing we so desperately want him to be: the last of the truly extraordinary, all-time great, no apologies, no explanations, no giving-a-shit rock stars. The last of his kind.&lt;/p&gt;</description>
+<authors>
+<author>
+<id>56630</id>
+<name>Mick Wall</name>
+<role></role>
+<image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png]]>
+</image_url>
+<small_image_url nophoto='true'>
+<![CDATA[https://s.gr-assets.com/assets/nophoto/user/m_50x66-82093808bca726cb3249a493fbd3bd0f.png]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/56630.Mick_Wall]]></link>
+<average_rating>3.84</average_rating>
+<ratings_count>9204</ratings_count>
+<text_reviews_count>811</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>52816501</id>
+  <uri>kca://work/amzn1.gr.work.v1.9UJMLZZtWCSu6AqhRx3xIA</uri>
+</work></book>
+
+
+  <rating>5</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Apr 29 12:01:20 -0700 2018</started_at>
+  <read_at>Tue May 01 02:23:49 -0700 2018</read_at>
+  <date_added>Sun Apr 29 12:01:19 -0700 2018</date_added>
+  <date_updated>Tue May 01 02:23:49 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2376668242]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2376668242]]></link>
+    <owned>1</owned>
+</review>
+
+    <review>
+  <id>2376667928</id>
+    <book>
+  <id type="integer">21303792</id>
+  <isbn nil="true"/>
+  <isbn13 nil="true"/>
+  <text_reviews_count type="integer">2</text_reviews_count>
+  <uri>kca://book/amzn1.gr.book.v1.c2GQbLMKCrMWEh9LH-1dJw</uri>
+  <title>Beauty and Sadness</title>
+  <title_without_series>Beauty and Sadness</title_without_series>
+  <image_url>https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png</image_url>
+  <small_image_url>https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png</small_image_url>
+  <large_image_url/>
+  <link>https://www.goodreads.com/book/show/21303792-beauty-and-sadness</link>
+  <num_pages></num_pages>
+  <format></format>
+  <edition_information>Penguin Modern Classics</edition_information>
+  <publisher></publisher>
+  <publication_day></publication_day>
+  <publication_year></publication_year>
+  <publication_month></publication_month>
+  <average_rating>3.85</average_rating>
+  <ratings_count>7185</ratings_count>
+  <description>The successful writer Oki has reached middle age and is filled with regrets. He returns to Kyoto to find Otoko, a young woman with whom he had a terrible affair many years before, and discovers that she is now a painter, living with a younger woman as her lover. Otoko has continued to love Oki and has never forgotten him, but his return unsettles not only her but also her young lover. This is a work of strange beauty, with a tender touch of nostalgia and a heartbreaking sensitivity to those things lost forever.</description>
+<authors>
+<author>
+<id>8550</id>
+<name>Yasunari Kawabata</name>
+<role></role>
+<image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1235793826p5/8550.jpg]]>
+</image_url>
+<small_image_url nophoto='false'>
+<![CDATA[https://images.gr-assets.com/authors/1235793826p2/8550.jpg]]>
+</small_image_url>
+<link><![CDATA[https://www.goodreads.com/author/show/8550.Yasunari_Kawabata]]></link>
+<average_rating>3.76</average_rating>
+<ratings_count>64371</ratings_count>
+<text_reviews_count>5948</text_reviews_count>
+</author>
+</authors>
+  <published></published>
+<work>  <id>1414440</id>
+  <uri>kca://work/amzn1.gr.work.v1.B_nTxBhbQuSIzXRfX3Hbqw</uri>
+</work></book>
+
+
+  <rating>3</rating>
+  <votes>0</votes>
+  <spoiler_flag>false</spoiler_flag>
+  <spoilers_state>none</spoilers_state>
+  
+
+<shelves>
+    <shelf name="read" exclusive="true" id="265150310" review_shelf_id= ""/>
+
+</shelves>
+
+  <recommended_for></recommended_for>
+  <recommended_by></recommended_by>
+  <started_at>Sun Apr 29 12:01:00 -0700 2018</started_at>
+  <read_at>Thu May 03 12:13:25 -0700 2018</read_at>
+  <date_added>Sun Apr 29 12:00:59 -0700 2018</date_added>
+  <date_updated>Sun May 13 08:35:23 -0700 2018</date_updated>
+  <read_count>1</read_count>
+  <body>
+  </body>
+
+  
+
+  <comments_count>0</comments_count>
+    <url><![CDATA[https://www.goodreads.com/review/show/2376667928]]></url>
+  <link><![CDATA[https://www.goodreads.com/review/show/2376667928]]></link>
+    <owned>1</owned>
+</review>
+
+</reviews>
+
+</GoodreadsResponse>
