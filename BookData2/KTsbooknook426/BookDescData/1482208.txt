@@ -1,1 +1,0 @@
-This book covers all the essential topics on differential equations, including series solutions, Laplace transforms, systems of equations, numerical methods and phase plane methods. Clear explanations are detailed with many current examples.

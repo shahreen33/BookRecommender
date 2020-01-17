@@ -29,8 +29,11 @@ def get_CP(AC, bookId):
 	nowBook = str(os.getcwd())+'/BookData/BookProfiles/BookProfile_Book'+bookId+'.txt'
 	with open(nowBook, "rb") as fp:
 		X = pickle.load(fp)
+	total_users = 0
 	for member in AC:
 		rp =  str(os.getcwd())+'/UserData/BookRatingData/'+member+'/BookRatingData.txt'
+		if(os.path.isfile(rp)==False):
+			continue
 		rd = get_readbooks(rp)
 		books = rd[0]
 		rt = rd[1]
@@ -49,8 +52,9 @@ def get_CP(AC, bookId):
 					maxi = result
 					maxir = int(rt[i])
 		CP += (maxi * maxir)
+		total_users += 1
 	
-	CP1 = CP/len(AC)
+	CP1 = CP/total_users
 	return CP1	
 				
 		
@@ -68,13 +72,13 @@ for i in range(NUM_CLUSTERS):
 
 
 
-twitterAccounts = str(os.getcwd())+'/'+ "UserAccounts2.txt"
+twitterAccounts = str(os.getcwd())+'/'+ "TrainUserAccounts.txt"
 account_list = []
 
 
-fname1 = str(os.getcwd())+'/'+ "dataset1.txt"
-fname2 = str(os.getcwd())+'/' +'dataset2.txt'
-dataset1 = open(fname1, 'a+')
+#fname1 = str(os.getcwd())+'/'+ "traindataset_withGR.txt"
+fname2 = str(os.getcwd())+'/' +'traindataset_withoutGR.txt'
+#dataset1 = open(fname1, 'a+')
 dataset2 = open(fname2, 'a+')
 
 
@@ -82,8 +86,13 @@ debug = open("debug.txt", 'a+')
 zero = [0] * 300
 count = 0
 countratings = [0,0,0,0,0]
+clNum = 0
+'''
 for cluster in clusters_withGR:
-
+	print("Inside new cluster", clNum)
+	clNum += 1
+	if(clNum <= 4): 
+		continue
 	account_list = []
 	with open(cluster) as fp:
 		line = fp.readline().strip()
@@ -98,11 +107,19 @@ for cluster in clusters_withGR:
 			account_list.append(temp[0])
 			cnt += 1
 	print(len(account_list))
+	acNum = 0
 	for account in account_list:
+		print("Working with new account:", acNum)
+		acNum += 1
 		twpath = str(os.getcwd())+'/UserData/UserProfiles_withGR/'+account+'.txt'
 		ratingpath =  str(os.getcwd())+'/UserData/BookRatingData/'+account+'/BookRatingData.txt'
+		if(os.path.isfile(ratingpath)==False):
+			continue
 		(readbooks,ratings) = get_readbooks(ratingpath)
+		bookNum = 0
 		for i in range(len(readbooks)):
+			print("Working with new BOOK:", bookNum)
+			
 			curbpath = str(os.getcwd())+'/BookData/BookProfiles/BookProfile_Book'+readbooks[i]+'.txt'
 			if(os.path.isfile(curbpath)== False or ratings[i]=='0'):
 				continue
@@ -116,9 +133,13 @@ for cluster in clusters_withGR:
 			
 			countratings[int(ratings[i])-1] +=1
 			count = count+1	
-			dataset1.write(str(result)+" "+str(CP)+" "+ratings[i]+'\n')	
+			dataset1.write(str(result)+" "+str(CP)+" "+ratings[i]+'\n')
+			bookNum += 1
+			if(bookNum >= 15):
+				break
 print("In with GR: ")
 print(countratings)	
+'''
 countratings = [0,0,0,0,0]
 for cluster in clusters_withoutGR:
 	account_list = []
@@ -138,9 +159,12 @@ for cluster in clusters_withoutGR:
 		#print(account)
 		twpath = str(os.getcwd())+'/UserData/UserProfiles_withoutGR/'+account+'.txt'
 		ratingpath =  str(os.getcwd())+'/UserData/BookRatingData/'+account+'/BookRatingData.txt'
+		if(os.path.isfile(ratingpath)==False):
+			continue
 		reviewdata = get_readbooks(ratingpath)
 		readbooks = reviewdata[0]
 		ratings = reviewdata[1]
+		bookNum = 0
 		for i in range(len(readbooks)):
 			curbpath = str(os.getcwd())+'/BookData/BookProfiles/BookProfile_Book'+readbooks[i]+'.txt'
 			if(os.path.isfile(curbpath)== False or ratings[i]=='0'):
@@ -155,7 +179,10 @@ for cluster in clusters_withoutGR:
 		
 			countratings[int(ratings[i])-1] +=1
 			count = count+1	
-			dataset2.write(str(result)+" "+str(CP)+" "+ratings[i]+'\n')	
+			dataset2.write(str(result)+" "+str(CP)+" "+ratings[i]+'\n')
+			bookNum += 1
+			if(bookNum >= 15):
+				break
 
 print("In without GR: ")
 print(countratings)			

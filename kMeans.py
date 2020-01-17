@@ -4,7 +4,7 @@ import nltk
 import os
 import numpy as np
  
-fname = str(os.getcwd())+"/UserAccounts.txt"
+fname = str(os.getcwd())+"/TrainUserAccounts.txt"
 accountlist = []
 filelist_withGR = []
 filelist_withoutGR = []
@@ -47,11 +47,27 @@ for i in range(len(accountlist)):
 		X2 = np.append(X2,[UP_withoutGR], axis = 0)
 	
 
-print(X1) 
-NUM_CLUSTERS=10
+print(len(X1)) 
+NUM_CLUSTERS=5
 kclusterer = KMeansClusterer(NUM_CLUSTERS, distance=nltk.cluster.util.cosine_distance, repeats=25)
 assigned_clusters_withGR = kclusterer.cluster(X1, assign_clusters=True)
+cl_centroids = kclusterer.means()
+for i in range(NUM_CLUSTERS):
+	filename = str(os.getcwd())+"/Clusters/withGR/Cluster-"+str(i)+"-Centroid.txt"
+	fp = open(filename, 'wb')
+	pickle.dump(cl_centroids[i],fp)
+	print(cl_centroids[i])
+	print(i)
+
 assigned_clusters_withoutGR = kclusterer.cluster(X2, assign_clusters=True)
+cl_centroids = kclusterer.means()
+for i in range(NUM_CLUSTERS):
+	filename = str(os.getcwd())+"/Clusters/withoutGR/Cluster-"+str(i)+"-Centroid.txt"
+	fp = open(filename, 'wb')
+	pickle.dump(cl_centroids[i],fp)
+	print(cl_centroids[i])
+	print(i)
+
 clusters = [0,0,0,0,0,0,0,0,0,0]
 for i in range(len(assigned_clusters_withGR)):
 	filename = str(os.getcwd())+"/Clusters/withGR/Cluster-"+str(assigned_clusters_withGR[i])+".txt"

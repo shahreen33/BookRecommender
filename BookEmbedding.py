@@ -120,7 +120,7 @@ dataset1 = []
 #print(BookIds)
 ValidBookIds = []
 valid = 0
-rmvbooks = open(str(os.getcwd())+'Removed_Book_List.txt', 'a+')
+rmvbooks = open(str(os.getcwd())+'/Removed_Book_List.txt', 'a+')
 for filename in filelist:	
 	f = open(filename, 'r')
 	temp = f.read().strip()
@@ -161,7 +161,7 @@ print(maxi)
 print(mini)
 print(minix)
 print(N)
-word2vecModel = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True, limit = 10000)
+word2vecModel = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True)
 wordVectors = word2vecModel.wv
 dimension = word2vecModel.vector_size	
 zeroVector = [0] * dimension

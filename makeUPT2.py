@@ -207,7 +207,7 @@ for i in range(N):
 
     doc += 1
 
-word2vecModel = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True, limit = 10000)
+word2vecModel = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True)
 wordVectors = word2vecModel.wv
 dimension = word2vecModel.vector_size	
 zeroVector = [0] * dimension
@@ -215,7 +215,7 @@ topicVectors = []
 
 #print(tf_idf_list)
 tf_idf_sorted = []
-topicWord = 10
+topicWord = 100
 topic = []
 for i in range(N):
 	taken = 0

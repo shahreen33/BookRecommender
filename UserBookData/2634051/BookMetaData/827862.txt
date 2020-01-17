@@ -1,2 +1,0 @@
-Sinatra: The Life by Anthony Summers
-Average Rating: 3.81

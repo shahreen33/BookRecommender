@@ -161,8 +161,10 @@ for i in DF:
 	if DF[i] >1:
 		print(i)
 '''
+DFtxt = open(str(os.getcwd())+"/DF.txt", 'w')
+DFtxt.write(str(DF))
 total_vocab_size = len(DF)
-
+exit(0)
 #print(total_vocab_size)
 
 total_vocab = [x for x in DF]
@@ -191,7 +193,7 @@ for i in range(N):
 
     doc += 1
 
-word2vecModel = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True, limit = 10000)
+word2vecModel = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True)
 wordVectors = word2vecModel.wv
 dimension = word2vecModel.vector_size	
 zeroVector = [0] * dimension
@@ -199,7 +201,7 @@ topicVectors = []
 
 #print(tf_idf_list)
 tf_idf_sorted = []
-topicWord = 10
+topicWord = 100
 topic = []
 for i in range(N):
 	taken = 0

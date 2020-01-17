@@ -4,7 +4,7 @@ import os
 
 twId = []
 grId = []
-GRAccounts = str(os.getcwd())+'/'+ "UserAccounts.txt"
+GRAccounts = str(os.getcwd())+'/'+ "TestUserAccounts.txt"
 xmlsrc = str(os.getcwd())+"/UserRawData/RawGRData/"
 bookDB = str(os.getcwd())+'/BookData/BookDatabase.txt'
 

@@ -6,7 +6,7 @@ import numpy as np
 import os
 
 
-fname = str(os.getcwd())+'/'+ "dataset.txt"
+fname = str(os.getcwd())+'/'+ "traindataset_withGR_newV2.txt"
 with open(fname) as f:
     content = f.readlines()
 
@@ -27,7 +27,8 @@ for line in content:
 	ydata = [int(i) for i in ydata]
 	temp = [0]*5
 	temp[ydata[0]-1] = 1
-	if(count%3 == 0):
+	print(temp)
+	if(count%10 == 0):
 		test_listx.append(xdata)
 		test_listy.append(temp)
 	else:
@@ -38,20 +39,19 @@ for line in content:
 
 x = np.asarray(train_listx)
 y = np.asarray(train_listy)
-#x = x[:2700]
-#y = y[:2700]
-data = np.asarray(test_listx)
+valx = np.asarray(test_listx)
+valy = np.asarray(test_listy)
 
-#print(y)
+
 
 
 model = Sequential()
-model.add(Dense(20, input_dim=2, activation='sigmoid'))
+model.add(Dense(6, input_dim=2, activation='sigmoid'))
 model.add(Dense(5, activation = 'softmax'))
 
-sgd = optimizers.SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
+sgd = optimizers.SGD(lr=0.05, decay=1e-6, momentum=0.9, nesterov=True)
 
-model.compile(optimizer= sgd, loss='mse', metrics=['mse'])
+model.compile(optimizer= sgd, loss='categorical_crossentropy', metrics=['mse'])
 
 weights = model.layers[0].get_weights()
 w_init = weights[0][0][0]
@@ -59,7 +59,7 @@ b_init = weights[1][0]
 print('Linear regression model is initialized with weights w: %.2f, b: %.2f' % (w_init, b_init)) 
 
 
-model.fit(x,y, batch_size=1, epochs=5, shuffle=False)
+model.fit(x,y, batch_size=1, epochs=210,validation_data = (valx, valy), shuffle=False)
 
 weights = model.layers[0].get_weights()
 w_final = weights[0][0][0]
@@ -67,11 +67,11 @@ b_final = weights[1][0]
 print('Linear regression model is trained to have weight w: %.2f, b: %.2f' % (w_final, b_final))
 
 print(x.shape)
-print(data.shape)
-predict = model.predict(data)
-model.save("Initial run")
+#print(data.shape)
+#predict = model.predict(val)
+model.save("withGRlinks16kdata.h5")
 
-
+exit(0)
 accurate = 0
 closely_accurate = 0
 inaccurate = 0
